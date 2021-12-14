@@ -19,8 +19,7 @@ sections:
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: Page APage APage APage APage APage APage APage APage APage APage APage
-            APage APage APage A
+        - title: Page A
           description: Page A is important too
           url: /privacy/
   - infobar:
