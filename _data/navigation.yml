@@ -9,3 +9,18 @@ links:
         url: /OrganizersSecretariat
       - title: Sponsors
         url: /Sponsors
+  - title: ICCS 2022
+    url: /ICCS2022
+    sublinks:
+      - title: Programme, themes, speakers
+        url: /Programme
+      - title: Programme Synopses
+        url: /ProgrammeSynopses
+      - title: YLP
+        url: /ylp
+      - title: Exhibition
+        url: /exhibition
+      - title: Community Experience
+        url: /CommunityExperience
+      - title: Research series
+        url: /Researchseries
