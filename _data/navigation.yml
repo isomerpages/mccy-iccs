@@ -1,8 +1,11 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Page
-    url: /page/
-  - title: Collection
-    collection: collection
-  - title: Resource
-    resource_room: true
+  - title: About
+    url: /about
+    sublinks:
+      - title: ICCS
+        url: /ICCS
+      - title: Organizers, Secretariat
+        url: /OrganizersSecretariat
+      - title: Sponsors
+        url: /Sponsors
