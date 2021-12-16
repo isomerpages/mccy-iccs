@@ -24,3 +24,10 @@ links:
         url: /CommunityExperience
       - title: Research series
         url: /Researchseries
+  - title: Upcoming Events
+    url: /UpcomingEvents
+    sublinks:
+      - title: Webinars
+        url: /Webinars
+      - title: Workshop
+        url: /Workshop
