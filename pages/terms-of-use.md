@@ -4,7 +4,7 @@ permalink: /terms-of-use/
 ---
 TERMS OF USE
 
-Thank you for visiting the Website of the Ministry of Culture, Community and Youth (MCCY), Singapore. By accessing and using any part of this Website, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Website.
+Thank you for visiting the Website of the International Conference on Cohesive Societies (ICCS), Singapore. By accessing and using any part of this Website, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Website.
 
 GENERAL
 
