@@ -1,5 +1,5 @@
 ---
-title: about
-permalink: /about/
+title: ICCS
+permalink: /ICCS/
 ---
 Hello, Isomer! This is my very first edit!
