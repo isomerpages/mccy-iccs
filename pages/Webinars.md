@@ -1,5 +1,5 @@
 ---
-title: Upcoming Events
-permalink: /UpcomingEvents/
+title: Webinars
+permalink: /webinars/
 ---
 Hello, Isomer! This is my very first edit! 
