@@ -9,8 +9,8 @@ sections:
   - hero:
       title: Hero title
       subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
+      background: /images/ICCS%20background.jpg
+      button: Contact us
       url: /contact-us/
       key_highlights:
         - title: Highlight A
