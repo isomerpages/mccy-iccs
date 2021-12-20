@@ -52,3 +52,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://mccy-iccs-staging.netlify.app
 prod: https://mccy-iccs-prod.netlify.app
+is_government: false
