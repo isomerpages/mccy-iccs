@@ -5,10 +5,10 @@ permalink: /ICCS/
 Hello, Isomer! This is my very first edit!
 
 
-[alt text - we may include description here](/images/isomer-logo.svg)
+[We may include description here](/images/isomer-logo.svg)
 
-[just like links, you can include titles which appear when hovered](/images/isomer-logo.svg "Isomer Logo")
-
+![Alt text for image on Isomer site](/images/ICCS%20background.jpg)
+[Or footer here](/images/isomer-logo.svg "Isomer Logo")
 
 <div class="bp-youtube">
 
