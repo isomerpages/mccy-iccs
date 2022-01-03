@@ -1,7 +1,7 @@
 logo: /images/01-ICCS-Standard_CMYK.png
 links:
   - title: About
-    url: /
+    url: /About
     sublinks:
       - title: ICCS
         url: /ICCS
