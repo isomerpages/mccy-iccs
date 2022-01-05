@@ -53,3 +53,5 @@ links:
     url: /Media
   - title: Contact Us
     url: /ContactUs
+  - title: Menu Title
+    collection: past-events
