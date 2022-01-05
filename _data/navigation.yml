@@ -42,13 +42,6 @@ links:
         url: /Webinars
       - title: Workshop
         url: /Workshop
-  - title: Past Events
-    url: /PastEvents
-    sublinks:
-      - title: ICCS 2019
-        url: /ICCS2019
-      - title: MissionUnite
-        url: /MissionUnite
   - title: Media
     url: /Media
   - title: Contact Us
