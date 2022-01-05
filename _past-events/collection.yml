@@ -1,4 +1,5 @@
 collections:
   past-events:
     output: true
-    order: []
+    order:
+      - ICCS 2019/.keep
