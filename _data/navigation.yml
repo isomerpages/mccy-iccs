@@ -24,13 +24,17 @@ links:
         url: /ResearchStream
       - title: Exhibition
         url: /Exhibition
-  - title: Upcoming Events
-    url: /UpcomingEvents
+  - title: "ICCS 2022 Attendees Guide "
+    url: "/ICCS2022AttendeesGuide "
     sublinks:
-      - title: Webinars
-        url: /Webinars
-      - title: Workshop
-        url: /Workshop
+      - title: Registration Portal
+        url: /RegistrationPortal
+      - title: Venue & Travel Advisory
+        url: /VenueTravel Advisory
+      - title: Code of Conduct
+        url: /CodeofConduct
+      - title: FAQs
+        url: /faqs
   - title: ICCS 2022 Attendees' Info
     url: /ICCS2022AttendeesInfo
     sublinks:
