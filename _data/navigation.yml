@@ -43,15 +43,8 @@ links:
       - title: Workshop
         url: /Workshop
   - title: Past Events
-    url: /pastevents
-    sublinks:
-      - title: ICCS 2019
-        url: /pastevents/ICCS2019
-      - title: MissionUnite
-        url: /MissionUnite
+    collection: past-events
   - title: Media
     url: /Media
   - title: Contact Us
     url: /ContactUs
-  - title: Menu Title
-    collection: past-events
