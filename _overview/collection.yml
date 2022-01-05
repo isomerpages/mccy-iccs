@@ -1,5 +1,0 @@
-collections:
-  overview:
-    output: true
-    order:
-      - ICCS 2019.md
