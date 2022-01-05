@@ -35,17 +35,13 @@ links:
         url: /CodeofConduct
       - title: FAQs
         url: /faqs
-  - title: ICCS 2022 Attendees' Info
-    url: /ICCS2022AttendeesInfo
+  - title: "Upcoming Events "
+    url: "/UpcomingEvents "
     sublinks:
-      - title: Registration Portal
-        url: /RegistrationPortal
-      - title: Venue/ Travel Advisory
-        url: /VenueTravelAdvisory
-      - title: FAQ
-        url: /faq
-      - title: Code of Conduct
-        url: /CodeofConduct
+      - title: Webinars
+        url: /Webinars
+      - title: Workshop
+        url: /Workshop
   - title: Past Events
     url: /PastEvents
     sublinks:
