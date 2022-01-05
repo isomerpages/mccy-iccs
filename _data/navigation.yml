@@ -12,18 +12,18 @@ links:
   - title: ICCS 2022
     url: /ICCS2022
     sublinks:
-      - title: Programme, themes, speakers
-        url: /Programme
-      - title: Programme Synopses
-        url: /ProgrammeSynopses
-      - title: YLP
+      - title: Programme & Speakers Info
+        url: /ProgrammeSpeakers
+      - title: Plenary & Breakout Sessions
+        url: /PlenaryBreakout
+      - title: Young Leaders’ Programme
         url: /ylp
-      - title: Exhibition
-        url: /exhibition
       - title: Community Experience
         url: /CommunityExperience
-      - title: Research series
-        url: /Researchseries
+      - title: Research Stream
+        url: /ResearchStream
+      - title: Exhibition
+        url: /Exhibition
   - title: Upcoming Events
     url: /UpcomingEvents
     sublinks:
