@@ -2,4 +2,5 @@ collections:
   past-events:
     output: true
     order:
+      - Overview/.keep
       - ICCS 2019.md
