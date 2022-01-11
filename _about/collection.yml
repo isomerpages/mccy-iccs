@@ -2,6 +2,6 @@ collections:
   about:
     output: true
     order:
-      - Sponsors.md
-      - OrganizersSecretariat.md
       - ICCS.md
+      - OrganizersSecretariat.md
+      - Sponsors.md
