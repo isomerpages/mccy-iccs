@@ -1,7 +1,0 @@
-collections:
-  about:
-    output: true
-    order:
-      - ICCS.md
-      - OrganizersSecretariat.md
-      - Sponsors.md
