@@ -9,4 +9,4 @@ The Ministry of Culture, Community and Youth (MCCY) commissioned the S. Rajaratn
 Centred around the overall theme of “Many Communities, One Shared Future”, ICCS provided a platform for conversations on forging stronger interfaith understanding and developing new ideas to foster greater harmony in societies. The Conference discussed themes of building social cohesion and interfaith harmony, bringing together international thought leaders across academia, government, religious groups and the civic sector. Such conversations are critical, especially in a world where identity politics is growing, where societies are fracturing along the lines of race, religion, class and nationality, and where communities are trying to heal from discord and strife.
 
 More information on ICCS 2019:
-https://www.rsis.edu.sg/event/international-conference-on-cohesive-societies/#.YVEpurhGTop
+[https://www.rsis.edu.sg/event/international-conference-on-cohesive-societies/#.YVEpurhGTop](https://www.rsis.edu.sg/event/international-conference-on-cohesive-societies/#.YVEpurhGTop)
