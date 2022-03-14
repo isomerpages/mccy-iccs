@@ -1,7 +1,7 @@
 logo: /images/01-ICCS-Standard_CMYK.png
 links:
   - title: About
-    url: /About
+    url: /ICCS
     sublinks:
       - title: ICCS
         url: /ICCS
@@ -10,7 +10,7 @@ links:
       - title: Sponsors
         url: /Sponsors
   - title: ICCS 2022
-    url: /ICCS2022
+    url: /ProgrammeSpeakers
     sublinks:
       - title: Programme & Speakers Info
         url: /ProgrammeSpeakers
@@ -25,7 +25,7 @@ links:
       - title: Exhibition
         url: /Exhibition
   - title: "ICCS 2022 Attendees Guide "
-    url: "/ICCS2022AttendeesGuide "
+    url: /RegPortal
     sublinks:
       - title: Registration Portal
         url: /RegPortal
@@ -36,7 +36,7 @@ links:
       - title: FAQs
         url: /faqs
   - title: "Upcoming Events "
-    url: "/UpcomingEvents "
+    url: /Webinars
     sublinks:
       - title: Webinars
         url: /Webinars
