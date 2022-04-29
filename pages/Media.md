@@ -15,9 +15,9 @@ o	[Working to Expand Space for Cohesion](www.straitstimes.com/opinion/st-editori
 o	[From Catholic Nun to Respected Author on the World’s Religions](www.straitstimes.com/singapore/from-catholic-nun-to-respected-author-on-the-worlds-religions), The Straits Times  
 o	[Heng Swee Keat Mentioned Rajaratnam’s “Democracy of Deeds” in 2 Different Speeches in a Week](https://mothership.sg/2019/06/heng-swee-keat-democracy-of-deeds/), Mothership                                                                               
 •	23 June 2019  
-o	, The Straits Times
-o	Non-Sikhs Get Crash Course on Community’s Culture and Religion, The Straits Times
-o	From a Neo-Nazi to an Advocate for Peace: The Story of a Former White Supremacist, TODAY
+o	[18 Years and Counting: A Family’s Hari Raya Welcome for All](https://www.straitstimes.com/singapore/18-years-and-counting-a-familys-hari-raya-welcome-for-all), The Straits Times  
+o	Non-Sikhs Get Crash Course on Community’s Culture and Religion, The Straits Times   
+o	From a Neo-Nazi to an Advocate for Peace: The Story of a Former White Supremacist, TODAY   
 o	What More could be Done for Social Cohesion, carried on Singapore Tonight (CNA)
 •	22 June 2019
 o	Need to Nurture, Expand Our Common Spaces: DPM Heng Swee Keat, The Straits Times
