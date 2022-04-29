@@ -5,3 +5,4 @@ date: 2022-01-13
 layout: post
 description: ""
 ---
+For enquiries, email us at: partnerships@mccy.gov.sg
