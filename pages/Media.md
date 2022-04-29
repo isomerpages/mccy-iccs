@@ -16,12 +16,11 @@ o	[From Catholic Nun to Respected Author on the World’s Religions](www.straits
 o	[Heng Swee Keat Mentioned Rajaratnam’s “Democracy of Deeds” in 2 Different Speeches in a Week](https://mothership.sg/2019/06/heng-swee-keat-democracy-of-deeds/), Mothership                                                                               
 •	23 June 2019  
 o	[18 Years and Counting: A Family’s Hari Raya Welcome for All](https://www.straitstimes.com/singapore/18-years-and-counting-a-familys-hari-raya-welcome-for-all), The Straits Times  
-o	Non-Sikhs Get Crash Course on Community’s Culture and Religion, The Straits Times   
-o	From a Neo-Nazi to an Advocate for Peace: The Story of a Former White Supremacist, TODAY   
-o	What More could be Done for Social Cohesion, carried on Singapore Tonight (CNA)
-
+o	[Non-Sikhs Get Crash Course on Community’s Culture and Religion](www.straitstimes.com/singapore/non-sikhs-get-crash-course-on-communitys-culture-and-religion), The Straits Times   
+o	[From a Neo-Nazi to an Advocate for Peace: The Story of a Former White Supremacist](www.todayonline.com/singapore/neo-nazi-advocate-peace-story-former-white-supremacist), TODAY   
+o	What More could be Done for Social Cohesion, carried on Singapore Tonight (CNA)   
 •	22 June 2019   
-o	Need to Nurture, Expand Our Common Spaces: DPM Heng Swee Keat, The Straits Times   
+o	[Need to Nurture, Expand Our Common Spaces: DPM Heng Swee Keat](www.straitstimes.com/singapore/need-to-nurture-expand-our-common-spaces-dpm-heng), The Straits Times   
 o	Inter-faith Studies can Boost Cohesion, Say Experts, The Straits Times   
 o	Ex-white Supremacist and Anti-terror Activist Share Tales of Extremism, The Straits Times  
 o	Learning Journeys to Places of Worship for Singaporeans to Know More about Religion and Culture, The Straits Times   
