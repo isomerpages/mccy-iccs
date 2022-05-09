@@ -21,8 +21,8 @@ o	[From a Neo-Nazi to an Advocate for Peace: The Story of a Former White Suprema
 o	What More could be Done for Social Cohesion, carried on Singapore Tonight (CNA)   
 •	22 June 2019   
 o	[Need to Nurture, Expand Our Common Spaces: DPM Heng Swee Keat](www.straitstimes.com/singapore/need-to-nurture-expand-our-common-spaces-dpm-heng), The Straits Times   
-o	Inter-faith Studies can Boost Cohesion, Say Experts, The Straits Times   
-o	Ex-white Supremacist and Anti-terror Activist Share Tales of Extremism, The Straits Times  
+o	[Inter-faith Studies can Boost Cohesion](https://www.straitstimes.com/politics/inter-faith-studies-can-boost-cohesion-say-experts), Say Experts, The Straits Times   
+o	[Ex-white Supremacist and Anti-terror Activist Share Tales of Extremism](https://www.straitstimes.com/singapore/ex-white-supremacist-and-anti-terror-activist-share-tales-of-extremism), The Straits Times  
 o	Learning Journeys to Places of Worship for Singaporeans to Know More about Religion and Culture, The Straits Times   
 o	王瑞杰：应对全球性挑战 社会应建立互信尊重, Lianhe Zaobao   
 o	王瑞杰：抗衡极端主义搭建互信桥梁 打造和谐社会年轻人扮演关键角色, Lianhe Zaobao   
