@@ -28,9 +28,9 @@ o	[王瑞杰：应对全球性挑战 社会应建立互信尊重](https://www.za
 o	[王瑞杰：抗衡极端主义搭建互信桥梁 打造和谐社会年轻人扮演关键角色](https://www.zaobao.com.sg/news/singapore/story20190622-966391), Lianhe Zaobao   
 o	[分享国家繁荣果实有助促进社会凝聚力](https://www.zaobao.com.sg/news/singapore/story20190622-966393), Lianhe Zaobao   
 o	[Tangani Cabaran Bersama Dengan Saling Percaya, Hormat](https://www.beritaharian.sg/setempat/tangani-cabaran-bersama-dengan-saling-percaya-hormat), Berita Harian   
-o	Masyarakat Islam Komited Lindungi Masyarakat Kohesif: Masagos, Berita Harian   
-o	Soal Keimanan, Kemanusiaan Tema Ceramah Muis, Berita Harian   
-o	Presiden Halimah: Negara Kecil Perlu Terus Sedia Tangani Cabaran Luar, Berita Harian   
+o	[Masyarakat Islam Komited Lindungi Masyarakat Kohesif: Masagos](https://www.beritaharian.sg/setempat/masyarakat-islam-komited-lindungi-masyarakat-kohesif-masagos), Berita Harian   
+o	[Soal Keimanan, Kemanusiaan Tema Ceramah Muis](https://www.beritaharian.sg/setempat/soal-keimanan-kemanusiaan-tema-ceramah-muis), Berita Harian  
+o	[Presiden Halimah: Negara Kecil Perlu Terus Sedia Tangani Cabaran Luar](https://www.beritaharian.sg/setempat/presiden-halimah-negara-kecil-perlu-terus-sedia-tangani-cabaran-luar), Berita Harian   
 •	21 June 2019   
 o	Countries Must Tackle Common Challenges with Mutual Trust and Respect: Heng Swee Keat, The Straits Times   
 o	Religious and Worldview Studies in Schools can Help Strengthen Social Cohesion, Say Experts, The Straits Times   
