@@ -26,8 +26,8 @@ o	[Ex-white Supremacist and Anti-terror Activist Share Tales of Extremism](https
 o	[Learning Journeys to Places of Worship for Singaporeans to Know More about Religion and Culture](https://www.straitstimes.com/singapore/learning-journeys-to-places-of-worship-for-singaporeans-to-know-more-about-religion-and), The Straits Times   
 o	[王瑞杰：应对全球性挑战 社会应建立互信尊重](https://www.zaobao.com.sg/znews/singapore/story20190622-966381), Lianhe Zaobao   
 o	[王瑞杰：抗衡极端主义搭建互信桥梁 打造和谐社会年轻人扮演关键角色](https://www.zaobao.com.sg/news/singapore/story20190622-966391), Lianhe Zaobao   
-o	分享国家繁荣果实有助促进社会凝聚力, Lianhe Zaobao   
-o	Tangani Cabaran Bersama Dengan Saling Percaya, Hormat, Berita Harian   
+o	[分享国家繁荣果实有助促进社会凝聚力](https://www.zaobao.com.sg/news/singapore/story20190622-966393), Lianhe Zaobao   
+o	[Tangani Cabaran Bersama Dengan Saling Percaya, Hormat](https://www.beritaharian.sg/setempat/tangani-cabaran-bersama-dengan-saling-percaya-hormat), Berita Harian   
 o	Masyarakat Islam Komited Lindungi Masyarakat Kohesif: Masagos, Berita Harian   
 o	Soal Keimanan, Kemanusiaan Tema Ceramah Muis, Berita Harian   
 o	Presiden Halimah: Negara Kecil Perlu Terus Sedia Tangani Cabaran Luar, Berita Harian   
