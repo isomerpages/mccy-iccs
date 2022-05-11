@@ -73,9 +73,9 @@ o	[“Palestinian-Israeli Conflict Inflames Global Extremism”: Jordan’s King
 o	Attack on Interfaith Harmony, Mutual Respect, and Trust Single Biggest Threat, Says Jordan’s King Abdullah II, The World News   
 o	[King Abdullah of Jordan Slams “Hate-filled Outlaws of Islam”](https://www.arabnews.com/node/1513791/middle-east), Arab News   
 o	[King Delivers Keynote Address at International Conference on Cohesive Societies in Singapore](https://en.royanews.tv/news/17851/2019-06-20), Roya News   
-o	“The Palestinian-Israeli Conflict Has Fuelled Global Discord and Radicalism”— King, The Jordan Times   
-o	Jordan King: Palestinians Must Have Their State, Al-Bawaba   
-o	King Delivers Keynote Address at International Conference on Cohesive Societies in Singapore, MENAFN   
+o	[“The Palestinian-Israeli Conflict Has Fuelled Global Discord and Radicalism”— King](http://www.jordantimes.com/news/local/palestinian-israeli-conflict-has-fuelled-global-discord-and-radicalism%E2%80%94-king), The Jordan Times   
+o	[Jordan King: Palestinians Must Have Their State](https://www.albawaba.com/news/jordan-king-palestinians-must-have-their-state-1292517), Al-Bawaba   
+o	[King Delivers Keynote Address at International Conference on Cohesive Societies in Singapore](https://menafn.com/1098662026/King-delivers-keynote-address-at-International-Conference-on-Cohesive-Societies-in-Singapore), MENAFN   
 •	19 June 2019   
 o	International Conference on Cohesive Societies to Discuss Issues Surrounding Faith, Identity and Cohesion, The Straits Times   
 o	President Halimah Underlines Need to Engage with Diversity, Strengthen Social Cohesion, The Straits Times   
