@@ -68,11 +68,11 @@ o	[Religious Leaders Make Commitment to Safeguard Harmony in Singapore](https://
 o	[Attack on Inter-Faith Harmony is Greatest Threat in the World Today: King Abdullah of Jordan](https://sg.news.yahoo.com/attack-on-interfaith-harmony-is-greatest-threat-in-the-world-today-king-abdullah-of-jordan-035902054.html), Yahoo News   
 o	President Halimah Underlines Need to Engage with Diversity, Strengthen Social Cohesion in Singapore, Asia News  
 o	[King Visits Singapore Armed Forces Commandos](http://www.jordantimes.com/news/local/king-visits-singapore-armed-forces-commandos), The Jordan Times   
-o	Singapore Meeting Calls for Defense of Social Cohesion, Anadolu Agency   
-o	“Palestinian-Israeli Conflict Inflames Global Extremism”: Jordan’s King Abdullah, The New Arab   
+o	[Singapore Meeting Calls for Defense of Social Cohesion](https://www.aa.com.tr/en/asia-pacific/-singapore-meeting-calls-for-defense-of-social-cohesion/1510871), Anadolu Agency   
+o	[“Palestinian-Israeli Conflict Inflames Global Extremism”: Jordan’s King Abdullah](https://english.alaraby.co.uk/news/palestinian-israeli-conflict-inflames-global-extremism-jordans-king-abdullah), The New Arab   
 o	Attack on Interfaith Harmony, Mutual Respect, and Trust Single Biggest Threat, Says Jordan’s King Abdullah II, The World News   
-o	King Abdullah of Jordan Slams “Hate-filled Outlaws of Islam”, Arab News   
-o	King Delivers Keynote Address at International Conference on Cohesive Societies in Singapore, Roya News   
+o	[King Abdullah of Jordan Slams “Hate-filled Outlaws of Islam”](https://www.arabnews.com/node/1513791/middle-east), Arab News   
+o	[King Delivers Keynote Address at International Conference on Cohesive Societies in Singapore](https://en.royanews.tv/news/17851/2019-06-20), Roya News   
 o	“The Palestinian-Israeli Conflict Has Fuelled Global Discord and Radicalism”— King, The Jordan Times   
 o	Jordan King: Palestinians Must Have Their State, Al-Bawaba   
 o	King Delivers Keynote Address at International Conference on Cohesive Societies in Singapore, MENAFN   
