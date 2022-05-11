@@ -42,11 +42,11 @@ o	[Jordan’s King Calls for Joint Effort to Tackle Attack on Harmony](https://w
 o	[王瑞杰：建立和谐社会 寻共性更为重要](https://www.zaobao.com.sg/realtime/singapore/story20190621-966343), Lianhe Zaobao   
 o	[认同约旦国王观点 哈莉玛总统吁国人 团结抗衡网络极端言论](https://www.zaobao.com.sg/news/singapore/story20190621-966112), Lianhe Zaobao   
 o	[Cohesive Society Calls for Everyone to Build a “Democracy of Deeds”: Heng Swee Keat](https://www.todayonline.com/singapore/cohesive-society-calls-everyone-build-democracy-deeds-heng-swee-keat), TODAY   
-o	[Growing Diversity Means Common Spaces Must be Deliberately Nurtured: Heng Swee Keat], Channel NewsAsia   
+o	[Growing Diversity Means Common Spaces Must be Deliberately Nurtured: Heng Swee Keat](https://www.channelnewsasia.com/singapore/religious-racial-diversity-common-spaces-nurtured-heng-swee-keat-875501), Channel NewsAsia   
 o	Building Cohesiveness is a Work in Progress and Everyone has a Part to Play, carried on News Tonight (Channel 8)   
-o	Anti-fake News Law Needed to Help Preserve Social Cohesion: Heng Swee Keat, Yahoo News   
-o	Religious Leaders in S’pore Prayed for Heng Swee Keat’s Recovery After His May 2016 Stroke, Mothership   
-o	Heng Swee Keat: S’pore Learnt to Built Cohesiveness & Diversity the Hard Way But still a Work in Progress, Mothership   
+o	[Anti-fake News Law Needed to Help Preserve Social Cohesion: Heng Swee Keat](https://sg.news.yahoo.com/antifake-news-laws-needed-to-help-preserve-social-cohesion-heng-swee-keat-081357862.html), Yahoo News   
+o	[Religious Leaders in S’pore Prayed for Heng Swee Keat’s Recovery After His May 2016 Stroke](https://mothership.sg/2019/06/heng-swee-keat-iccs-dialogue-religious-leaders-prayed-stroke-recovery/), Mothership   
+o	[Heng Swee Keat: S’pore Learnt to Built Cohesiveness & Diversity the Hard Way But still a Work in Progress](https://mothership.sg/2019/06/heng-swee-keat-spore-learnt-to-built-cohesiveness-diversity-the-hard-way-but-still-a-work-in-progress/), Mothership   
 o	Raja Abdullah: Konflik Israel-Palestina Kobarkan Radikalisme, Republika   
 •	20 June 2019   
 o	Religion Should be Part of the Solution for Peace, And Not the Problem: Interfaith Conference, The Straits Times   
