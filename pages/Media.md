@@ -49,20 +49,20 @@ o	[Religious Leaders in S’pore Prayed for Heng Swee Keat’s Recovery After Hi
 o	[Heng Swee Keat: S’pore Learnt to Built Cohesiveness & Diversity the Hard Way But still a Work in Progress](https://mothership.sg/2019/06/heng-swee-keat-spore-learnt-to-built-cohesiveness-diversity-the-hard-way-but-still-a-work-in-progress/), Mothership   
 o	Raja Abdullah: Konflik Israel-Palestina Kobarkan Radikalisme, Republika   
 •	20 June 2019   
-o	Religion Should be Part of the Solution for Peace, And Not the Problem: Interfaith Conference, The Straits Times   
-o	Commitment to Safeguard Religious Harmony Can be Applied in Schools, Workplaces: President Halimah, The Straits Times   
-o	President Halimah Stresses Key Ingredients for Social Harmony, The Straits Times   
-o	International Conference on Cohesive Societies: Making Sure Nobody is Left Out of the Dialogue, The Straits Times   
-o	King Abdullah of Jordan on Two-Day State Visit to S’pore, The Straits Times   
-o	Attack on Interfaith Harmony, Mutual Respect and Trust is Single Biggest Threat, Says Jordan’s King Abdullah II, The Straits Times   
-o	Photo from President Halimah’s Fireside Chat with YLP Participants, Today in Pictures, June 20, 2019 (The Straits Times)   
-o	逾250组织加入《承诺》 誓维护宗教和谐, Lianhe Zaobao   
-o	Nilai Saling Percaya Perkukuh Perpaduan: Presiden Halimah, Berita Harian   
-o	British Religious Thinker at Singapore Forum Challenges People to Embrace the “Discomfort of Religion”, TODAY   
-o	Risk to Inter-Faith Harmony “Single Most Important Threat” to the World Now: Jordan King, Channel NewsAsia   
-o	Draw from Diversity as Source of Strength: President Halimah, The New Paper   
-o	Palestinian State Living in Peace with Israel Crucial to Addressing Radicalism: King Abdullah II of Jordan, Mothership   
-o	Attack on Inter-Faith Harmony is Greatest Threat in the World Today: King Abdullah of Jordan, Malaysia Today   
+o	[Religion Should be Part of the Solution for Peace, And Not the Problem: Interfaith Conference](https://www.straitstimes.com/singapore/religion-should-be-part-of-the-solution-for-peace-and-not-the-problem-interfaith), The Straits Times   
+o	[Commitment to Safeguard Religious Harmony Can be Applied in Schools, Workplaces: President Halimah](https://www.straitstimes.com/singapore/commitment-to-safeguard-religious-harmony-is-important-president-halimah-yacob), The Straits Times   
+o	[President Halimah Stresses Key Ingredients for Social Harmony](https://www.straitstimes.com/singapore/president-halimah-stresses-key-ingredients-for-social-harmony), The Straits Times   
+o	[International Conference on Cohesive Societies: Making Sure Nobody is Left Out of the Dialogue](https://www.straitstimes.com/singapore/making-sure-nobody-is-left-out-of-the-dialogue), The Straits Times   
+o	[King Abdullah of Jordan on Two-Day State Visit to S’pore](https://www.straitstimes.com/singapore/king-abdullah-of-jordan-on-two-day-state-visit-to-spore), The Straits Times   
+o	[Attack on Interfaith Harmony, Mutual Respect and Trust is Single Biggest Threat, Says Jordan’s King Abdullah II](https://www.straitstimes.com/politics/attack-on-interfaith-harmony-mutual-respect-and-trust-single-biggest-threat-says-jordans), The Straits Times   
+o	[Photo from President Halimah’s Fireside Chat with YLP Participants](https://www.straitstimes.com/multimedia/photos/today-in-pictures-june-20-2019), Today in Pictures, June 20, 2019 (The Straits Times)   
+o	[逾250组织加入《承诺》 誓维护宗教和谐](https://www.zaobao.com.sg/news/singapore/story20190620-965866), Lianhe Zaobao   
+o	[Nilai Saling Percaya Perkukuh Perpaduan: Presiden Halimah](https://www.beritaharian.sg/setempat/nilai-saling-percaya-perkukuh-perpaduan-presiden-halimah), Berita Harian   
+o	[British Religious Thinker at Singapore Forum Challenges People to Embrace the “Discomfort of Religion”](https://www.todayonline.com/singapore/british-religious-thinker-singapore-forum-challenges-people-embrace-discomfort-of-religion), TODAY   
+o	[Risk to Inter-Faith Harmony “Single Most Important Threat” to the World Now: Jordan King](https://www.channelnewsasia.com/singapore/jordan-king-abdullah-singapore-keynote-religion-conference-875226), Channel NewsAsia   
+o	[Draw from Diversity as Source of Strength: President Halimah](https://tnp.straitstimes.com/news/singapore/draw-diversity-source-strength-president-halimah), The New Paper   
+o	[Palestinian State Living in Peace with Israel Crucial to Addressing Radicalism: King Abdullah II of Jordan](https://mothership.sg/2019/06/palestine-state-israel-peace-crucial-jordan-king-abdullah-ii/), Mothership   
+o	[Attack on Inter-Faith Harmony is Greatest Threat in the World Today: King Abdullah of Jordan](https://www.malaysia-today.net/2019/06/20/attack-on-inter-faith-harmony-is-greatest-threat-in-the-world-today-king-abdullah-of-jordan/), Malaysia Today   
 o	Singapore’s Strict Laws Alone Cannot Ensure Racial Cohesion: President Halimah Yacob, South China Morning Post   
 o	Religious Leaders Make Commitment to Safeguard Harmony in Singapore, Yahoo News   
 o	Attack on Inter-Faith Harmony is Greatest Threat in the World Today: King Abdullah of Jordan, Yahoo News   
