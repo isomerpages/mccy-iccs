@@ -32,9 +32,9 @@ o	[Masyarakat Islam Komited Lindungi Masyarakat Kohesif: Masagos](https://www.be
 o	[Soal Keimanan, Kemanusiaan Tema Ceramah Muis](https://www.beritaharian.sg/setempat/soal-keimanan-kemanusiaan-tema-ceramah-muis), Berita Harian  
 o	[Presiden Halimah: Negara Kecil Perlu Terus Sedia Tangani Cabaran Luar](https://www.beritaharian.sg/setempat/presiden-halimah-negara-kecil-perlu-terus-sedia-tangani-cabaran-luar), Berita Harian   
 •	21 June 2019   
-o	Countries Must Tackle Common Challenges with Mutual Trust and Respect: Heng Swee Keat, The Straits Times   
-o	Religious and Worldview Studies in Schools can Help Strengthen Social Cohesion, Say Experts, The Straits Times   
-o	Issues Affecting Inter-Religious Ties Can No Longer be Dealt with in Isolation, The Straits Times   
+o	[Countries Must Tackle Common Challenges with Mutual Trust and Respect: Heng Swee Keat](https://www.straitstimes.com/politics/countries-must-tackle-common-challenges-with-mutual-trust-and-respect-heng-swee-keat), The Straits Times   
+o	[Religious and Worldview Studies in Schools can Help Strengthen Social Cohesion, Say Experts](https://www.straitstimes.com/politics/religious-and-worldview-studies-in-schools-can-help-strengthen-social-cohesion-say-experts), The Straits Times   
+o	[Issues Affecting Inter-Religious Ties Can No Longer be Dealt with in Isolation](https://www.straitstimes.com/politics/issues-affecting-inter-religious-ties-can-no-longer-be-dealt-with-in-isolation), The Straits Times   
 o	President Hopes Pledge on Religious Harmony will have Multiplier Effect, The Straits Times   
 o	Draw on Religious Teachings to Help Promote Peace: Panel, The Straits Times   
 o	Singapore, Jordan Look Forward to Deepening Cooperation in New Fields, The Straits Times   
