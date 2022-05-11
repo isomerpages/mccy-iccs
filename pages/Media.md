@@ -35,14 +35,14 @@ o	[Presiden Halimah: Negara Kecil Perlu Terus Sedia Tangani Cabaran Luar](https:
 o	[Countries Must Tackle Common Challenges with Mutual Trust and Respect: Heng Swee Keat](https://www.straitstimes.com/politics/countries-must-tackle-common-challenges-with-mutual-trust-and-respect-heng-swee-keat), The Straits Times   
 o	[Religious and Worldview Studies in Schools can Help Strengthen Social Cohesion, Say Experts](https://www.straitstimes.com/politics/religious-and-worldview-studies-in-schools-can-help-strengthen-social-cohesion-say-experts), The Straits Times   
 o	[Issues Affecting Inter-Religious Ties Can No Longer be Dealt with in Isolation](https://www.straitstimes.com/politics/issues-affecting-inter-religious-ties-can-no-longer-be-dealt-with-in-isolation), The Straits Times   
-o	President Hopes Pledge on Religious Harmony will have Multiplier Effect, The Straits Times   
-o	Draw on Religious Teachings to Help Promote Peace: Panel, The Straits Times   
-o	Singapore, Jordan Look Forward to Deepening Cooperation in New Fields, The Straits Times   
-o	Jordan’s King Calls for Joint Effort to Tackle Attack on Harmony, The Straits Times   
-o	王瑞杰：建立和谐社会 寻共性更为重要, Lianhe Zaobao   
-o	认同约旦国王观点 哈莉玛总统吁国人 团结抗衡网络极端言论, Lianhe Zaobao   
-o	Cohesive Society Calls for Everyone to Build a “Democracy of Deeds”: Heng Swee Keat, TODAY   
-o	Growing Diversity Means Common Spaces Must be Deliberately Nurtured: Heng Swee Keat, Channel NewsAsia   
+o	[President Hopes Pledge on Religious Harmony will have Multiplier Effect](https://www.straitstimes.com/singapore/president-hopes-pledge-on-religious-harmony-will-have-multiplier-effect), The Straits Times   
+o	[Draw on Religious Teachings to Help Promote Peace: Panel](https://www.straitstimes.com/singapore/draw-on-religious-teachings-to-help-promote-peace-panel), The Straits Times   
+o	[Singapore, Jordan Look Forward to Deepening Cooperation in New Fields](https://www.straitstimes.com/singapore/singapore-jordan-look-forward-to-deepening-cooperation-in-new-fields), The Straits Times   
+o	[Jordan’s King Calls for Joint Effort to Tackle Attack on Harmony](https://www.straitstimes.com/politics/jordans-king-calls-for-joint-effort-to-tackle-attack-on-harmony), The Straits Times   
+o	[王瑞杰：建立和谐社会 寻共性更为重要](https://www.zaobao.com.sg/realtime/singapore/story20190621-966343), Lianhe Zaobao   
+o	[认同约旦国王观点 哈莉玛总统吁国人 团结抗衡网络极端言论](https://www.zaobao.com.sg/news/singapore/story20190621-966112), Lianhe Zaobao   
+o	[Cohesive Society Calls for Everyone to Build a “Democracy of Deeds”: Heng Swee Keat](https://www.todayonline.com/singapore/cohesive-society-calls-everyone-build-democracy-deeds-heng-swee-keat), TODAY   
+o	[Growing Diversity Means Common Spaces Must be Deliberately Nurtured: Heng Swee Keat], Channel NewsAsia   
 o	Building Cohesiveness is a Work in Progress and Everyone has a Part to Play, carried on News Tonight (Channel 8)   
 o	Anti-fake News Law Needed to Help Preserve Social Cohesion: Heng Swee Keat, Yahoo News   
 o	Religious Leaders in S’pore Prayed for Heng Swee Keat’s Recovery After His May 2016 Stroke, Mothership   
