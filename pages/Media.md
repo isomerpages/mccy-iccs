@@ -63,11 +63,11 @@ o	[Risk to Inter-Faith Harmony “Single Most Important Threat” to the World N
 o	[Draw from Diversity as Source of Strength: President Halimah](https://tnp.straitstimes.com/news/singapore/draw-diversity-source-strength-president-halimah), The New Paper   
 o	[Palestinian State Living in Peace with Israel Crucial to Addressing Radicalism: King Abdullah II of Jordan](https://mothership.sg/2019/06/palestine-state-israel-peace-crucial-jordan-king-abdullah-ii/), Mothership   
 o	[Attack on Inter-Faith Harmony is Greatest Threat in the World Today: King Abdullah of Jordan](https://www.malaysia-today.net/2019/06/20/attack-on-inter-faith-harmony-is-greatest-threat-in-the-world-today-king-abdullah-of-jordan/), Malaysia Today   
-o	Singapore’s Strict Laws Alone Cannot Ensure Racial Cohesion: President Halimah Yacob, South China Morning Post   
-o	Religious Leaders Make Commitment to Safeguard Harmony in Singapore, Yahoo News   
-o	Attack on Inter-Faith Harmony is Greatest Threat in the World Today: King Abdullah of Jordan, Yahoo News   
-o	President Halimah Underlines Need to Engage with Diversity, Strengthen Social Cohesion in Singapore, Asia News Network   
-o	King Visits Singapore Armed Forces Commandos, The Jordan Times   
+o	[Singapore’s Strict Laws Alone Cannot Ensure Racial Cohesion: President Halimah Yacob](https://www.scmp.com/week-asia/society/article/3015276/secret-singapores-social-harmony-lies-fine-balance-constant), South China Morning Post   
+o	[Religious Leaders Make Commitment to Safeguard Harmony in Singapore](https://sg.news.yahoo.com/religious-leaders-make-commitment-to-safeguard-harmony-in-singapore-031321565.html), Yahoo News   
+o	[Attack on Inter-Faith Harmony is Greatest Threat in the World Today: King Abdullah of Jordan](https://sg.news.yahoo.com/attack-on-interfaith-harmony-is-greatest-threat-in-the-world-today-king-abdullah-of-jordan-035902054.html), Yahoo News   
+o	President Halimah Underlines Need to Engage with Diversity, Strengthen Social Cohesion in Singapore, Asia News  
+o	[King Visits Singapore Armed Forces Commandos](http://www.jordantimes.com/news/local/king-visits-singapore-armed-forces-commandos), The Jordan Times   
 o	Singapore Meeting Calls for Defense of Social Cohesion, Anadolu Agency   
 o	“Palestinian-Israeli Conflict Inflames Global Extremism”: Jordan’s King Abdullah, The New Arab   
 o	Attack on Interfaith Harmony, Mutual Respect, and Trust Single Biggest Threat, Says Jordan’s King Abdullah II, The World News   
