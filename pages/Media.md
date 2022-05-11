@@ -77,18 +77,18 @@ o	[“The Palestinian-Israeli Conflict Has Fuelled Global Discord and Radicalism
 o	[Jordan King: Palestinians Must Have Their State](https://www.albawaba.com/news/jordan-king-palestinians-must-have-their-state-1292517), Al-Bawaba   
 o	[King Delivers Keynote Address at International Conference on Cohesive Societies in Singapore](https://menafn.com/1098662026/King-delivers-keynote-address-at-International-Conference-on-Cohesive-Societies-in-Singapore), MENAFN   
 •	19 June 2019   
-o	International Conference on Cohesive Societies to Discuss Issues Surrounding Faith, Identity and Cohesion, The Straits Times   
-o	President Halimah Underlines Need to Engage with Diversity, Strengthen Social Cohesion, The Straits Times   
-o	“Everyone Has a Role”: President Halimah Meets Young Leaders to Discuss Social Cohesion, The Straits Times   
-o	More than 250 Religious Organisations Commit to Safeguard Religious Harmony, The Straits Times   
-o	Free Art Exhibition Showcases Singapore’s Religious Harmony, The Straits Times   
-o	Jordanian King Abdullah II in Singapore for His Third State Visit, The Straits Times
-o	约旦国王到我国进行两天国事访问, Lianhe Zaobao
-o	Singapore’s Key Religious Organisations Affirm Commitment to Religious Harmony, Channel NewsAsia   
-o	100 Pemimpin Muda Antarabangsa Bincang Isu-Isu Perpaduan, Keagamaan, Berita Mediacorp   
-o	King to Address Singapore Int’l Conference on Cohesive Societies, The Jordan Times   
-o	King Visits Singapore Armed Forces Commandos, MENAFN   
-o	King Departs on Singapore Visit, Roya News   
+o	[International Conference on Cohesive Societies to Discuss Issues Surrounding Faith, Identity and Cohesion](https://www.straitstimes.com/singapore/international-conference-on-cohesive-societies-to-discuss-issues-surrounding-faith), The Straits Times   
+o	[President Halimah Underlines Need to Engage with Diversity, Strengthen Social Cohesion](https://www.straitstimes.com/singapore/president-halimah-underlines-need-to-engage-with-diversity-strengthen-social-cohesion?xtor=CS3-17&utm_source=STSmartphone&utm_medium=share&utm_term=2019-06-19+21%3A22%3A550), The Straits Times   
+o	[“Everyone Has a Role”: President Halimah Meets Young Leaders to Discuss Social Cohesion](https://www.straitstimes.com/singapore/everyone-has-a-role-president-halimah-meets-young-leaders-to-discuss-social-cohesion), The Straits Times   
+o	[More than 250 Religious Organisations Commit to Safeguard Religious Harmony](https://www.straitstimes.com/singapore/250-religious-groups-make-commitment-with-practical-suggestions-to-safeguard-religious), The Straits Times   
+o	[Free Art Exhibition Showcases Singapore’s Religious Harmony](https://www.straitstimes.com/singapore/free-art-exhibition-showcases-singapores-religious-harmony), The Straits Times   
+o	[Jordanian King Abdullah II in Singapore for His Third State Visit](https://www.straitstimes.com/singapore/jordanian-king-abdullah-ii-in-singapore-for-his-third-state-visit), The Straits Times
+o	[约旦国王到我国进行两天国事访问](https://www.zaobao.com.sg/realtime/singapore/story20190619-965810), Lianhe Zaobao
+o	[Singapore’s Key Religious Organisations Affirm Commitment to Religious Harmony](https://www.channelnewsasia.com/singapore/singapore-religious-organisations-commitment-harmony-halimah-874911), Channel NewsAsia   
+o	[100 Pemimpin Muda Antarabangsa Bincang Isu-Isu Perpaduan, Keagamaan](https://berita.mediacorp.sg/singapura/100-pemimpin-muda-antarabangsa-bincang-isu-isu-perpaduan-170236), Berita Mediacorp   
+o	[King to Address Singapore Int’l Conference on Cohesive Societies](http://www.jordantimes.com/news/local/king-address-singapore-intl-conference-cohesive-societies), The Jordan Times  
+o	[King Visits Singapore Armed Forces Commandos](https://menafn.com/1098661196/King-visits-Singapore-Armed-Forces-Commandos), MENAFN   
+o	[King Departs on Singapore Visit](https://en.royanews.tv/news/17842/King-departs-on-Singapore-visit), Roya News   
 o	Jordanian King Abdullah II in Singapore for His Third State Visit, World Times News   
 •	18 June 2019   
 o	From Debate to Dialogue: Two Religions, One Friendship and a Common Interfaith Cause, TODAY   
