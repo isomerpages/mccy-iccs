@@ -91,22 +91,22 @@ o	[King Visits Singapore Armed Forces Commandos](https://menafn.com/1098661196/K
 o	[King Departs on Singapore Visit](https://en.royanews.tv/news/17842/King-departs-on-Singapore-visit), Roya News   
 o	Jordanian King Abdullah II in Singapore for His Third State Visit, World Times News   
 •	18 June 2019   
-o	From Debate to Dialogue: Two Religions, One Friendship and a Common Interfaith Cause, TODAY   
+o	[From Debate to Dialogue: Two Religions, One Friendship and a Common Interfaith Cause](https://www.todayonline.com/commentary/debate-dialogue-two-religions-one-friendship-and-common-interfaith-cause), TODAY   
 o	Amb Ong Keng Yong on the Importance of Interfaith Harmony and Dialogue, carried on Singapore Tonight (CNA)   
 o	Amb Mohammad Alami Musa on the Ground-up Efforts by Muslims to Strengthen Interreligious Understanding, carried on Berita (Suria)   
 •	13 June 2019   
 o	Minister Grace Fu on the Reason Singapore is Hosting the ICCS, carried on Hello Singapore (Channel 8)
 
 Speeches and News Releases   
-•	Closing Remarks by Mr Heng Swee Keat, Deputy Prime Minister and Minister for Finance, at ICCS, 21 June 2019   
-•	Keynote Speech by His Majesty King Abdullah II Ibn Al Hussein of the Hashemite Kingdom of Jordan at ICCS, 20 June 2019   
-•	Opening Remarks by Ambassador Ong Keng Yong, Executive Deputy Chairman of RSIS, at ICCS, 20 June 2019   
-•	Opening Address by President Halimah Yacob at ICCS, 19 June 2019   
-•	Welcome Remarks By Ambassador Ong Keng Yong, Executive Deputy Chairman of RSIS, at the Opening Dinner of ICCS, 19 June 2019   
-•	News Release on Global Leaders in Interfaith Harmony and Social Cohesion Gather in Singapore for International Conference on Cohesive Societies   
-•	News Release on International Conference on Cohesive Societies Announces Line-up of Speakers   
-•	News Release on Singapore Hosting the International Conference on Cohesive Societies   
-•	Speakers’ Biographies
+•	[Closing Remarks by Mr Heng Swee Keat, Deputy Prime Minister and Minister for Finance, at ICCS, 21 June 2019](https://www.rsis.edu.sg/rsis-speeches-article/rsis/closing-remarks-by-mr-heng-swee-keat-deputy-prime-minister-and-minister-for-finance-at-the-international-conference-on-cohesive-societies-iccs/#.XQyi_-gzbIU)  
+•	[Keynote Speech by His Majesty King Abdullah II Ibn Al Hussein of the Hashemite Kingdom of Jordan at ICCS, 20 June 2019](https://www.rsis.edu.sg/rsis-speeches-article/rsis/keynote-speech-by-his-majesty-king-abdullah-ii-ibn-al-hussein-of-the-hashemite-kingdom-of-jordan-at-the-international-conference-on-cohesive-societies/#.XQsvMOgzbIU)  
+•	[Opening Remarks by Ambassador Ong Keng Yong, Executive Deputy Chairman of RSIS, at ICCS, 20 June 2019](https://www.rsis.edu.sg/rsis-speeches-article/rsis/opening-remarks-by-ambassador-ong-keng-yong-executive-deputy-chairman-of-rsis-at-the-international-conference-on-cohesive-societies-iccs/#.XQsvgegzbIU)   
+•	[Opening Address by President Halimah Yacob at ICCS, 19 June 2019](https://www.rsis.edu.sg/rsis-speeches-article/rsis/opening-address-by-president-halimah-yacob-at-the-international-conference-on-cohesive-societies/)   
+•	[Welcome Remarks By Ambassador Ong Keng Yong, Executive Deputy Chairman of RSIS, at the Opening Dinner of ICCS, 19 June 2019](https://www.rsis.edu.sg/rsis-speeches-article/rsis/welcome-remarks-by-ambassador-ong-keng-yong-executive-deputy-chairman-of-rsis-at-the-opening-dinner-of-the-international-conference-on-cohesive-societies-iccs/#.XQsv0egzbIU)   
+•	[News Release on Global Leaders in Interfaith Harmony and Social Cohesion Gather in Singapore for International Conference on Cohesive Societies](https://www.rsis.edu.sg/rsis-news-article/rsis/global-leaders-in-interfaith-harmony-and-social-cohesion-gather-in-singapore-for-international-conference-on-cohesive-societies/#.XRGTFugzbIV)   
+•	[News Release on International Conference on Cohesive Societies Announces Line-up of Speakers](https://www.rsis.edu.sg/rsis-news-article/rsis/global-leaders-in-peace-and-religious-harmony-to-address-key-challenges-facing-social-cohesion/#.XP57WIgzaM8)   
+•	[News Release on Singapore Hosting the International Conference on Cohesive Societies](https://www.rsis.edu.sg/rsis-news-article/rsis/singapore-set-to-convene-first-international-conference-on-cohesive-societies-to-drive-global-collective-action-for-peace-and-harmony-with-king-abdullah-ii-of-jordan-delivering-the-keynote-address/#.XPhonFwzbIU)   
+•	[Speakers’ Biographies](https://www.rsis.edu.sg/wp-content/uploads/2019/05/Annex-Speakers-Biographies.pdf)  
 Publications/Op-Eds   
 •	International Conference on Cohesive Societies, RSIS Event Report, 30 September 2019   
 •	After the ICCS – Building Social Cohesion: Committing to a Participatory Approach, RSIS Commentary, 24 July 2019   
