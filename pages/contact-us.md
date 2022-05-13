@@ -19,13 +19,8 @@ locations:
     title: Old Hill Street Police Station
 contacts:
   - content:
-      - phone: +65 6338 3632
-      - email: enquiries@abc.gov.sg
-      - other: Any text here
-    title: General Enquiries & Feedback
-  - content:
       - phone: ""
-      - email: careers@abc.gov.sg
+      - email: partnerships@mccy.gov.sg
       - other: ""
-    title: Careers
+    title: General Enquiries & Feedback
 ---
