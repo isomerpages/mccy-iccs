@@ -16,16 +16,16 @@ Keynote Speaker:
 o	Historian of World Religion  
 •	Dr Paul Hedges (spoke on behalf of Karen Armstrong)
 
-Plenary 1 Speakers:
-•	Ms Karen Armstrong OBE; FRSL
-		o	Historian of World Religion
-•	Bishop Miguel Angel Ayuso Guixot
-o	President , the Pontifical Council for Interreligious Dialogue
-•	Dr Veena Howard
-o	Associate Professor, Asian Religious Traditions and Coordinator of Peace and Conflict Studies Program, California State University, Fresno
-•	Dr Nazirudin Mohd Nasir
-o	Deputy Mufti, Islamic Religious Council of Singapore (MUIIS)
-•	Venerable Guo Huei
+Plenary 1 Speakers:  
+•	Ms Karen Armstrong OBE; FRSL  
+o	Historian of World Religion  
+•	Bishop Miguel Angel Ayuso Guixot  
+o	President , the Pontifical Council for Interreligious Dialogue  
+•	Dr Veena Howard  
+o	Associate Professor, Asian Religious Traditions and Coordinator of Peace and Conflict Studies Program, California State University, Fresno  
+•	Dr Nazirudin Mohd Nasir  
+o	Deputy Mufti, Islamic Religious Council of Singapore (MUIIS)  
+•	Venerable Guo Huei  
 o	Abbot-President, Dharma Drum Mountain
 
 Plenary 1 Moderator
