@@ -83,15 +83,15 @@ o	[“Everyone Has a Role”: President Halimah Meets Young Leaders to Discuss S
 o	[More than 250 Religious Organisations Commit to Safeguard Religious Harmony, The Straits Times](https://www.straitstimes.com/singapore/250-religious-groups-make-commitment-with-practical-suggestions-to-safeguard-religious)   
 o	[Free Art Exhibition Showcases Singapore’s Religious Harmony, The Straits Times](https://www.straitstimes.com/singapore/free-art-exhibition-showcases-singapores-religious-harmony)   
 o	[Jordanian King Abdullah II in Singapore for His Third State Visit, The Straits Times](https://www.straitstimes.com/singapore/jordanian-king-abdullah-ii-in-singapore-for-his-third-state-visit)  
-o	[约旦国王到我国进行两天国事访问](https://www.zaobao.com.sg/realtime/singapore/story20190619-965810), Lianhe Zaobao  
-o	[Singapore’s Key Religious Organisations Affirm Commitment to Religious Harmony](https://www.channelnewsasia.com/singapore/singapore-religious-organisations-commitment-harmony-halimah-874911), Channel NewsAsia   
-o	[100 Pemimpin Muda Antarabangsa Bincang Isu-Isu Perpaduan, Keagamaan](https://berita.mediacorp.sg/singapura/100-pemimpin-muda-antarabangsa-bincang-isu-isu-perpaduan-170236), Berita Mediacorp   
-o	[King to Address Singapore Int’l Conference on Cohesive Societies](http://www.jordantimes.com/news/local/king-address-singapore-intl-conference-cohesive-societies), The Jordan Times  
-o	[King Visits Singapore Armed Forces Commandos](https://menafn.com/1098661196/King-visits-Singapore-Armed-Forces-Commandos), MENAFN   
-o	[King Departs on Singapore Visit](https://en.royanews.tv/news/17842/King-departs-on-Singapore-visit), Roya News   
+o	[约旦国王到我国进行两天国事访问, Lianhe Zaobao](https://www.zaobao.com.sg/realtime/singapore/story20190619-965810)  
+o	[Singapore’s Key Religious Organisations Affirm Commitment to Religious Harmony, Channel NewsAsia](https://www.channelnewsasia.com/singapore/singapore-religious-organisations-commitment-harmony-halimah-874911)   
+o	[100 Pemimpin Muda Antarabangsa Bincang Isu-Isu Perpaduan, Keagamaan, Berita Mediacorp](https://berita.mediacorp.sg/singapura/100-pemimpin-muda-antarabangsa-bincang-isu-isu-perpaduan-170236)   
+o	[King to Address Singapore Int’l Conference on Cohesive Societies, The Jordan Times](http://www.jordantimes.com/news/local/king-address-singapore-intl-conference-cohesive-societies)  
+o	[King Visits Singapore Armed Forces Commandos, MENAFN](https://menafn.com/1098661196/King-visits-Singapore-Armed-Forces-Commandos)   
+o	[King Departs on Singapore Visit, Roya News](https://en.royanews.tv/news/17842/King-departs-on-Singapore-visit)   
 o	Jordanian King Abdullah II in Singapore for His Third State Visit, World Times News   
 •	18 June 2019   
-o	[From Debate to Dialogue: Two Religions, One Friendship and a Common Interfaith Cause](https://www.todayonline.com/commentary/debate-dialogue-two-religions-one-friendship-and-common-interfaith-cause), TODAY   
+o	[From Debate to Dialogue: Two Religions, One Friendship and a Common Interfaith Cause, TODAY](https://www.todayonline.com/commentary/debate-dialogue-two-religions-one-friendship-and-common-interfaith-cause)   
 o	Amb Ong Keng Yong on the Importance of Interfaith Harmony and Dialogue, carried on Singapore Tonight (CNA)   
 o	Amb Mohammad Alami Musa on the Ground-up Efforts by Muslims to Strengthen Interreligious Understanding, carried on Berita (Suria)   
 •	13 June 2019   
