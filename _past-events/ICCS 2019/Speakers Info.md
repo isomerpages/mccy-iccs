@@ -56,9 +56,9 @@ o	Research Associate of the UNESCO Chair in Interreligious and Intercultural Rel
 •	Bishop Emeritus Dr Wee Boon Hup  
 o	Member, Presidential Council for Religious Harmony, Singapore
 
-Plenary 3 Moderator:
-•	Dr Dicky Sofjan
+Plenary 3 Moderator:  
+•	Dr Dicky Sofjan  
 o	Core Doctoral Faculty, Indonesian Consortium for Religious Studies, Universitas Gadjah Mada Graduate School
 
-Closing Remarks:
-•	Mr Deputy Prime Minster Heng Swee Keat, Deputy Prime Minster of the Republic of Singapore
+Closing Remarks:  
+•	Mr Heng Swee Keat, Deputy Prime Minster of the Republic of Singapore
