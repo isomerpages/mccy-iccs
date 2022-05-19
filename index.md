@@ -9,7 +9,6 @@ notification: It's official! The 2nd International Conference on Cohesive
 sections:
   - hero:
       background: /images/WEBSITE-MASTHEAD_1920x720px.png
-      button: REGISTER TODAY
       url: /RegPortal
       key_highlights:
         - title: "Programme & Speakers Information "
