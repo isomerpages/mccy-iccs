@@ -21,7 +21,7 @@ sections:
           url: /VenueTravelAdvisory
   - infopic:
       title: Young Leaders' Programme
-      description: Infopic description
+      description: Coming up!
       button: Button Text
       alt: Image alt text
   - infopic:
