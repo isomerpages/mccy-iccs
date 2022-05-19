@@ -10,9 +10,9 @@ sections:
       background: /images/WEBSITE-MASTHEAD_1920x720px.png
       url: /RegPortal
       key_highlights:
-        - title: "Programme & Speakers Information "
-          description: Faith, identity & cohesion
-          url: https://google.com
+        - title: "Registration Portal "
+          description: Register TODAY
+          url: /RegPortal
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
