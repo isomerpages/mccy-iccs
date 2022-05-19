@@ -7,8 +7,6 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
       background: /images/ICCS%20background.jpg
       button: Contact us
       url: /contact-us/
@@ -33,4 +31,3 @@ sections:
       subtitle: Learn more
       button: View More
 ---
-
