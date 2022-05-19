@@ -14,17 +14,17 @@ Offering 108.000 sq ft of stylish space and cutting-edge facilities, the newly-r
 
 # How to get there
 Drive
-Direction from Changi International Airport
-•	From Changi Airport, take the East Coast Expressway (ECP) and exit at the Rochor Road Exit.
-•	Turn left onto Beach Road.
+Direction from Changi International Airport  
+•	From Changi Airport, take the East Coast Expressway (ECP) and exit at the Rochor Road Exit.  
+•	Turn left onto Beach Road.  
 •	Fairmont Singapore is located at the junction of Beach Road and Bras Basah Road.
 
 Bus
-The following buses have routes that pass near Raffles City Convention Centre
-•	10
-•	75
-•	106
-•	131
+The following buses have routes that pass near Raffles City Convention Centre  
+•	10  
+•	75  
+•	106  
+•	131  
 •	502
 
 Train
@@ -33,7 +33,7 @@ City Hall station on East West Line and North South Line is just below Raffles C
 Parking 
 Parking facilities are available at Raffles City Shopping Centre’s basement areas at prevailing car park fees.
 
-Click [here](https://www.google.com.sg/maps/place/80+Bras+Basah+Rd,+Singapore+189560/@1.293396,103.8512732,17z/data=!3m1!4b1!4m5!3m4!1s0x31da19a6874e2d39:0x26a8c303651f52d4!8m2!3d1.293396!4d103.8534619) for more informationa map of the location.
+Click [here](https://www.google.com.sg/maps/place/80+Bras+Basah+Rd,+Singapore+189560/@1.293396,103.8512732,17z/data=!3m1!4b1!4m5!3m4!1s0x31da19a6874e2d39:0x26a8c303651f52d4!8m2!3d1.293396!4d103.8534619) for map of the location.
 
 For more information on the venue and hotels, please visit: 
 Meetings & Events - Swissôtel Hotels And Resorts (swissotel.com)
@@ -51,12 +51,12 @@ As the COVID-19 situation constantly evolves around us, foreign delegates are st
 
 Since 29 March 2022, the Singapore government has updated our Vaccination-Differentiated Safe Management Measures. Delegates are advised to check the latest update of their eligibility to attend [here](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-MICE.html#MICE).
 
-Travellers are required to be fully vaccinated in order to be eligible to travel to Singapore and enter the Conference. You may refer to Vaccinated Status for Travel to Singapore (ica.gov.sg) for more details. 
+Travellers are required to be fully vaccinated in order to be eligible to travel to Singapore and enter the Conference. You may refer to [Vaccinated Status for Travel to Singapore](https://safetravel.ica.gov.sg/stpl/vaccination-requirements) for more details. 
 
 Please take note from 1 Jan 2022, there will no longer be a concession for unvaccinated individuals to perform Pre-Event Testing in lieu of being fully vaccinated. All attendees need to be #fully vaccinated against COVID-19.
 
-#Full vaccination refers to:
-•	having received the appropriate regimen of World Health Organisation Emergency Use Listing (WHO EUL) vaccines including their respective duration post-vaccination for the vaccine to be fully effective and had their vaccination records ingested in MOH’s national IT systems
+#Full vaccination refers to:  
+•	having received the appropriate regimen of World Health Organisation Emergency Use Listing (WHO EUL) vaccines including their respective duration post-vaccination for the vaccine to be fully effective and had their vaccination records ingested in MOH’s national IT systems  
 •	recovery from a COVID-19 infection within the last 180 days
 
 As our event capacity is estimated to be above 500 participants, all patrons are required to do SafeEntry check-in at the venue via the TraceTogether app (version 2.11 and above) or token only.  Other modes of SafeEntry check-in will not be accepted.
