@@ -20,8 +20,7 @@ sections:
           description: ""
           url: /VenueTravelAdvisory
   - infopic:
-      title: Infopic Title
-      subtitle: Young Leaders' Programme
+      title: Young Leaders' Programme
       description: Infopic description
       button: Button Text
       alt: Image alt text
@@ -31,6 +30,6 @@ sections:
         experience the manifestation of Singapore’s inter-racial and
         inter-religious harmony policies
       button: Read more
-      url: communityexperience/
+      url: /CommunityExperience
       alt: Image alt text
 ---
