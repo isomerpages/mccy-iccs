@@ -8,7 +8,7 @@ notification: It's official! The 2nd International Conference on Cohesive
   Societies will be held in Singapore at the Raffles City Convention Centre.
 sections:
   - hero:
-      background: /images/ICCS%20background.jpg
+      background: /images/WEBSITE-MASTHEAD_1920x720px.png
       button: REGISTER TODAY
       url: /RegPortal
       key_highlights:
