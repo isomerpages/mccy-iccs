@@ -49,7 +49,7 @@ Conference participants will be responsible for funding and securing the necessa
 Vaccination status   
 As the COVID-19 situation constantly evolves around us, foreign delegates are strongly encouraged to check for the latest updates on Singapore’s Ministry of Health website and your respective country’s guidelines. You may refer to [Travelling to Singapore](https://safetravel.ica.gov.sg/arriving/overview) for more details.
 
-Since 29 March 2022, the Singapore government has updated our Vaccination-Differentiated Safe Management Measures. Delegates are advised to check the latest update of their eligibility to attend on gov.sg | Updates to Safe Management Measures from 29 Mar 2022 (www.gov.sg).
+Since 29 March 2022, the Singapore government has updated our Vaccination-Differentiated Safe Management Measures. Delegates are advised to check the latest update of their eligibility to attend [here](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-MICE.html#MICE).
 
 Travellers are required to be fully vaccinated in order to be eligible to travel to Singapore and enter the Conference. You may refer to Vaccinated Status for Travel to Singapore (ica.gov.sg) for more details. 
 
