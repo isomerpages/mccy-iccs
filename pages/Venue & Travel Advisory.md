@@ -10,11 +10,11 @@ ICCS 2022 will take place at the Raffles City Convention Centre, Level 4, locate
 About Venue’s Meeting Space
 Offering 108.000 sq ft of stylish space and cutting-edge facilities, the newly-renovated Raffles City Convention Centre provides 27 newly-- refreshed multi-functional meeting rooms exploring a progressive design concept, utilising natural light and views.
 
-
+![](/images/Hotel%20Architectural%20View.jpg)
 
 # How to get there
 Drive
-Direction from Changi International Airport  
+Direction from Changi International Airport:  
 •	From Changi Airport, take the East Coast Expressway (ECP) and exit at the Rochor Road Exit.  
 •	Turn left onto Beach Road.  
 •	Fairmont Singapore is located at the junction of Beach Road and Bras Basah Road.
