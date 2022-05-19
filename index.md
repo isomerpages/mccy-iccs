@@ -19,14 +19,18 @@ sections:
         - title: Venue & Travel Advisory
           description: ""
           url: /VenueTravelAdvisory
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
+  - infopic:
+      title: Infopic Title
+      subtitle: Young Leaders' Programme
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Community Experience
+      description: This immersive programme will provide delegates an opportunity to
+        experience the manifestation of Singapore’s inter-racial and
+        inter-religious harmony policies
+      button: Read more
+      url: communityexperience/
+      alt: Image alt text
 ---
