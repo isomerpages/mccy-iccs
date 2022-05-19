@@ -20,8 +20,9 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-      title: International Conference on Cohesive Societies
-      subtitle: 6th-8th September 2022, Singapore
+      title: Confident identities, connected communities
+      subtitle: The International Conference on Cohesive Societies | 6th-8th September
+        2022 | Singapore
   - infobar:
       title: Infobar title
       subtitle: Subtitle
