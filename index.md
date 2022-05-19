@@ -27,6 +27,7 @@ sections:
       button: Button Text
       alt: Image alt text
       url: /CommunityExperience
+      image: /images/18June2019ICCSPhotog1-437.jpg
   - infopic:
       title: Young Leaders' Programme
       description: "Coming up! "
