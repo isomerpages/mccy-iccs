@@ -20,6 +20,8 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+      title: Hero title
+      subtitle: Hero subtitle
   - infobar:
       title: Infobar title
       subtitle: Subtitle
