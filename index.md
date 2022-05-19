@@ -4,7 +4,8 @@ title: Isomer Site
 description: Brief site description here
 image: /images/hero-banner.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: It's official! The 2nd International Conference on Cohesive
+  Societies will be held in Singapore at the Raffles City Convention Centre.
 sections:
   - hero:
       background: /images/ICCS%20background.jpg
@@ -20,9 +21,8 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-      title: Confident identities, connected communities
-      subtitle: The International Conference on Cohesive Societies | 6th-8th September
-        2022 | Singapore
+      title: ICCS 2022
+      subtitle: 6th-8th September 2022, Singapore
   - infobar:
       title: Infobar title
       subtitle: Subtitle
