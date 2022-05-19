@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/ICCS%20background.jpg
       button: REGISTER NOW
-      url: /contact-us/
+      url: /RegPortal
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
