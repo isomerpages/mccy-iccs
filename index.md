@@ -16,6 +16,9 @@ sections:
         - title: Programme & Speakers Information
           description: ""
           url: /ProgrammeSpeakers
+        - title: Venue & Travel Advisory
+          description: ""
+          url: /VenueTravelAdvisory
   - infobar:
       title: Infobar title
       subtitle: Subtitle
