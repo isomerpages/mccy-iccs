@@ -9,18 +9,15 @@ notification: It's official! The 2nd International Conference on Cohesive
 sections:
   - hero:
       background: /images/ICCS%20background.jpg
-      button: REGISTER NOW
+      button: REGISTER TODAY
       url: /RegPortal
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: "Programme & Speakers Information "
+          description: Faith, identity & cohesion
           url: https://google.com
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
       title: ICCS 2022
       subtitle: 6th-8th September 2022, Singapore
   - infobar:
