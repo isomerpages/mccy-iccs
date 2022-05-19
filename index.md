@@ -33,4 +33,5 @@ sections:
       button: Read more
       url: /ylp
       alt: Image alt text
+      image: /images/19June2019ICCSPhotog1_morning-95.jpg
 ---
