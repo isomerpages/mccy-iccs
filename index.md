@@ -4,8 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/hero-banner.png
 permalink: /
-notification: It's official! The 2nd International Conference on Cohesive
-  Societies will be held in Singapore at the Raffles City Convention Centre.
+notification: ""
 sections:
   - hero:
       background: /images/WEBSITE-MASTHEAD_1920x720px.png
