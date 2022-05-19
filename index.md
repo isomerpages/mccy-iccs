@@ -20,15 +20,16 @@ sections:
           description: ""
           url: /VenueTravelAdvisory
   - infopic:
-      title: Young Leaders' Programme
-      description: Coming up!
-      button: Button Text
-      alt: Image alt text
-  - infopic:
       title: Community Experience
       description: This immersive programme will provide delegates an opportunity to
         experience the manifestation of Singapore’s inter-racial and
         inter-religious harmony policies
+      button: Button Text
+      alt: Image alt text
+      url: /CommunityExperience
+  - infopic:
+      title: Young Leaders' Programme
+      description: "Coming up! "
       button: Read more
       url: /CommunityExperience
       alt: Image alt text
