@@ -31,6 +31,6 @@ sections:
       title: Young Leaders' Programme
       description: "Coming up! "
       button: Read more
-      url: /CommunityExperience
+      url: /ylp
       alt: Image alt text
 ---
