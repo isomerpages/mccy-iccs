@@ -10,12 +10,12 @@ sections:
       background: /images/WEBSITE-MASTHEAD_1920x720px.png
       url: /RegPortal
       key_highlights:
-        - title: "Registration Portal "
-          description: Register TODAY
+        - title: Register NOW
+          description: ""
           url: /RegPortal
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: Programme & Speakers Information
+          description: ""
+          url: /ProgrammeSpeakers
   - infobar:
       title: Infobar title
       subtitle: Subtitle
