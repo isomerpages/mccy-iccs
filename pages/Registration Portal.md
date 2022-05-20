@@ -5,7 +5,7 @@ date: 2022-01-13
 layout: post
 description: ""
 ---
-Please register your interest [HERE](https://go.gov.sg/kmjzt5) to attend ICCS 2022.
+Please register your interest [HERE](https://go.gov.sg/kmjzt5) to attend ICCS 2022.  
 Registration deadline: 8 August 2022, 6pm (SGT)  
 
 You may consider using a personal email account if your work email is connected with high security and privacy settings as email may be transferred to junk folders. 
