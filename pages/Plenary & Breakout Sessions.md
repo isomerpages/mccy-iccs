@@ -5,4 +5,4 @@ date: 2022-01-11
 layout: post
 description: ""
 ---
-Coming soon.
+![Coming Soon](/images/Coming%20Soon.png)
