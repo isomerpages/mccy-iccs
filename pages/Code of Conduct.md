@@ -13,7 +13,7 @@ ICCS is guided by the highest ethical and professional standards, and all partic
 
 # Applicability
 
-The Code of Conduct applies to any ICCS event, which shall include meetings, symposia, assemblies, receptions, scientific and technical events, expert meetings, workshops, exhibits, side events and any other forum organizsed, hosted, or sponsored in whole or part by the ICCS wherever it takes place, and any event or gathering that takes place on ICCS premises whether the ICCS Secretariat is organizsing, hosting, or sponsoring. All speakers, moderators, sponsors, attendees and volunteers at our conference are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.
+The Code of Conduct applies to any ICCS event, which shall include meetings, symposia, assemblies, receptions, scientific and technical events, expert meetings, workshops, exhibits, side events and any other forum organised, hosted, or sponsored in whole or part by the ICCS wherever it takes place, and any event or gathering that takes place on ICCS premises whether the ICCS Secretariat is organising, hosting, or sponsoring. All speakers, moderators, sponsors, attendees and volunteers at our conference are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.
 
 The Code of Conduct applies to all participants at the ICCS event, including all persons attending or involved in any capacity in the ICCS event.
 
