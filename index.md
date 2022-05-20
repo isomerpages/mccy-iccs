@@ -30,8 +30,8 @@ sections:
   - infopic:
       title: Community Experience
       description: This immersive programme will provide delegates an opportunity to
-        experience the manifestation of Singapore’s inter-racial and
-        inter-religious harmony policies
+        experience Singapore’s interracial and interreligious harmony policies
+        in action.
       button: READ MORE
       alt: Community
       url: /CommunityExperience
