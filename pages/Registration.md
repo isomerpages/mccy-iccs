@@ -6,14 +6,13 @@ layout: post
 description: ""
 ---
 Please register your interest [here](https://go.gov.sg/kmjzt5) to attend ICCS 2022.  
-Registration deadline: 8 August 2022, 6pm (SGT)  
+**Registration deadline: 8 August 2022, 6:00pm (SGT)**  
 
 You may consider using a personal email account if your work email is connected with high security and privacy settings as email may be transferred to junk folders. 
 
 **Cancellation**
 
-• All cancellations for the registrations must be notified in writing (by email) to the ICCS Secretariat at iccs2022-secretariat@ntu.edu.sg.  
-• For security reasons, we will not be able to accept any name transfer of a successful registered participant.
+All cancellations for the registrations must be notified in writing (by email) to the ICCS Secretariat at iccs2022-secretariat@ntu.edu.sg. For security reasons, we will not be able to accept any name transfer of a successful registered participant.
 
 **Insurance**
 
