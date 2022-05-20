@@ -20,6 +20,14 @@ sections:
           description: ""
           url: /VenueTravelAdvisory
   - infopic:
+      title: About ICCS
+      description: The International Conference on Cohesive Societies (ICCS) is the
+        preeminent event for interfaith and multicultural dialogue.
+      button: Read more
+      url: /about
+      image: /images/iccs2019.jpg
+      alt: ICCS2019
+  - infopic:
       title: Community Experience
       description: This immersive programme will provide delegates an opportunity to
         experience the manifestation of Singapore’s inter-racial and
