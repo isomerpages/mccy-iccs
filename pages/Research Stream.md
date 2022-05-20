@@ -11,4 +11,4 @@ The ICCS research stream is a new and signature component of the ICCS, which inc
 
 **2. Commentary series** - comprising articles discussing issues relevant to ICCS and published on RSIS’ website. The commentaries are written by a mix of academics, youths and community practitioners, for a wide range of views and expertise.
 
-**3. Post-conference book.** Similar to the ICCS 2019 book, this book will capture main insights and speeches from the conference.
+**3. Post-conference book** - similar to the ICCS 2019 book, this book will capture main insights and speeches from the conference.
