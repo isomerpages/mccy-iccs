@@ -29,7 +29,7 @@ City Hall station on East West Line and North South Line is just below Raffles C
 Parking facilities are available at Raffles City Shopping Centre’s basement areas at prevailing car park fees.
 
 For more information on the venue and hotels, please visit: 
-Meetings & Events - [Swissôtel Hotels And Resorts](swissotel.com)  
+[Swissôtel Hotels And Resorts](swissotel.com)  
 [Fairmont](www.fairmont.com) | [Accor Hotels](www.accorhotels.com)  
 
 # Travel Advisory
