@@ -33,15 +33,13 @@ City Hall station on East West Line and North South Line is just below Raffles C
 **Parking**  
 Parking facilities are available at Raffles City Shopping Centre’s basement areas at prevailing car park fees.
 
-**Map**
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.80178509086!2d103.8534619!3d1.2933959999999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19a67e1cda67%3A0xbdb7ce78de402ad8!2sRaffles%20City%20Convention%20Centre%2C%20Singapore!5e0!3m2!1sen!2ssg!4v1653035972746!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 For more information on the venue and hotels, please visit: 
-Meetings & Events - Swissôtel Hotels And Resorts (swissotel.com)
-www.fairmont.com | www.accorhotels.com  
+Meetings & Events - [Swissôtel Hotels And Resorts](swissotel.com)  
+[Fairmont](www.fairmont.com) | [Accor Hotels](www.accorhotels.com)  
 
 # Travel Advisory
 
-**Visa** 
+**Visa**  
 Please check if you require a visa to travel to Singapore [here](https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements).
 
 Conference participants will be responsible for funding and securing the necessary visa and documentation for entry to Singapore.
@@ -49,7 +47,7 @@ Conference participants will be responsible for funding and securing the necessa
 **Vaccination status**   
 As the COVID-19 situation constantly evolves around us, foreign delegates are strongly encouraged to check for the latest updates on Singapore’s Ministry of Health website and your respective country’s guidelines. You may refer to [Travelling to Singapore](https://safetravel.ica.gov.sg/arriving/overview) for more details.
 
-Since 29 March 2022, the Singapore government has updated our Vaccination-Differentiated Safe Management Measures. Delegates are advised to check the latest update of their eligibility to attend [here](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-MICE.html#MICE).
+Since 29 March 2022, the Singapore government has updated our Vaccination-Differentiated Safe Management Measures. Delegates are advised to check the latest update of their eligibility to attend [here](https://www.moh.gov.sg/covid-19-phase-advisory).
 
 Travellers are required to be fully vaccinated in order to be eligible to travel to Singapore and enter the Conference. You may refer to [Vaccinated Status for Travel to Singapore](https://safetravel.ica.gov.sg/stpl/vaccination-requirements) for more details. 
 
