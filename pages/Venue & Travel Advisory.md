@@ -7,19 +7,19 @@ description: ""
 ---
 ICCS 2022 will take place at the Raffles City Convention Centre, Level 4, located at 80 Bras Basah Road, Singapore 189560. Within the Convention vicinity, there are two hotels, Swissotel The Stamford and Fairmont Singapore to cater to your accommodation needs.  
 
-About Venue’s Meeting Space
-Offering 108.000 sq ft of stylish space and cutting-edge facilities, the newly-renovated Raffles City Convention Centre provides 27 newly-- refreshed multi-functional meeting rooms exploring a progressive design concept, utilising natural light and views.
+**About Venue’s Meeting Space**
+Offering 108.000 sq ft of stylish space and cutting-edge facilities, the newly-renovated Raffles City Convention Centre provides 27 newly-refreshed multi-functional meeting rooms exploring a progressive design concept, utilising natural light and views.
 
 ![](/images/Hotel%20Architectural%20View.jpg)
 
 # How to get there
-Drive
+**Drive**  
 Direction from Changi International Airport:  
 •	From Changi Airport, take the East Coast Expressway (ECP) and exit at the Rochor Road Exit.  
 •	Turn left onto Beach Road.  
 •	Fairmont Singapore is located at the junction of Beach Road and Bras Basah Road.
 
-Bus
+**Bus**  
 The following buses have routes that pass near Raffles City Convention Centre  
 •	10  
 •	75  
@@ -27,10 +27,10 @@ The following buses have routes that pass near Raffles City Convention Centre
 •	131  
 •	502
 
-Train
+**Train**  
 City Hall station on East West Line and North South Line is just below Raffles Convention Centre  
 
-Parking 
+**Parking**  
 Parking facilities are available at Raffles City Shopping Centre’s basement areas at prevailing car park fees.
 
 Click [here](https://www.google.com.sg/maps/place/80+Bras+Basah+Rd,+Singapore+189560/@1.293396,103.8512732,17z/data=!3m1!4b1!4m5!3m4!1s0x31da19a6874e2d39:0x26a8c303651f52d4!8m2!3d1.293396!4d103.8534619) for map of the location.
