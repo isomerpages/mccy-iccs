@@ -32,7 +32,7 @@ sections:
       description: This immersive programme will provide delegates an opportunity to
         experience the manifestation of Singapore’s inter-racial and
         inter-religious harmony policies
-      button: Button Text
+      button: READ MORE
       alt: Community
       url: /CommunityExperience
       image: /images/18June2019ICCSPhotog1-437.jpg
