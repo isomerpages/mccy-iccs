@@ -24,7 +24,7 @@ sections:
       description: The International Conference on Cohesive Societies (ICCS) is the
         preeminent event for interfaith and multicultural dialogue.
       button: Read more
-      url: /about
+      url: /iccs
       image: /images/iccs2019.jpg
       alt: ICCS2019
   - infopic:
