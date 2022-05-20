@@ -34,7 +34,7 @@ City Hall station on East West Line and North South Line is just below Raffles C
 Parking facilities are available at Raffles City Shopping Centre’s basement areas at prevailing car park fees.
 
 Click [here](https://www.google.com.sg/maps/place/80+Bras+Basah+Rd,+Singapore+189560/@1.293396,103.8512732,17z/data=!3m1!4b1!4m5!3m4!1s0x31da19a6874e2d39:0x26a8c303651f52d4!8m2!3d1.293396!4d103.8534619) for map of the location.
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.80178509086!2d103.8534619!3d1.2933959999999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19a67e1cda67%3A0xbdb7ce78de402ad8!2sRaffles%20City%20Convention%20Centre%2C%20Singapore!5e0!3m2!1sen!2ssg!4v1653035972746!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 For more information on the venue and hotels, please visit: 
 Meetings & Events - Swissôtel Hotels And Resorts (swissotel.com)
 www.fairmont.com | www.accorhotels.com  
