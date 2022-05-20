@@ -41,12 +41,12 @@ www.fairmont.com | www.accorhotels.com
 
 # Travel Advisory
 
-Visa  
+**Visa** 
 Please check if you require a visa to travel to Singapore [here](https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements).
 
 Conference participants will be responsible for funding and securing the necessary visa and documentation for entry to Singapore.
 
-Vaccination status   
+**Vaccination status**   
 As the COVID-19 situation constantly evolves around us, foreign delegates are strongly encouraged to check for the latest updates on Singapore’s Ministry of Health website and your respective country’s guidelines. You may refer to [Travelling to Singapore](https://safetravel.ica.gov.sg/arriving/overview) for more details.
 
 Since 29 March 2022, the Singapore government has updated our Vaccination-Differentiated Safe Management Measures. Delegates are advised to check the latest update of their eligibility to attend [here](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-MICE.html#MICE).
