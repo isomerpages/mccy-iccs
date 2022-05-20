@@ -10,6 +10,8 @@ Please register your interest [here](https://go.gov.sg/kmjzt5) to attend ICCS 20
 
 You may consider using a personal email account if your work email is connected with high security and privacy settings as email may be transferred to junk folders. 
 
+# Terms & Conditions  
+
 **Cancellation**
 
 All cancellations for the registrations must be notified in writing (by email) to the ICCS Secretariat at iccs2022-secretariat@ntu.edu.sg. For security reasons, we will not be able to accept any name transfer of a successful registered participant.
