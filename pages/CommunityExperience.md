@@ -8,4 +8,4 @@ This progamme will comprise heartland dialogue and experiences, providing safe p
 
 •	Community Explorations to deepen intercultural understanding and facilitate interpersonal exchange on key tenets, value systems, and socio norms of our diverse cultural and religious landscape. 
 
-•	Community Dialogues in partnership with key stakeholders on interethnic and / interfaith efforts to explore issues of identity, multiculturalism, and interreligious constructs in building cohesive societies.
+•	Community Dialogue in partnership with key stakeholders on interethnic and / interfaith efforts to explore issues of identity, multiculturalism, and interreligious constructs in building cohesive societies.
