@@ -33,7 +33,7 @@ sections:
         experience the manifestation of Singapore’s inter-racial and
         inter-religious harmony policies
       button: Button Text
-      alt: Image alt text
+      alt: Community
       url: /CommunityExperience
       image: /images/18June2019ICCSPhotog1-437.jpg
   - infopic:
