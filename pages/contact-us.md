@@ -5,10 +5,10 @@ permalink: /contact-us/
 agency_name: ICCS Secretariat
 locations:
   - address:
-      - NTU
+      - Nanyang Technological University
       - Block S4, Level B3
       - 50 Nanyang Avenue
-    title: RSIS
+    title: S. Rajaratnam School of International Studies (RSIS)
     operating_hours:
       - days: Mon - Fri
         time: 9.00am - 5.00pm
@@ -26,13 +26,13 @@ locations:
         time: 8.30am - 5.30pm
         description: (Closed on Saturdays, Sundays and Public Holidays)
     maps_link: https://goo.gl/maps/CY5WTqGXqDKWcNgFA
-    title: MCCY
+    title: Ministry of Culture, Community and Youth (MCCY)
 contacts:
   - content:
       - phone: ""
       - email: partnerships@mccy.gov.sg
       - other: ""
-    title: General Enquiries & Feedback
+    title: General enquiries & feedback
   - content:
       - phone: ""
       - email: iccs2022-secretariat@ntu.edu.sg
