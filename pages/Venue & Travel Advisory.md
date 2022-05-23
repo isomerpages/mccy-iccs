@@ -20,7 +20,7 @@ Directions from Changi International Airport:
 •	Fairmont Singapore is located at the junction of Beach Road and Bras Basah Road.
 
 **Bus**  
-The following buses have routes that pass near Raffles City Convention Centre: 
+The following buses have routes that pass near Raffles City Convention Centre:  
 10, 75, 106, 131, 502
 
 **Train**  
@@ -29,7 +29,7 @@ City Hall station on the East West Line Mass Rapid Transit (MRT) line and North 
 **Parking**  
 Parking facilities are available at Raffles City Shopping Centre’s basement areas at prevailing car park fees.
 
-For more information on the venue and hotels, please visit: 
+For more information on the venue and hotels, please visit:  
 [Swissôtel Hotels And Resorts](https://www.swissotel.com/)  
 [Fairmont](https://www.fairmont.com/singapore/) | [Accor Hotels](https://all.accor.com/hotel/A5D3/index.en.shtml)  
 
