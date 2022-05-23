@@ -103,7 +103,7 @@ description: ""
 * Amb Ong Keng Yong on the Importance of Interfaith Harmony and Dialogue, carried on Singapore Tonight (CNA)   
 * Amb Mohammad Alami Musa on the Ground-up Efforts by Muslims to Strengthen Interreligious Understanding, carried on Berita (Suria)   
 
-**13 June 201**9   
+**13 June 2019**   
 * Minister Grace Fu on the Reason Singapore is Hosting the ICCS, carried on Hello Singapore (Channel 8)
 
 # Speeches and News Releases   
