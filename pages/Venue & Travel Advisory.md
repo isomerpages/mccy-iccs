@@ -53,6 +53,6 @@ Please take note from 1 Jan 2022, there will no longer be a concession for unvac
 •	having received the appropriate regimen of World Health Organisation Emergency Use Listing (WHO EUL) vaccines including their respective duration post-vaccination for the vaccine to be fully effective and had their vaccination records ingested in MOH’s national IT systems  
 •	recovery from a COVID-19 infection within the last 180 days
 
-As our event capacity is estimated to be above 500 participants, all patrons are required to do SafeEntry check-in at the venue via the TraceTogether app (version 2.11 and above) or token only. Other modes of SafeEntry check-in will not be accepted.
+As our event capacity is estimated to be above 500 participants, all patrons are required to do SafeEntry check-in at the venue via the [TraceTogether app](https://www.tracetogether.gov.sg/) (version 2.11 and above) or token only. Other modes of SafeEntry check-in will not be accepted.
 
 Note that an approval to enter Singapore may not constitute eligibility to enter the Conference. Hence, kindly ensure that your eligibility applies to both Singapore and the Conference.
