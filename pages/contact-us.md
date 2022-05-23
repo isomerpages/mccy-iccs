@@ -37,5 +37,5 @@ contacts:
       - phone: ""
       - email: iccs2022-secretariat@ntu.edu.sg
       - other: ""
-    title: Partnerships & sponsorships
+    title: Partnerships & sponsorship opportunities
 ---
