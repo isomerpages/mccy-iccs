@@ -33,7 +33,7 @@ For more information on the venue and hotels, please visit:
 [Swissôtel Hotels And Resorts](https://www.swissotel.com/)  
 [Fairmont](https://www.fairmont.com/singapore/) | [Accor Hotels](https://all.accor.com/hotel/A5D3/index.en.shtml)  
 
-# Travel Advisory
+# Travel advisory
 
 **Visa**  
 Please check if you require a visa to travel to Singapore [here](https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements).
