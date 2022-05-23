@@ -5,25 +5,25 @@ date: 2022-01-13
 layout: post
 description: ""
 ---
-**Media coverage**
+# Media coverage
 
-30 June 2019  
+**30 June 2019**  
 * [Unwinding the Biggest Enemies of Religion: A Conversation with Karen Armstrong, Channel NewsAsia](www.channelnewsasia.com/news/singapore/religion-karen-armstrong-unwinding-biggest-enemies-11665658)  
 
-25 June 2019  
+**25 June 2019**  
 * [Working to Expand Space for Cohesion, The Straits Times](www.straitstimes.com/opinion/st-editorial/working-to-expand-space-for-cohesion?xtor=CS3-17&utm_source=STSmartphone&utm_medium=share&utm_term=2019-06-26+08%3A21%3A30)  
 
-24 June 2019                                                                                     
+**24 June 2019**                                                                                     
 * [From Catholic Nun to Respected Author on the World’s Religions, The Straits Times](www.straitstimes.com/singapore/from-catholic-nun-to-respected-author-on-the-worlds-religions)  
 * [Heng Swee Keat Mentioned Rajaratnam’s “Democracy of Deeds” in 2 Different Speeches in a Week, Mothership](https://mothership.sg/2019/06/heng-swee-keat-democracy-of-deeds/)                                                                               
 
-23 June 2019  
+**23 June 201**9  
 * [18 Years and Counting: A Family’s Hari Raya Welcome for All, The Straits Times](https://www.straitstimes.com/singapore/18-years-and-counting-a-familys-hari-raya-welcome-for-all)  
 * [Non-Sikhs Get Crash Course on Community’s Culture and Religion, The Straits Times](www.straitstimes.com/singapore/non-sikhs-get-crash-course-on-communitys-culture-and-religion)   
 * [From a Neo-Nazi to an Advocate for Peace: The Story of a Former White Supremacist, TODAY](www.todayonline.com/singapore/neo-nazi-advocate-peace-story-former-white-supremacist)   
 * What More could be Done for Social Cohesion, carried on Singapore Tonight (CNA)   
 
-22 June 2019   
+**22 June 2019**   
 * [Need to Nurture, Expand Our Common Spaces: DPM Heng Swee Keat, The Straits Times](www.straitstimes.com/singapore/need-to-nurture-expand-our-common-spaces-dpm-heng)   
 * [Inter-faith Studies can Boost Cohesion, Say Experts, The Straits Times](https://www.straitstimes.com/politics/inter-faith-studies-can-boost-cohesion-say-experts)   
 * [Ex-white Supremacist and Anti-terror Activist Share Tales of Extremism, The Straits Times](https://www.straitstimes.com/singapore/ex-white-supremacist-and-anti-terror-activist-share-tales-of-extremism)  
@@ -36,7 +36,7 @@ description: ""
 * [Soal Keimanan, Kemanusiaan Tema Ceramah Muis, Berita Harian](https://www.beritaharian.sg/setempat/soal-keimanan-kemanusiaan-tema-ceramah-muis)  
 * [Presiden Halimah: Negara Kecil Perlu Terus Sedia Tangani Cabaran Luar, Berita Harian](https://www.beritaharian.sg/setempat/presiden-halimah-negara-kecil-perlu-terus-sedia-tangani-cabaran-luar)   
 
-21 June 2019   
+**21 June 2019**   
 * [Countries Must Tackle Common Challenges with Mutual Trust and Respect: Heng Swee Keat, The Straits Times](https://www.straitstimes.com/politics/countries-must-tackle-common-challenges-with-mutual-trust-and-respect-heng-swee-keat)   
 * [Religious and Worldview Studies in Schools can Help Strengthen Social Cohesion, Say Experts, The Straits Times](https://www.straitstimes.com/politics/religious-and-worldview-studies-in-schools-can-help-strengthen-social-cohesion-say-experts)   
 * [Issues Affecting Inter-Religious Ties Can No Longer be Dealt with in Isolation, The Straits Times](https://www.straitstimes.com/politics/issues-affecting-inter-religious-ties-can-no-longer-be-dealt-with-in-isolation)   
@@ -54,7 +54,7 @@ description: ""
 * [Heng Swee Keat: S’pore Learnt to Built Cohesiveness & Diversity the Hard Way But still a Work in Progress, Mothership](https://mothership.sg/2019/06/heng-swee-keat-spore-learnt-to-built-cohesiveness-diversity-the-hard-way-but-still-a-work-in-progress/)   
 * Raja Abdullah: Konflik Israel-Palestina Kobarkan Radikalisme, Republika   
 
-20 June 2019   
+**20 June 2019**   
 * [Religion Should be Part of the Solution for Peace, And Not the Problem: Interfaith Conference, The Straits Times](https://www.straitstimes.com/singapore/religion-should-be-part-of-the-solution-for-peace-and-not-the-problem-interfaith)   
 * [Commitment to Safeguard Religious Harmony Can be Applied in Schools, Workplaces: President Halimah, The Straits Times](https://www.straitstimes.com/singapore/commitment-to-safeguard-religious-harmony-is-important-president-halimah-yacob)   
 * [President Halimah Stresses Key Ingredients for Social Harmony, The Straits Times](https://www.straitstimes.com/singapore/president-halimah-stresses-key-ingredients-for-social-harmony)   
@@ -83,7 +83,7 @@ description: ""
 * [Jordan King: Palestinians Must Have Their State, Al-Bawaba](https://www.albawaba.com/news/jordan-king-palestinians-must-have-their-state-1292517)   
 * [King Delivers Keynote Address at International Conference on Cohesive Societies in Singapore, MENAFN](https://menafn.com/1098662026/King-delivers-keynote-address-at-International-Conference-on-Cohesive-Societies-in-Singapore)   
 
-19 June 2019   
+**19 June 2019**   
 * [International Conference on Cohesive Societies to Discuss Issues Surrounding Faith, Identity and Cohesion, The Straits Times](https://www.straitstimes.com/singapore/international-conference-on-cohesive-societies-to-discuss-issues-surrounding-faith)   
 * [President Halimah Underlines Need to Engage with Diversity, Strengthen Social Cohesion, The Straits Times](https://www.straitstimes.com/singapore/president-halimah-underlines-need-to-engage-with-diversity-strengthen-social-cohesion?xtor=CS3-17&utm_source=STSmartphone&utm_medium=share&utm_term=2019-06-19+21%3A22%3A550)   
 * [“Everyone Has a Role”: President Halimah Meets Young Leaders to Discuss Social Cohesion, The Straits Times](https://www.straitstimes.com/singapore/everyone-has-a-role-president-halimah-meets-young-leaders-to-discuss-social-cohesion)   
@@ -98,12 +98,12 @@ description: ""
 * [King Departs on Singapore Visit, Roya News](https://en.royanews.tv/news/17842/King-departs-on-Singapore-visit)   
 * Jordanian King Abdullah II in Singapore for His Third State Visit, World Times News   
 
-18 June 2019   
+**18 June 2019**   
 * [From Debate to Dialogue: Two Religions, One Friendship and a Common Interfaith Cause, TODAY](https://www.todayonline.com/commentary/debate-dialogue-two-religions-one-friendship-and-common-interfaith-cause)   
 * Amb Ong Keng Yong on the Importance of Interfaith Harmony and Dialogue, carried on Singapore Tonight (CNA)   
 * Amb Mohammad Alami Musa on the Ground-up Efforts by Muslims to Strengthen Interreligious Understanding, carried on Berita (Suria)   
 
-13 June 2019   
+**13 June 201**9   
 * Minister Grace Fu on the Reason Singapore is Hosting the ICCS, carried on Hello Singapore (Channel 8)
 
 # Speeches and News Releases   
@@ -117,25 +117,25 @@ description: ""
 * [News Release on Singapore Hosting the International Conference on Cohesive Societies](https://www.rsis.edu.sg/rsis-news-article/rsis/singapore-set-to-convene-first-international-conference-on-cohesive-societies-to-drive-global-collective-action-for-peace-and-harmony-with-king-abdullah-ii-of-jordan-delivering-the-keynote-address/#.XPhonFwzbIU)   
 * [Speakers’ Biographies](https://www.rsis.edu.sg/wp-content/uploads/2019/05/Annex-Speakers-Biographies.pdf)  
 
-Publications/Op-Eds   
-•	[International Conference on Cohesive Societies, RSIS Event Report, 30 September 2019](https://www.rsis.edu.sg/rsis-publication/rsis/international-conference-on-cohesive-societies/#.Yn3OMNARXb1)   
-•	[After the ICCS – Building Social Cohesion: Committing to a Participatory Approach, RSIS Commentary, 24 July 2019](https://www.rsis.edu.sg/rsis-publication/nssp/after-the-iccs-building-social-cohesion-committing-to-a-participatory-approach/#.Yn3OZdARXb1)   
-•	[Let’s Talk Openly about Religion – Yours and Mine, The Straits Times, 7 July 2019](https://www.straitstimes.com/singapore/lets-talk-openly-about-religion-yours-and-mine?xtor=CS3-17&utm_source=STSmartphone&utm_medium=share&utm_term=2019-07-07+08%3A38%3A00)   
-•	[Forging Community Ties, One Friendly Gesture At a Time, The Straits Times, 30 June 2019](https://www.straitstimes.com/opinion/forging-community-ties-one-friendly-gesture-at-a-time)   
-•	[International Conference on Cohesive Societies – Appreciating Diversity: What Has The ICCS Achieved?, RSIS Commentary, 28 June 2019](https://www.rsis.edu.sg/rsis-publication/rsis/international-conference-on-cohesive-societies-appreciating-diversity-what-has-the-iccs-achieved/#.Yn3OsNARXb1)   
-•	[The Challenge is How We Make the Most of Diversity, The Straits Times, 27 June 2019](https://www.straitstimes.com/opinion/the-challenge-is-how-we-make-the-most-of-diversity?xtor=CS3-17&utm_source=STSmartphone&utm_medium=share&utm_term=2019-06-27+06%3A53%3A35)   
-•	[International Conference on Cohesive Societies – Tolerance and its Enemies: Three Observations, RSIS Commentary, 27 June 2019](https://www.rsis.edu.sg/rsis-publication/cens/international-conference-on-cohesive-societies-tolerance-and-its-enemies-three-observations/?doing_wp_cron=1652412130.0314490795135498046875#.Yn3O49ARXb1)   
-•	[The International Conference on Cohesive Societies – How to Build Cohesive Societies, RSIS Commentary, 25 June 2019   
-•	What’s Needed to Harness the Strengths of Social Diversity, The Straits Times, 20 June 2019](https://www.rsis.edu.sg/rsis-publication/rsis/the-international-conference-on-cohesive-societies-how-to-build-cohesive-societies/#.Yn3O-tARXb1)   
-•	[Forging Cohesive Societies – Living With Religious Diversity, RSIS Commentary, 14 June 2019](https://www.rsis.edu.sg/rsis-publication/rsis/forging-cohesive-societies-living-with-religious-diversity/#.Yn3PHtARXb1)   
-•	[This Hari Raya Puasa and Dragon Boat Festival, Open Homes to Friends of Other Religions and Cultures, Channel NewsAsia, 5 June 2019](https://www.channelnewsasia.com/commentary/religious-holidays-visiting-hari-raya-puasa-dragon-boat-festival-1321381)   
-•	[Terror Attacks and the Confusing Role of Religion, The Straits Times, 23 May 2019](https://www.straitstimes.com/opinion/terror-attacks-and-the-confusing-role-of-religion)   
-•	[Forging Cohesive Societies – Harmonious Co-Existence: What Can Governments Do?, RSIS Commentary, 17 May 2019](https://www.rsis.edu.sg/rsis-publication/rsis/forging-cohesive-societies-harmonious-co-existence-what-can-governments-do/?doing_wp_cron=1652412252.3733899593353271484375#.Yn3PXdARXb2)   
-•	[Singapore is Ready to Facilitate Universal Dialogue to Promote Religious Harmony, Berita Harian, 13 May 2019](https://www.beritaharian.sg/wacana/spura-siap-jadi-pemudah-cara-dialog-sejagat-pelihara-keharmonian-agama)   
-•	[Sri Lankan Attacks and Inter-Communal Relations, RSIS Commentary, 13 May 2019](https://www.rsis.edu.sg/rsis-publication/rsis/sri-lankan-attacks-and-inter-communal-relations/#.Yn3PhdARXb1)   
-•	[Interreligious Dialogue in a World of Conflict and Violence: A Critical Exploration of Confucianism, Interreligious Relations, 1 May 2019](https://www.rsis.edu.sg/rsis-publication/srp/interreligious-relations-irr-issue-4-interreligious-dailogue-in-a-world-of-conflict-and-violence-ba-critical-exploration-of-confucianism/#.Yn3PltARXb1)   
-•	[Forging Cohesive Societies – Singapore’s Multiracialism: A Matter of Identity, RSIS Commentary, 24 April 2019](https://www.rsis.edu.sg/rsis-publication/rsis/forging-cohesive-societies-singapores-multiracialism-a-matter-of-identity/#.Yn3PrNARXb1)   
-•	[Islam and Secularism in Singapore: Between Embracement and Belief, Interreligious Relations, 1 April 2019](https://www.rsis.edu.sg/rsis-publication/srp/interreligious-relations-irr-issue-3-islam-and-secularism-in-singapore-between-embracement-and-belief/#.Yn3PwdARXb1)   
-•	[Living in a Religiously Plural Society: A Muslim Perspective on Being Inclusive Today, Interreligious Relations, 1 March 2019](https://www.rsis.edu.sg/rsis-publication/srp/interreligious-relations-irr-issue-2-living-in-a-religiously-plural-society-a-muslim-perspective-on-being-inclusive-today/#.Yn3P1NARXb1)   
-•	[Interreligious Marriage: Perspectives from the Singaporean Context in Relation to Interreligious Dialogue, Interreligious Relations, 1 February 2019](https://www.rsis.edu.sg/rsis-publication/srp/interreligious-relations-irr-issue-1/#.Yn3P6NARXb1)   
-•	[Plural Traditions in Plural Societies: Inclusivity in Inter-Religious Dialogue, RSIS Commentary, 2 January 2019](https://www.rsis.edu.sg/rsis-publication/rsis/plural-traditions-in-plural-societies-inclusivity-in-inter-religious-dialogue/#.Yn3P-9ARXb1)
+# Publications/Op-Eds   
+* [International Conference on Cohesive Societies, RSIS Event Report, 30 September 2019](https://www.rsis.edu.sg/rsis-publication/rsis/international-conference-on-cohesive-societies/#.Yn3OMNARXb1)   
+* [After the ICCS – Building Social Cohesion: Committing to a Participatory Approach, RSIS Commentary, 24 July 2019](https://www.rsis.edu.sg/rsis-publication/nssp/after-the-iccs-building-social-cohesion-committing-to-a-participatory-approach/#.Yn3OZdARXb1)   
+* [Let’s Talk Openly about Religion – Yours and Mine, The Straits Times, 7 July 2019](https://www.straitstimes.com/singapore/lets-talk-openly-about-religion-yours-and-mine?xtor=CS3-17&utm_source=STSmartphone&utm_medium=share&utm_term=2019-07-07+08%3A38%3A00)   
+* [Forging Community Ties, One Friendly Gesture At a Time, The Straits Times, 30 June 2019](https://www.straitstimes.com/opinion/forging-community-ties-one-friendly-gesture-at-a-time)   
+* [International Conference on Cohesive Societies – Appreciating Diversity: What Has The ICCS Achieved?, RSIS Commentary, 28 June 2019](https://www.rsis.edu.sg/rsis-publication/rsis/international-conference-on-cohesive-societies-appreciating-diversity-what-has-the-iccs-achieved/#.Yn3OsNARXb1)   
+* [The Challenge is How We Make the Most of Diversity, The Straits Times, 27 June 2019](https://www.straitstimes.com/opinion/the-challenge-is-how-we-make-the-most-of-diversity?xtor=CS3-17&utm_source=STSmartphone&utm_medium=share&utm_term=2019-06-27+06%3A53%3A35)   
+* [International Conference on Cohesive Societies – Tolerance and its Enemies: Three Observations, RSIS Commentary, 27 June 2019](https://www.rsis.edu.sg/rsis-publication/cens/international-conference-on-cohesive-societies-tolerance-and-its-enemies-three-observations/?doing_wp_cron=1652412130.0314490795135498046875#.Yn3O49ARXb1)   
+* [The International Conference on Cohesive Societies – How to Build Cohesive Societies, RSIS Commentary, 25 June 2019](https://www.rsis.edu.sg/rsis-publication/rsis/the-international-conference-on-cohesive-societies-how-to-build-cohesive-societies/#.Yn3O-tARXb1)
+* [What’s Needed to Harness the Strengths of Social Diversity, The Straits Times, 20 June 2019](https://www.straitstimes.com/opinion/whats-needed-to-harness-the-strengths-of-social-diversity)
+* [Forging Cohesive Societies – Living With Religious Diversity, RSIS Commentary, 14 June 2019](https://www.rsis.edu.sg/rsis-publication/rsis/forging-cohesive-societies-living-with-religious-diversity/#.Yn3PHtARXb1)   
+* [This Hari Raya Puasa and Dragon Boat Festival, Open Homes to Friends of Other Religions and Cultures, Channel NewsAsia, 5 June 2019](https://www.channelnewsasia.com/commentary/religious-holidays-visiting-hari-raya-puasa-dragon-boat-festival-1321381)   
+* [Terror Attacks and the Confusing Role of Religion, The Straits Times, 23 May 2019](https://www.straitstimes.com/opinion/terror-attacks-and-the-confusing-role-of-religion)   
+* [Forging Cohesive Societies – Harmonious Co-Existence: What Can Governments Do?, RSIS Commentary, 17 May 2019](https://www.rsis.edu.sg/rsis-publication/rsis/forging-cohesive-societies-harmonious-co-existence-what-can-governments-do/?doing_wp_cron=1652412252.3733899593353271484375#.Yn3PXdARXb2)   
+* [Singapore is Ready to Facilitate Universal Dialogue to Promote Religious Harmony, Berita Harian, 13 May 2019](https://www.beritaharian.sg/wacana/spura-siap-jadi-pemudah-cara-dialog-sejagat-pelihara-keharmonian-agama)   
+* [Sri Lankan Attacks and Inter-Communal Relations, RSIS Commentary, 13 May 2019](https://www.rsis.edu.sg/rsis-publication/rsis/sri-lankan-attacks-and-inter-communal-relations/#.Yn3PhdARXb1)   
+* [Interreligious Dialogue in a World of Conflict and Violence: A Critical Exploration of Confucianism, Interreligious Relations, 1 May 2019](https://www.rsis.edu.sg/rsis-publication/srp/interreligious-relations-irr-issue-4-interreligious-dailogue-in-a-world-of-conflict-and-violence-ba-critical-exploration-of-confucianism/#.Yn3PltARXb1)   
+* [Forging Cohesive Societies – Singapore’s Multiracialism: A Matter of Identity, RSIS Commentary, 24 April 2019](https://www.rsis.edu.sg/rsis-publication/rsis/forging-cohesive-societies-singapores-multiracialism-a-matter-of-identity/#.Yn3PrNARXb1)   
+* [Islam and Secularism in Singapore: Between Embracement and Belief, Interreligious Relations, 1 April 2019](https://www.rsis.edu.sg/rsis-publication/srp/interreligious-relations-irr-issue-3-islam-and-secularism-in-singapore-between-embracement-and-belief/#.Yn3PwdARXb1)   
+* [Living in a Religiously Plural Society: A Muslim Perspective on Being Inclusive Today, Interreligious Relations, 1 March 2019](https://www.rsis.edu.sg/rsis-publication/srp/interreligious-relations-irr-issue-2-living-in-a-religiously-plural-society-a-muslim-perspective-on-being-inclusive-today/#.Yn3P1NARXb1)   
+* [Interreligious Marriage: Perspectives from the Singaporean Context in Relation to Interreligious Dialogue, Interreligious Relations, 1 February 2019](https://www.rsis.edu.sg/rsis-publication/srp/interreligious-relations-irr-issue-1/#.Yn3P6NARXb1)   
+* [Plural Traditions in Plural Societies: Inclusivity in Inter-Religious Dialogue, RSIS Commentary, 2 January 2019](https://www.rsis.edu.sg/rsis-publication/rsis/plural-traditions-in-plural-societies-inclusivity-in-inter-religious-dialogue/#.Yn3P-9ARXb1)
