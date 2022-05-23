@@ -23,4 +23,4 @@ The ICCS research stream is a new and signature component of the ICCS, which inc
 * [Towards ICCS 2022 – Cohesion as a Choice: Regardless of Faith and Identity, Jolene Jerard, 23 August 2021](https://www.rsis.edu.sg/rsis-publication/rsis/towards-iccs-2022-cohesion-as-a-choice-regardless-of-faith-and-identity/)
 * [Towards ICCS 2022 – Cohesive Societies, Shared Humanity: Looking Back, Moving Forward, Norman Vasu, 1 July 2021](https://www.rsis.edu.sg/rsis-publication/cens/towards-iccs-2022-cohesive-societies-shared-humanity-looking-back-moving-forward/)
 
-**3. Post-conference book** - similar to the ICCS 2019 book ["Faith, Identity, Cohesion: Building a Better Future"](https://www.rsis.edu.sg/staff-publication/faith-identity-cohesion-building-a-better-future/), this book will capture main insights and speeches from the conference.
+**3. Post-conference book** - similar to the ICCS 2019 book ["Faith, Identity, Cohesion: Building a Better Future"](/pastevents/iccs2019/iccsbook), this book will capture main insights and speeches from the conference.
