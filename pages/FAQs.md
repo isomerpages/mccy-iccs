@@ -14,7 +14,7 @@ You may refer to [Travelling to Singapore](https://safetravel.ica.gov.sg/stpl/va
 
 
 **3.	How can I volunteer for this Conference?**  
-We welcome volunteers who wish to support the Conference in various capacities. You may write to Partnerships@mccy.gov.sg. Your application is subjected to the final approval of the ICCS Secretariat.
+We welcome volunteers who wish to support the Conference in various capacities. You may write to [Partnerships@mccy.gov.sg](mailto: Partnerships@mccy.gov.sg). Your application is subjected to the final approval of the ICCS Secretariat.
 
 
 **4.	Is photography and videography allowed at the event?**  
