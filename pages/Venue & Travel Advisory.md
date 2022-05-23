@@ -14,7 +14,7 @@ Offering 108,000 sq ft of stylish space and cutting-edge facilities, the newly-r
 
 # How to get there
 **Drive**  
-Direction from Changi International Airport:  
+Directions from Changi International Airport:  
 •	From Changi Airport, take the East Coast Expressway (ECP) and exit at the Rochor Road Exit.  
 •	Turn left onto Beach Road.  
 •	Fairmont Singapore is located at the junction of Beach Road and Bras Basah Road.
