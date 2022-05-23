@@ -5,7 +5,7 @@ date: 2022-01-13
 layout: post
 description: ""
 ---
-ICCS 2022 will take place at the Raffles City Convention Centre, Level 4, located at 80 Bras Basah Road, Singapore 189560. In the vicinity, there are two hotels, Swissotel The Stamford and Fairmont Singapore to cater to your accommodation needs.  
+ICCS 2022 will take place at the Raffles City Convention Centre, Level 4, located at 80 Bras Basah Road, Singapore 189560. In the vicinity, there are two hotels, Swissotel The Stamford and Fairmont Singapore, to cater to your accommodation needs.  
 
 # About venue  
 ![](/images/Hotel%20Architectural%20View.jpg)
@@ -47,7 +47,7 @@ Since 26 April 2022, the Singapore government has updated our Vaccination-Differ
 
 Travellers are required to be fully vaccinated in order to be eligible to travel to Singapore and enter the Conference. You may refer to [Vaccinated Status for Travel to Singapore](https://safetravel.ica.gov.sg/stpl/vaccination-requirements) for more details. 
 
-Please take note from 1 Jan 2022, there will no longer be a concession for unvaccinated individuals to perform Pre-Event Testing in lieu of being fully vaccinated. All attendees need to be <sup>#</sup>fully vaccinated against COVID-19.
+Please take note from 1 January 2022, there will no longer be a concession for unvaccinated individuals to perform Pre-Event Testing in lieu of being fully vaccinated. All attendees need to be <sup>#</sup>fully vaccinated against COVID-19.
 
 <sup>#</sup>Full vaccination refers to:  
 •	having received the appropriate regimen of World Health Organisation Emergency Use Listing (WHO EUL) vaccines including their respective duration post-vaccination for the vaccine to be fully effective and had their vaccination records ingested in MOH’s national IT systems  
