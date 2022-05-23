@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: The International Conference on Cohesive Societies
 description: Brief site description here
 image: /images/WEBSITE-BANNER_1920x720px_02.png
 permalink: /
@@ -46,4 +46,5 @@ sections:
       alt: YLP
       image: /images/19June2019ICCSPhotog1_morning-95.jpg
 ---
+
 
