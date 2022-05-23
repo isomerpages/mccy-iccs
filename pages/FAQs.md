@@ -21,7 +21,7 @@ We welcome volunteers who wish to support the Conference in various capacities. 
 Yes, it is allowed if it is appropriate and does not infringe any individual’s rights.
 
 
-**5.	Will there be halal, vegetarian and kosher meals served at the event?**
+**5.	Will there be halal, vegetarian and kosher meals served at the event?**  
 Yes, the venue serves various special dietary meals, including halal, vegetarian and kosher.
 
 **6. What are the parking arrangements at the venue of the event?**  
