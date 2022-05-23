@@ -14,7 +14,7 @@ Offering 108,000 sq ft of stylish space and cutting-edge facilities, the newly-r
 
 # How to get there
 **Map**
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.801776662566!2d103.85127321379274!3d1.293401362116846!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19a67e1cda67%3A0xbdb7ce78de402ad8!2sRaffles%20City%20Convention%20Centre%2C%20Singapore!5e0!3m2!1sen!2ssg!4v1653285458064!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8017766625676!2d103.85127321418102!3d1.2934013621159175!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19a67e1cda67%3A0xbdb7ce78de402ad8!2sRaffles%20City%20Convention%20Centre%2C%20Singapore!5e0!3m2!1sen!2ssg!4v1653302579208!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 **Drive**  
 Directions from Changi International Airport:  
 •	From Changi Airport, take the East Coast Expressway (ECP) and exit at the Rochor Road Exit.  
