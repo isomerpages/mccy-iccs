@@ -43,7 +43,7 @@ Conference participants will be responsible for funding and securing the necessa
 **Vaccination status**   
 As the COVID-19 situation constantly evolves around us, foreign delegates are strongly encouraged to check for the latest updates on Singapore’s Ministry of Health website and your respective country’s guidelines. You may refer to [Travelling to Singapore](https://safetravel.ica.gov.sg/arriving/overview) for more details.
 
-Since 26 April 2022, the Singapore government has updated our Vaccination-Differentiated Safe Management Measures. Delegates are advised to check the latest update of their eligibility to attend [here](https://www.moh.gov.sg/covid-19-phase-advisory).
+Since 26 April 2022, the Singapore government has updated our Vaccination-Differentiated Safe Management Measures. Delegates are advised to check the latest update from Singapore's Ministry of Health [here](https://www.moh.gov.sg/covid-19-phase-advisory).
 
 Travellers are required to be fully vaccinated in order to be eligible to travel to Singapore and enter the Conference. You may refer to [Vaccinated Status for Travel to Singapore](https://safetravel.ica.gov.sg/stpl/vaccination-requirements) for more details. 
 
@@ -53,6 +53,6 @@ Please take note from 1 Jan 2022, there will no longer be a concession for unvac
 •	having received the appropriate regimen of World Health Organisation Emergency Use Listing (WHO EUL) vaccines including their respective duration post-vaccination for the vaccine to be fully effective and had their vaccination records ingested in MOH’s national IT systems  
 •	recovery from a COVID-19 infection within the last 180 days
 
-As our event capacity is estimated to be above 500 participants, all patrons are required to do SafeEntry check-in at the venue via the TraceTogether app (version 2.11 and above) or token only.  Other modes of SafeEntry check-in will not be accepted.
+As our event capacity is estimated to be above 500 participants, all patrons are required to do SafeEntry check-in at the venue via the TraceTogether app (version 2.11 and above) or token only. Other modes of SafeEntry check-in will not be accepted.
 
 Note that an approval to enter Singapore may not constitute eligibility to enter the Conference. Hence, kindly ensure that your eligibility applies to both Singapore and the Conference.
