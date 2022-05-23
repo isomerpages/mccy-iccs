@@ -7,7 +7,7 @@ description: ""
 ---
 # Purpose
 
-The ICCS Secretariat is committed to enabling events at which everyone can participate in an inclusive, respectful, and safe environment.
+The ICCS Secretariat is committed to enabling events at which everyone can participate in an inclusive, respectful and safe environment.
 
 ICCS is guided by the highest ethical and professional standards, and all participants are expected to behave with integrity and respect towards all participants attending or involved with any ICCS event.
 
