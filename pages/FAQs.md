@@ -22,7 +22,7 @@ Yes, it is allowed if it is appropriate and does not infringe any individual’s
 
 
 **5.	Will there be halal, vegetarian and kosher meals served at the event?**  
-Yes, the venue serves various special dietary meals, including halal, vegetarian and kosher.
+Yes, there will be various special dietary meals, including including halal, vegetarian and kosher, served at the event.
 
 **6. What are the parking arrangements at the venue of the event?**  
 There are public parking lots within the convention centre, located in basement 1 and 2.
