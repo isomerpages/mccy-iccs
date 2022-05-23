@@ -24,7 +24,7 @@ The following buses have routes that pass near Raffles City Convention Centre:
 10, 75, 106, 131, 502
 
 **Train**  
-City Hall station on East West Line and North South Line is just below Raffles Convention Centre  
+City Hall station on the East West Line Mass Rapid Transit (MRT) line and North South MRT Line is connected directly to the Raffles City Convention Centre.
 
 **Parking**  
 Parking facilities are available at Raffles City Shopping Centre’s basement areas at prevailing car park fees.
