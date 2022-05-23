@@ -30,8 +30,8 @@ City Hall station on the East West Line Mass Rapid Transit (MRT) line and North 
 Parking facilities are available at Raffles City Shopping Centre’s basement areas at prevailing car park fees.
 
 For more information on the venue and hotels, please visit: 
-[Swissôtel Hotels And Resorts](swissotel.com)  
-[Fairmont](www.fairmont.com) | [Accor Hotels](www.accorhotels.com)  
+[Swissôtel Hotels And Resorts](https://www.swissotel.com/)  
+[Fairmont](https://www.fairmont.com/singapore/) | [Accor Hotels](https://all.accor.com/hotel/A5D3/index.en.shtml)  
 
 # Travel Advisory
 
