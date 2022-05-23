@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/WEBSITE-BANNER_1920x720px_02.png
-      filter: none;
+      filter: grayscale(100%);
       url: /RegPortal
       key_highlights:
         - title: Register NOW
