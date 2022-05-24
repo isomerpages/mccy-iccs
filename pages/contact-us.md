@@ -37,5 +37,5 @@ contacts:
       - phone: ""
       - email: partnerships@mccy.gov.sg
       - other: ""
-    title: Partnerships & sponsorship opportunities
+    title: Partnership & sponsorship opportunities
 ---
