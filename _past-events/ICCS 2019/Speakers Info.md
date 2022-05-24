@@ -29,7 +29,7 @@ The inaugural ICCS featured speakers from various backgrounds and experiences:
 **Plenary 2 Speakers:**  
 •	Lord John Alderdice, House of Lords, United Kingdom  
 •	Mr Christian Picciolini, Founder, Free Radicals Project  
-•	Dr Azza Karam, Senior Advisor on Culture, United National Population Fund and Coordinator, United Nations Inter-Agency Task Force on Religion and Development  
+•	Dr Azza Karam, Senior Advisor on Culture, United Nations Population Fund and Coordinator, United Nations Inter-Agency Task Force on Religion and Development  
 •	Professor Chaiwat Satha-Anand, Professor of Political Science, Thammasat University and Founder, Thai Peace Information Centre
 
 **Plenary 2 Moderator:**  
