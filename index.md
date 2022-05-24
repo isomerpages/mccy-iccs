@@ -35,7 +35,7 @@ sections:
       button: READ MORE
       alt: Community
       url: /CommunityExperience
-      image: /images/18June2019ICCSPhotog1-437.jpg
+      image: /images/21June2019ICCSPhotog1-472.jpg
   - infopic:
       title: Young Leaders' Programme
       description: The YLP is a platform for young leaders from ASEAN and around the
@@ -46,5 +46,3 @@ sections:
       alt: YLP
       image: /images/19June2019ICCSPhotog1_morning-95.jpg
 ---
-
-
