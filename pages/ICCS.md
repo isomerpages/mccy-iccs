@@ -5,7 +5,7 @@ date: 2022-01-11
 layout: post
 description: ""
 ---
-The International Conference on Cohesive Societies (ICCS) is the preeminent event for interfaith and multicultural dialogue. First mooted by President of Singapore Halimah Yacob, the Conference was held in Singapore for the first time in 2019, showcasing the tropical island-state’s unique approach to managing communal ties within a diverse population. It is organised by the S. Rajaratnam School of International Studies (RSIS) and supported by the Ministry of Culture, Community and Youth (MCCY).
+The International Conference on Cohesive Societies (ICCS) is the preeminent event for interfaith and multicultural dialogue. Mooted by President of Singapore Halimah Yacob, the Conference was held in Singapore for the first time in 2019, showcasing the tropical island-state’s unique approach to managing communal ties within a diverse population. It is organised by the S. Rajaratnam School of International Studies (RSIS) and supported by the Ministry of Culture, Community and Youth (MCCY).
 
 ![President on stage](/images/icciccsstage.jpg)
 
