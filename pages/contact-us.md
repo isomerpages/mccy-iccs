@@ -30,12 +30,12 @@ locations:
 contacts:
   - content:
       - phone: ""
-      - email: partnerships@mccy.gov.sg
+      - email: iccs2022-secretariat@ntu.edu.sg
       - other: ""
     title: General enquiries & feedback
   - content:
       - phone: ""
-      - email: iccs2022-secretariat@ntu.edu.sg
+      - email: partnerships@mccy.gov.sg
       - other: ""
     title: Partnerships & sponsorship opportunities
 ---
