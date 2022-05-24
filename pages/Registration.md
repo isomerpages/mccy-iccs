@@ -10,7 +10,7 @@ Registration deadline: 8 August 2022, 6:00pm (SGT)**
 
 You may consider using a personal email account if your work email is connected with high security and privacy settings as email may be transferred to junk folders. 
 
-<div style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/622aae543e69470013076c8d">here</a>.</div>
+<div style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loaded, you can also fill it in <a href="https://form.gov.sg/622aae543e69470013076c8d">here</a>.</div>
 
 <!-- Change the width and height values to suit you best -->
 <iframe id="iframe" src="https://form.gov.sg/622aae543e69470013076c8d" style="width:100%;height:500px"></iframe>
