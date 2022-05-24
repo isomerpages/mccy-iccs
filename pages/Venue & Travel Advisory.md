@@ -14,7 +14,7 @@ Offering 108,000 sq ft of stylish space and cutting-edge facilities, the newly-r
 
 # How to get there
 **Map**
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8017766625676!2d103.85127321418102!3d1.2934013621159175!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19a67e1cda67%3A0xbdb7ce78de402ad8!2sRaffles%20City%20Convention%20Centre%2C%20Singapore!5e0!3m2!1sen!2ssg!4v1653302579208!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 **Drive**  
 Directions from Changi International Airport:  
 •	From Changi Airport, take the East Coast Expressway (ECP) and exit at the Rochor Road Exit.  
@@ -38,23 +38,13 @@ For more information on the venue and hotels, please visit:
 # Travel advisory
 
 **Visa**  
-Please check if you require a visa to travel to Singapore [here](https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements).
+Please check if you require a visa to travel to Singapore [here](https://www.ica.gov.sg/enteranddeparting/before/entryvisa).
 
 Conference participants will be responsible for funding and securing the necessary visa and documentation for entry to Singapore.
 
+You acknowledge that you will be responsible for visa matters related to your entry to Singapore.
+
 **Vaccination status**   
-As the COVID-19 situation constantly evolves around us, foreign delegates are strongly encouraged to check for the latest updates on Singapore’s Ministry of Health website and your respective country’s guidelines. You may refer to [Travelling to Singapore](https://safetravel.ica.gov.sg/arriving/overview) for more details.
+Singapore has implemented a COVID-19 Vaccinated Travel Framework to facilitate the resumption of travel. Please use the automated self-help tool [here](https://www.checkfirst.gov.sg/c/dd77809b-88f7-4fa9-a93e-e5dd4862f692) to determine the latest entry and health requirements.
 
-Since 26 April 2022, the Singapore government has updated our Vaccination-Differentiated Safe Management Measures. Delegates are advised to check the latest update from Singapore's Ministry of Health [here](https://www.moh.gov.sg/covid-19-phase-advisory).
-
-Travellers are required to be fully vaccinated in order to be eligible to travel to Singapore and enter the Conference. You may refer to [Vaccinated Status for Travel to Singapore](https://safetravel.ica.gov.sg/stpl/vaccination-requirements) for more details. 
-
-Please take note from 1 January 2022, there will no longer be a concession for unvaccinated individuals to perform Pre-Event Testing in lieu of being fully vaccinated. All attendees need to be <sup>#</sup>fully vaccinated against COVID-19.
-
-<sup>#</sup>Full vaccination refers to:  
-•	having received the appropriate regimen of World Health Organisation Emergency Use Listing (WHO EUL) vaccines including their respective duration post-vaccination for the vaccine to be fully effective and had their vaccination records ingested in MOH’s national IT systems  
-•	recovery from a COVID-19 infection within the last 180 days
-
-As our event capacity is estimated to be above 500 participants, all patrons are required to do SafeEntry check-in at the venue via the [TraceTogether app](https://www.tracetogether.gov.sg/) (version 2.11 and above) or token only. Other modes of SafeEntry check-in will not be accepted.
-
-Note that an approval to enter Singapore may not constitute eligibility to enter the Conference. Hence, kindly ensure that your eligibility applies to both Singapore and the Conference.
+You acknowledge that you will be fully vaccinated, and will be responsible for preparing the necessary based on the checklist for fully vaccinated travellers as seen [here](https://safetravel.ica.gov.sg/arriving/general-travel/fully-vaccinated).
