@@ -21,7 +21,7 @@ You may consider using a personal email account if your work email is connected 
 
 **Cancellation**
 
-All cancellations for the registrations must be notified in writing (by email) to the ICCS Secretariat at iccs2022-secretariat@ntu.edu.sg. For security reasons, we will not be able to accept any name transfer of a successful registered participant.
+All cancellations for the registrations must be notified in writing (by email) to the ICCS Secretariat at [iccs2022-secretariat@ntu.edu.sg](mailto:iccs2022-secretariat@ntu.edu.sg). For security reasons, we will not be able to accept any name transfer of a successful registered participant.
 
 **Insurance**
 
@@ -37,6 +37,6 @@ Data collected may be stored or used by us or our third-party service providers 
 
 **Contact Information**
 
-For any questions you may have in relation to registration, please contact the ICCS Secretariat at iccs2022-secretariat@ntu.edu.sg.
+For any questions you may have in relation to registration, please contact the ICCS Secretariat at [iccs2022-secretariat@ntu.edu.sg](mailto:iccs2022-secretariat@ntu.edu.sg).
 
 We look forward to seeing you at ICCS 2022.
