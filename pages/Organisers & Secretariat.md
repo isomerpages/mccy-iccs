@@ -7,12 +7,13 @@ description: ""
 ---
 The International Conference on Cohesive Societies (ICCS) is organised by the S. Rajaratnam School of International Studies (RSIS), Nanyang Technological University, Singapore, with the support of the Ministry of Culture, Community and Youth (MCCY). 
 
-<img src="/images/RSIS%20logo.svg" width="300" height="auto">
+
 ![RSIS logo](/images/RSIS%20logo.svg)
 
 The S. Rajaratnam School of International Studies (RSIS) is a think tank and professional graduate school of international affairs at the Nanyang Technological University, Singapore. An autonomous school, RSIS’ mission is to be a leading research and graduate teaching institution in strategic and international affairs in the Asia Pacific.
 
 More information on RSIS [here](www.rsis.edu.sg).
+
 
 ![MCCY logo](/images/MCCY%20logo.jpg)
 
