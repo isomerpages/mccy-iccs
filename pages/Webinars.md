@@ -2,4 +2,5 @@
 title: Webinars
 permalink: /webinars/
 ---
-![Coming Soon](/images/Coming%20Soon.png)
+<img src="/images/Coming%20Soon.png" 
+     style="width:70%">
