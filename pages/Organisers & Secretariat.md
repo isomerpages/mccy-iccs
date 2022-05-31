@@ -16,8 +16,8 @@ The S. Rajaratnam School of International Studies (RSIS) is a think tank and pro
 More information on RSIS [here](www.rsis.edu.sg).
 
 <br>
-<img src="/images/MCCY%20logo.jpg" 
-     style="width:56%">
+<img src="/images/MCCY-logo-full-colour-FA.png" 
+     style="width:50%">
 		 
 The Ministry of Culture, Community and Youth seeks to inspire Singaporeans through the arts and sports, strengthen community bonds, and promote volunteerism and philanthropy. Since its inception in November 2012, MCCY has been actively engaging the arts, heritage, sports, and community and youth sectors. The Ministry aims to bring into sharper focus the efforts to build a more cohesive and vibrant society, and to deepen a sense of identity and belonging to the nation. MCCY works with its stakeholders to create an environment where Singaporeans can pursue their aspirations for a better quality of life and together, and build a gracious and caring society we are proud to call home.
 
