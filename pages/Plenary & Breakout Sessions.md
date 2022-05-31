@@ -5,4 +5,5 @@ date: 2022-01-11
 layout: post
 description: ""
 ---
-![Coming Soon](/images/Coming%20Soon.png)
+<img src="/images/Coming%20Soon.png" 
+     style="width:70%">
