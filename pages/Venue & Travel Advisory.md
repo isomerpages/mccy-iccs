@@ -9,7 +9,7 @@ ICCS 2022 will take place at the Raffles City Convention Centre, Level 4, locate
 
 # About venue  
 <img src="/images/Hotel%20Architectural%20View.jpg" 
-     style="width:50%">
+     style="width:75%">
 
 Offering 108,000 sq ft of stylish space and cutting-edge facilities, the newly-renovated Raffles City Convention Centre provides 27 newly-refreshed multi-functional meeting rooms exploring a progressive design concept, utilising natural light and views.
 
