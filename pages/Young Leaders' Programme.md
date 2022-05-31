@@ -11,12 +11,10 @@ We have prepared an exciting line-up of programmes to meaningfully engage partic
 
 Key segments of the programme include:
 
-* **Innovation Track** is a showcase of ground-up initiatives that foster learning and interaction to tackle social cohesion problems  
+* **Innovation Track:** A showcase of ground-up initiatives that foster learning and interaction to tackle social cohesion problems.
 
-* **TED Talk-style Sharing Sessions** by young faith leaders who are also social media influencers
+* **TED Talk-style Sharing Sessions:** Conducted by young faith leaders who are also social media influencers.
 
-* **Youth Dialogue** for open and honest sharing on pertinent social cohesion topics of the day 
+* **Youth Dialogue:** For open and honest sharing on pertinent social cohesion topics of the day.
 
-* **Workshop** by prominent guest speaker to inspire true leadership and interfaith relationships and cooperation 
-
-Watch this space and follow our Facebook and Instagram pages for snippets of our programme.
+* **Workshop:** By prominent guest speaker to inspire true leadership and interfaith relationships and cooperation.
