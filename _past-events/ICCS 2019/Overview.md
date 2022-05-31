@@ -10,4 +10,4 @@ Centred around the theme of “Many Communities, One Shared Future”, ICCS 2019
 
 The Conference discussed themes of building social cohesion and interfaith harmony, bringing together international thought leaders across academia, government, religious groups and the civic sector. Such conversations are critical, especially in a world where identity politics is growing, where societies are fracturing along the lines of race, religion, class and nationality, and where communities are trying to heal from discord and strife.
 
-More information on ICCS 2019 [here](www.rsis.edu.sg/event/international-conference-on-cohesive-societies/#.YmtP93URXb2).
+More information on ICCS 2019 <a href="https://www.rsis.edu.sg/event/international-conference-on-cohesive-societies/#.YoWxetARXb1" target="_blank">here.</a>
