@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/WEBSITE-BANNER_1920x720px_02.png
+      background: /images/WEBSITE-BANNER_1920x720px_OK.png
       url: /RegPortal
       key_highlights:
         - title: Register NOW
