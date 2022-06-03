@@ -5,19 +5,19 @@ permalink: /contact-us/
 agency_name: ICCS Secretariat
 locations:
   - address:
-      - NTU
+      - Nanyang Technological University
       - Block S4, Level B3
       - 50 Nanyang Avenue
     operating_hours: []
     maps_link: https://goo.gl/maps/eovuxzziArrwb5Se6
-    title: RSIS
+    title: S. Rajaratnam School of International Studies (RSIS)
   - address:
       - 140 Hill Street
       - "#01-01A"
       - Singapore 179369
     operating_hours: []
     maps_link: https://goo.gl/maps/CY5WTqGXqDKWcNgFA
-    title: MCCY
+    title: Ministry of Culture, Community and Youth
 contacts:
   - content:
       - phone: ""
