@@ -2,7 +2,7 @@ title: The International Conference on Cohesive Societies
 url: ""
 favicon: /images/01-ICCS-Standard_CMYK.png
 colors:
-  primary-color: "#00838f"
+  primary-color: "#00b0a6"
   secondary-color: "#2b3062"
   media-colors:
     - title: media-color-one
@@ -10,11 +10,11 @@ colors:
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
-      color: "#00838f"
+      color: "#00b0a6"
     - title: media-color-four
-      color: "#00838f"
+      color: "#00b0a6"
     - title: media-color-five
-      color: "#00838f"
+      color: "#00b0a6"
 resources_name: resource
 description: An Isomer site of the Singapore Government
 permalink: none
