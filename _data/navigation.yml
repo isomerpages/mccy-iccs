@@ -29,13 +29,6 @@ links:
         url: /CodeofConduct
       - title: FAQs
         url: /faqs
-  - title: "Upcoming Events "
-    url: /Webinars
-    sublinks:
-      - title: Webinars
-        url: /Webinars
-      - title: Research Symposium
-        url: /ResearchSymposium
   - title: Past Events
     collection: past-events
   - title: Media
