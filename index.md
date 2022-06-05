@@ -8,11 +8,10 @@ notification: ""
 sections:
   - hero:
       background: /images/WEBSITE-BANNER_1920x720px_OK.png
-      url: /Registration
       key_highlights:
-        - title: Register NOW
+        - title: Register Now
           description: ""
-          url: /RegPortal
+          url: /Registration
         - title: Programme & Speakers Information
           description: ""
           url: /ProgrammeSpeakers
