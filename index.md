@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/WEBSITE-BANNER_1920x720px_OK.png
-      url: /RegPortal
+      url: /Registration
       key_highlights:
         - title: Register NOW
           description: ""
