@@ -22,7 +22,7 @@ links:
     url: /RegPortal
     sublinks:
       - title: Registration
-        url: /RegPortal
+        url: /Registration
       - title: Venue & Travel Advisory
         url: /VenueTravelAdvisory
       - title: Code of Conduct
