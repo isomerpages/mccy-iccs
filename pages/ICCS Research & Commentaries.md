@@ -5,13 +5,11 @@ date: 2022-01-13
 layout: post
 description: ""
 ---
-
-
 The ICCS Research and Commentaries is a new and signature component of the ICCS, which includes:
 
-**1. Regional survey** - to foster more evidence-based discussions around the themes of ICCS. The survey will provide cross-country findings on social cohesion in the region and give insight into the core elements of social cohesion.
+**1. Regional survey:** to foster more evidence-based discussions around the themes of ICCS. The survey will provide cross-country findings on social cohesion in the region and give insight into the core elements of social cohesion.
 
-**2. Commentary series** - comprising articles discussing issues relevant to ICCS and published on RSIS’ website. The commentaries are written by a mix of academics, youths and community practitioners, for a wide range of views and expertise. Links to read the commentaries:
+**2. Commentary series:** comprising articles discussing issues relevant to ICCS and published on RSIS’ website. The commentaries are written by a mix of academics, youths and community practitioners for a wide range of views and expertise. Links to read the commentaries:
 * [Towards ICCS 2022 – Buddhist Diplomacy: Potential for Regional Cohesion, Jack Meng-Tat Chia, 10 May 2022](https://www.rsis.edu.sg/rsis-publication/rsis/towards-iccs-2022-buddhist-diplomacy-potential-for-regional-cohesion/)
 * [Towards ICCS 2022 – Coexisting with Diversity and Differences, Ali Rashid Al Nuaimi, 21 April 2022](https://www.rsis.edu.sg/rsis-publication/rsis/towards-iccs-2022-coexisting-with-diversity-and-differences/)
 * [Towards ICCS 2022 – Repairing the World: Faith Against Online Hate, Yudit Greenberg, 22 March 2022](https://www.rsis.edu.sg/rsis-publication/rsis/towards-iccs-2022-repairing-the-world-faith-against-online-hate/)
