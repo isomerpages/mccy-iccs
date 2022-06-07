@@ -35,7 +35,7 @@ sections:
       button: READ MORE
       alt: Community
       url: /CommunityExperience
-      image: /images/21June2019ICCSPhotog1-472.jpg
+      image: /images/21June2019ICCSPhotog1-558a.jpg
   - infopic:
       title: Young Leaders' Programme
       description: The YLP is a platform for young local and international leaders to
