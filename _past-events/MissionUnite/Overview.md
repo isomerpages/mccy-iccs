@@ -4,10 +4,10 @@ permalink: /past-events/MissionUnite/Overview
 description: ""
 third_nav_title: MissionUnite
 ---
-The inaugural Mission:Unite hackathon was held in 2020 to challenge youths to ideate solutions that promote racial and religious (R&R) harmony. Mission:Unite was a follow-up to the International Conference on Cohesive Societies (ICCS) and Young Leaders’ Programme (YLP) held in June 2019, to build on conversations around social cohesion and turn ideas into reality.
+The inaugural Mission:Unite hackathon was held in 2020 to challenge youths to ideate solutions that promote racial and religious harmony. Mission:Unite was a follow-up to the International Conference on Cohesive Societies (ICCS) and Young Leaders’ Programme (YLP) held in June 2019, to build on conversations around social cohesion and turn ideas into reality.
 
 During the launch of the hackathon on 27 November 2020, Guest-of-Honour Minister-of-State Alvin Tan helmed a panel discussion on facilitating racial and religious harmony in online and offline spaces in the midst of the COVID-19 pandemic. Over two consecutive weekends, participants from schools and religious and community organisations came together to form teams, participate in workshops, and receive guidance from mentors to develop and pitch their ideas to a panel of judges. 
 
 During the finale on 5 December 2020, Singapore’s President Halimah Yacob delivered the closing speech, observed the idea pitching, and interacted with the teams after the event. President Halimah Yacob announced that the second edition of ICCS would be held in 2022 in her speech. Link to her speech available here. 
 
-The ten finalist teams received funding support of between SGD10,000 to SGD50,000 to carry out their social cohesion projects. 
+The ten finalist teams received funding support of between SGD10,000 to SGD50,000 to carry out their social cohesion projects.
