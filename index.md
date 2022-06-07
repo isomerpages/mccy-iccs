@@ -20,8 +20,9 @@ sections:
           url: /VenueTravelAdvisory
   - infopic:
       title: About ICCS
-      description: The International Conference on Cohesive Societies (ICCS) is the
-        preeminent event for interfaith and multicultural dialogue.
+      description: We have many identities, all intertwining and defining us as
+        individuals. How can we unite despite our differences? Let’s explore
+        through ICCS 2022.
       button: Read more
       url: /iccs
       image: /images/iccs2019.jpg
