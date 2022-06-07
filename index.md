@@ -38,9 +38,9 @@ sections:
       image: /images/21June2019ICCSPhotog1-472.jpg
   - infopic:
       title: Young Leaders' Programme
-      description: The YLP is a platform for young leaders from ASEAN and around the
-        world to network and share ideas on social cohesion and community
-        building.
+      description: The YLP is a platform for young local and international leaders to
+        network and collaborate on initiatives around social cohesion and
+        community building.
       button: Read more
       url: /ylp
       alt: YLP
