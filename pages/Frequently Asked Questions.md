@@ -25,7 +25,7 @@ Yes, snippets of the speeches and plenary sessions will be made available on the
 As a general guideline, participants will be able to ask questions during the panel discussion segments that follow some speeches and during plenary sessions. Specific guidelines will be communicated during the sessions as needed.  
 
 **7.	How can I volunteer for this Conference?**  
-We welcome volunteers who wish to support the Conference in various capacities. You may write to [iccs2022-secretariat@ntu.edu.sg]([mailto:iccs2022-secretariat@ntu.edu.sg]). Your application is subjected to the final approval of the ICCS Secretariat.
+We welcome volunteers who wish to support the Conference in various capacities. You may write to <a href="mailto:iccs2022-secretariat@ntu.edu.sg">iccs2022-secretariat@ntu.edu.sg</a>. Your application is subjected to the final approval of the ICCS Secretariat.
 
 **8.	Is photography and videography allowed at the event?**  
 Yes, it is allowed if it is appropriate and does not infringe any individual’s rights. Photographs and videos of you may be taken during the event for the purpose of conducting publicity and developing promotional materials. The event is open for coverage, including media reporting.
