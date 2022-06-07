@@ -20,7 +20,7 @@ sections:
           url: /VenueTravelAdvisory
   - infopic:
       title: What's in store this ICCS
-      description: We have many identities, all intertwining and defining us as
+      description: We have many identities, intertwining and defining us as
         individuals. How can we unite despite our differences? Let’s explore
         through ICCS 2022.
       button: Read more
