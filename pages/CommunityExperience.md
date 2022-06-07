@@ -8,8 +8,10 @@ This programme will comprise a heartland dialogue and various activities, provid
 
 •	**Community Explorations**: Through visits to places of worship around Singapore, participants will have the opportunity to deepen intercultural understanding, and discuss the value systems and socio norms of Singapore's diverse cultural and religious landscape.
 
+![](/images/21june2019iccsphotog3-225.jpg)
+<font color = "grey"><font size="-1">Delegates visiting Singapore's places of worship as part of the Community Experience programme at ICCS 2019. (Photo: MCCY)</font></font>
+
 •	**Community Dialogue**: Participants will get to engage with experts on Singapore's interethnic and interfaith efforts, and explore issues of identity, multiculturalism and interreligious constructs in building cohesive societies.
 
-![Community Experience 1](/images/21June2019ICCSPhotog1-471.jpg)
-
-![Community Experience 2](/images/21June2019ICCSPhotog1-509.jpg)
+![](/images/21june2019iccsphotog3-293a.jpg)
+<font color = "grey"><font size="-1">Delegates visiting the Nagore Dargah Indian Muslim Heritage Centre in Singapore as part of the Community Experience programme at ICCS 2019. (Photo: MCCY)</font></font>
