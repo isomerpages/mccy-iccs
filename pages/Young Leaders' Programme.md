@@ -7,7 +7,7 @@ The Young Leaders' Programme (YLP) is a platform for young local and internation
 
 YLP 2022 will involve up to 120 young leaders – from the region and beyond – who are actively engaged or leading interfaith and peacebuilding efforts. Social media stars such as Rev Chris Lee and fashionista Yasmin Jay will also join us as speakers to share more on their experiences!
 
-We have prepared an exciting line-up of programmes to meaningfully engage participants, and we hope to forge friendships that will continue beyond this Conference, catalysing cross-border actions for deeper collaborative efforts and exposure.
+We have prepared an exciting line-up of programmes to meaningfully engage participants, and hope to forge friendships that will continue beyond this Conference, catalysing cross-border actions for deeper collaborative efforts and exposure.
 
 Key segments of the programme include:
 
