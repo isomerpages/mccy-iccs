@@ -12,7 +12,7 @@ sections:
         - title: Register Now
           description: ""
           url: /Registration
-        - title: Programme & Speakers Information
+        - title: Programme & Speakers
           description: ""
           url: /ProgrammeSpeakers
         - title: Venue & Travel Advisory
