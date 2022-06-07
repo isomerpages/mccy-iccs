@@ -44,5 +44,5 @@ sections:
       button: Read more
       url: /ylp
       alt: YLP
-      image: /images/19June2019ICCSPhotog1_morning-95.jpg
+      image: /images/18June2019ICCSPhotog1-34.jpg
 ---
