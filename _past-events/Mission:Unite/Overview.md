@@ -8,7 +8,8 @@ The inaugural Mission:Unite hackathon was held in 2020 to challenge youths to id
 
 During the launch of the hackathon on 27 November 2020, Minister of State Alvin Tan helmed a panel discussion on facilitating racial and religious harmony in online and offline spaces in the midst of the COVID-19 pandemic. Over two consecutive weekends, participants from schools and religious and community organisations came together to form teams, participate in workshops, and receive guidance from mentors to develop and pitch their ideas to a panel of judges. 
 
-![](/images/38682.jpg)teering Committee at ICCS 2019 on 19 June 2019. (Photo: MCCY)</font></font>
+![](/images/38682.jpg)
+<font color = "grey"><font size="-1">Mission:Unite finalists presenting their pitches on 5 December 2020. (Photos: IRCC)</font></font>
 
 During the finale on 5 December 2020, Singapore’s President Halimah Yacob delivered the closing speech, observed the idea pitching, and interacted with the teams after the event.
 
