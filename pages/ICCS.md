@@ -13,6 +13,7 @@ We will also cast a spotlight on youth as future leaders in an increasingly digi
 # Background
 
 ![President on stage](/images/icciccsstage.jpg)
+<font size="-2">Venerable Seck Kwang Phing presenting a commemorative version of the Commitment to Safeguard Religious Harmony to President Halimah Yacob on behalf of Singapore's National Steering Committee at ICCS 2019 on 19 June 2019.</font>
 
 The ICCS is the preeminent event for interfaith and multicultural dialogue. Mooted by President of Singapore Halimah Yacob, the Conference was held in Singapore for the first time in 2019, showcasing the tropical island-state’s unique approach to managing communal ties within a diverse population. It is organised by the S. Rajaratnam School of International Studies (RSIS) and supported by the Ministry of Culture, Community and Youth (MCCY).
 
