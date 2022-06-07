@@ -13,3 +13,5 @@ third_nav_title: ICCS 2019
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS28S7c3_6R5uP3z1J_PX2jLixNSm3FHsJ2E5H4QJ4ILk62Jpm96RSbWDy32Qli6GPOEzaRgghABROD/embed?start=true&loop=true&delayms=5000" frameborder="0" width="750" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 # Community Experience
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRkgRrF-F2incw9DOB2EmCv6APmtNEZ600t_IusSAT36gEK7K7xIweo9CIW8N03jpQLLs2zv_goSuEA/embed?start=true&loop=true&delayms=5000" frameborder="0" width="750" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
