@@ -4,7 +4,7 @@ permalink: /contact
 description: Contact
 ---
 # General enquiries & feedback
-Email us at: [iccs2022-secretariat@ntu.edu.sg]([mailto:iccs2022-secretariat@ntu.edu.sg])
+Email us at: <a href="mailto:iccs2022-secretariat@ntu.edu.sg">iccs2022-secretariat@ntu.edu.sg</a>
 # ICCS Secretariat
 **S. Rajaratnam School of International Studies (RSIS)**  
 Nanyang Technological University  
@@ -15,4 +15,4 @@ Singapore 639798
 **Ministry of Culture, Community and Youth**  
 140 Hill Street  
 #01-01A  
-Singapore 179369  
+Singapore 179369
