@@ -14,6 +14,5 @@ third_nav_title: ICCS 2019
 
 # Community Experience
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRkgRrF-F2incw9DOB2EmCv6APmtNEZ600t_IusSAT36gEK7K7xIweo9CIW8N03jpQLLs2zv_goSuEA/embed?start=true&loop=true&delayms=5000" frameborder="0" width="600" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-<br>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRkgRrF-F2incw9DOB2EmCv6APmtNEZ600t_IusSAT36gEK7K7xIweo9CIW8N03jpQLLs2zv_goSuEA/embed?start=true&loop=true&delayms=5000" frameborder="0" width="600" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe><br>
 <font color = "grey"><font size="-1">All photos courtesy of MCCY.</font></font>
