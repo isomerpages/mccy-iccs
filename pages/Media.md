@@ -15,12 +15,17 @@ description: ""
 
 **24 June 2019**                                                                                     
 * <a href="https://www.straitstimes.com/singapore/from-catholic-nun-to-respected-author-on-the-worlds-religions" target="_blank">From Catholic Nun to Respected Author on the World’s Religions, The Straits Times</a>
-*  <a href="https://mothership.sg/2019/06/heng-swee-keat-democracy-of-deeds/" target="_blank">Heng Swee Keat Mentioned Rajaratnam’s “Democracy of Deeds” in 2 Different Speeches in a Week, Mothership</a>                                                                        
+* <a 
+href="https://mothership.sg/2019/06/heng-swee-keat-democracy-of-deeds/" target="_blank">Heng Swee Keat Mentioned Rajaratnam’s “Democracy of Deeds” in 2 Different Speeches in a Week, Mothership</a>                                                                        
 
-**23 June 201**9  
-* [18 Years and Counting: A Family’s Hari Raya Welcome for All, The Straits Times](https://www.straitstimes.com/singapore/18-years-and-counting-a-familys-hari-raya-welcome-for-all)  
-* [Non-Sikhs Get Crash Course on Community’s Culture and Religion, The Straits Times](www.straitstimes.com/singapore/non-sikhs-get-crash-course-on-communitys-culture-and-religion)   
-* [From a Neo-Nazi to an Advocate for Peace: The Story of a Former White Supremacist, TODAY](www.todayonline.com/singapore/neo-nazi-advocate-peace-story-former-white-supremacist)   
+**23 June 2019** 
+
+* <a 
+href="https://www.straitstimes.com/singapore/18-years-and-counting-a-familys-hari-raya-welcome-for-all" target="_blank">18 Years and Counting: A Family’s Hari Raya Welcome for All, The Straits Times</a>                                                                        
+* <a 
+href="https://www.straitstimes.com/singapore/non-sikhs-get-crash-course-on-communitys-culture-and-religion" target="_blank">Non-Sikhs Get Crash Course on Community’s Culture and Religion, The Straits Times</a>                                                                    
+* <a 
+href="https://www.todayonline.com/singapore/neo-nazi-advocate-peace-story-former-white-supremacist" target="_blank">From a Neo-Nazi to an Advocate for Peace: The Story of a Former White Supremacist, TODAY</a>                                                                        
 * What More could be Done for Social Cohesion, carried on Singapore Tonight (CNA)   
 
 **22 June 2019**   
