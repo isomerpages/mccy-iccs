@@ -17,7 +17,8 @@ description: ""
 **24 June 2019**                                                                                     
 * <a href="https://www.straitstimes.com/singapore/from-catholic-nun-to-respected-author-on-the-worlds-religions" target="_blank">From Catholic Nun to Respected Author on the World’s Religions, The Straits Times</a>
 * <a 
-href="https://mothership.sg/2019/06/heng-swee-keat-democracy-of-deeds/" target="_blank">Heng Swee Keat Mentioned Rajaratnam’s “Democracy of Deeds” in 2 Different Speeches in a Week, Mothership</a>                                                                        
+href="https://mothership.sg/2019/06/heng-swee-keat-democracy-of-deeds/" target="_blank">Heng Swee Keat Mentioned Rajaratnam’s “Democracy of Deeds” in 2 Different Speeches in a Week, Mothership</a>                                     
+
 **23 June 2019** 
 
 * <a 
