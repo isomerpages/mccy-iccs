@@ -5,9 +5,7 @@ date: 2022-01-13
 layout: post
 description: ""
 ---
-# Media coverage
-* <a 
-href="" target="_blank"></a>  
+# Media coverage 
 
 
 **30 June 2019**  
