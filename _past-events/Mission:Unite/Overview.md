@@ -17,4 +17,4 @@ During the finale on 5 December 2020, Singapore’s President Halimah Yacob deli
 The ten finalist teams received funding support of between SGD10,000 to SGD50,000 to carry out their social cohesion projects.
 
 ![](/images/61230.jpg)
-<font color = "grey"><font size="-1">Singapore President Halimah Yacob presenting the awards to the winners of Mission:Unite on 5 December 2020. (Photo: IRCC)</font></font>
+<font color = "grey"><font size="-1">Singapore's President Halimah Yacob presenting the awards to the winners of Mission:Unite on 5 December 2020. (Photo: IRCC)</font></font>
