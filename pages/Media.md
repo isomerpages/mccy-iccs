@@ -119,7 +119,8 @@ href="https://www.scmp.com/week-asia/society/article/3015276/secret-singapores-s
 * <a 
 href="https://sg.news.yahoo.com/religious-leaders-make-commitment-to-safeguard-harmony-in-singapore-031321565.html" target="_blank">Religious Leaders Make Commitment to Safeguard Harmony in Singapore, Yahoo News</a>     
 * <a 
-href="https://sg.news.yahoo.com/attack-on-interfaith-harmony-is-greatest-threat-in-the-world-today-king-abdullah-of-jordan-035902054.html" target="_blank">Attack on Inter-Faith Harmony is Greatest Threat in the World Today: King Abdullah of Jordan, Yahoo News</a>     
+href="https://sg.news.yahoo.com/attack-on-interfaith-harmony-is-greatest-threat-in-the-world-today-king-abdullah-of-jordan-035902054.html" target="_blank">Attack on Inter-Faith Harmony is Greatest Threat in the World Today: King Abdullah of Jordan, Yahoo News</a> 
+
 * President Halimah Underlines Need to Engage with Diversity, Strengthen Social Cohesion in Singapore, Asia News  
 * <a 
 href="http://www.jordantimes.com/news/local/king-visits-singapore-armed-forces-commandos" target="_blank">King Visits Singapore Armed Forces Commandos, The Jordan Times</a>     
@@ -131,9 +132,9 @@ href="https://english.alaraby.co.uk/news/palestinian-israeli-conflict-inflames-g
 * <a 
 href="https://www.arabnews.com/node/1513791/middle-east" target="_blank">King Abdullah of Jordan Slams “Hate-filled Outlaws of Islam”, Arab News</a>     
 * <a 
-href="" target="_blank"></a>  * [King Delivers Keynote Address at International Conference on Cohesive Societies in Singapore, Roya News](https://en.royanews.tv/news/17851/2019-06-20)   
+href="https://en.royanews.tv/news/17851/2019-06-20" target="_blank">King Delivers Keynote Address at International Conference on Cohesive Societies in Singapore, Roya News</a>     
 * <a 
-href="" target="_blank"></a>  * [“The Palestinian-Israeli Conflict Has Fuelled Global Discord and Radicalism”— King, The Jordan Times](http://www.jordantimes.com/news/local/palestinian-israeli-conflict-has-fuelled-global-discord-and-radicalism%E2%80%94-king)   
+href="http://www.jordantimes.com/news/local/palestinian-israeli-conflict-has-fuelled-global-discord-and-radicalism%E2%80%94-king" target="_blank">“The Palestinian-Israeli Conflict Has Fuelled Global Discord and Radicalism”— King, The Jordan Times</a>    
 * <a 
 href="" target="_blank"></a>  * [Jordan King: Palestinians Must Have Their State, Al-Bawaba](https://www.albawaba.com/news/jordan-king-palestinians-must-have-their-state-1292517)   
 * <a 
