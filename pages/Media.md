@@ -8,6 +8,8 @@ description: ""
 # Media coverage
 * <a 
 href="" target="_blank"></a>  
+
+
 **30 June 2019**  
 * <a href="https://www.channelnewsasia.com/singapore/religion-karen-armstrong-unwinding-biggest-enemies-1328931" target="_blank">Unwinding the Biggest Enemies of Religion: A Conversation with Karen Armstrong, Channel NewsAsia</a>
 
@@ -18,7 +20,6 @@ href="" target="_blank"></a>
 * <a href="https://www.straitstimes.com/singapore/from-catholic-nun-to-respected-author-on-the-worlds-religions" target="_blank">From Catholic Nun to Respected Author on the World’s Religions, The Straits Times</a>
 * <a 
 href="https://mothership.sg/2019/06/heng-swee-keat-democracy-of-deeds/" target="_blank">Heng Swee Keat Mentioned Rajaratnam’s “Democracy of Deeds” in 2 Different Speeches in a Week, Mothership</a>                                                                        
-
 **23 June 2019** 
 
 * <a 
@@ -29,7 +30,8 @@ href="https://www.straitstimes.com/singapore/non-sikhs-get-crash-course-on-commu
 href="https://www.todayonline.com/singapore/neo-nazi-advocate-peace-story-former-white-supremacist" target="_blank">From a Neo-Nazi to an Advocate for Peace: The Story of a Former White Supremacist, TODAY</a>                                                                        
 * What More could be Done for Social Cohesion, carried on Singapore Tonight (CNA)   
 
-**22 June 2019**   
+**22 June 2019**  
+
 * <a 
 href="https://www.straitstimes.com/singapore/need-to-nurture-expand-our-common-spaces-dpm-heng" target="_blank">Need to Nurture, Expand Our Common Spaces: DPM Heng Swee Keat, The Straits Times</a>                                                                            
 * <a 
@@ -54,24 +56,38 @@ href="https://www.beritaharian.sg/setempat/soal-keimanan-kemanusiaan-tema-cerama
 href="https://www.beritaharian.sg/setempat/presiden-halimah-negara-kecil-perlu-terus-sedia-tangani-cabaran-luar" target="_blank">Presiden Halimah: Negara Kecil Perlu Terus Sedia Tangani Cabaran Luar, Berita Harian</a>   
 
 **21 June 2019**   
-* [Countries Must Tackle Common Challenges with Mutual Trust and Respect: Heng Swee Keat, The Straits Times](https://www.straitstimes.com/politics/countries-must-tackle-common-challenges-with-mutual-trust-and-respect-heng-swee-keat)   
-* [Religious and Worldview Studies in Schools can Help Strengthen Social Cohesion, Say Experts, The Straits Times](https://www.straitstimes.com/politics/religious-and-worldview-studies-in-schools-can-help-strengthen-social-cohesion-say-experts)   
-* [Issues Affecting Inter-Religious Ties Can No Longer be Dealt with in Isolation, The Straits Times](https://www.straitstimes.com/politics/issues-affecting-inter-religious-ties-can-no-longer-be-dealt-with-in-isolation)   
-* [President Hopes Pledge on Religious Harmony will have Multiplier Effect, The Straits Times](https://www.straitstimes.com/singapore/president-hopes-pledge-on-religious-harmony-will-have-multiplier-effect)   
-* [Draw on Religious Teachings to Help Promote Peace: Panel, The Straits Times](https://www.straitstimes.com/singapore/draw-on-religious-teachings-to-help-promote-peace-panel)   
-* [Singapore, Jordan Look Forward to Deepening Cooperation in New Fields, The Straits Times](https://www.straitstimes.com/singapore/singapore-jordan-look-forward-to-deepening-cooperation-in-new-fields)   
-* [Jordan’s King Calls for Joint Effort to Tackle Attack on Harmony, The Straits Times](https://www.straitstimes.com/politics/jordans-king-calls-for-joint-effort-to-tackle-attack-on-harmony)   
+
+* <a 
+href="https://www.straitstimes.com/politics/countries-must-tackle-common-challenges-with-mutual-trust-and-respect-heng-swee-keat" target="_blank"> Countries Must Tackle Common Challenges with Mutual Trust and Respect: Heng Swee Keat, The Straits Times</a>    
+* <a 
+href="https://www.straitstimes.com/politics/religious-and-worldview-studies-in-schools-can-help-strengthen-social-cohesion-say-experts" target="_blank"> Religious and Worldview Studies in Schools can Help Strengthen Social Cohesion, Say Experts, The Straits Times</a>    
+* <a 
+href="https://www.straitstimes.com/politics/issues-affecting-inter-religious-ties-can-no-longer-be-dealt-with-in-isolation" target="_blank"> Issues Affecting Inter-Religious Ties Can No Longer be Dealt with in Isolation, The Straits Times</a>  
+* <a 
+href="https://www.straitstimes.com/singapore/president-hopes-pledge-on-religious-harmony-will-have-multiplier-effect" target="_blank">President Hopes Pledge on Religious Harmony will have Multiplier Effect, The Straits Times</a>  
+* <a 
+href="https://www.straitstimes.com/singapore/draw-on-religious-teachings-to-help-promote-peace-panel" target="_blank">Draw on Religious Teachings to Help Promote Peace: Panel, The Straits Times</a> 
+* <a 
+href="https://www.straitstimes.com/singapore/singapore-jordan-look-forward-to-deepening-cooperation-in-new-fields" target="_blank">Singapore, Jordan Look Forward to Deepening Cooperation in New Fields, The Straits Times</a> 
+* <a 
+href="https://www.straitstimes.com/politics/jordans-king-calls-for-joint-effort-to-tackle-attack-on-harmony" target="_blank">Jordan’s King Calls for Joint Effort to Tackle Attack on Harmony, The Straits Times</a> 
 * [王瑞杰：建立和谐社会 寻共性更为重要, Lianhe Zaobao](https://www.zaobao.com.sg/realtime/singapore/story20190621-966343)   
 * [认同约旦国王观点 哈莉玛总统吁国人 团结抗衡网络极端言论, Lianhe Zaobao](https://www.zaobao.com.sg/news/singapore/story20190621-966112)   
-* [Cohesive Society Calls for Everyone to Build a “Democracy of Deeds”: Heng Swee Keat, TODAY](https://www.todayonline.com/singapore/cohesive-society-calls-everyone-build-democracy-deeds-heng-swee-keat)   
-* [Growing Diversity Means Common Spaces Must be Deliberately Nurtured: Heng Swee Keat, Channel NewsAsia](https://www.channelnewsasia.com/singapore/religious-racial-diversity-common-spaces-nurtured-heng-swee-keat-875501)   
+* <a 
+href="https://www.todayonline.com/singapore/cohesive-society-calls-everyone-build-democracy-deeds-heng-swee-keat" target="_blank">Cohesive Society Calls for Everyone to Build a “Democracy of Deeds”: Heng Swee Keat, TODAY</a>  
+* <a 
+href="https://www.channelnewsasia.com/singapore/religious-racial-diversity-common-spaces-nurtured-heng-swee-keat-875501" target="_blank">Growing Diversity Means Common Spaces Must be Deliberately Nurtured: Heng Swee Keat, Channel NewsAsia</a>   
 * Building Cohesiveness is a Work in Progress and Everyone has a Part to Play, carried on News Tonight (Channel 8)   
-* [Anti-fake News Law Needed to Help Preserve Social Cohesion: Heng Swee Keat, Yahoo News](https://sg.news.yahoo.com/antifake-news-laws-needed-to-help-preserve-social-cohesion-heng-swee-keat-081357862.html)   
-* [Religious Leaders in S’pore Prayed for Heng Swee Keat’s Recovery After His May 2016 Stroke, Mothership](https://mothership.sg/2019/06/heng-swee-keat-iccs-dialogue-religious-leaders-prayed-stroke-recovery/)   
-* [Heng Swee Keat: S’pore Learnt to Built Cohesiveness & Diversity the Hard Way But still a Work in Progress, Mothership](https://mothership.sg/2019/06/heng-swee-keat-spore-learnt-to-built-cohesiveness-diversity-the-hard-way-but-still-a-work-in-progress/)   
+* <a 
+href="https://sg.news.yahoo.com/antifake-news-laws-needed-to-help-preserve-social-cohesion-heng-swee-keat-081357862.html" target="_blank">Anti-fake News Law Needed to Help Preserve Social Cohesion: Heng Swee Keat, Yahoo News</a>    
+* <a 
+href="https://mothership.sg/2019/06/heng-swee-keat-iccs-dialogue-religious-leaders-prayed-stroke-recovery/" target="_blank">Religious Leaders in S’pore Prayed for Heng Swee Keat’s Recovery After His May 2016 Stroke, Mothership</a>  
+* <a 
+href="https://mothership.sg/2019/06/heng-swee-keat-spore-learnt-to-built-cohesiveness-diversity-the-hard-way-but-still-a-work-in-progress/" target="_blank">Heng Swee Keat: S’pore Learnt to Built Cohesiveness & Diversity the Hard Way But still a Work in Progress, Mothership</a>  
 * Raja Abdullah: Konflik Israel-Palestina Kobarkan Radikalisme, Republika   
 
 **20 June 2019**   
+
 * [Religion Should be Part of the Solution for Peace, And Not the Problem: Interfaith Conference, The Straits Times](https://www.straitstimes.com/singapore/religion-should-be-part-of-the-solution-for-peace-and-not-the-problem-interfaith)   
 * [Commitment to Safeguard Religious Harmony Can be Applied in Schools, Workplaces: President Halimah, The Straits Times](https://www.straitstimes.com/singapore/commitment-to-safeguard-religious-harmony-is-important-president-halimah-yacob)   
 * [President Halimah Stresses Key Ingredients for Social Harmony, The Straits Times](https://www.straitstimes.com/singapore/president-halimah-stresses-key-ingredients-for-social-harmony)   
@@ -99,8 +115,8 @@ href="https://www.beritaharian.sg/setempat/presiden-halimah-negara-kecil-perlu-t
 * [“The Palestinian-Israeli Conflict Has Fuelled Global Discord and Radicalism”— King, The Jordan Times](http://www.jordantimes.com/news/local/palestinian-israeli-conflict-has-fuelled-global-discord-and-radicalism%E2%80%94-king)   
 * [Jordan King: Palestinians Must Have Their State, Al-Bawaba](https://www.albawaba.com/news/jordan-king-palestinians-must-have-their-state-1292517)   
 * [King Delivers Keynote Address at International Conference on Cohesive Societies in Singapore, MENAFN](https://menafn.com/1098662026/King-delivers-keynote-address-at-International-Conference-on-Cohesive-Societies-in-Singapore)   
+**19 June 2019**
 
-**19 June 2019**   
 * [International Conference on Cohesive Societies to Discuss Issues Surrounding Faith, Identity and Cohesion, The Straits Times](https://www.straitstimes.com/singapore/international-conference-on-cohesive-societies-to-discuss-issues-surrounding-faith)   
 * [President Halimah Underlines Need to Engage with Diversity, Strengthen Social Cohesion, The Straits Times](https://www.straitstimes.com/singapore/president-halimah-underlines-need-to-engage-with-diversity-strengthen-social-cohesion?xtor=CS3-17&utm_source=STSmartphone&utm_medium=share&utm_term=2019-06-19+21%3A22%3A550)   
 * [“Everyone Has a Role”: President Halimah Meets Young Leaders to Discuss Social Cohesion, The Straits Times](https://www.straitstimes.com/singapore/everyone-has-a-role-president-halimah-meets-young-leaders-to-discuss-social-cohesion)   
@@ -116,11 +132,13 @@ href="https://www.beritaharian.sg/setempat/presiden-halimah-negara-kecil-perlu-t
 * Jordanian King Abdullah II in Singapore for His Third State Visit, World Times News   
 
 **18 June 2019**   
+
 * [From Debate to Dialogue: Two Religions, One Friendship and a Common Interfaith Cause, TODAY](https://www.todayonline.com/commentary/debate-dialogue-two-religions-one-friendship-and-common-interfaith-cause)   
 * Amb Ong Keng Yong on the Importance of Interfaith Harmony and Dialogue, carried on Singapore Tonight (CNA)   
 * Amb Mohammad Alami Musa on the Ground-up Efforts by Muslims to Strengthen Interreligious Understanding, carried on Berita (Suria)   
 
 **13 June 2019**   
+
 * Minister Grace Fu on the Reason Singapore is Hosting the ICCS, carried on Hello Singapore (Channel 8)
 
 # Speeches and News Releases   
