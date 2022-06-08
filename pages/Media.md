@@ -109,15 +109,15 @@ href="https://www.beritaharian.sg/setempat/nilai-saling-percaya-perkukuh-perpadu
 href="https://www.todayonline.com/singapore/british-religious-thinker-singapore-forum-challenges-people-embrace-discomfort-of-religion" target="_blank">British Religious Thinker at Singapore Forum Challenges People to Embrace the “Discomfort of Religion”, TODAY</a> 
   
 * <a 
-href="" target="_blank"></a>  * [Risk to Inter-Faith Harmony “Single Most Important Threat” to the World Now: Jordan King, Channel NewsAsia](https://www.channelnewsasia.com/singapore/jordan-king-abdullah-singapore-keynote-religion-conference-875226)   
+href="https://www.channelnewsasia.com/singapore/jordan-king-abdullah-singapore-keynote-religion-conference-875226" target="_blank">Risk to Inter-Faith Harmony “Single Most Important Threat” to the World Now: Jordan King, Channel NewsAsia</a>    
 * <a 
-href="" target="_blank"></a>  * [Draw from Diversity as Source of Strength: President Halimah, The New Paper](https://tnp.straitstimes.com/news/singapore/draw-diversity-source-strength-president-halimah)   
+href="https://tnp.straitstimes.com/news/singapore/draw-diversity-source-strength-president-halimah" target="_blank">Draw from Diversity as Source of Strength: President Halimah, The New Paper</a>    
 * <a 
-href="" target="_blank"></a>  * [Palestinian State Living in Peace with Israel Crucial to Addressing Radicalism: King Abdullah II of Jordan, Mothership](https://mothership.sg/2019/06/palestine-state-israel-peace-crucial-jordan-king-abdullah-ii/)   
+href="https://mothership.sg/2019/06/palestine-state-israel-peace-crucial-jordan-king-abdullah-ii/" target="_blank">Palestinian State Living in Peace with Israel Crucial to Addressing Radicalism: King Abdullah II of Jordan, Mothership</a>     
 * <a 
-href="" target="_blank"></a>  * [Attack on Inter-Faith Harmony is Greatest Threat in the World Today: King Abdullah of Jordan, Malaysia Today](https://www.malaysia-today.net/2019/06/20/attack-on-inter-faith-harmony-is-greatest-threat-in-the-world-today-king-abdullah-of-jordan/)   
+href="https://www.malaysia-today.net/2019/06/20/attack-on-inter-faith-harmony-is-greatest-threat-in-the-world-today-king-abdullah-of-jordan/" target="_blank">Attack on Inter-Faith Harmony is Greatest Threat in the World Today: King Abdullah of Jordan, Malaysia Today</a>     
 * <a 
-href="" target="_blank"></a>  * [Singapore’s Strict Laws Alone Cannot Ensure Racial Cohesion: President Halimah Yacob, South China Morning Post](https://www.scmp.com/week-asia/society/article/3015276/secret-singapores-social-harmony-lies-fine-balance-constant)   
+href="https://www.scmp.com/week-asia/society/article/3015276/secret-singapores-social-harmony-lies-fine-balance-constant" target="_blank">Singapore’s Strict Laws Alone Cannot Ensure Racial Cohesion: President Halimah Yacob, South China Morning Post</a>     
 * <a 
 href="" target="_blank"></a>  * [Religious Leaders Make Commitment to Safeguard Harmony in Singapore, Yahoo News](https://sg.news.yahoo.com/religious-leaders-make-commitment-to-safeguard-harmony-in-singapore-031321565.html)   
 * <a 
