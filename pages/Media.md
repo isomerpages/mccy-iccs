@@ -6,7 +6,8 @@ layout: post
 description: ""
 ---
 # Media coverage
-
+* <a 
+href="" target="_blank"></a>  
 **30 June 2019**  
 * <a href="https://www.channelnewsasia.com/singapore/religion-karen-armstrong-unwinding-biggest-enemies-1328931" target="_blank">Unwinding the Biggest Enemies of Religion: A Conversation with Karen Armstrong, Channel NewsAsia</a>
 
@@ -29,10 +30,16 @@ href="https://www.todayonline.com/singapore/neo-nazi-advocate-peace-story-former
 * What More could be Done for Social Cohesion, carried on Singapore Tonight (CNA)   
 
 **22 June 2019**   
-* [Need to Nurture, Expand Our Common Spaces: DPM Heng Swee Keat, The Straits Times](www.straitstimes.com/singapore/need-to-nurture-expand-our-common-spaces-dpm-heng)   
-* [Inter-faith Studies can Boost Cohesion, Say Experts, The Straits Times](https://www.straitstimes.com/politics/inter-faith-studies-can-boost-cohesion-say-experts)   
-* [Ex-white Supremacist and Anti-terror Activist Share Tales of Extremism, The Straits Times](https://www.straitstimes.com/singapore/ex-white-supremacist-and-anti-terror-activist-share-tales-of-extremism)  
-* [Learning Journeys to Places of Worship for Singaporeans to Know More about Religion and Culture, The Straits Times](https://www.straitstimes.com/singapore/learning-journeys-to-places-of-worship-for-singaporeans-to-know-more-about-religion-and)   
+* <a 
+href="https://www.straitstimes.com/singapore/need-to-nurture-expand-our-common-spaces-dpm-heng" target="_blank">Need to Nurture, Expand Our Common Spaces: DPM Heng Swee Keat, The Straits Times</a>                                                                            
+* <a 
+href="https://www.straitstimes.com/politics/inter-faith-studies-can-boost-cohesion-say-experts" target="_blank">Inter-faith Studies can Boost Cohesion, Say Experts, The Straits Times</a>                                                                         
+* <a 
+href="https://www.straitstimes.com/singapore/ex-white-supremacist-and-anti-terror-activist-share-tales-of-extremism" target="_blank">Ex-white Supremacist and Anti-terror Activist Share Tales of Extremism, The Straits Times</a>  
+
+* <a 
+href="https://www.straitstimes.com/singapore/learning-journeys-to-places-of-worship-for-singaporeans-to-know-more-about-religion-and" target="_blank">Learning Journeys to Places of Worship for Singaporeans to Know More about Religion and Culture, The Straits Times</a>  
+  
 * [王瑞杰：应对全球性挑战 社会应建立互信尊重, Lianhe Zaobao](https://www.zaobao.com.sg/znews/singapore/story20190622-966381)   
 * [王瑞杰：抗衡极端主义搭建互信桥梁 打造和谐社会年轻人扮演关键角色, Lianhe Zaobao](https://www.zaobao.com.sg/news/singapore/story20190622-966391)   
 * [分享国家繁荣果实有助促进社会凝聚力, Lianhe Zaobao](https://www.zaobao.com.sg/news/singapore/story20190622-966393)   
