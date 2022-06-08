@@ -14,7 +14,7 @@ description: ""
 * <a href="https://www.straitstimes.com/opinion/st-editorial/working-to-expand-space-for-cohesion?xtor=CS3-17&utm_source=STSmartphone&utm_medium=share&utm_term=2019-06-26+08%3A21%3A30" target="_blank">Working to Expand Space for Cohesion, The Straits Times</a>
 
 **24 June 2019**                                                                                     
-* [From Catholic Nun to Respected Author on the World’s Religions, The Straits Times](www.straitstimes.com/singapore/from-catholic-nun-to-respected-author-on-the-worlds-religions)  
+* <a href="https://www.straitstimes.com/singapore/from-catholic-nun-to-respected-author-on-the-worlds-religions" target="_blank">From Catholic Nun to Respected Author on the World’s Religions, The Straits Times</a>
 * [Heng Swee Keat Mentioned Rajaratnam’s “Democracy of Deeds” in 2 Different Speeches in a Week, Mothership](https://mothership.sg/2019/06/heng-swee-keat-democracy-of-deeds/)                                                                               
 
 **23 June 201**9  
