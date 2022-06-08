@@ -88,33 +88,57 @@ href="https://mothership.sg/2019/06/heng-swee-keat-spore-learnt-to-built-cohesiv
 
 **20 June 2019**   
 
-* [Religion Should be Part of the Solution for Peace, And Not the Problem: Interfaith Conference, The Straits Times](https://www.straitstimes.com/singapore/religion-should-be-part-of-the-solution-for-peace-and-not-the-problem-interfaith)   
-* [Commitment to Safeguard Religious Harmony Can be Applied in Schools, Workplaces: President Halimah, The Straits Times](https://www.straitstimes.com/singapore/commitment-to-safeguard-religious-harmony-is-important-president-halimah-yacob)   
-* [President Halimah Stresses Key Ingredients for Social Harmony, The Straits Times](https://www.straitstimes.com/singapore/president-halimah-stresses-key-ingredients-for-social-harmony)   
-* [International Conference on Cohesive Societies: Making Sure Nobody is Left Out of the Dialogue, The Straits Times](https://www.straitstimes.com/singapore/making-sure-nobody-is-left-out-of-the-dialogue)   
-* [King Abdullah of Jordan on Two-Day State Visit to S’pore, The Straits Times](https://www.straitstimes.com/singapore/king-abdullah-of-jordan-on-two-day-state-visit-to-spore)   
-* [Attack on Interfaith Harmony, Mutual Respect and Trust is Single Biggest Threat, Says Jordan’s King Abdullah II, The Straits Times](https://www.straitstimes.com/politics/attack-on-interfaith-harmony-mutual-respect-and-trust-single-biggest-threat-says-jordans)   
-* [Photo from President Halimah’s Fireside Chat with YLP Participants, Today in Pictures, June 20, 2019 (The Straits Times)](https://www.straitstimes.com/multimedia/photos/today-in-pictures-june-20-2019)   
+* <a 
+href="https://www.straitstimes.com/singapore/religion-should-be-part-of-the-solution-for-peace-and-not-the-problem-interfaith" target="_blank">Religion Should be Part of the Solution for Peace, And Not the Problem: Interfaith Conference, The Straits Times</a>   
+* <a 
+href="https://www.straitstimes.com/singapore/commitment-to-safeguard-religious-harmony-is-important-president-halimah-yacob" target="_blank">Commitment to Safeguard Religious Harmony Can be Applied in Schools, Workplaces: President Halimah, The Straits Times</a>
+* <a 
+href="https://www.straitstimes.com/singapore/president-halimah-stresses-key-ingredients-for-social-harmony" target="_blank">President Halimah Stresses Key Ingredients for Social Harmony, The Straits Times</a>     
+* <a 
+href="https://www.straitstimes.com/singapore/making-sure-nobody-is-left-out-of-the-dialogue" target="_blank">International Conference on Cohesive Societies: Making Sure Nobody is Left Out of the Dialogue, The Straits Times</a>     
+* <a 
+href="https://www.straitstimes.com/singapore/king-abdullah-of-jordan-on-two-day-state-visit-to-spore" target="_blank">King Abdullah of Jordan on Two-Day State Visit to S’pore, The Straits Times</a>   
+* <a 
+href="https://www.straitstimes.com/politics/attack-on-interfaith-harmony-mutual-respect-and-trust-single-biggest-threat-says-jordans" target="_blank">Attack on Interfaith Harmony, Mutual Respect and Trust is Single Biggest Threat, Says Jordan’s King Abdullah II, The Straits Times</a>     
+* <a 
+href="https://www.straitstimes.com/multimedia/photos/today-in-pictures-june-20-2019" target="_blank">Photo from President Halimah’s Fireside Chat with YLP Participants, Today in Pictures, June 20, 2019 (The Straits Times)</a>     
 * [逾250组织加入《承诺》 誓维护宗教和谐, Lianhe Zaobao](https://www.zaobao.com.sg/news/singapore/story20190620-965866)   
-* [Nilai Saling Percaya Perkukuh Perpaduan: Presiden Halimah, Berita Harian](https://www.beritaharian.sg/setempat/nilai-saling-percaya-perkukuh-perpaduan-presiden-halimah)   
-* [British Religious Thinker at Singapore Forum Challenges People to Embrace the “Discomfort of Religion”, TODAY](https://www.todayonline.com/singapore/british-religious-thinker-singapore-forum-challenges-people-embrace-discomfort-of-religion)   
-* [Risk to Inter-Faith Harmony “Single Most Important Threat” to the World Now: Jordan King, Channel NewsAsia](https://www.channelnewsasia.com/singapore/jordan-king-abdullah-singapore-keynote-religion-conference-875226)   
-* [Draw from Diversity as Source of Strength: President Halimah, The New Paper](https://tnp.straitstimes.com/news/singapore/draw-diversity-source-strength-president-halimah)   
-* [Palestinian State Living in Peace with Israel Crucial to Addressing Radicalism: King Abdullah II of Jordan, Mothership](https://mothership.sg/2019/06/palestine-state-israel-peace-crucial-jordan-king-abdullah-ii/)   
-* [Attack on Inter-Faith Harmony is Greatest Threat in the World Today: King Abdullah of Jordan, Malaysia Today](https://www.malaysia-today.net/2019/06/20/attack-on-inter-faith-harmony-is-greatest-threat-in-the-world-today-king-abdullah-of-jordan/)   
-* [Singapore’s Strict Laws Alone Cannot Ensure Racial Cohesion: President Halimah Yacob, South China Morning Post](https://www.scmp.com/week-asia/society/article/3015276/secret-singapores-social-harmony-lies-fine-balance-constant)   
-* [Religious Leaders Make Commitment to Safeguard Harmony in Singapore, Yahoo News](https://sg.news.yahoo.com/religious-leaders-make-commitment-to-safeguard-harmony-in-singapore-031321565.html)   
-* [Attack on Inter-Faith Harmony is Greatest Threat in the World Today: King Abdullah of Jordan, Yahoo News](https://sg.news.yahoo.com/attack-on-interfaith-harmony-is-greatest-threat-in-the-world-today-king-abdullah-of-jordan-035902054.html)   
+* <a 
+href="" target="_blank"></a>  * [Nilai Saling Percaya Perkukuh Perpaduan: Presiden Halimah, Berita Harian](https://www.beritaharian.sg/setempat/nilai-saling-percaya-perkukuh-perpaduan-presiden-halimah)   
+* <a 
+href="" target="_blank"></a>  * [British Religious Thinker at Singapore Forum Challenges People to Embrace the “Discomfort of Religion”, TODAY](https://www.todayonline.com/singapore/british-religious-thinker-singapore-forum-challenges-people-embrace-discomfort-of-religion)   
+* <a 
+href="" target="_blank"></a>  * [Risk to Inter-Faith Harmony “Single Most Important Threat” to the World Now: Jordan King, Channel NewsAsia](https://www.channelnewsasia.com/singapore/jordan-king-abdullah-singapore-keynote-religion-conference-875226)   
+* <a 
+href="" target="_blank"></a>  * [Draw from Diversity as Source of Strength: President Halimah, The New Paper](https://tnp.straitstimes.com/news/singapore/draw-diversity-source-strength-president-halimah)   
+* <a 
+href="" target="_blank"></a>  * [Palestinian State Living in Peace with Israel Crucial to Addressing Radicalism: King Abdullah II of Jordan, Mothership](https://mothership.sg/2019/06/palestine-state-israel-peace-crucial-jordan-king-abdullah-ii/)   
+* <a 
+href="" target="_blank"></a>  * [Attack on Inter-Faith Harmony is Greatest Threat in the World Today: King Abdullah of Jordan, Malaysia Today](https://www.malaysia-today.net/2019/06/20/attack-on-inter-faith-harmony-is-greatest-threat-in-the-world-today-king-abdullah-of-jordan/)   
+* <a 
+href="" target="_blank"></a>  * [Singapore’s Strict Laws Alone Cannot Ensure Racial Cohesion: President Halimah Yacob, South China Morning Post](https://www.scmp.com/week-asia/society/article/3015276/secret-singapores-social-harmony-lies-fine-balance-constant)   
+* <a 
+href="" target="_blank"></a>  * [Religious Leaders Make Commitment to Safeguard Harmony in Singapore, Yahoo News](https://sg.news.yahoo.com/religious-leaders-make-commitment-to-safeguard-harmony-in-singapore-031321565.html)   
+* <a 
+href="" target="_blank"></a>  * [Attack on Inter-Faith Harmony is Greatest Threat in the World Today: King Abdullah of Jordan, Yahoo News](https://sg.news.yahoo.com/attack-on-interfaith-harmony-is-greatest-threat-in-the-world-today-king-abdullah-of-jordan-035902054.html)   
 * President Halimah Underlines Need to Engage with Diversity, Strengthen Social Cohesion in Singapore, Asia News  
-* [King Visits Singapore Armed Forces Commandos, The Jordan Times](http://www.jordantimes.com/news/local/king-visits-singapore-armed-forces-commandos)   
-* [Singapore Meeting Calls for Defense of Social Cohesion, Anadolu Agency](https://www.aa.com.tr/en/asia-pacific/-singapore-meeting-calls-for-defense-of-social-cohesion/1510871)   
-* [“Palestinian-Israeli Conflict Inflames Global Extremism”: Jordan’s King Abdullah, The New Arab](https://english.alaraby.co.uk/news/palestinian-israeli-conflict-inflames-global-extremism-jordans-king-abdullah)   
+* <a 
+href="" target="_blank"></a>  * [King Visits Singapore Armed Forces Commandos, The Jordan Times](http://www.jordantimes.com/news/local/king-visits-singapore-armed-forces-commandos)   
+* <a 
+href="" target="_blank"></a>  * [Singapore Meeting Calls for Defense of Social Cohesion, Anadolu Agency](https://www.aa.com.tr/en/asia-pacific/-singapore-meeting-calls-for-defense-of-social-cohesion/1510871)   
+* <a 
+href="" target="_blank"></a>  * [“Palestinian-Israeli Conflict Inflames Global Extremism”: Jordan’s King Abdullah, The New Arab](https://english.alaraby.co.uk/news/palestinian-israeli-conflict-inflames-global-extremism-jordans-king-abdullah)   
 * Attack on Interfaith Harmony, Mutual Respect, and Trust Single Biggest Threat, Says Jordan’s King Abdullah II, The World News   
-* [King Abdullah of Jordan Slams “Hate-filled Outlaws of Islam”, Arab News](https://www.arabnews.com/node/1513791/middle-east)   
-* [King Delivers Keynote Address at International Conference on Cohesive Societies in Singapore, Roya News](https://en.royanews.tv/news/17851/2019-06-20)   
-* [“The Palestinian-Israeli Conflict Has Fuelled Global Discord and Radicalism”— King, The Jordan Times](http://www.jordantimes.com/news/local/palestinian-israeli-conflict-has-fuelled-global-discord-and-radicalism%E2%80%94-king)   
-* [Jordan King: Palestinians Must Have Their State, Al-Bawaba](https://www.albawaba.com/news/jordan-king-palestinians-must-have-their-state-1292517)   
-* [King Delivers Keynote Address at International Conference on Cohesive Societies in Singapore, MENAFN](https://menafn.com/1098662026/King-delivers-keynote-address-at-International-Conference-on-Cohesive-Societies-in-Singapore)   
+* <a 
+href="" target="_blank"></a>  * [King Abdullah of Jordan Slams “Hate-filled Outlaws of Islam”, Arab News](https://www.arabnews.com/node/1513791/middle-east)   
+* <a 
+href="" target="_blank"></a>  * [King Delivers Keynote Address at International Conference on Cohesive Societies in Singapore, Roya News](https://en.royanews.tv/news/17851/2019-06-20)   
+* <a 
+href="" target="_blank"></a>  * [“The Palestinian-Israeli Conflict Has Fuelled Global Discord and Radicalism”— King, The Jordan Times](http://www.jordantimes.com/news/local/palestinian-israeli-conflict-has-fuelled-global-discord-and-radicalism%E2%80%94-king)   
+* <a 
+href="" target="_blank"></a>  * [Jordan King: Palestinians Must Have Their State, Al-Bawaba](https://www.albawaba.com/news/jordan-king-palestinians-must-have-their-state-1292517)   
+* <a 
+href="" target="_blank"></a>  * [King Delivers Keynote Address at International Conference on Cohesive Societies in Singapore, MENAFN](https://menafn.com/1098662026/King-delivers-keynote-address-at-International-Conference-on-Cohesive-Societies-in-Singapore)   
 **19 June 2019**
 
 * [International Conference on Cohesive Societies to Discuss Issues Surrounding Faith, Identity and Cohesion, The Straits Times](https://www.straitstimes.com/singapore/international-conference-on-cohesive-societies-to-discuss-issues-surrounding-faith)   
