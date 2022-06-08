@@ -122,14 +122,14 @@ href="https://sg.news.yahoo.com/religious-leaders-make-commitment-to-safeguard-h
 href="https://sg.news.yahoo.com/attack-on-interfaith-harmony-is-greatest-threat-in-the-world-today-king-abdullah-of-jordan-035902054.html" target="_blank">Attack on Inter-Faith Harmony is Greatest Threat in the World Today: King Abdullah of Jordan, Yahoo News</a>     
 * President Halimah Underlines Need to Engage with Diversity, Strengthen Social Cohesion in Singapore, Asia News  
 * <a 
-href="" target="_blank"></a>  * [King Visits Singapore Armed Forces Commandos, The Jordan Times](http://www.jordantimes.com/news/local/king-visits-singapore-armed-forces-commandos)   
+href="http://www.jordantimes.com/news/local/king-visits-singapore-armed-forces-commandos" target="_blank">King Visits Singapore Armed Forces Commandos, The Jordan Times</a>     
 * <a 
-href="" target="_blank"></a>  * [Singapore Meeting Calls for Defense of Social Cohesion, Anadolu Agency](https://www.aa.com.tr/en/asia-pacific/-singapore-meeting-calls-for-defense-of-social-cohesion/1510871)   
+href="https://www.aa.com.tr/en/asia-pacific/-singapore-meeting-calls-for-defense-of-social-cohesion/1510871" target="_blank">Singapore Meeting Calls for Defense of Social Cohesion, Anadolu Agency</a>     
 * <a 
-href="" target="_blank"></a>  * [“Palestinian-Israeli Conflict Inflames Global Extremism”: Jordan’s King Abdullah, The New Arab](https://english.alaraby.co.uk/news/palestinian-israeli-conflict-inflames-global-extremism-jordans-king-abdullah)   
+href="https://english.alaraby.co.uk/news/palestinian-israeli-conflict-inflames-global-extremism-jordans-king-abdullah" target="_blank">“Palestinian-Israeli Conflict Inflames Global Extremism”: Jordan’s King Abdullah, The New Arab</a>    
 * Attack on Interfaith Harmony, Mutual Respect, and Trust Single Biggest Threat, Says Jordan’s King Abdullah II, The World News   
 * <a 
-href="" target="_blank"></a>  * [King Abdullah of Jordan Slams “Hate-filled Outlaws of Islam”, Arab News](https://www.arabnews.com/node/1513791/middle-east)   
+href="https://www.arabnews.com/node/1513791/middle-east" target="_blank">King Abdullah of Jordan Slams “Hate-filled Outlaws of Islam”, Arab News</a>     
 * <a 
 href="" target="_blank"></a>  * [King Delivers Keynote Address at International Conference on Cohesive Societies in Singapore, Roya News](https://en.royanews.tv/news/17851/2019-06-20)   
 * <a 
