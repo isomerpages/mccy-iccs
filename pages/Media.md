@@ -104,9 +104,10 @@ href="https://www.straitstimes.com/politics/attack-on-interfaith-harmony-mutual-
 href="https://www.straitstimes.com/multimedia/photos/today-in-pictures-june-20-2019" target="_blank">Photo from President Halimah’s Fireside Chat with YLP Participants, Today in Pictures, June 20, 2019 (The Straits Times)</a>     
 * [逾250组织加入《承诺》 誓维护宗教和谐, Lianhe Zaobao](https://www.zaobao.com.sg/news/singapore/story20190620-965866)   
 * <a 
-href="" target="_blank"></a>  * [Nilai Saling Percaya Perkukuh Perpaduan: Presiden Halimah, Berita Harian](https://www.beritaharian.sg/setempat/nilai-saling-percaya-perkukuh-perpaduan-presiden-halimah)   
+href="https://www.beritaharian.sg/setempat/nilai-saling-percaya-perkukuh-perpaduan-presiden-halimah" target="_blank">Nilai Saling Percaya Perkukuh Perpaduan: Presiden Halimah, Berita Harian</a>    
 * <a 
-href="" target="_blank"></a>  * [British Religious Thinker at Singapore Forum Challenges People to Embrace the “Discomfort of Religion”, TODAY](https://www.todayonline.com/singapore/british-religious-thinker-singapore-forum-challenges-people-embrace-discomfort-of-religion)   
+href="https://www.todayonline.com/singapore/british-religious-thinker-singapore-forum-challenges-people-embrace-discomfort-of-religion" target="_blank">British Religious Thinker at Singapore Forum Challenges People to Embrace the “Discomfort of Religion”, TODAY</a> 
+  
 * <a 
 href="" target="_blank"></a>  * [Risk to Inter-Faith Harmony “Single Most Important Threat” to the World Now: Jordan King, Channel NewsAsia](https://www.channelnewsasia.com/singapore/jordan-king-abdullah-singapore-keynote-religion-conference-875226)   
 * <a 
