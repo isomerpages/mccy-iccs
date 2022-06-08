@@ -117,9 +117,9 @@ href="https://www.malaysia-today.net/2019/06/20/attack-on-inter-faith-harmony-is
 * <a 
 href="https://www.scmp.com/week-asia/society/article/3015276/secret-singapores-social-harmony-lies-fine-balance-constant" target="_blank">Singapore’s Strict Laws Alone Cannot Ensure Racial Cohesion: President Halimah Yacob, South China Morning Post</a>     
 * <a 
-href="" target="_blank"></a>  * [Religious Leaders Make Commitment to Safeguard Harmony in Singapore, Yahoo News](https://sg.news.yahoo.com/religious-leaders-make-commitment-to-safeguard-harmony-in-singapore-031321565.html)   
+href="https://sg.news.yahoo.com/religious-leaders-make-commitment-to-safeguard-harmony-in-singapore-031321565.html" target="_blank">Religious Leaders Make Commitment to Safeguard Harmony in Singapore, Yahoo News</a>     
 * <a 
-href="" target="_blank"></a>  * [Attack on Inter-Faith Harmony is Greatest Threat in the World Today: King Abdullah of Jordan, Yahoo News](https://sg.news.yahoo.com/attack-on-interfaith-harmony-is-greatest-threat-in-the-world-today-king-abdullah-of-jordan-035902054.html)   
+href="https://sg.news.yahoo.com/attack-on-interfaith-harmony-is-greatest-threat-in-the-world-today-king-abdullah-of-jordan-035902054.html" target="_blank">Attack on Inter-Faith Harmony is Greatest Threat in the World Today: King Abdullah of Jordan, Yahoo News</a>     
 * President Halimah Underlines Need to Engage with Diversity, Strengthen Social Cohesion in Singapore, Asia News  
 * <a 
 href="" target="_blank"></a>  * [King Visits Singapore Armed Forces Commandos, The Jordan Times](http://www.jordantimes.com/news/local/king-visits-singapore-armed-forces-commandos)   
