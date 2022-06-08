@@ -11,7 +11,7 @@ description: ""
 * <a href="https://www.channelnewsasia.com/singapore/religion-karen-armstrong-unwinding-biggest-enemies-1328931" target="_blank">Unwinding the Biggest Enemies of Religion: A Conversation with Karen Armstrong, Channel NewsAsia</a>
 
 **25 June 2019**  
-* [Working to Expand Space for Cohesion, The Straits Times](www.straitstimes.com/opinion/st-editorial/working-to-expand-space-for-cohesion?xtor=CS3-17&utm_source=STSmartphone&utm_medium=share&utm_term=2019-06-26+08%3A21%3A30)  
+* <a href="www.straitstimes.com/opinion/st-editorial/working-to-expand-space-for-cohesion?xtor=CS3-17&utm_source=STSmartphone&utm_medium=share&utm_term=2019-06-26+08%3A21%3A30" target="_blank">Working to Expand Space for Cohesion, The Straits Times</a>
 
 **24 June 2019**                                                                                     
 * [From Catholic Nun to Respected Author on the World’s Religions, The Straits Times](www.straitstimes.com/singapore/from-catholic-nun-to-respected-author-on-the-worlds-religions)  
