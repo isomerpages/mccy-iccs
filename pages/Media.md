@@ -43,10 +43,15 @@ href="https://www.straitstimes.com/singapore/learning-journeys-to-places-of-wors
 * [王瑞杰：应对全球性挑战 社会应建立互信尊重, Lianhe Zaobao](https://www.zaobao.com.sg/znews/singapore/story20190622-966381)   
 * [王瑞杰：抗衡极端主义搭建互信桥梁 打造和谐社会年轻人扮演关键角色, Lianhe Zaobao](https://www.zaobao.com.sg/news/singapore/story20190622-966391)   
 * [分享国家繁荣果实有助促进社会凝聚力, Lianhe Zaobao](https://www.zaobao.com.sg/news/singapore/story20190622-966393)   
-* [Tangani Cabaran Bersama Dengan Saling Percaya, Hormat, Berita Harian](https://www.beritaharian.sg/setempat/tangani-cabaran-bersama-dengan-saling-percaya-hormat)   
-* [Masyarakat Islam Komited Lindungi Masyarakat Kohesif: Masagos, Berita Harian](https://www.beritaharian.sg/setempat/masyarakat-islam-komited-lindungi-masyarakat-kohesif-masagos)   
-* [Soal Keimanan, Kemanusiaan Tema Ceramah Muis, Berita Harian](https://www.beritaharian.sg/setempat/soal-keimanan-kemanusiaan-tema-ceramah-muis)  
-* [Presiden Halimah: Negara Kecil Perlu Terus Sedia Tangani Cabaran Luar, Berita Harian](https://www.beritaharian.sg/setempat/presiden-halimah-negara-kecil-perlu-terus-sedia-tangani-cabaran-luar)   
+* <a 
+href="https://www.beritaharian.sg/setempat/tangani-cabaran-bersama-dengan-saling-percaya-hormat" target="_blank">Tangani Cabaran Bersama Dengan Saling Percaya, Hormat, Berita Harian</a>  
+
+* <a 
+href="https://www.beritaharian.sg/setempat/masyarakat-islam-komited-lindungi-masyarakat-kohesif-masagos" target="_blank">Masyarakat Islam Komited Lindungi Masyarakat Kohesif: Masagos, Berita Harian</a>   
+* <a 
+href="https://www.beritaharian.sg/setempat/soal-keimanan-kemanusiaan-tema-ceramah-muis" target="_blank">Soal Keimanan, Kemanusiaan Tema Ceramah Muis, Berita Harian</a> 
+* <a 
+href="https://www.beritaharian.sg/setempat/presiden-halimah-negara-kecil-perlu-terus-sedia-tangani-cabaran-luar" target="_blank">Presiden Halimah: Negara Kecil Perlu Terus Sedia Tangani Cabaran Luar, Berita Harian</a>   
 
 **21 June 2019**   
 * [Countries Must Tackle Common Challenges with Mutual Trust and Respect: Heng Swee Keat, The Straits Times](https://www.straitstimes.com/politics/countries-must-tackle-common-challenges-with-mutual-trust-and-respect-heng-swee-keat)   
