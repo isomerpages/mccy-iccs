@@ -140,6 +140,7 @@ href="https://www.albawaba.com/news/jordan-king-palestinians-must-have-their-sta
 
 * <a 
 href="" target="_blank"></a>  * [King Delivers Keynote Address at International Conference on Cohesive Societies in Singapore, MENAFN](https://menafn.com/1098662026/King-delivers-keynote-address-at-International-Conference-on-Cohesive-Societies-in-Singapore)   
+
 **19 June 2019**
 
 * [International Conference on Cohesive Societies to Discuss Issues Surrounding Faith, Identity and Cohesion, The Straits Times](https://www.straitstimes.com/singapore/international-conference-on-cohesive-societies-to-discuss-issues-surrounding-faith)   
