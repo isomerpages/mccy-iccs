@@ -6,7 +6,8 @@ layout: post
 description: ""
 ---
 # Media coverage 
-
+* <a 
+href="" target="_blank"></a>    
 
 **30 June 2019**  
 * <a href="https://www.channelnewsasia.com/singapore/religion-karen-armstrong-unwinding-biggest-enemies-1328931" target="_blank">Unwinding the Biggest Enemies of Religion: A Conversation with Karen Armstrong, Channel NewsAsia</a>
@@ -143,18 +144,29 @@ href="https://safe.menlosecurity.com/https://menafn.com/1098662026/King-delivers
 		 
 **19 June 2019**
 
-* [International Conference on Cohesive Societies to Discuss Issues Surrounding Faith, Identity and Cohesion, The Straits Times](https://www.straitstimes.com/singapore/international-conference-on-cohesive-societies-to-discuss-issues-surrounding-faith)   
-* [President Halimah Underlines Need to Engage with Diversity, Strengthen Social Cohesion, The Straits Times](https://www.straitstimes.com/singapore/president-halimah-underlines-need-to-engage-with-diversity-strengthen-social-cohesion?xtor=CS3-17&utm_source=STSmartphone&utm_medium=share&utm_term=2019-06-19+21%3A22%3A550)   
-* [“Everyone Has a Role”: President Halimah Meets Young Leaders to Discuss Social Cohesion, The Straits Times](https://www.straitstimes.com/singapore/everyone-has-a-role-president-halimah-meets-young-leaders-to-discuss-social-cohesion)   
-* [More than 250 Religious Organisations Commit to Safeguard Religious Harmony, The Straits Times](https://www.straitstimes.com/singapore/250-religious-groups-make-commitment-with-practical-suggestions-to-safeguard-religious)   
-* [Free Art Exhibition Showcases Singapore’s Religious Harmony, The Straits Times](https://www.straitstimes.com/singapore/free-art-exhibition-showcases-singapores-religious-harmony)   
-* [Jordanian King Abdullah II in Singapore for His Third State Visit, The Straits Times](https://www.straitstimes.com/singapore/jordanian-king-abdullah-ii-in-singapore-for-his-third-state-visit)  
+* <a 
+href="https://safe.menlosecurity.com/https://www.straitstimes.com/singapore/international-conference-on-cohesive-societies-to-discuss-issues-surrounding-faith" target="_blank">International Conference on Cohesive Societies to Discuss Issues Surrounding Faith, Identity and Cohesion, The Straits Times</a>   
+* <a 
+href="https://safe.menlosecurity.com/https://www.straitstimes.com/singapore/president-halimah-underlines-need-to-engage-with-diversity-strengthen-social-cohesion?xtor=CS3-17&utm_source=STSmartphone&utm_medium=share&utm_term=2019-06-19+21%3A22%3A55" target="_blank">President Halimah Underlines Need to Engage with Diversity, Strengthen Social Cohesion, The Straits Times</a>   
+* <a 
+href="https://safe.menlosecurity.com/https://www.straitstimes.com/singapore/everyone-has-a-role-president-halimah-meets-young-leaders-to-discuss-social-cohesion" target="_blank">“Everyone Has a Role”: President Halimah Meets Young Leaders to Discuss Social Cohesion, The Straits Times</a>   
+* <a 
+href="https://safe.menlosecurity.com/https://www.straitstimes.com/singapore/250-religious-groups-make-commitment-with-practical-suggestions-to-safeguard-religious" target="_blank">More than 250 Religious Organisations Commit to Safeguard Religious Harmony, The Straits Times</a>   
+* <a 
+href="https://safe.menlosecurity.com/https://www.straitstimes.com/singapore/free-art-exhibition-showcases-singapores-religious-harmony" target="_blank">Free Art Exhibition Showcases Singapore’s Religious Harmony, The Straits Times</a>  
+* <a 
+href="https://safe.menlosecurity.com/https://www.straitstimes.com/singapore/jordanian-king-abdullah-ii-in-singapore-for-his-third-state-visit" target="_blank">Jordanian King Abdullah II in Singapore for His Third State Visit, The Straits Times</a>  
 * [约旦国王到我国进行两天国事访问, Lianhe Zaobao](https://www.zaobao.com.sg/realtime/singapore/story20190619-965810)  
-* [Singapore’s Key Religious Organisations Affirm Commitment to Religious Harmony, Channel NewsAsia](https://www.channelnewsasia.com/singapore/singapore-religious-organisations-commitment-harmony-halimah-874911)   
-* [100 Pemimpin Muda Antarabangsa Bincang Isu-Isu Perpaduan, Keagamaan, Berita Mediacorp](https://berita.mediacorp.sg/singapura/100-pemimpin-muda-antarabangsa-bincang-isu-isu-perpaduan-170236)   
-* [King to Address Singapore Int’l Conference on Cohesive Societies, The Jordan Times](http://www.jordantimes.com/news/local/king-address-singapore-intl-conference-cohesive-societies)  
-* [King Visits Singapore Armed Forces Commandos, MENAFN](https://menafn.com/1098661196/King-visits-Singapore-Armed-Forces-Commandos)   
-* [King Departs on Singapore Visit, Roya News](https://en.royanews.tv/news/17842/King-departs-on-Singapore-visit)   
+* <a 
+href="" target="_blank"></a>    * [Singapore’s Key Religious Organisations Affirm Commitment to Religious Harmony, Channel NewsAsia](https://www.channelnewsasia.com/singapore/singapore-religious-organisations-commitment-harmony-halimah-874911)   
+* <a 
+href="" target="_blank"></a>    * [100 Pemimpin Muda Antarabangsa Bincang Isu-Isu Perpaduan, Keagamaan, Berita Mediacorp](https://berita.mediacorp.sg/singapura/100-pemimpin-muda-antarabangsa-bincang-isu-isu-perpaduan-170236)   
+* <a 
+href="" target="_blank"></a>    * [King to Address Singapore Int’l Conference on Cohesive Societies, The Jordan Times](http://www.jordantimes.com/news/local/king-address-singapore-intl-conference-cohesive-societies)  
+* <a 
+href="" target="_blank"></a>    * [King Visits Singapore Armed Forces Commandos, MENAFN](https://menafn.com/1098661196/King-visits-Singapore-Armed-Forces-Commandos)   
+* <a 
+href="" target="_blank"></a>    * [King Departs on Singapore Visit, Roya News](https://en.royanews.tv/news/17842/King-departs-on-Singapore-visit)   
 * Jordanian King Abdullah II in Singapore for His Third State Visit, World Times News   
 
 **18 June 2019**   
