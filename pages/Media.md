@@ -200,20 +200,20 @@ href="https://safe.menlosecurity.com/https://www.rsis.edu.sg/rsis-news-article/r
 * [Speakers’ Biographies](https://www.rsis.edu.sg/wp-content/uploads/2019/05/Annex-Speakers-Biographies.pdf)  
 
 # Publications/Op-Eds   
+
+* [International Conference on Cohesive Societies, RSIS Event Report, 30 September 2019](https://www.rsis.edu.sg/rsis-publication/rsis/international-conference-on-cohesive-societies/#.Yn3OMNARXb1)   
 * <a 
-href="" target="_blank"></a>    * [International Conference on Cohesive Societies, RSIS Event Report, 30 September 2019](https://www.rsis.edu.sg/rsis-publication/rsis/international-conference-on-cohesive-societies/#.Yn3OMNARXb1)   
+href="https://safe.menlosecurity.com/https://www.rsis.edu.sg/rsis-publication/nssp/after-the-iccs-building-social-cohesion-committing-to-a-participatory-approach/#.YqGdYCgRXb1" target="_blank">After the ICCS – Building Social Cohesion: Committing to a Participatory Approach, RSIS Commentary, 24 July 2019</a>    
 * <a 
-href="" target="_blank"></a>    * [After the ICCS – Building Social Cohesion: Committing to a Participatory Approach, RSIS Commentary, 24 July 2019](https://www.rsis.edu.sg/rsis-publication/nssp/after-the-iccs-building-social-cohesion-committing-to-a-participatory-approach/#.Yn3OZdARXb1)   
+href="https://safe.menlosecurity.com/https://www.straitstimes.com/singapore/lets-talk-openly-about-religion-yours-and-mine?xtor=CS3-17&utm_source=STSmartphone&utm_medium=share&utm_term=2019-07-07+08%3A38%3A00" target="_blank">Let’s Talk Openly about Religion – Yours and Mine, The Straits Times, 7 July 2019</a>   
 * <a 
-href="" target="_blank"></a>    * [Let’s Talk Openly about Religion – Yours and Mine, The Straits Times, 7 July 2019](https://www.straitstimes.com/singapore/lets-talk-openly-about-religion-yours-and-mine?xtor=CS3-17&utm_source=STSmartphone&utm_medium=share&utm_term=2019-07-07+08%3A38%3A00)   
+href="https://safe.menlosecurity.com/https://www.straitstimes.com/opinion/forging-community-ties-one-friendly-gesture-at-a-time" target="_blank">Forging Community Ties, One Friendly Gesture At a Time, The Straits Times, 30 June 2019</a>   
 * <a 
-href="" target="_blank"></a>    * [Forging Community Ties, One Friendly Gesture At a Time, The Straits Times, 30 June 2019](https://www.straitstimes.com/opinion/forging-community-ties-one-friendly-gesture-at-a-time)   
+href="https://safe.menlosecurity.com/https://www.rsis.edu.sg/rsis-publication/rsis/international-conference-on-cohesive-societies-appreciating-diversity-what-has-the-iccs-achieved/#.YqGdrigRXb1" target="_blank">International Conference on Cohesive Societies – Appreciating Diversity: What Has The ICCS Achieved?, RSIS Commentary, 28 June 2019</a>   
 * <a 
-href="" target="_blank"></a>    * [International Conference on Cohesive Societies – Appreciating Diversity: What Has The ICCS Achieved?, RSIS Commentary, 28 June 2019](https://www.rsis.edu.sg/rsis-publication/rsis/international-conference-on-cohesive-societies-appreciating-diversity-what-has-the-iccs-achieved/#.Yn3OsNARXb1)   
+href="https://safe.menlosecurity.com/https://www.straitstimes.com/opinion/the-challenge-is-how-we-make-the-most-of-diversity?xtor=CS3-17&utm_source=STSmartphone&utm_medium=share&utm_term=2019-06-27+06%3A53%3A35" target="_blank">The Challenge is How We Make the Most of Diversity, The Straits Times, 27 June 2019</a>    
 * <a 
-href="" target="_blank"></a>    * [The Challenge is How We Make the Most of Diversity, The Straits Times, 27 June 2019](https://www.straitstimes.com/opinion/the-challenge-is-how-we-make-the-most-of-diversity?xtor=CS3-17&utm_source=STSmartphone&utm_medium=share&utm_term=2019-06-27+06%3A53%3A35)   
-* <a 
-href="" target="_blank"></a>    * [International Conference on Cohesive Societies – Tolerance and its Enemies: Three Observations, RSIS Commentary, 27 June 2019](https://www.rsis.edu.sg/rsis-publication/cens/international-conference-on-cohesive-societies-tolerance-and-its-enemies-three-observations/?doing_wp_cron=1652412130.0314490795135498046875#.Yn3O49ARXb1)   
+href="https://safe.menlosecurity.com/https://www.rsis.edu.sg/rsis-publication/cens/international-conference-on-cohesive-societies-tolerance-and-its-enemies-three-observations/#.YqGd8SgRXb1" target="_blank">International Conference on Cohesive Societies – Tolerance and its Enemies: Three Observations, RSIS Commentary, 27 June 2019</a>    
 * <a 
 href="" target="_blank"></a>    * [The International Conference on Cohesive Societies – How to Build Cohesive Societies, RSIS Commentary, 25 June 2019](https://www.rsis.edu.sg/rsis-publication/rsis/the-international-conference-on-cohesive-societies-how-to-build-cohesive-societies/#.Yn3O-tARXb1)
 * <a 
