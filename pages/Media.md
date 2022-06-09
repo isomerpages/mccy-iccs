@@ -239,4 +239,4 @@ href="https://safe.menlosecurity.com/https://www.rsis.edu.sg/rsis-publication/sr
 * <a 
 href="https://safe.menlosecurity.com/https://www.rsis.edu.sg/rsis-publication/rsis/plural-traditions-in-plural-societies-inclusivity-in-inter-religious-dialogue/#.YqGgJSgRXb1" target="_blank">Interreligious Marriage: Perspectives from the Singaporean Context in Relation to Interreligious Dialogue, Interreligious Relations, 1 February 2019</a>   
 * <a 
-href="https://safe.menlosecurity.com/https://www.rsis.edu.sg/rsis-publication/rsis/plural-traditions-in-plural-societies-inclusivity-in-inter-religious-dialogue/#.YqGgJSgRXb1" target="_blank">Plural Traditions in Plural Societies: Inclusivity in Inter-Religious Dialogue, RSIS Commentary, 2 January 2019</a> 
+href="https://safe.menlosecurity.com/https://www.rsis.edu.sg/rsis-publication/rsis/plural-traditions-in-plural-societies-inclusivity-in-inter-religious-dialogue/#.YqGgJSgRXb1" target="_blank">Plural Traditions in Plural Societies: Inclusivity in Inter-Religious Dialogue, RSIS Commentary, 2 January 2019</a>
