@@ -137,11 +137,10 @@ href="https://en.royanews.tv/news/17851/2019-06-20" target="_blank">King Deliver
 * <a 
 href="http://www.jordantimes.com/news/local/palestinian-israeli-conflict-has-fuelled-global-discord-and-radicalism%E2%80%94-king" target="_blank">“The Palestinian-Israeli Conflict Has Fuelled Global Discord and Radicalism”— King, The Jordan Times</a>    
 * <a 
-href="https://www.albawaba.com/news/jordan-king-palestinians-must-have-their-state-1292517" target="_blank"> Jordan King: Palestinians Must Have Their State, Al-Bawaba</a>  
-
+href="https://safe.menlosecurity.com/https://www.albawaba.com/news/jordan-king-palestinians-must-have-their-state-1292517" target="_blank">Jordan King: Palestinians Must Have Their State, Al-Bawaba</a>     
 * <a 
-href="" target="_blank"></a>  * [King Delivers Keynote Address at International Conference on Cohesive Societies in Singapore, MENAFN](https://menafn.com/1098662026/King-delivers-keynote-address-at-International-Conference-on-Cohesive-Societies-in-Singapore)   
-
+href="https://safe.menlosecurity.com/https://menafn.com/1098662026/King-delivers-keynote-address-at-International-Conference-on-Cohesive-Societies-in-Singapore" target="_blank">King Delivers Keynote Address at International Conference on Cohesive Societies in Singapore, MENAFN</a>     
+		 
 **19 June 2019**
 
 * [International Conference on Cohesive Societies to Discuss Issues Surrounding Faith, Identity and Cohesion, The Straits Times](https://www.straitstimes.com/singapore/international-conference-on-cohesive-societies-to-discuss-issues-surrounding-faith)   
