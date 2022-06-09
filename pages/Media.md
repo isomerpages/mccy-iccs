@@ -158,15 +158,15 @@ href="https://safe.menlosecurity.com/https://www.straitstimes.com/singapore/free
 href="https://safe.menlosecurity.com/https://www.straitstimes.com/singapore/jordanian-king-abdullah-ii-in-singapore-for-his-third-state-visit" target="_blank">Jordanian King Abdullah II in Singapore for His Third State Visit, The Straits Times</a>  
 * [约旦国王到我国进行两天国事访问, Lianhe Zaobao](https://www.zaobao.com.sg/realtime/singapore/story20190619-965810)  
 * <a 
-href="" target="_blank"></a>    * [Singapore’s Key Religious Organisations Affirm Commitment to Religious Harmony, Channel NewsAsia](https://www.channelnewsasia.com/singapore/singapore-religious-organisations-commitment-harmony-halimah-874911)   
+href="https://safe.menlosecurity.com/https://www.channelnewsasia.com/singapore/singapore-religious-organisations-commitment-harmony-halimah-874911" target="_blank">Singapore’s Key Religious Organisations Affirm Commitment to Religious Harmony, Channel NewsAsia</a>   
 * <a 
-href="" target="_blank"></a>    * [100 Pemimpin Muda Antarabangsa Bincang Isu-Isu Perpaduan, Keagamaan, Berita Mediacorp](https://berita.mediacorp.sg/singapura/100-pemimpin-muda-antarabangsa-bincang-isu-isu-perpaduan-170236)   
+href="https://safe.menlosecurity.com/https://berita.mediacorp.sg/singapura/100-pemimpin-muda-antarabangsa-bincang-isu-isu-perpaduan-170236" target="_blank">100 Pemimpin Muda Antarabangsa Bincang Isu-Isu Perpaduan, Keagamaan, Berita Mediacorp</a>  
 * <a 
-href="" target="_blank"></a>    * [King to Address Singapore Int’l Conference on Cohesive Societies, The Jordan Times](http://www.jordantimes.com/news/local/king-address-singapore-intl-conference-cohesive-societies)  
+href="https://safe.menlosecurity.com/http://www.jordantimes.com/news/local/king-address-singapore-intl-conference-cohesive-societies" target="_blank">King to Address Singapore Int’l Conference on Cohesive Societies, The Jordan Times</a>  
 * <a 
-href="" target="_blank"></a>    * [King Visits Singapore Armed Forces Commandos, MENAFN](https://menafn.com/1098661196/King-visits-Singapore-Armed-Forces-Commandos)   
+href="https://safe.menlosecurity.com/https://menafn.com/1098661196/King-visits-Singapore-Armed-Forces-Commandos" target="_blank">King Visits Singapore Armed Forces Commandos, MENAFN</a>
 * <a 
-href="" target="_blank"></a>    * [King Departs on Singapore Visit, Roya News](https://en.royanews.tv/news/17842/King-departs-on-Singapore-visit)   
+href="https://safe.menlosecurity.com/https://en.royanews.tv/news/17842/King-departs-on-Singapore-visit" target="_blank">King Departs on Singapore Visit, Roya News</a> 
 * Jordanian King Abdullah II in Singapore for His Third State Visit, World Times News   
 
 **18 June 2019**   
