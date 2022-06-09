@@ -171,7 +171,8 @@ href="https://safe.menlosecurity.com/https://en.royanews.tv/news/17842/King-depa
 
 **18 June 2019**   
 
-* [From Debate to Dialogue: Two Religions, One Friendship and a Common Interfaith Cause, TODAY](https://www.todayonline.com/commentary/debate-dialogue-two-religions-one-friendship-and-common-interfaith-cause)   
+* <a 
+href="https://safe.menlosecurity.com/https://www.todayonline.com/commentary/debate-dialogue-two-religions-one-friendship-and-common-interfaith-cause" target="_blank">From Debate to Dialogue: Two Religions, One Friendship and a Common Interfaith Cause, TODAY</a>
 * Amb Ong Keng Yong on the Importance of Interfaith Harmony and Dialogue, carried on Singapore Tonight (CNA)   
 * Amb Mohammad Alami Musa on the Ground-up Efforts by Muslims to Strengthen Interreligious Understanding, carried on Berita (Suria)   
 
