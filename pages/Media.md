@@ -192,7 +192,8 @@ href="https://safe.menlosecurity.com/https://www.todayonline.com/commentary/deba
 
 * <a 
 href="https://safe.menlosecurity.com/https://www.rsis.edu.sg/rsis-speeches-article/rsis/closing-remarks-by-mr-heng-swee-keat-deputy-prime-minister-and-minister-for-finance-at-the-international-conference-on-cohesive-societies-iccs/#.XQyi_-gzbIU" target="_blank">Closing Remarks by Mr Heng Swee Keat, Deputy Prime Minister and Minister for Finance, at ICCS, 21 June 2019</a>  
-* [Keynote Speech by His Majesty King Abdullah II Ibn Al Hussein of the Hashemite Kingdom of Jordan at ICCS, 20 June 2019](https://www.rsis.edu.sg/rsis-speeches-article/rsis/keynote-speech-by-his-majesty-king-abdullah-ii-ibn-al-hussein-of-the-hashemite-kingdom-of-jordan-at-the-international-conference-on-cohesive-societies/#.XQsvMOgzbIU)  
+* <a 
+href="https://www.rsis.edu.sg/rsis-speeches-article/rsis/keynote-speech-by-his-majesty-king-abdullah-ii-ibn-al-hussein-of-the-hashemite-kingdom-of-jordan-at-the-international-conference-on-cohesive-societies/#.XQsvMOgzbIU" target="_blank">Keynote Speech by His Majesty King Abdullah II Ibn Al Hussein of the Hashemite Kingdom of Jordan at ICCS, 20 June 2019</a>  
 * <a 
 href="https://safe.menlosecurity.com/https://www.rsis.edu.sg/rsis-speeches-article/rsis/opening-remarks-by-ambassador-ong-keng-yong-executive-deputy-chairman-of-rsis-at-the-international-conference-on-cohesive-societies-iccs/#.XQsvgegzbIU" target="_blank">Opening Remarks by Ambassador Ong Keng Yong, Executive Deputy Chairman of RSIS, at ICCS, 20 June 2019</a>   
 * <a 
