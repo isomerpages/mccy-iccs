@@ -163,7 +163,8 @@ href="https://safe.menlosecurity.com/https://www.straitstimes.com/singapore/250-
 href="https://safe.menlosecurity.com/https://www.straitstimes.com/singapore/free-art-exhibition-showcases-singapores-religious-harmony" target="_blank">Free Art Exhibition Showcases Singapore’s Religious Harmony, The Straits Times</a>  
 * <a 
 href="https://safe.menlosecurity.com/https://www.straitstimes.com/singapore/jordanian-king-abdullah-ii-in-singapore-for-his-third-state-visit" target="_blank">Jordanian King Abdullah II in Singapore for His Third State Visit, The Straits Times</a>  
-* [约旦国王到我国进行两天国事访问, Lianhe Zaobao](https://www.zaobao.com.sg/realtime/singapore/story20190619-965810)  
+* <a 
+href="https://www.zaobao.com.sg/realtime/singapore/story20190619-965810" target="_blank">约旦国王到我国进行两天国事访问, Lianhe Zaobao</a>  
 * <a 
 href="https://safe.menlosecurity.com/https://www.channelnewsasia.com/singapore/singapore-religious-organisations-commitment-harmony-halimah-874911" target="_blank">Singapore’s Key Religious Organisations Affirm Commitment to Religious Harmony, Channel NewsAsia</a>   
 * <a 
