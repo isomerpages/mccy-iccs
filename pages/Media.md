@@ -108,7 +108,8 @@ href="https://www.straitstimes.com/singapore/king-abdullah-of-jordan-on-two-day-
 href="https://www.straitstimes.com/politics/attack-on-interfaith-harmony-mutual-respect-and-trust-single-biggest-threat-says-jordans" target="_blank">Attack on Interfaith Harmony, Mutual Respect and Trust is Single Biggest Threat, Says Jordan’s King Abdullah II, The Straits Times</a>     
 * <a 
 href="https://www.straitstimes.com/multimedia/photos/today-in-pictures-june-20-2019" target="_blank">Photo from President Halimah’s Fireside Chat with YLP Participants, Today in Pictures, June 20, 2019 (The Straits Times)</a>     
-* [逾250组织加入《承诺》 誓维护宗教和谐, Lianhe Zaobao](https://www.zaobao.com.sg/news/singapore/story20190620-965866)   
+* <a 
+href="https://www.zaobao.com.sg/news/singapore/story20190620-965866" target="_blank">逾250组织加入《承诺》 誓维护宗教和谐, Lianhe Zaobao</a>  
 * <a 
 href="https://www.beritaharian.sg/setempat/nilai-saling-percaya-perkukuh-perpaduan-presiden-halimah" target="_blank">Nilai Saling Percaya Perkukuh Perpaduan: Presiden Halimah, Berita Harian</a>    
 * <a 
