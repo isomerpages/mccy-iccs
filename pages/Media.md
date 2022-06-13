@@ -39,8 +39,10 @@ href="https://www.straitstimes.com/singapore/ex-white-supremacist-and-anti-terro
 
 * <a 
 href="https://www.straitstimes.com/singapore/learning-journeys-to-places-of-worship-for-singaporeans-to-know-more-about-religion-and" target="_blank">Learning Journeys to Places of Worship for Singaporeans to Know More about Religion and Culture, The Straits Times</a>  
+
+* <a 
+href="https://www.zaobao.com.sg/znews/singapore/story20190622-966381" target="_blank">王瑞杰：应对全球性挑战 社会应建立互信尊重, Lianhe Zaobao</a>  
   
-* [王瑞杰：应对全球性挑战 社会应建立互信尊重, Lianhe Zaobao](https://www.zaobao.com.sg/znews/singapore/story20190622-966381)   
 * [王瑞杰：抗衡极端主义搭建互信桥梁 打造和谐社会年轻人扮演关键角色, Lianhe Zaobao](https://www.zaobao.com.sg/news/singapore/story20190622-966391)   
 * [分享国家繁荣果实有助促进社会凝聚力, Lianhe Zaobao](https://www.zaobao.com.sg/news/singapore/story20190622-966393)   
 * <a 
