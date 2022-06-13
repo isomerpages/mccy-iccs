@@ -75,7 +75,8 @@ href="https://www.straitstimes.com/singapore/draw-on-religious-teachings-to-help
 href="https://www.straitstimes.com/singapore/singapore-jordan-look-forward-to-deepening-cooperation-in-new-fields" target="_blank">Singapore, Jordan Look Forward to Deepening Cooperation in New Fields, The Straits Times</a> 
 * <a 
 href="https://www.straitstimes.com/politics/jordans-king-calls-for-joint-effort-to-tackle-attack-on-harmony" target="_blank">Jordan’s King Calls for Joint Effort to Tackle Attack on Harmony, The Straits Times</a> 
-* [王瑞杰：建立和谐社会 寻共性更为重要, Lianhe Zaobao](https://www.zaobao.com.sg/realtime/singapore/story20190621-966343)   
+* <a 
+href="https://www.zaobao.com.sg/realtime/singapore/story20190621-966343" target="_blank">王瑞杰：建立和谐社会 寻共性更为重要, Lianhe Zaobao</a>  
 * [认同约旦国王观点 哈莉玛总统吁国人 团结抗衡网络极端言论, Lianhe Zaobao](https://www.zaobao.com.sg/news/singapore/story20190621-966112)   
 * <a 
 href="https://www.todayonline.com/singapore/cohesive-society-calls-everyone-build-democracy-deeds-heng-swee-keat" target="_blank">Cohesive Society Calls for Everyone to Build a “Democracy of Deeds”: Heng Swee Keat, TODAY</a>  
