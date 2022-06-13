@@ -231,7 +231,7 @@ href="https://safe.menlosecurity.com/https://www.rsis.edu.sg/rsis-publication/rs
 href="https://safe.menlosecurity.com/https://www.straitstimes.com/opinion/whats-needed-to-harness-the-strengths-of-social-diversity" target="_blank">What’s Needed to Harness the Strengths of Social Diversity, The Straits Times, 20 June 2019</a>
 * <a 
 href="https://safe.menlosecurity.com/https://www.rsis.edu.sg/rsis-publication/rsis/forging-cohesive-societies-living-with-religious-diversity/#.YqGePSgRXb1 " target="_blank">Forging Cohesive Societies – Living With Religious Diversity, RSIS Commentary, 14 June 2019</a>   
- * [This Hari Raya Puasa and Dragon Boat Festival, Open Homes to Friends of Other Religions and Cultures, Channel NewsAsia, 5 June 2019](https://www.channelnewsasia.com/commentary/religious-holidays-visiting-hari-raya-puasa-dragon-boat-festival-1321381)   
+* This Hari Raya Puasa and Dragon Boat Festival, Open Homes to Friends of Other Religions and Cultures, Channel NewsAsia, 5 June 2019
 * <a 
 href="https://safe.menlosecurity.com/https://www.straitstimes.com/opinion/terror-attacks-and-the-confusing-role-of-religion" target="_blank">Terror Attacks and the Confusing Role of Religion, The Straits Times, 23 May 2019</a>  
 * <a 
