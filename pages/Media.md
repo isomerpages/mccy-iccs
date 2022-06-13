@@ -210,7 +210,8 @@ href="https://safe.menlosecurity.com/https://www.rsis.edu.sg/rsis-news-article/r
 
 # Publications/Op-Eds   
 
-* [International Conference on Cohesive Societies, RSIS Event Report, 30 September 2019](https://www.rsis.edu.sg/rsis-publication/rsis/international-conference-on-cohesive-societies/#.Yn3OMNARXb1)   
+* <a 
+href="https://www.rsis.edu.sg/rsis-publication/rsis/international-conference-on-cohesive-societies/#.Yn3OMNARXb1" target="_blank">International Conference on Cohesive Societies, RSIS Event Report, 30 September 2019</a>  
 * <a 
 href="https://safe.menlosecurity.com/https://www.rsis.edu.sg/rsis-publication/nssp/after-the-iccs-building-social-cohesion-committing-to-a-participatory-approach/#.YqGdYCgRXb1" target="_blank">After the ICCS – Building Social Cohesion: Committing to a Participatory Approach, RSIS Commentary, 24 July 2019</a>    
 * <a 
