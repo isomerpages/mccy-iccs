@@ -3,9 +3,7 @@ title: Young Leaders Programme
 permalink: /ylp/
 description: Young Leaders Programme
 ---
-
-
-The Young Leaders' Programme (YLP) is a platform for young local and international leaders to network and collaborate on initiatives around social cohesion and community building. Through the YLP, we aim to develop a strong local core of youth leaders able to address social cohesion issues in Singapore and internationally.
+The Young Leaders Programme (YLP) is a platform for young local and international leaders to network and collaborate on initiatives around social cohesion and community building. Through the YLP, we aim to develop a strong local core of youth leaders able to address social cohesion issues in Singapore and internationally.
 
 ![](/images/19June2019ICCSPhotog1_morning-60.jpg)
 ![](/images/18June2019ICCSPhotog1-116.jpg)
