@@ -46,7 +46,9 @@ href="https://www.zaobao.com.sg/znews/singapore/story20190622-966381" target="_b
 * <a 
 href="https://www.zaobao.com.sg/news/singapore/story20190622-966391" target="_blank">王瑞杰：抗衡极端主义搭建互信桥梁 打造和谐社会年轻人扮演关键角色, Lianhe Zaobao</a>  
 
-* [分享国家繁荣果实有助促进社会凝聚力, Lianhe Zaobao](https://www.zaobao.com.sg/news/singapore/story20190622-966393)   
+* <a 
+href="https://www.zaobao.com.sg/news/singapore/story20190622-966393" target="_blank">分享国家繁荣果实有助促进社会凝聚力, Lianhe Zaobao</a>  
+
 * <a 
 href="https://www.beritaharian.sg/setempat/tangani-cabaran-bersama-dengan-saling-percaya-hormat" target="_blank">Tangani Cabaran Bersama Dengan Saling Percaya, Hormat, Berita Harian</a>  
 
