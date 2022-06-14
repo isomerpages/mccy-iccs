@@ -17,4 +17,4 @@ From 6th-8th September 2022, delegates can look forward to:
 
 * **A hands-on, experiential showcase** of ground-up projects to strengthen social cohesion; and
 
-* **A capability-building workshop** to equip and inspire young civic leaders.
+* **A capability-building workshop** to equip and inspire young civic leaders, led by Krish Raval and Denny Braggins from Faith In Leadership (UK).
