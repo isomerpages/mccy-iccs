@@ -2,12 +2,12 @@ collections:
   past-events:
     output: true
     order:
-      - Mission:Unite.md
       - ICCS 2019/.keep
       - ICCS 2019/Overview.md
       - ICCS 2019/Speakers.md
       - ICCS 2019/Gallery.md
       - ICCS 2019/ICCS Book.md
+      - Mission:Unite.md
       - Mission:Unite/.keep
       - Mission:Unite/Overview.md
       - Social Cohesion Conversations/.keep
