@@ -2,6 +2,7 @@ collections:
   past-events:
     output: true
     order:
+      - Social Cohesion Conversations/.keep
       - ICCS 2019/.keep
       - ICCS 2019/Overview.md
       - ICCS 2019/Speakers.md
