@@ -37,7 +37,7 @@ sections:
       url: /CommunityExperience
       image: /images/21june2019iccsphotog3-257.jpg
   - infopic:
-      title: Young Leaders' Programme
+      title: Young Leaders Programme
       description: The YLP is a platform for young local and international leaders to
         network and collaborate on initiatives around social cohesion and
         community building.
