@@ -1,17 +1,33 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/ICCS-LOGO.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Page
-    url: /page/
-  - title: Collection
-    collection: collection
-  - title: Resource
-    resource_room: true
+  - title: About
+    url: /ICCS
+    sublinks:
+      - title: ICCS
+        url: /ICCS
+      - title: Contact Us
+        url: /Contact
+  - title: ICCS 2022
+    url: /ProgrammeSpeakers
+    sublinks:
+      - title: Programme & Speakers
+        url: /ProgrammeSpeakers
+      - title: Young Leaders Programme
+        url: /ylp
+      - title: Community Experience
+        url: /CommunityExperience
+      - title: ICCS Research & Commentaries
+        url: /Research
+  - title: "Attendees Guide "
+    url: /Registration
+    sublinks:
+      - title: Registration
+        url: /Registration
+      - title: Venue & Travel Advisory
+        url: /VenueTravelAdvisory
+      - title: FAQs
+        url: /faqs
+  - title: Past Events
+    collection: past-events
+  - title: Media
+    url: /Media
