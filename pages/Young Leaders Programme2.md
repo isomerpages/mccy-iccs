@@ -1,8 +1,9 @@
 ---
-title: Young Leaders Programme
-permalink: /YLP
-description: Young Leaders Programme
+title: Young Leaders Programme2
+permalink: /ylp2
+description: Young Leaders Programme2
 ---
+
 The Young Leaders Programme (YLP) is a platform for young local and international leaders to network and collaborate on initiatives to strengthen social cohesion. The YLP aims to develop a core of young leaders who can speak and lead with confidence on issues affecting ethnic and religious harmony today. 
 
 ![](/images/19June2019ICCSPhotog1_morning-60.jpg)

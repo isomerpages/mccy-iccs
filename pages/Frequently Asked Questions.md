@@ -1,9 +1,7 @@
 ---
 title: Frequently Asked Questions
-permalink: /faqs
-date: 2022-01-13
-layout: post
-description: ""
+permalink: /FAQs
+description: FAQs
 ---
 **1.	Do I have to pay any fees to attend the Conference?**  
 No, there will not be any registration fees. However, any related COVID-19 tests and protocols required prior to entering Singapore should be borne by the individual.  

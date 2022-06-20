@@ -13,7 +13,7 @@ links:
       - title: Programme & Speakers
         url: /ProgrammeSpeakers
       - title: Young Leaders Programme
-        url: /ylp
+        url: /YLP
       - title: Community Experience
         url: /CommunityExperience
       - title: ICCS Research & Commentaries
@@ -26,7 +26,7 @@ links:
       - title: Venue & Travel Advisory
         url: /VenueTravelAdvisory
       - title: FAQs
-        url: /faqs
+        url: /FAQs
   - title: Past Events
     collection: past-events
   - title: Media

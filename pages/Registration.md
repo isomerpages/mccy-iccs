@@ -1,12 +1,8 @@
 ---
 title: Registration
 permalink: /Registration
-date: 2022-01-13
-layout: post
 description: Registration
 ---
-
-
 **Please register your interest below to attend ICCS 2022.  
 Registration deadline: 8 August 2022, 6:00pm (SGT)**  
 

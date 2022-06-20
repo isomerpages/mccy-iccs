@@ -1,9 +1,7 @@
 ---
 title: ICCS Research & Commentaries
 permalink: /Research
-date: 2022-01-13
-layout: post
-description: ICCS Research & Commentaries
+description: Research & Commentaries
 ---
 The ICCS Research and Commentaries is a new and signature component of the ICCS, which includes:
 
