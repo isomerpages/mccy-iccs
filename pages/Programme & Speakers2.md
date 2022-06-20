@@ -1,0 +1,15 @@
+---
+title: Programme & Speakers2
+permalink: /ProgrammeSpeakers2
+date: 2022-01-11
+layout: post
+description: Programme & Speakers2
+---
+
+ICCS 2022 will be held on 6th-8th September 2022 at the Raffles City Convention Centre (RCCC).  
+
+The 3-day programme will feature speeches by renowned speakers from around the world, panel discussions and dialogues on the themes of faith, identity and cohesion.
+![](/images/ICCS%20Programme%20Outline.png)
+[Download a copy of the latest programme here.](/files/ICCS%202022%20Programme%20Outline_as%20at%2017%20Jun%202022.pdf)
+
+More programme and speaker details will be released in due course. Watch this space.
