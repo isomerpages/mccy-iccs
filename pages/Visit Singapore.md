@@ -3,6 +3,8 @@ title: Visit Singapore
 permalink: /visitsingapore
 description: Visit Singapore
 ---
+Wish to discover more about Singapore? Here are some of the sights, sounds and tastes you can expect while you are here.
+
 <a href="https://www.visitsingapore.com/en/" target="_blank"> <img src="/images/1-%20Intro.png"></a>
 <a href="https://www.visitsingapore.com/dining-drinks-singapore/" target="_blank"> <img src="/images/2-Dining.png"></a>
 <a href="https://www.visitsingapore.com/singapore-shopping/" target="_blank"> <img src="/images/3-Shopping.png"></a>
