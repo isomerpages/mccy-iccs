@@ -143,42 +143,42 @@ href="https://en.royanews.tv/news/17851/2019-06-20" target="_blank">King Deliver
 * <a 
 href="http://www.jordantimes.com/news/local/palestinian-israeli-conflict-has-fuelled-global-discord-and-radicalism%E2%80%94-king" target="_blank">“The Palestinian-Israeli Conflict Has Fuelled Global Discord and Radicalism”— King, The Jordan Times</a>    
 * <a 
-href="https://safe.menlosecurity.com/https://www.albawaba.com/news/jordan-king-palestinians-must-have-their-state-1292517" target="_blank">Jordan King: Palestinians Must Have Their State, Al-Bawaba</a>     
+href="https://www.albawaba.com/news/jordan-king-palestinians-must-have-their-state-1292517" target="_blank">Jordan King: Palestinians Must Have Their State, Al-Bawaba</a>     
 * <a 
-href="https://safe.menlosecurity.com/https://menafn.com/1098662026/King-delivers-keynote-address-at-International-Conference-on-Cohesive-Societies-in-Singapore" target="_blank">King Delivers Keynote Address at International Conference on Cohesive Societies in Singapore, MENAFN</a>     
+href="https://menafn.com/1098662026/King-delivers-keynote-address-at-International-Conference-on-Cohesive-Societies-in-Singapore" target="_blank">King Delivers Keynote Address at International Conference on Cohesive Societies in Singapore, MENAFN</a>     
 		 
 **19 June 2019**
 
 * <a 
-href="https://safe.menlosecurity.com/https://www.straitstimes.com/singapore/international-conference-on-cohesive-societies-to-discuss-issues-surrounding-faith" target="_blank">International Conference on Cohesive Societies to Discuss Issues Surrounding Faith, Identity and Cohesion, The Straits Times</a>   
+href="https://www.straitstimes.com/singapore/international-conference-on-cohesive-societies-to-discuss-issues-surrounding-faith" target="_blank">International Conference on Cohesive Societies to Discuss Issues Surrounding Faith, Identity and Cohesion, The Straits Times</a>   
 * <a 
-href="https://safe.menlosecurity.com/https://www.straitstimes.com/singapore/president-halimah-underlines-need-to-engage-with-diversity-strengthen-social-cohesion?xtor=CS3-17&utm_source=STSmartphone&utm_medium=share&utm_term=2019-06-19+21%3A22%3A55" target="_blank">President Halimah Underlines Need to Engage with Diversity, Strengthen Social Cohesion, The Straits Times</a>   
+href="https://www.straitstimes.com/singapore/president-halimah-underlines-need-to-engage-with-diversity-strengthen-social-cohesion?xtor=CS3-17&utm_source=STSmartphone&utm_medium=share&utm_term=2019-06-19+21%3A22%3A55" target="_blank">President Halimah Underlines Need to Engage with Diversity, Strengthen Social Cohesion, The Straits Times</a>   
 * <a 
-href="https://safe.menlosecurity.com/https://www.straitstimes.com/singapore/everyone-has-a-role-president-halimah-meets-young-leaders-to-discuss-social-cohesion" target="_blank">“Everyone Has a Role”: President Halimah Meets Young Leaders to Discuss Social Cohesion, The Straits Times</a>   
+href="https://www.straitstimes.com/singapore/everyone-has-a-role-president-halimah-meets-young-leaders-to-discuss-social-cohesion" target="_blank">“Everyone Has a Role”: President Halimah Meets Young Leaders to Discuss Social Cohesion, The Straits Times</a>   
 * <a 
-href="https://safe.menlosecurity.com/https://www.straitstimes.com/singapore/250-religious-groups-make-commitment-with-practical-suggestions-to-safeguard-religious" target="_blank">More than 250 Religious Organisations Commit to Safeguard Religious Harmony, The Straits Times</a>   
+href="https://www.straitstimes.com/singapore/250-religious-groups-make-commitment-with-practical-suggestions-to-safeguard-religious" target="_blank">More than 250 Religious Organisations Commit to Safeguard Religious Harmony, The Straits Times</a>   
 * <a 
-href="https://safe.menlosecurity.com/https://www.straitstimes.com/singapore/free-art-exhibition-showcases-singapores-religious-harmony" target="_blank">Free Art Exhibition Showcases Singapore’s Religious Harmony, The Straits Times</a>  
+href="https://www.straitstimes.com/singapore/free-art-exhibition-showcases-singapores-religious-harmony" target="_blank">Free Art Exhibition Showcases Singapore’s Religious Harmony, The Straits Times</a>  
 * <a 
-href="https://safe.menlosecurity.com/https://www.straitstimes.com/singapore/jordanian-king-abdullah-ii-in-singapore-for-his-third-state-visit" target="_blank">Jordanian King Abdullah II in Singapore for His Third State Visit, The Straits Times</a>  
+href="https://www.straitstimes.com/singapore/jordanian-king-abdullah-ii-in-singapore-for-his-third-state-visit" target="_blank">Jordanian King Abdullah II in Singapore for His Third State Visit, The Straits Times</a>  
 * <a 
 href="https://www.zaobao.com.sg/realtime/singapore/story20190619-965810" target="_blank">约旦国王到我国进行两天国事访问, Lianhe Zaobao</a>  
 * <a 
-href="https://safe.menlosecurity.com/https://www.channelnewsasia.com/singapore/singapore-religious-organisations-commitment-harmony-halimah-874911" target="_blank">Singapore’s Key Religious Organisations Affirm Commitment to Religious Harmony, Channel NewsAsia</a>   
+href="https://www.channelnewsasia.com/singapore/singapore-religious-organisations-commitment-harmony-halimah-874911" target="_blank">Singapore’s Key Religious Organisations Affirm Commitment to Religious Harmony, Channel NewsAsia</a>   
 * <a 
-href="https://safe.menlosecurity.com/https://berita.mediacorp.sg/singapura/100-pemimpin-muda-antarabangsa-bincang-isu-isu-perpaduan-170236" target="_blank">100 Pemimpin Muda Antarabangsa Bincang Isu-Isu Perpaduan, Keagamaan, Berita Mediacorp</a>  
+href="https://berita.mediacorp.sg/singapura/100-pemimpin-muda-antarabangsa-bincang-isu-isu-perpaduan-170236" target="_blank">100 Pemimpin Muda Antarabangsa Bincang Isu-Isu Perpaduan, Keagamaan, Berita Mediacorp</a>  
 * <a 
-href="https://safe.menlosecurity.com/http://www.jordantimes.com/news/local/king-address-singapore-intl-conference-cohesive-societies" target="_blank">King to Address Singapore Int’l Conference on Cohesive Societies, The Jordan Times</a>  
+href="http://www.jordantimes.com/news/local/king-address-singapore-intl-conference-cohesive-societies" target="_blank">King to Address Singapore Int’l Conference on Cohesive Societies, The Jordan Times</a>  
 * <a 
-href="https://safe.menlosecurity.com/https://menafn.com/1098661196/King-visits-Singapore-Armed-Forces-Commandos" target="_blank">King Visits Singapore Armed Forces Commandos, MENAFN</a>
+href="https://menafn.com/1098661196/King-visits-Singapore-Armed-Forces-Commandos" target="_blank">King Visits Singapore Armed Forces Commandos, MENAFN</a>
 * <a 
-href="https://safe.menlosecurity.com/https://en.royanews.tv/news/17842/King-departs-on-Singapore-visit" target="_blank">King Departs on Singapore Visit, Roya News</a> 
+href="https://en.royanews.tv/news/17842/King-departs-on-Singapore-visit" target="_blank">King Departs on Singapore Visit, Roya News</a> 
 * Jordanian King Abdullah II in Singapore for His Third State Visit, World Times News   
 
 **18 June 2019**   
 
 * <a 
-href="https://safe.menlosecurity.com/https://www.todayonline.com/commentary/debate-dialogue-two-religions-one-friendship-and-common-interfaith-cause" target="_blank">From Debate to Dialogue: Two Religions, One Friendship and a Common Interfaith Cause, TODAY</a>
+href="https://www.todayonline.com/commentary/debate-dialogue-two-religions-one-friendship-and-common-interfaith-cause" target="_blank">From Debate to Dialogue: Two Religions, One Friendship and a Common Interfaith Cause, TODAY</a>
 * Amb Ong Keng Yong on the Importance of Interfaith Harmony and Dialogue, carried on Singapore Tonight (CNA)   
 * Amb Mohammad Alami Musa on the Ground-up Efforts by Muslims to Strengthen Interreligious Understanding, carried on Berita (Suria)   
 
@@ -189,21 +189,21 @@ href="https://safe.menlosecurity.com/https://www.todayonline.com/commentary/deba
 # Speeches and News Releases   
 
 * <a 
-href="https://safe.menlosecurity.com/https://www.rsis.edu.sg/rsis-speeches-article/rsis/closing-remarks-by-mr-heng-swee-keat-deputy-prime-minister-and-minister-for-finance-at-the-international-conference-on-cohesive-societies-iccs/#.XQyi_-gzbIU" target="_blank">Closing Remarks by Mr Heng Swee Keat, Deputy Prime Minister and Minister for Finance, at ICCS, 21 June 2019</a>  
+href="https://www.rsis.edu.sg/rsis-speeches-article/rsis/closing-remarks-by-mr-heng-swee-keat-deputy-prime-minister-and-minister-for-finance-at-the-international-conference-on-cohesive-societies-iccs/#.XQyi_-gzbIU" target="_blank">Closing Remarks by Mr Heng Swee Keat, Deputy Prime Minister and Minister for Finance, at ICCS, 21 June 2019</a>  
 * <a 
 href="https://www.rsis.edu.sg/rsis-speeches-article/rsis/keynote-speech-by-his-majesty-king-abdullah-ii-ibn-al-hussein-of-the-hashemite-kingdom-of-jordan-at-the-international-conference-on-cohesive-societies/#.XQsvMOgzbIU" target="_blank">Keynote Speech by His Majesty King Abdullah II Ibn Al Hussein of the Hashemite Kingdom of Jordan at ICCS, 20 June 2019</a>  
 * <a 
-href="https://safe.menlosecurity.com/https://www.rsis.edu.sg/rsis-speeches-article/rsis/opening-remarks-by-ambassador-ong-keng-yong-executive-deputy-chairman-of-rsis-at-the-international-conference-on-cohesive-societies-iccs/#.XQsvgegzbIU" target="_blank">Opening Remarks by Ambassador Ong Keng Yong, Executive Deputy Chairman of RSIS, at ICCS, 20 June 2019</a>   
+href="https://www.rsis.edu.sg/rsis-speeches-article/rsis/opening-remarks-by-ambassador-ong-keng-yong-executive-deputy-chairman-of-rsis-at-the-international-conference-on-cohesive-societies-iccs/#.XQsvgegzbIU" target="_blank">Opening Remarks by Ambassador Ong Keng Yong, Executive Deputy Chairman of RSIS, at ICCS, 20 June 2019</a>   
 * <a 
-href="https://safe.menlosecurity.com/https://www.rsis.edu.sg/rsis-speeches-article/rsis/opening-address-by-president-halimah-yacob-at-the-international-conference-on-cohesive-societies/" target="_blank">Opening Address by President Halimah Yacob at ICCS, 19 June 2019</a>  
+href="https://www.rsis.edu.sg/rsis-speeches-article/rsis/opening-address-by-president-halimah-yacob-at-the-international-conference-on-cohesive-societies/" target="_blank">Opening Address by President Halimah Yacob at ICCS, 19 June 2019</a>  
 * <a 
-href="https://safe.menlosecurity.com/https://www.rsis.edu.sg/rsis-speeches-article/rsis/welcome-remarks-by-ambassador-ong-keng-yong-executive-deputy-chairman-of-rsis-at-the-opening-dinner-of-the-international-conference-on-cohesive-societies-iccs/#.XQsv0egzbIU" target="_blank">Welcome Remarks By Ambassador Ong Keng Yong, Executive Deputy Chairman of RSIS, at the Opening Dinner of ICCS, 19 June 2019</a>   
+href="https://www.rsis.edu.sg/rsis-speeches-article/rsis/welcome-remarks-by-ambassador-ong-keng-yong-executive-deputy-chairman-of-rsis-at-the-opening-dinner-of-the-international-conference-on-cohesive-societies-iccs/#.XQsv0egzbIU" target="_blank">Welcome Remarks By Ambassador Ong Keng Yong, Executive Deputy Chairman of RSIS, at the Opening Dinner of ICCS, 19 June 2019</a>   
 * <a 
-href="https://safe.menlosecurity.com/https://www.rsis.edu.sg/rsis-news-article/rsis/global-leaders-in-interfaith-harmony-and-social-cohesion-gather-in-singapore-for-international-conference-on-cohesive-societies/?doing_wp_cron=1654757920.3341479301452636718750#.XRGTFugzbIV" target="_blank">News Release on Global Leaders in Interfaith Harmony and Social Cohesion Gather in Singapore for International Conference on Cohesive Societies</a> 
+href="https://www.rsis.edu.sg/rsis-news-article/rsis/global-leaders-in-interfaith-harmony-and-social-cohesion-gather-in-singapore-for-international-conference-on-cohesive-societies/?doing_wp_cron=1654757920.3341479301452636718750#.XRGTFugzbIV" target="_blank">News Release on Global Leaders in Interfaith Harmony and Social Cohesion Gather in Singapore for International Conference on Cohesive Societies</a> 
 * <a 
-href="https://safe.menlosecurity.com/https://www.rsis.edu.sg/rsis-news-article/rsis/global-leaders-in-peace-and-religious-harmony-to-address-key-challenges-facing-social-cohesion/#.XP57WIgzaM8" target="_blank">News Release on International Conference on Cohesive Societies Announces Line-up of Speakers</a> 
+href="https://www.rsis.edu.sg/rsis-news-article/rsis/global-leaders-in-peace-and-religious-harmony-to-address-key-challenges-facing-social-cohesion/#.XP57WIgzaM8" target="_blank">News Release on International Conference on Cohesive Societies Announces Line-up of Speakers</a> 
 * <a 
-href="https://safe.menlosecurity.com/https://www.rsis.edu.sg/rsis-news-article/rsis/singapore-set-to-convene-first-international-conference-on-cohesive-societies-to-drive-global-collective-action-for-peace-and-harmony-with-king-abdullah-ii-of-jordan-delivering-the-keynote-address/#.XPhonFwzbIU" target="_blank">News Release on Singapore Hosting the International Conference on Cohesive Societies</a>   
+href="https://www.rsis.edu.sg/rsis-news-article/rsis/singapore-set-to-convene-first-international-conference-on-cohesive-societies-to-drive-global-collective-action-for-peace-and-harmony-with-king-abdullah-ii-of-jordan-delivering-the-keynote-address/#.XPhonFwzbIU" target="_blank">News Release on Singapore Hosting the International Conference on Cohesive Societies</a>   
 * [Speakers’ Biographies](https://www.rsis.edu.sg/wp-content/uploads/2019/05/Annex-Speakers-Biographies.pdf)  
 
 # Publications/Op-Eds   
@@ -211,42 +211,42 @@ href="https://safe.menlosecurity.com/https://www.rsis.edu.sg/rsis-news-article/r
 * <a 
 href="https://www.rsis.edu.sg/rsis-publication/rsis/international-conference-on-cohesive-societies/#.Yn3OMNARXb1" target="_blank">International Conference on Cohesive Societies, RSIS Event Report, 30 September 2019</a>  
 * <a 
-href="https://safe.menlosecurity.com/https://www.rsis.edu.sg/rsis-publication/nssp/after-the-iccs-building-social-cohesion-committing-to-a-participatory-approach/#.YqGdYCgRXb1" target="_blank">After the ICCS – Building Social Cohesion: Committing to a Participatory Approach, RSIS Commentary, 24 July 2019</a>    
+href="https://www.rsis.edu.sg/rsis-publication/nssp/after-the-iccs-building-social-cohesion-committing-to-a-participatory-approach/#.YqGdYCgRXb1" target="_blank">After the ICCS – Building Social Cohesion: Committing to a Participatory Approach, RSIS Commentary, 24 July 2019</a>    
 * <a 
-href="https://safe.menlosecurity.com/https://www.straitstimes.com/singapore/lets-talk-openly-about-religion-yours-and-mine?xtor=CS3-17&utm_source=STSmartphone&utm_medium=share&utm_term=2019-07-07+08%3A38%3A00" target="_blank">Let’s Talk Openly about Religion – Yours and Mine, The Straits Times, 7 July 2019</a>   
+href="https://www.straitstimes.com/singapore/lets-talk-openly-about-religion-yours-and-mine?xtor=CS3-17&utm_source=STSmartphone&utm_medium=share&utm_term=2019-07-07+08%3A38%3A00" target="_blank">Let’s Talk Openly about Religion – Yours and Mine, The Straits Times, 7 July 2019</a>   
 * <a 
-href="https://safe.menlosecurity.com/https://www.straitstimes.com/opinion/forging-community-ties-one-friendly-gesture-at-a-time" target="_blank">Forging Community Ties, One Friendly Gesture At a Time, The Straits Times, 30 June 2019</a>   
+href="https://www.straitstimes.com/opinion/forging-community-ties-one-friendly-gesture-at-a-time" target="_blank">Forging Community Ties, One Friendly Gesture At a Time, The Straits Times, 30 June 2019</a>   
 * <a 
-href="https://safe.menlosecurity.com/https://www.rsis.edu.sg/rsis-publication/rsis/international-conference-on-cohesive-societies-appreciating-diversity-what-has-the-iccs-achieved/#.YqGdrigRXb1" target="_blank">International Conference on Cohesive Societies – Appreciating Diversity: What Has The ICCS Achieved?, RSIS Commentary, 28 June 2019</a>   
+href="https://www.rsis.edu.sg/rsis-publication/rsis/international-conference-on-cohesive-societies-appreciating-diversity-what-has-the-iccs-achieved/#.YqGdrigRXb1" target="_blank">International Conference on Cohesive Societies – Appreciating Diversity: What Has The ICCS Achieved?, RSIS Commentary, 28 June 2019</a>   
 * <a 
-href="https://safe.menlosecurity.com/https://www.straitstimes.com/opinion/the-challenge-is-how-we-make-the-most-of-diversity?xtor=CS3-17&utm_source=STSmartphone&utm_medium=share&utm_term=2019-06-27+06%3A53%3A35" target="_blank">The Challenge is How We Make the Most of Diversity, The Straits Times, 27 June 2019</a>    
+href="https://www.straitstimes.com/opinion/the-challenge-is-how-we-make-the-most-of-diversity?xtor=CS3-17&utm_source=STSmartphone&utm_medium=share&utm_term=2019-06-27+06%3A53%3A35" target="_blank">The Challenge is How We Make the Most of Diversity, The Straits Times, 27 June 2019</a>    
 * <a 
-href="https://safe.menlosecurity.com/https://www.rsis.edu.sg/rsis-publication/cens/international-conference-on-cohesive-societies-tolerance-and-its-enemies-three-observations/#.YqGd8SgRXb1" target="_blank">International Conference on Cohesive Societies – Tolerance and its Enemies: Three Observations, RSIS Commentary, 27 June 2019</a>    
+href="https://www.rsis.edu.sg/rsis-publication/cens/international-conference-on-cohesive-societies-tolerance-and-its-enemies-three-observations/#.YqGd8SgRXb1" target="_blank">International Conference on Cohesive Societies – Tolerance and its Enemies: Three Observations, RSIS Commentary, 27 June 2019</a>    
 * <a 
-href="https://safe.menlosecurity.com/https://www.rsis.edu.sg/rsis-publication/rsis/the-international-conference-on-cohesive-societies-how-to-build-cohesive-societies/#.YqGeNygRXb1 " target="_blank">The International Conference on Cohesive Societies – How to Build Cohesive Societies, RSIS Commentary, 25 June 2019</a>
+href="https://www.rsis.edu.sg/rsis-publication/rsis/the-international-conference-on-cohesive-societies-how-to-build-cohesive-societies/#.YqGeNygRXb1 " target="_blank">The International Conference on Cohesive Societies – How to Build Cohesive Societies, RSIS Commentary, 25 June 2019</a>
 
 * <a 
-href="https://safe.menlosecurity.com/https://www.straitstimes.com/opinion/whats-needed-to-harness-the-strengths-of-social-diversity" target="_blank">What’s Needed to Harness the Strengths of Social Diversity, The Straits Times, 20 June 2019</a>
+href="https://www.straitstimes.com/opinion/whats-needed-to-harness-the-strengths-of-social-diversity" target="_blank">What’s Needed to Harness the Strengths of Social Diversity, The Straits Times, 20 June 2019</a>
 * <a 
-href="https://safe.menlosecurity.com/https://www.rsis.edu.sg/rsis-publication/rsis/forging-cohesive-societies-living-with-religious-diversity/#.YqGePSgRXb1 " target="_blank">Forging Cohesive Societies – Living With Religious Diversity, RSIS Commentary, 14 June 2019</a>   
+href="https://www.rsis.edu.sg/rsis-publication/rsis/forging-cohesive-societies-living-with-religious-diversity/#.YqGePSgRXb1 " target="_blank">Forging Cohesive Societies – Living With Religious Diversity, RSIS Commentary, 14 June 2019</a>   
 * This Hari Raya Puasa and Dragon Boat Festival, Open Homes to Friends of Other Religions and Cultures, Channel NewsAsia, 5 June 2019
 * <a 
-href="https://safe.menlosecurity.com/https://www.straitstimes.com/opinion/terror-attacks-and-the-confusing-role-of-religion" target="_blank">Terror Attacks and the Confusing Role of Religion, The Straits Times, 23 May 2019</a>  
+href="https://www.straitstimes.com/opinion/terror-attacks-and-the-confusing-role-of-religion" target="_blank">Terror Attacks and the Confusing Role of Religion, The Straits Times, 23 May 2019</a>  
 * <a 
-href="https://safe.menlosecurity.com/https://www.rsis.edu.sg/rsis-publication/rsis/forging-cohesive-societies-harmonious-co-existence-what-can-governments-do/?doing_wp_cron=1654759180.4082028865814208984375#.YqGfFCgRXb3" target="_blank">Forging Cohesive Societies – Harmonious Co-Existence: What Can Governments Do?, RSIS Commentary, 17 May 2019</a>   
+href="https://www.rsis.edu.sg/rsis-publication/rsis/forging-cohesive-societies-harmonious-co-existence-what-can-governments-do/?doing_wp_cron=1654759180.4082028865814208984375#.YqGfFCgRXb3" target="_blank">Forging Cohesive Societies – Harmonious Co-Existence: What Can Governments Do?, RSIS Commentary, 17 May 2019</a>   
 * <a 
-href="https://safe.menlosecurity.com/https://www.beritaharian.sg/wacana/spura-siap-jadi-pemudah-cara-dialog-sejagat-pelihara-keharmonian-agama" target="_blank">Singapore is Ready to Facilitate Universal Dialogue to Promote Religious Harmony, Berita Harian, 13 May 2019</a>   
+href="https://www.beritaharian.sg/wacana/spura-siap-jadi-pemudah-cara-dialog-sejagat-pelihara-keharmonian-agama" target="_blank">Singapore is Ready to Facilitate Universal Dialogue to Promote Religious Harmony, Berita Harian, 13 May 2019</a>   
 * <a 
-href="https://safe.menlosecurity.com/https://www.rsis.edu.sg/rsis-publication/rsis/sri-lankan-attacks-and-inter-communal-relations/#.YqGfcSgRXb1" target="_blank">Sri Lankan Attacks and Inter-Communal Relations, RSIS Commentary, 13 May 2019</a>   
+href="https://www.rsis.edu.sg/rsis-publication/rsis/sri-lankan-attacks-and-inter-communal-relations/#.YqGfcSgRXb1" target="_blank">Sri Lankan Attacks and Inter-Communal Relations, RSIS Commentary, 13 May 2019</a>   
 * <a 
-href="https://safe.menlosecurity.com/https://www.rsis.edu.sg/rsis-publication/srp/interreligious-relations-irr-issue-4-interreligious-dailogue-in-a-world-of-conflict-and-violence-ba-critical-exploration-of-confucianism/#.YqGfcygRXb1" target="_blank">Interreligious Dialogue in a World of Conflict and Violence: A Critical Exploration of Confucianism, Interreligious Relations, 1 May 2019</a>   
+href="https://www.rsis.edu.sg/rsis-publication/srp/interreligious-relations-irr-issue-4-interreligious-dailogue-in-a-world-of-conflict-and-violence-ba-critical-exploration-of-confucianism/#.YqGfcygRXb1" target="_blank">Interreligious Dialogue in a World of Conflict and Violence: A Critical Exploration of Confucianism, Interreligious Relations, 1 May 2019</a>   
 * <a 
-href="https://safe.menlosecurity.com/https://www.rsis.edu.sg/rsis-publication/rsis/forging-cohesive-societies-singapores-multiracialism-a-matter-of-identity/#.YqGftigRXb1" target="_blank">Forging Cohesive Societies – Singapore’s Multiracialism: A Matter of Identity, RSIS Commentary, 24 April 2019</a>   
+href="https://www.rsis.edu.sg/rsis-publication/rsis/forging-cohesive-societies-singapores-multiracialism-a-matter-of-identity/#.YqGftigRXb1" target="_blank">Forging Cohesive Societies – Singapore’s Multiracialism: A Matter of Identity, RSIS Commentary, 24 April 2019</a>   
 * <a 
-href="https://safe.menlosecurity.com/https://www.rsis.edu.sg/rsis-publication/srp/interreligious-relations-irr-issue-3-islam-and-secularism-in-singapore-between-embracement-and-belief/#.YqGfuCgRXb1" target="_blank">Islam and Secularism in Singapore: Between Embracement and Belief, Interreligious Relations, 1 April 2019</a>    
+href="https://www.rsis.edu.sg/rsis-publication/srp/interreligious-relations-irr-issue-3-islam-and-secularism-in-singapore-between-embracement-and-belief/#.YqGfuCgRXb1" target="_blank">Islam and Secularism in Singapore: Between Embracement and Belief, Interreligious Relations, 1 April 2019</a>    
 * <a 
-href="https://safe.menlosecurity.com/https://www.rsis.edu.sg/rsis-publication/srp/interreligious-relations-irr-issue-2-living-in-a-religiously-plural-society-a-muslim-perspective-on-being-inclusive-today/#.YqGfuigRXb1" target="_blank"> Living in a Religiously Plural Society: A Muslim Perspective on Being Inclusive Today, Interreligious Relations, 1 March 2019</a>   
+href="https://www.rsis.edu.sg/rsis-publication/srp/interreligious-relations-irr-issue-2-living-in-a-religiously-plural-society-a-muslim-perspective-on-being-inclusive-today/#.YqGfuigRXb1" target="_blank"> Living in a Religiously Plural Society: A Muslim Perspective on Being Inclusive Today, Interreligious Relations, 1 March 2019</a>   
 * <a 
-href="https://safe.menlosecurity.com/https://www.rsis.edu.sg/rsis-publication/rsis/plural-traditions-in-plural-societies-inclusivity-in-inter-religious-dialogue/#.YqGgJSgRXb1" target="_blank">Interreligious Marriage: Perspectives from the Singaporean Context in Relation to Interreligious Dialogue, Interreligious Relations, 1 February 2019</a>   
+href="https://www.rsis.edu.sg/rsis-publication/srp/interreligious-relations-irr-issue-1/#.YrF6umARVhE" target="_blank">Interreligious Marriage: Perspectives from the Singaporean Context in Relation to Interreligious Dialogue, Interreligious Relations, 1 February 2019</a>   
 * <a 
-href="https://safe.menlosecurity.com/https://www.rsis.edu.sg/rsis-publication/rsis/plural-traditions-in-plural-societies-inclusivity-in-inter-religious-dialogue/#.YqGgJSgRXb1" target="_blank">Plural Traditions in Plural Societies: Inclusivity in Inter-Religious Dialogue, RSIS Commentary, 2 January 2019</a>
+href="https://www.rsis.edu.sg/rsis-publication/rsis/plural-traditions-in-plural-societies-inclusivity-in-inter-religious-dialogue/#.YqGgJSgRXb1" target="_blank">Plural Traditions in Plural Societies: Inclusivity in Inter-Religious Dialogue, RSIS Commentary, 2 January 2019</a>
