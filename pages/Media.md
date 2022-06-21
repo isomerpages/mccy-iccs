@@ -247,6 +247,6 @@ href="https://www.rsis.edu.sg/rsis-publication/srp/interreligious-relations-irr-
 * <a 
 href="https://www.rsis.edu.sg/rsis-publication/srp/interreligious-relations-irr-issue-2-living-in-a-religiously-plural-society-a-muslim-perspective-on-being-inclusive-today/#.YqGfuigRXb1" target="_blank"> Living in a Religiously Plural Society: A Muslim Perspective on Being Inclusive Today, Interreligious Relations, 1 March 2019</a>   
 * <a 
-href="https://www.rsis.edu.sg/rsis-publication/rsis/plural-traditions-in-plural-societies-inclusivity-in-inter-religious-dialogue/#.YqGgJSgRXb1" target="_blank">Interreligious Marriage: Perspectives from the Singaporean Context in Relation to Interreligious Dialogue, Interreligious Relations, 1 February 2019</a>   
+href="https://www.rsis.edu.sg/rsis-publication/srp/interreligious-relations-irr-issue-1/#.YrF6umARVhE" target="_blank">Interreligious Marriage: Perspectives from the Singaporean Context in Relation to Interreligious Dialogue, Interreligious Relations, 1 February 2019</a>   
 * <a 
 href="https://www.rsis.edu.sg/rsis-publication/rsis/plural-traditions-in-plural-societies-inclusivity-in-inter-religious-dialogue/#.YqGgJSgRXb1" target="_blank">Plural Traditions in Plural Societies: Inclusivity in Inter-Religious Dialogue, RSIS Commentary, 2 January 2019</a>
