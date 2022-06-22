@@ -16,7 +16,7 @@ We will also cast a spotlight on youth as future leaders in an increasingly digi
 The ICCS is the preeminent event for interfaith and multicultural dialogue. Mooted by President of Singapore Halimah Yacob, the Conference was held in Singapore for the first time in 2019, showcasing the tropical island-state’s unique approach to managing communal ties within a diverse population. It is organised by the S. Rajaratnam School of International Studies (RSIS) and supported by the Ministry of Culture, Community and Youth (MCCY).
 
 # ICCS Secretariat
-**The S. Rajaratnam School of International Studies (RSIS)** is a think tank and professional graduate school of international affairs at the Nanyang Technological University, Singapore. An autonomous school, RSIS’ mission is to be a leading research and graduate teaching institution in strategic and international affairs in the Asia Pacific.
+**The S. Rajaratnam School of International Studies (RSIS)** is a global think tank and professional graduate school of international affairs at the Nanyang Technological University, Singapore. An autonomous school, RSIS’ mission is to be a leading research and graduate teaching institution in strategic and international affairs in the Asia Pacific. With the core functions of research, graduate education, and networking, it produces research on Asia Pacific Security, Multilateralism and Regionalism, Conflict Studies, Non-traditional Security, Cybersecurity, Maritime Security and Terrorism Studies.
 
 More information on RSIS <a href="https://www.rsis.edu.sg" target="_blank">here.</a>
 	 
