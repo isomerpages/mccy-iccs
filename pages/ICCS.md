@@ -8,6 +8,8 @@ We have many identities. Faith, ethnicity, culture, nationality – all intertwi
 It is a pivotal time for conversations, as the world emerges from a pandemic where polarisation and social isolation have come to the fore. Through the theme ***“Confident Identities, Connected Communities”***, The International Conference on Cohesive Societies (ICCS) 2022 will set the stage for the world to re-examine our multiple identities and the connections with our communities, covering the key aspects of faith, identity and cohesion.
 
 We will also cast a spotlight on youth as future leaders in an increasingly digitalised world and their immensely important role in fostering social cohesion.
+
+Find out more about the programme for ICCS 2022 [here](/ProgrammeSpeakers).
 # Background
 
 ![President on stage](/images/icciccsstage.jpg)
