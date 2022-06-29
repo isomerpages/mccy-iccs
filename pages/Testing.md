@@ -9,10 +9,14 @@ This programme will comprise a heartland dialogue and various activities, provid
 
 # Community Explorations
 
+![](/images/ICCS%20exploration.png)
+
 ![](/images/21june2019iccsphotog3-225.jpg)
 <font color = "grey"><font size="-1">Delegates visiting Singapore's places of worship as part of the Community Experience programme at ICCS 2019. (Photo: MCCY)</font></font>
 
 # Community Dialogue
+
+![](/images/Dialogue.jpg)
 
 ![](/images/21june2019iccsphotog3-293a.jpg)
 <font color = "grey"><font size="-1">Delegates visiting the Nagore Dargah Indian Muslim Heritage Centre in Singapore as part of the Community Experience programme at ICCS 2019. (Photo: MCCY)</font></font>
