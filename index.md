@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: The International Conference on Cohesive Societies
-description: Register now for ICCS 2022 on 6th-8th September in Singapore
+description: Let's connect in Singapore for ICCS 2022 on 6th-8th September.
 image: /images/WEBSITE-BANNER_1200x630px_OK.png
 permalink: /
 notification: ""
@@ -35,7 +35,7 @@ sections:
       button: READ MORE
       alt: Community
       url: /CommunityExperience
-      image: /images/21june2019iccsphotog3-257.jpg
+      image: /images/21june2019iccsphotog3-255.jpg
   - infopic:
       title: Young Leaders Programme
       description: The YLP is a platform for young local and international leaders to
