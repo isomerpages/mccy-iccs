@@ -20,4 +20,4 @@ This programme will comprise a heartland dialogue and various activities, provid
 # Programme Outline
 
 ![](/images/Community%20Experience/ICCS%20CE%20programme_as%20of%205%20Jul%202022.png)
-[Download a copy of the latest programme here][](/files/Community%20Experience/ICCS%20CE%20programme_as%20of%205%20Jul%202022.pdf)
+[Download a copy of the latest programme here](/files/Community%20Experience/ICCS%20CE%20programme_as%20of%205%20Jul%202022.pdf)
