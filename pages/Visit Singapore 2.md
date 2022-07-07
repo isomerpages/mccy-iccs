@@ -8,5 +8,4 @@ description: Visit Singapore
 
 | Kampong Glam | Chinatown | Little India |
 | -------- | -------- | -------- |
-| ![]()     |   ![](/images/China%20town.jpg)   | ![](/images/little%20india.png) |
-
+| ![]()|![](/images/China%20town.jpg)| ![](/images/little%20india.png)|
