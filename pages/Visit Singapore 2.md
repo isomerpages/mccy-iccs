@@ -3,8 +3,13 @@ title: Visit Singapore 2
 permalink: /visitsingapore2
 description: Visit Singapore
 ---
-| Laksa | Chicken Rice | Satay |
-| -------- | -------- | -------- |
-| The laksa broth offers the right balance of spice and coconut milk, a distinctive noodle soup that will tickle the tastebuds.     | This delectable dish can be found at almost every dining spot, from humble hawker centres to high-end restaurants.     | The Satay     |
+   
 
-Read more at Visit Singapore.
+| Kampong Glam |  Chinatown |    
+
+Little India |
+| -------- | -------- | -------- |
+|    
+
+This district has retained much of its traditional flavours but has also moved with the times to become one of Singapore’s most bohemian and hippest areas with cafes, bars and clubs sitting alongside the golden mosque and heritage centre.    | Text     | Text     |
+
