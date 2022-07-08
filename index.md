@@ -4,8 +4,7 @@ title: The International Conference on Cohesive Societies
 description: Let's connect in Singapore for ICCS 2022 on 6th-8th September.
 image: /images/WEBSITE-BANNER_1200x630px_OK.png
 permalink: /
-notification: For information on how to register for the event, please email
-  iccs2022-delegates@ntu.edu.sg.
+notification: ""
 sections:
   - hero:
       background: /images/WEBSITE-BANNER_1200x630px_30_Jun.png
