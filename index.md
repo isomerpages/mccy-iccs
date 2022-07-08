@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/WEBSITE-BANNER_1200x630px_30_Jun.png
       key_highlights:
-        - title: Register Now
-          description: ""
-          url: /Registration
         - title: Programme & Speakers
           description: ""
           url: /ProgrammeSpeakers
