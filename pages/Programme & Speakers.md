@@ -50,3 +50,25 @@ First Speaker of the Northern Ireland Assembly
 
 * **Prof Katherine Marshall<br>**
 Senior Fellow, Berkley Center for Religion, Peace, and World Affairs;  Professor of the Practice of Development, Conflict, and Religion, Walsh School of Foreign Service, Georgetown University
+
+* **Mr Krish Raval OBE<br>**
+Founder Director, Faith in Leadership
+
+* **Prof Lily Kong<br>**
+President of Singapore Management University (SMU), and Lee Kong Chian Chair Professor of Social Sciences
+
+* **Dr Mohammad Hannan Hassan<br>**
+Deputy Mufti, Islamic Religious Council of Singapore (Muis)
+
+* **Father Philip Larrey<br>**
+Chair of Logic and Epistemology, Pontifical Lateran University in the Vatican and Dean of the Philosophy Department. Chairman of Humanity 2.0
+
+* **Dr Sadhvi Bhagawati Saraswati<br>**
+Secretary-General, Global Interfaith Clean Water, Sanitation & Hygiene (WASH) Alliance
+
+* **Shukul Raaj Kumar<br>**
+Inter-Religious Organisation, Singapore (IRO) Youth Wing Committee Member & Chairperson
+
+* **Swami Samachittananda<br>**
+President, Ramakrishna Mission
+
