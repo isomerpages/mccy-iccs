@@ -6,15 +6,11 @@ description: Programme & Speakers
 ICCS 2022 will be held on 6th-8th September 2022 at the Raffles City Convention Centre.  
 
 The 3-day programme will feature speeches by renowned speakers from around the world, panel discussions and dialogues on the themes of faith, identity and cohesion.
+
+If you wish to register for the event, please contact <a href="mailto:iccs2022-delegates@ntu.edu.sg">iccs2022-delegates@ntu.edu.sg</a>.
 # Programme![](/images/ICCS_2022_Programme_Outline.png)
 [Download a copy of the latest programme here.](/files/ICCS_2022_Programme_as_at_27_Jun_2022.pdf)
 # Synopses![](/images/ICCS_2022_Plenaries.png)![](/images/ICCS_2022_Breakouts.png)
-# Guests
-* **Mdm Halimah Yacob<br>**
-President of the Republic of Singapore
-* **Mr Lawrence Wong<br>**
-Deputy Prime Minister and Minister for Finance, Republic of Singapore
-
 # Speakers
 * **Ms Arizza Ann Nocum<br>**
 Founder of KRIS
