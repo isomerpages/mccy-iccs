@@ -10,15 +10,22 @@ The 3-day programme will feature speeches by renowned speakers from around the w
 [Download a copy of the latest programme here.](/files/ICCS_2022_Programme_as_at_27_Jun_2022.pdf)
 # Synopses![](/images/ICCS_2022_Plenaries.png)![](/images/ICCS_2022_Breakouts.png)
 # Speakers
+<br>
 
-<font size="+2"><b>Special Guests</b></font>
+<font size="+2">Special Guests</font>
+
+<br>
 
 * **Mdm Halimah Yacob<br>**
 President of the Republic of Singapore
+<br>
+
 * **Mr Lawrence Wong<br>**
 Deputy Prime Minister and Minister for Finance, Republic of Singapore
 
-<font size="+2"><b>Distinguished Speakers</b></font>
+<font size="+2">Distinguished Speakers</font>
+
+<br>
 
 * **Mr André Azoulay<br>**
 Senior Adviser to King of Morocco Mohammed VI
