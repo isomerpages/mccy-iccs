@@ -10,7 +10,15 @@ The 3-day programme will feature speeches by renowned speakers from around the w
 [Download a copy of the latest programme here.](/files/ICCS_2022_Programme_as_at_27_Jun_2022.pdf)
 # Synopses![](/images/ICCS_2022_Plenaries.png)![](/images/ICCS_2022_Breakouts.png)
 # Speakers
-<br>
+
+<font size="+2">**Special Guests**</font>
+
+* **Mdm Halimah Yacob<br>**
+President of the Republic of Singapore
+* **Mr Lawrence Wong<br>**
+Deputy Prime Minister and Minister for Finance, Republic of Singapore
+
+<font size="+2">**Distinguished Speakers**</font>
 
 * **Mr André Azoulay<br>**
 Senior Adviser to King of Morocco Mohammed VI
@@ -66,9 +74,18 @@ Chair of Logic and Epistemology, Pontifical Lateran University in the Vatican an
 * **Dr Sadhvi Bhagawati Saraswati<br>**
 Secretary-General, Global Interfaith Clean Water, Sanitation & Hygiene (WASH) Alliance
 
-* **Shukul Raaj Kumar<br>**
+* **Mr Shukul Raaj Kumar<br>**
 Inter-Religious Organisation, Singapore (IRO) Youth Wing Committee Member & Chairperson
 
-* **Swami Samachittananda<br>**
+* **Mr Swami Samachittananda<br>**
 President, Ramakrishna Mission
+
+* **Ms Teresa Tan<br>**
+Head of Public Policy, Singapore and Southeast Asia, TikTok
+
+* **Imam Uzair Akbar<br>**
+Imam, Holland Park Mosque; President, Council of Imams Queensland (CIQ); Head, Shariah Advisory Board with Amanah Islamic Finance Australia (AIFA); Director, Centre of Excellence (Australian Youth Welfare Trust); Director, ISHP Youth Club; Member of the Australian National Imams Council (ANIC)
+
+* **Dr Yang Mee Eng<br>**
+Executive Director of the ASEAN Foundation
 
