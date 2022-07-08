@@ -15,7 +15,7 @@ President of the Republic of Singapore
 * **Mr Lawrence Wong<br>**
 Deputy Prime Minister and Minister for Finance, Republic of Singapore
 
-# Distinguished Speakers
+# Speakers
 * **Ms Arizza Ann Nocum<br>**
 Founder of KRIS
 
