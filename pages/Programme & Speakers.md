@@ -11,14 +11,14 @@ The 3-day programme will feature speeches by renowned speakers from around the w
 # Synopses![](/images/ICCS_2022_Plenaries.png)![](/images/ICCS_2022_Breakouts.png)
 # Speakers
 
-<font size="+2">**Special Guests**</font>
+<font size="+2"><b>Special Guests</b></font>
 
 * **Mdm Halimah Yacob<br>**
 President of the Republic of Singapore
 * **Mr Lawrence Wong<br>**
 Deputy Prime Minister and Minister for Finance, Republic of Singapore
 
-<font size="+2">**Distinguished Speakers**</font>
+<font size="+2"><b>Distinguished Speakers</b></font>
 
 * **Mr André Azoulay<br>**
 Senior Adviser to King of Morocco Mohammed VI
@@ -88,4 +88,3 @@ Imam, Holland Park Mosque; President, Council of Imams Queensland (CIQ); Head, S
 
 * **Dr Yang Mee Eng<br>**
 Executive Director of the ASEAN Foundation
-
