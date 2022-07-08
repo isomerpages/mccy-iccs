@@ -10,7 +10,6 @@ The 3-day programme will feature speeches by renowned speakers from around the w
 [Download a copy of the latest programme here.](/files/ICCS_2022_Programme_as_at_27_Jun_2022.pdf)
 # Synopses![](/images/ICCS_2022_Plenaries.png)![](/images/ICCS_2022_Breakouts.png)
 # Speakers
-
 <br>
 
 * **Mr André Azoulay<br>**
@@ -45,3 +44,9 @@ Director of the United Nations Environment Programme’s (UNEP) Faith for Earth 
 
 * **Mr Jasvir Singh<br>**
 Co-Chair of Faith Forums
+
+* **Lord John Alderdice<br>**
+First Speaker of the Northern Ireland Assembly
+
+* **Prof Katherine Marshall<br>**
+Senior Fellow, Berkley Center for Religion, Peace, and World Affairs;  Professor of the Practice of Development, Conflict, and Religion, Walsh School of Foreign Service, Georgetown University
