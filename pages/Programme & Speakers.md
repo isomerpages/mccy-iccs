@@ -63,11 +63,11 @@ Chair of Logic and Epistemology, Pontifical Lateran University in the Vatican an
 * **Dr Sadhvi Bhagawati Saraswati<br>**
 Secretary-General, Global Interfaith Clean Water, Sanitation & Hygiene (WASH) Alliance
 
+* **Swami Samachittananda<br>**
+President, Ramakrishna Mission
+
 * **Mr Shukul Raaj Kumar<br>**
 Inter-Religious Organisation, Singapore (IRO) Youth Wing Committee Member & Chairperson
-
-* **Mr Swami Samachittananda<br>**
-President, Ramakrishna Mission
 
 * **Ms Teresa Tan<br>**
 Head of Public Policy, Singapore and Southeast Asia, TikTok
