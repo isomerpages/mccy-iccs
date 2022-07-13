@@ -2,7 +2,7 @@
 layout: homepage
 title: The International Conference on Cohesive Societies
 description: Let's connect in Singapore for ICCS 2022 on 6th-8th September.
-image: /images/WEBSITE-BANNER_1200x630px_OK.png
+image: /images/WEBSITE-BANNER_1200x630px_30_Jun.png
 permalink: /
 notification: ""
 sections:
@@ -43,3 +43,4 @@ sections:
       alt: YLP
       image: /images/18June2019ICCSPhotog1-34.jpg
 ---
+
