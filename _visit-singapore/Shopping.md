@@ -20,3 +20,11 @@ This beloved establishment first opened its gates to the public in 1973, and has
 Besides being home to over 2,800 animals from 300 species—including crocodiles, Malayan tapirs and white tigers—the zoo has won a trove of international and local awards.
 
 [Read more about the Singapore Zoo on Visit Singapore's website.](https://www.visitsingapore.com/see-do-singapore/nature-wildlife/fun-with-animals/singapore-zoo/)
+# National Gallery Singapore
+![](/images/National%20Gallery.jpg)
+
+The latest jewel in Singapore's art crown, the National Gallery Singapore is a visual arts institution housing an unparalleled collection of modern Singapore and Southeast Asian art.
+
+Fittingly located in the heart of the Civic District, the Gallery is housed in the City Hall and the [former Supreme Court](https://www.visitsingapore.com/see-do-singapore/architecture/historical/old-supreme-court/)—two iconic buildings that have played a monumental role in Singapore's history. Utmost care was taken to ensure that preservation guidelines for these two national monuments were being upheld even as they were being remodelled into a state-of-the-art museum for the public.
+
+[Read more about National Gallery Singapore on Visit Singapore's website.](https://www.visitsingapore.com/see-do-singapore/arts/museums-galleries/national-gallery-singapore/)
