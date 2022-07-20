@@ -3,11 +3,10 @@ title: Visit Singapore
 permalink: /visitsingapore
 description: Visit Singapore
 ---
+![](/images/Sentosa.jpg)
 
+Singapore is more than its tourist attractions. It’s constantly evolving, reinventing, and reimagining itself, with people who are passionate about creating new possibilities. It’s not just about what you can do here, it’s about what you can be.
 
-# Cultural Trails
+Read on for some of our recommendations on where to go, what to eat and where to play.
 
-
-| Kampong Glam | Chinatown | Little India |
-| -------- | -------- | -------- |
-| ![]()|![](/images/China%20town.jpg)| ![](/images/little%20india.png)|
+This section is produced in partnership with Passion Made Possible.
