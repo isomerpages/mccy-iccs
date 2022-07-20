@@ -22,7 +22,10 @@ You’ll be able to spend an entire day exploring this vibrant district, which e
 
 [Read more about Chinatown at Visit Singapore's website.](https://www.visitsingapore.com/see-do-singapore/places-to-see/chinatown/)
 # Bras Basah.Bugis
+![](/images/Bras%20Basah.jpg)
 
 Call it the Triple B if you must, but the Bras Basah.Bugis precinct is the place to go for a slice of Singapore’s rich heritage, preserved architecture and palpable energy.
 
 Head here for fine museums, national monuments and other institutions, such as art schools and the Central Public Library.
+
+[Read more about Bras Basah.Bugis at Visit Singapore's website.](https://www.visitsingapore.com/see-do-singapore/places-to-see/bras-basah-bugis/)
