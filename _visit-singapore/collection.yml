@@ -2,6 +2,7 @@ collections:
   visit-singapore:
     output: true
     order:
+      - Shopping.md
       - Visit Singapore.md
       - Cultural Trails.md
       - Local Dishes.md
