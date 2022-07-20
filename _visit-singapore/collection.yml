@@ -2,4 +2,4 @@ collections:
   visit-singapore:
     output: true
     order:
-      - Visit Singapore 2.md
+      - Visit Singapore.md
