@@ -3,7 +3,6 @@ title: Cultural Enclaves
 permalink: /visit-singapore/culturalenclaves
 description: Cultural Enclaves
 ---
-
 # Kampong Gelam
 ![](/images/Kampong%20Gelam.jpg)
 
@@ -22,6 +21,18 @@ Once an enclave for Singapore’s Chinese immigrant population, the Chinatown of
 You’ll be able to spend an entire day exploring this vibrant district, which encompasses the neighbourhoods of Tanjong Pagar, Bukit Pasoh, Kreta Ayer and [Telok Ayer](https://www.visitsingapore.com/editorials/ann-siang-and-club-street/). Whether you’re exploring century-old temples or making new friends at hip watering holes, there’s always a new experience to be had in Chinatown.
 
 [Read more about Chinatown at Visit Singapore's website.](https://www.visitsingapore.com/see-do-singapore/places-to-see/chinatown/)
+# Little India
+![](/images/Little%20India.jpg)
+
+Little India is a buzzing historic area that shows off the best of Singapore’s Indian community, from vibrant culture to incredible shopping.
+
+You may not know that Little India once had a racecourse, cattle herders and brick kilns.
+
+But while these places and people are gone, time stands still in pockets of this historic district.
+
+Olden-day trades sit next to newer businesses: flower-garland vendors, modern eateries, boutique hotels, as well as arts groups.
+
+[Read more about Little India on Visit Singapore's website.](https://www.visitsingapore.com/see-do-singapore/places-to-see/little-india/)
 # Bras Basah.Bugis
 ![](/images/Bras%20Basah.jpg)
 
