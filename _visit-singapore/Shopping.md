@@ -4,7 +4,6 @@ permalink: /visit-singapore/shopping
 description: Shopping
 ---
 # Sentosa Island
-![](/images/Sentosa.jpg)
 ![](/images/Sentosa%202.jpg)
 Before it was known as Sentosa, this island just off Singapore’s southern coast was a British military fortress. After the Japanese Occupation in World War II, Singapore returned to British rule, and the island was renamed “Sentosa” which means “peace and tranquility” in Malay. 
 
