@@ -2,5 +2,5 @@ collections:
   visit-singapore:
     output: true
     order:
-      - Cultural Trails.md
       - Visit Singapore.md
+      - Cultural Trails.md
