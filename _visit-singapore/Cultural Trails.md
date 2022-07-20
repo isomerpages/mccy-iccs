@@ -21,3 +21,8 @@ Once an enclave for Singapore’s Chinese immigrant population, the Chinatown of
 You’ll be able to spend an entire day exploring this vibrant district, which encompasses the neighbourhoods of Tanjong Pagar, Bukit Pasoh, Kreta Ayer and [Telok Ayer](https://www.visitsingapore.com/editorials/ann-siang-and-club-street/). Whether you’re exploring century-old temples or making new friends at hip watering holes, there’s always a new experience to be had in Chinatown.
 
 [Read more about Chinatown at Visit Singapore's website.](https://www.visitsingapore.com/see-do-singapore/places-to-see/chinatown/)
+# Bras Basah.Bugis
+
+Call it the Triple B if you must, but the Bras Basah.Bugis precinct is the place to go for a slice of Singapore’s rich heritage, preserved architecture and palpable energy.
+
+Head here for fine museums, national monuments and other institutions, such as art schools and the Central Public Library.
