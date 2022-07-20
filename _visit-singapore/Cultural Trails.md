@@ -6,7 +6,7 @@ description: Cultural Trails
 # Kampong Gelam
 ![](/images/Kampong%20Gelam.jpg)
 
-Historically one of  Singapore’s oldest urban quarters, [Kampong Gelam](https://visitkamponggelam.com.sg/) is a neighbourhood where age-old traditions and trendy lifestyle come together in a heady blend.
+Historically one of Singapore’s oldest urban quarters, [Kampong Gelam](https://visitkamponggelam.com.sg/) is a neighbourhood where age-old traditions and trendy lifestyle come together in a heady blend.
 
 The word ‘kampong’ means “compound in [Malay](https://www.visitsingapore.com/travel-guide-tips/about-singapore/people-of-singapore/), while “gelam” refers to the long-leaved paperbark tree, commonly found in the area and used for boat-making, medicine and even as a seasoning for food.
 
