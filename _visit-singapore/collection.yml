@@ -2,6 +2,6 @@ collections:
   visit-singapore:
     output: true
     order:
-      - Example Title.md
+      - Local Dishes.md
       - Visit Singapore.md
       - Cultural Trails.md
