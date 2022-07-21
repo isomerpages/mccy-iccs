@@ -3,7 +3,6 @@ title: Local Dishes
 permalink: /visit-singapore/localdishes
 description: Local Dishes
 ---
-
 # Chicken Rice
 ![](/images/Chicken%20Rice.jpg)
 
@@ -28,3 +27,13 @@ No matter where it comes from, _roti prata_ is a satisfying meal for any hour 
 A satisfying mixed rice dish that’s often ordered by hungry locals on the go, *nasi lemak* (fragrant rice dish cooked in coconut milk and pandan leaf, accompanied by an array of side dishes like omelette, fried fish and anchovies) is highlighted by coconut-flavoured rice and fritters.
 
 [Read more about the delicious Malay cuisine in Singapore at Visit Singapore's website.](https://www.visitsingapore.com/editorials/singapore-malay-cuisine/)
+# Rojak
+![](/images/Rojak.jpg)
+
+_Rojak_ means an “eclectic mix” in colloquial [Malay](https://www.visitsingapore.com/en_au/travel-guide-tips/about-singapore/people-of-singapore/), and the dish sure lives up to its name. Its ingredients reflect the cultural diversity of Singapore, bringing together disparate items with strong flavours into a harmoniously tasty blend.
+
+It is a local salad of mixed vegetables, fruits, and dough fritters that is covered in a sticky black sauce and garnished with chopped peanuts and finely-cut fragrant ginger flowers for a piquant taste.
+
+The mark of a good _rojak_ is its sauce, made up of fermented prawn paste, sugar, lime and chilli paste. It must be an appetising mix of sweet, sour and spicy.
+
+[Read more about this unique culinary blend on Visit Singapore's website.](https://www.visitsingapore.com/en_au/dining-drinks-singapore/local-dishes/rojak/)
