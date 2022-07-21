@@ -1,0 +1,8 @@
+collections:
+  visit-singapore:
+    output: true
+    order:
+      - Visit Singapore.md
+      - Cultural Enclaves.md
+      - Local Dishes.md
+      - Attractions.md
