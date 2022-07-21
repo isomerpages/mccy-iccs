@@ -9,7 +9,8 @@ The 3-day programme will feature speeches by renowned speakers from around the w
 
 If you wish to register for the event, please contact <a href="mailto:iccs2022-delegates@ntu.edu.sg">iccs2022-delegates@ntu.edu.sg</a>.
 # Programme![](/images/ICCS%202022%20Programme_as%20at%2018%20Jul%202022.png)
-[Download a copy of the latest programme here.](/files/ICCS%202022%20Programme_as%20at%2018%20Jul%202022.pdf)
+[Download a copy of the latest programme and speaker list here.](/files/ICCS%202022%20Programme%20and%20Speakers_as%20at%2021%20July%202022.pdf)
+
 # Synopses![](/images/ICCS%202022%20Plenaries.png)![](/images/ICCS%202022%20Breakouts.png)
 # Speakers![](/images/ICCS%20Speakers%201.png)![](/images/ICCS%20Speakers%202.png)![](/images/ICCS%20Speakers%203.png)![](/images/ICCS%20Speakers%204.png)![](/images/ICCS%20Speakers%205.png)
 [Download a copy of the latest speaker list here.](/files/ICCS%202022%20Speakers_as%20at%2018%20July%202022.pdf)
