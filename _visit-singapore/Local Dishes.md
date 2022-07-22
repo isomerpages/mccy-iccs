@@ -24,7 +24,13 @@ No matter where it comes from, _roti prata_ is a satisfying meal for any hour 
 # Nasi Lemak
 ![](/images/Nasi%20Lemak.jpg)
 
-A satisfying mixed rice dish that’s often ordered by hungry locals on the go, *nasi lemak* (fragrant rice dish cooked in coconut milk and pandan leaf, accompanied by an array of side dishes like omelette, fried fish and anchovies) is highlighted by coconut-flavoured rice and fritters.
+Translate _nasi lemak_ from Malay to English, and you will get 'rich rice'. The ‘rich’ refers not to wealth, but the coconut cream that makes it oh-so sinfully scrumptious.
+
+This dish is a perfect mix of flavours: aromatic rice infused with coconut milk and pandan leaves, eaten with deep-fried fish or chicken wings, _otah_ (grilled fish paste), fried _ikan bilis_ (local anchovies) and peanuts, eggs, cucumber slices, and _sambal_ (spicy chilli paste).
+
+It is a hearty meal that is adored by the [Malays](https://www.visitsingapore.com/en_au/travel-guide-tips/about-singapore/people-of-singapore/) as well as non-Malays who have their own version of nasi lemak. The rice is the same, although some have a greenish hue owing to the pandan leaves, but it is the side dishes that set each other apart.
+
+The [Chinese](https://www.visitsingapore.com/en_au/travel-guide-tips/about-singapore/people-of-singapore/) version, for instance, can come with anything from deep fried drumstick, chicken franks and fish cake to curried vegetables and luncheon meat.
 
 [Read more about the delicious Malay cuisine in Singapore at Visit Singapore's website.](https://www.visitsingapore.com/editorials/singapore-malay-cuisine/)
 # Rojak
