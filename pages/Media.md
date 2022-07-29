@@ -4,6 +4,11 @@ permalink: /Media
 description: Media
 ---
 # Media coverage     
+**5 January 2022**  
+* <a href="https://www.straitstimes.com/singapore/politics/president-halimah-on-why-she-became-a-lawyer-and-advocate-for-gender-equality" target="_blank">President Halimah on why she became a lawyer and advocate for gender equality, The Straits Times</a>
+
+**5 December 2020**  
+* <a href="https://www.straitstimes.com/singapore/singapore-to-organise-second-edition-of-high-level-forum-on-social-cohesion-in-two-years" target="_blank">Singapore to organise second edition of high-level forum on social cohesion in two years' time, The Straits Times</a>
 
 **30 June 2019**  
 * <a href="https://www.channelnewsasia.com/singapore/religion-karen-armstrong-unwinding-biggest-enemies-1328931" target="_blank">Unwinding the Biggest Enemies of Religion: A Conversation with Karen Armstrong, Channel NewsAsia</a>
