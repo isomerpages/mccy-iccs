@@ -3,7 +3,11 @@ title: ICCS
 permalink: /ICCS
 description: About ICCS
 ---
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/UNgvcEaJT4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UNgvcEaJT4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
 
 We have many identities. Faith, ethnicity, culture, nationality – all intertwining and defining us as individuals. How can we unite despite our differences? How do we form bonds and bridge divides?
 
