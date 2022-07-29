@@ -4,6 +4,9 @@ permalink: /Media
 description: Media
 ---
 # Media coverage     
+**22 July 2022**  
+* <a href="https://www.straitstimes.com/opinion/bridging-troubled-waters-forging-cohesion-in-divided-societies" target="_blank">Bridging troubled waters: Forging cohesion in divided societies, The Straits Times</a>
+
 **5 January 2022**  
 * <a href="https://www.straitstimes.com/singapore/politics/president-halimah-on-why-she-became-a-lawyer-and-advocate-for-gender-equality" target="_blank">President Halimah on why she became a lawyer and advocate for gender equality, The Straits Times</a>
 
