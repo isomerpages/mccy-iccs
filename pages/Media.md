@@ -195,7 +195,7 @@ href="https://www.todayonline.com/commentary/debate-dialogue-two-religions-one-f
 * Minister Grace Fu on the Reason Singapore is Hosting the ICCS, carried on Hello Singapore (Channel 8)
 
 # Speeches and News Releases   
-
+* [Media Release on The International Conference on Cohesive Societies to be Held in September This Year, 29 July 2022](/files/ICCS%202022%20Announcement%20Media%20Release.pdf)
 * <a 
 href="https://www.rsis.edu.sg/rsis-speeches-article/rsis/closing-remarks-by-mr-heng-swee-keat-deputy-prime-minister-and-minister-for-finance-at-the-international-conference-on-cohesive-societies-iccs/#.XQyi_-gzbIU" target="_blank">Closing Remarks by Mr Heng Swee Keat, Deputy Prime Minister and Minister for Finance, at ICCS, 21 June 2019</a>  
 * <a 
@@ -207,12 +207,12 @@ href="https://www.rsis.edu.sg/rsis-speeches-article/rsis/opening-address-by-pres
 * <a 
 href="https://www.rsis.edu.sg/rsis-speeches-article/rsis/welcome-remarks-by-ambassador-ong-keng-yong-executive-deputy-chairman-of-rsis-at-the-opening-dinner-of-the-international-conference-on-cohesive-societies-iccs/#.XQsv0egzbIU" target="_blank">Welcome Remarks By Ambassador Ong Keng Yong, Executive Deputy Chairman of RSIS, at the Opening Dinner of ICCS, 19 June 2019</a>   
 * <a 
-href="https://www.rsis.edu.sg/rsis-news-article/rsis/global-leaders-in-interfaith-harmony-and-social-cohesion-gather-in-singapore-for-international-conference-on-cohesive-societies/?doing_wp_cron=1654757920.3341479301452636718750#.XRGTFugzbIV" target="_blank">News Release on Global Leaders in Interfaith Harmony and Social Cohesion Gather in Singapore for International Conference on Cohesive Societies</a> 
+href="https://www.rsis.edu.sg/rsis-news-article/rsis/global-leaders-in-interfaith-harmony-and-social-cohesion-gather-in-singapore-for-international-conference-on-cohesive-societies/?doing_wp_cron=1654757920.3341479301452636718750#.XRGTFugzbIV" target="_blank">News Release on Global Leaders in Interfaith Harmony and Social Cohesion Gather in Singapore for International Conference on Cohesive Societies, 19 June 2019</a> 
 * <a 
-href="https://www.rsis.edu.sg/rsis-news-article/rsis/global-leaders-in-peace-and-religious-harmony-to-address-key-challenges-facing-social-cohesion/#.XP57WIgzaM8" target="_blank">News Release on International Conference on Cohesive Societies Announces Line-up of Speakers</a> 
+href="https://www.rsis.edu.sg/rsis-news-article/rsis/global-leaders-in-peace-and-religious-harmony-to-address-key-challenges-facing-social-cohesion/#.XP57WIgzaM8" target="_blank">News Release on International Conference on Cohesive Societies Announces Line-up of Speakers, 30 May 2019</a> 
 * <a 
-href="https://www.rsis.edu.sg/rsis-news-article/rsis/singapore-set-to-convene-first-international-conference-on-cohesive-societies-to-drive-global-collective-action-for-peace-and-harmony-with-king-abdullah-ii-of-jordan-delivering-the-keynote-address/#.XPhonFwzbIU" target="_blank">News Release on Singapore Hosting the International Conference on Cohesive Societies</a>   
-* [Speakers’ Biographies](https://www.rsis.edu.sg/wp-content/uploads/2019/05/Annex-Speakers-Biographies.pdf)  
+href="https://www.rsis.edu.sg/rsis-news-article/rsis/singapore-set-to-convene-first-international-conference-on-cohesive-societies-to-drive-global-collective-action-for-peace-and-harmony-with-king-abdullah-ii-of-jordan-delivering-the-keynote-address/#.XPhonFwzbIU" target="_blank">News Release on Singapore Hosting the International Conference on Cohesive Societies, 25 April 2019</a>   
+* [ICCS 2019 Speakers’ Biographies](https://www.rsis.edu.sg/wp-content/uploads/2019/05/Annex-Speakers-Biographies.pdf)  
 
 # Publications/Op-Eds   
 
