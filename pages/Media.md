@@ -4,6 +4,14 @@ permalink: /Media
 description: Media
 ---
 # Media coverage     
+**31 July 2022**  
+* <a href="https://www.zaobao.com.sg/news/singapore/story20220731-1298149" target="_blank">第二届社会和谐国际大会 9月来福士城会展中心举行, Lianhe Zaobao</a>
+* Tamil Murasu</a>
+
+**30 July 2022**  
+* <a href="https://www.straitstimes.com/singapore/halimah-yacob-lawrence-wong-to-speak-at-rsis-inter-faith-conference-in-sept" target="_blank">Halimah Yacob, Lawrence Wong to speak at RSIS inter-faith conference in Sept, The Straits Times</a>
+* <a href="https://www.beritaharian.sg/setempat/presiden-halimah-dpm-wong-bakal-berucap-di-sidang-silang-agama-rsis-pada-sept" target="_blank">Presiden Halimah, DPM Wong bakal berucap di sidang silang agama RSIS pada Sept, Berita Harian</a>
+
 **22 July 2022**  
 * <a href="https://www.straitstimes.com/opinion/bridging-troubled-waters-forging-cohesion-in-divided-societies" target="_blank">Bridging troubled waters: Forging cohesion in divided societies, The Straits Times</a>
 
