@@ -1,9 +1,10 @@
 ---
 title: Overview
 permalink: /pastevents/ICCS2019/Overview
-description: ""
+description: ICCS 2019
 third_nav_title: ICCS 2019
 ---
+
 The inaugural International Conference on Cohesive Societies (ICCS) took place from 19 to 21 June 2019 at the Raffles City Convention Centre. 
 
 Centred around the theme of ***“Many Communities, One Shared Future”***, ICCS 2019 provided a vital platform for conversations on forging stronger interfaith understanding and developing new ideas to foster greater harmony in societies. Close to 1,200 participants from about 40 countries attended ICCS 2019, with many workshops and plenary sessions aimed at engaging a diverse range of audiences.

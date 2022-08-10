@@ -1,9 +1,10 @@
 ---
 title: Speakers
 permalink: /PastEvents/ICCS2019/Speakers
-description: ""
+description: ICCS 2019 Speakers
 third_nav_title: ICCS 2019
 ---
+
 The inaugural ICCS featured speakers from various backgrounds and experiences:   
 
 **Guest-of-Honour:**   

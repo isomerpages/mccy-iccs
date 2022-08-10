@@ -1,8 +1,9 @@
 ---
 title: Mission:Unite
 permalink: /past-events/missionunite
-description: ""
+description: Mission:Unite
 ---
+
 The inaugural **Mission:Unite** hackathon was held in 2020 to challenge youths to ideate solutions that promote racial and religious harmony. Mission:Unite was a follow-up to the International Conference on Cohesive Societies (ICCS) and Young Leaders Programme (YLP) held in June 2019, to build on conversations around social cohesion and turn ideas into reality.
 
 During the launch of the hackathon on 27 November 2020, Minister of State Alvin Tan helmed a panel discussion on facilitating racial and religious harmony in online and offline spaces in the midst of the COVID-19 pandemic. Over two consecutive weekends, participants from schools and religious and community organisations came together to form teams, participate in workshops, and receive guidance from mentors to develop and pitch their ideas to a panel of judges. 

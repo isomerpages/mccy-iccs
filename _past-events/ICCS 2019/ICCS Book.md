@@ -1,9 +1,10 @@
 ---
 title: ICCS Book
 permalink: /PastEvents/ICCS2019/ICCSBook
-description: ""
+description: ICCS Book
 third_nav_title: ICCS 2019
 ---
+
 # Faith, Identity, Cohesion: Building a Better Future
 **by <a href="https://www.rsis.edu.sg/?post_type=profile&p=38213" target="_blank">Jolene Jerard</a> and <a href="https://www.rsis.edu.sg/?post_type=profile&p=51669" target="_blank">Amanda Huan</a>**
 	 

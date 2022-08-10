@@ -1,9 +1,10 @@
 ---
 title: Gallery
 permalink: /PastEvents/ICCS2019/Gallery
-description: ""
+description: ICCS 2019 Gallery
 third_nav_title: ICCS 2019
 ---
+
 # Main Conference
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTawmzziTT04p2NXG8YhvtyaJ7mqJ7tRhr-07EWrUNWblRKHxoz3m5FFn_lxofDlPIym_4v-RlQKNEQ/embed?start=true&loop=true&delayms=5000" frameborder="0" width="600" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
