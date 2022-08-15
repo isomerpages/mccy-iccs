@@ -12,4 +12,4 @@ If you wish to register for the event, please contact <a href="mailto:iccs2022-d
 [Download a copy of the latest programme and speaker list here.](/files/ICCS%202022%20Programme%20and%20Speakers_as%20at%2015%20Aug%202022.pdf)
 
 # Synopses![](/images/ICCS%20Plenaries_as%20at%2029%20Jul%202022.png)![](/images/ICCS%20Breakouts_as%20at%2029%20Jul%202022.png)
-# Speakers![](/images/ICCS%202022%20Special%20Guests_as%20of%208%20Aug.png)![](/images/ICCS%202022%20Speakers%201_as%20of%2010%20Aug.png)![](/images/ICCS%202022%20Speakers%202_as%20of%2010%20Aug.png)![](/images/ICCS%202022%20Speakers%203_as%20of%2010%20Aug.png)![](/images/ICCS%202022%20Speakers%204_as%20of%208%20Aug.png)![](/images/ICCS%202022%20Speakers%205_as%20of%208%20Aug.png)
+# Speakers![](/images/ICCS%202022%20Special%20Guests_as%20of%208%20Aug.png)![](/images/ICCS%202022%20Speakers%201_as%20of%2015%20Aug%202022.png)![](/images/ICCS%202022%20Speakers%202_as%20of%2010%20Aug.png)![](/images/ICCS%202022%20Speakers%203_as%20of%2010%20Aug.png)![](/images/ICCS%202022%20Speakers%204_as%20of%2015%20Aug%202022.png)![](/images/ICCS%202022%20Speakers%205_as%20of%208%20Aug.png)
