@@ -9,8 +9,6 @@ The Young Leaders Programme (YLP) is a platform for young local and internationa
 ![](/images/18June2019ICCSPhotog1-116.jpg)
 <font color = "grey"><font size="-1">Young leaders from around the world will get the chance to interact with one another and share their views on important issues. (Photos: MCCY)</font></font>
 
-This year, Singapore is proud to welcome some 120 young leaders actively involved in or are leading interfaith and community-building efforts.
-
 From 6th-8th September 2022, delegates can look forward to:
 
 * **Small group discussions** around contemporary issues of faith and identity;
