@@ -12,8 +12,10 @@ The Community Experience is an immersive programme and will provide local and fo
 
 # Programme Outline
 ![](/images/Community%20Experience/ICCS%20CD%20programme_250822.png)
+[Download a copy of the latest Community Dialogue programme here](/files/Community%20Experience/ICCS%20CD%20programme_As%20of%20250822.pdf)
 
 ![](/images/Community%20Experience/ICCS%20CE%20programme_250822.png)
+
 
 [Download a copy of the latest Community Experience programme here](/files/Community%20Experience/ICCS%20CE%20programme%20for%20website_as%20of%2014%20Jul%202022.pdf)
 
