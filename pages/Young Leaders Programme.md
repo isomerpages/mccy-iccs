@@ -21,7 +21,7 @@ In this session, local advocates from the faith communities such as Dr N Varapra
 <b><i>(ii) Faith in Workplaces</i></b>  
 In this session, Imran Taib, Founder, Dialogue Centre, Hannah Willage, Director of Emerging Leaders Network/Interfaith America) and Dr Aamir Hussain, an Interfaith America alumnus, will discuss the (hard and soft) skills interfaith advocates need to be effective bridge-builders in the workplaces.  
 <b><i>(iii) Harnessing Faith for Community-building</i></b>    
-In this session, join Franciscan Sister of Perpetual Adoration and Vocation Minister, Sister Julia Walsh and local community advocates, Liyana Rosli Asmara, Head of Harmony Centre and Dr Tan Lai Yong, an Associate Professor from the National University of Singapore, in a journey of awakening to discernment and service. 
+In this session, join Franciscan Sister of Perpetual Adoration and Vocation Minister, Sister Julia Walsh and local community advocates, Liyana Rosli Asmara, Head of Harmony Centre and Dr Tan Lai Yong, an Associate Professor from the National University of Singapore, in a journey of awakening to discernment and service.  
 <b><i>(iv) Leadership in a Diverse World (Workshop)</i></b>  
 A capability-building workshop to equip and inspire young civic leaders led by Krish Raval OBE and Denny Braggins from Faith in Leadership, as well as Rabbi Shoshana Boyd Gelfand, Director of Leadership and Learning from Pears Foundation. The workshop will be facilitated by local peer facilitators and former YLP delegates.  
 
