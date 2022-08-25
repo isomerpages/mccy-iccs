@@ -11,7 +11,7 @@ The Young Leaders Programme (YLP) is a platform for young local and internationa
 
 From 6th-8th September 2022, delegates can look forward to:
 
-* **Small group discussions** around contemporary issues of faith and identity;
+* a)	Community Showcase & Collaboration Whitespace: A session to  encourage youth civic activism and collaboration through facilitated gameplay and an interactive showcase of ground-up initiatives by young community leaders.
 
 * **A hands-on, experiential showcase** of ground-up projects to strengthen social cohesion; and
 
