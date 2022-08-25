@@ -13,6 +13,6 @@ From 6th-8th September 2022, delegates can look forward to:
 
 * **Community Showcase & Collaboration Whitespace:** A session to encourage youth civic activism and collaboration through facilitated game-play and an interactive showcase of ground-up initiatives by young community leaders.
 
-* **A hands-on, experiential showcase** of ground-up projects to strengthen social cohesion; and
+* **Fireside Chat – Social Media for Social Cohesion:** Hear from and engage with Reverend Chris Lee, Father Fiel Pareja and fashion designer Yasmin Jay as they share how they use their online platforms to foster interfaith understanding and respect.  
 
 * **A capability-building workshop** to equip and inspire young civic leaders, led by Krish Raval and Denny Braggins from Faith In Leadership (UK).
