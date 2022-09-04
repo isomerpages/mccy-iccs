@@ -1,6 +1,6 @@
 ---
 title: ICCS Research & Commentaries
-permalink: /Research
+permalink: /Research/
 description: Research & Commentaries
 ---
 The ICCS Research and Commentaries is a new and signature component of the ICCS, which includes:
@@ -8,6 +8,9 @@ The ICCS Research and Commentaries is a new and signature component of the ICCS,
 **1. Regional survey:** to foster more evidence-based discussions around the themes of ICCS. The survey will provide cross-country findings on social cohesion in the region and give insight into the core elements of social cohesion.
 
 **2. Commentary series:** comprising articles discussing issues relevant to ICCS and published on RSIS’ website. The commentaries are written by a mix of academics, youths and community practitioners for a wide range of views and expertise. Links to read the commentaries:
+* <a href="https://www.rsis.edu.sg/rsis-publication/rsis/towards-iccs-2022-what-next-for-interreligious-cooperation-new-possibilities-in-strengthening-social-cohesion/#.YxN_Ls0RXb0" target="_blank">Towards ICCS 2022 – What Next for Interreligious Cooperation? New Possibilities in Strengthening Social Cohesion, 2 September 2022</a>
+* <a href="https://www.rsis.edu.sg/rsis-publication/rsis/towards-iccs-2022-space-gender-and-social-cohesion/#.YxN_MM0RXb0" target="_blank">Towards ICCS 2022 – Space, Gender, and Social Cohesion, 31 August 2022</a>
+* <a href="https://www.rsis.edu.sg/rsis-publication/rsis/towards-iccs-2022-youth-and-women-groups-in-effective-and-inclusive-dialogue-on-social-cohesion/#.YxN_Mc0RXb0" target="_blank">Towards ICCS 2022 – Youth and Women Groups in Effective and Inclusive Dialogue on Social Cohesion, 29 August 2022</a>
 * <a href="https://www.rsis.edu.sg/rsis-publication/rsis/towards-iccs-2022-the-role-of-theology-among-christian-indonesians-during-covid-19-pandemic-a-perspective-from-indonesia/?doing_wp_cron=1660890638.1196460723876953125000#.Yv8uDywRXb1" target="_blank">Towards ICCS 2022 – The Role of Theology among Christian Indonesians during COVID-19 Pandemic – A Perspective from Indonesia, 16 August 2022</a>
 * <a href="https://www.rsis.edu.sg/rsis-publication/rsis/towards-iccs-2022-gandhi-peace-and-cohesion/#.Yv8uECwRXb1" target="_blank">Towards ICCS 2022 – Gandhi, Peace, and Cohesion, 11 August 2022</a>
 * <a href="https://www.rsis.edu.sg/rsis-publication/rsis/towards-iccs-2022-the-media-force-of-cohesion-or-division/#.YtjQve8RVhE" target="_blank">Towards ICCS 2022 – The Media: Force of Cohesion or Division, 14 July 2022</a>
