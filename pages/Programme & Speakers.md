@@ -14,12 +14,10 @@ ICCS 2022 will be held from 6<sup>th</sup> to 8<sup>th</sup> September 2022 at t
 The 3-day programme will feature speeches by renowned speakers from around the world, panel discussions and dialogues on the themes of faith, identity and cohesion.
 
 # Programme
-**Day 0 (5 September 2022)**
+![](/images/ICCS%20navy%20line%20Day%200.png)
 * Community Dialogue
 
-![](/images/ICCS%20teal%20line.png)
-
-**Day 1 (6 September 2022)**
+![](/images/ICCS%20navy%20line%20Day%201.png)
 * Opening Address by President Halimah Yacob
 * Special Presentation: Perspectives on Social Cohesion
 * 1st Plenary: How Faith Can Bridge Divides
@@ -29,9 +27,7 @@ The 3-day programme will feature speeches by renowned speakers from around the w
 * Young Leaders Programme: Community Showcase & Collaboration Whitespace
 * Community Exploration
 
-![](/images/ICCS%20teal%20line.png)
-
-**Day 2 (7 September 2022)**
+![](/images/ICCS%20navy%20line%20Day%202.png)
 * 2nd Plenary: How Diversity Can Be Harnessed for the Common Good
 * 3rd Plenary: How Technology Can Be Leveraged to Foster Mutual Trust
 * Breakout Session 1
@@ -39,9 +35,7 @@ The 3-day programme will feature speeches by renowned speakers from around the w
 * Young Leaders Programme: Dialogues on Diversity
 * Community Exploration
 
-![](/images/ICCS%20teal%20line.png)
-
-**Day 3 (8 September 2022)**
+![](/images/ICCS%20navy%20line%20Day%203.png)
 * Breakout Session 2
 * In Conversation with Deputy Prime Minister Lawrence Wong
 * Breakout Session 3
