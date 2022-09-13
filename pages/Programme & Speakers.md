@@ -13,7 +13,24 @@ ICCS 2022 will be held from 6<sup>th</sup> to 8<sup>th</sup> September 2022 at t
 
 The 3-day programme will feature speeches by renowned speakers from around the world, panel discussions and dialogues on the themes of faith, identity and cohesion.
 
-# Programme![](/images/ICCS%20Programme%201_as%20at%2025%20Aug.png)
+# Programme
+**Day 1 (6 September 2022)**
+* Opening Address by President Halimah Yacob
+* Special Presentation: Perspectives on Social Cohesion
+* 1st Plenary: How Faith Can Bridge Divides
+* Special Address by Cardinal Pietro Parolin
+* Southeast Asian Social Cohesion Radar Launch
+* Young Leaders Programme: Culture & Heritage Tour
+* Young Leaders Programme: Community Showcase & Collaboration Whitespace
+* Community Exploration
+
+![](/images/ICCS%20teal%20line.png)
+
+**Day 2 (7 September 2022)**
+
+Day 3 (8 September 2022)
+
+![](/images/ICCS%20Programme%201_as%20at%2025%20Aug.png)
 [Download a copy of the latest programme and speaker list here.](/files/ICCS%202022%20Programme%20and%20Speakers_as%20at%207%20Sep%202022.pdf)
 
 # Synopses![](/images/ICCS%20Programme%202_as%20at%2025%20Aug.png)![](/images/ICCS%20Programme%203_as%20at%2025%20Aug.png)![](/images/ICCS%20Programme%204_as%20at%2025%20Aug.png)
