@@ -43,6 +43,7 @@ The 3-day programme will feature speeches by renowned speakers from around the w
 * Young Leaders Programme: Workshop – Leadership in a Diverse World
 * Young Leaders Programme: The Pitch
 * Community Exploration
+
 ![](/images/ICCS%20teal%20line.png)
 
 ![](/images/ICCS%20Programme%201_as%20at%2025%20Aug.png)
