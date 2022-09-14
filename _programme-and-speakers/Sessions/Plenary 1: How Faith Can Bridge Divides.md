@@ -64,8 +64,7 @@ Venerable Shi You Guang is also 1st Vice President of Metta Welfare Association,
 <img src="/images/Kumar.jpg"
      style="width:50%" />
 		 
-<p style="color:#2B3062"><b>Moderator:</b></p>
-**Professor Kumar Ramakrishna  
+<p style="color:#2B3062"><b>Moderator:</b></p>**Professor Kumar Ramakrishna  
 Professor of National Security Studies, Nanyang Technological University, Singapore**  
 
 Kumar Ramakrishna is Professor and Provost's Chair in National Security Studies, Associate Dean in charge of Policy Studies, as well as Head of the International Centre for Political Violence and Terrorism Research (ICPVTR), in the S. Rajaratnam School of International Studies (RSIS), Nanyang Technological University, Singapore. He was previously the Head of the Centre of Excellence for National Security (CENS) at RSIS from 2006-2015, and Head of the National Security Studies Programme (NSSP) from 2016-2020. He remains as Research Adviser to NSSP.  
