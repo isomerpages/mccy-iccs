@@ -52,6 +52,11 @@ Imam Uzair was born in England and completed his Islamic Scholar (Ulema) course 
 
 An avid sports fan, when he does get a chance to take a break from his busy schedule, you will see the Imam swinging his golf clubs or perfecting his cover drive on the cricket pitch.
 
+**Venerable Shi You Guang
+Abbot and President, Samantabhadra Vihara
+Secretary-General, Singapore Buddhist Federation**
+
+Venerable Shi You Guang is also 1st Vice President of Metta Welfare Association, serving the community's special education, welfare and social needs. He received Higher Ordination at TzuYun Temple Taiwan. Venerable received both Dharma transmission of Hua-yen Lineage and CaoDong-Zen Lineage. He guides Buddhists and like-minded ones on the path to a harmonious way of life through sharing, classes and consultations and meets people from different walks of life. He actively participates in and supports inter-faith events and dialogues, establishing deeper understanding, trust and respect among the community.
 
 <p style="color:#2B3062"><b>Moderator:</b></p>**Professor Farish Ahmad-Noor  
 Professor of History at the University of Malaya**
