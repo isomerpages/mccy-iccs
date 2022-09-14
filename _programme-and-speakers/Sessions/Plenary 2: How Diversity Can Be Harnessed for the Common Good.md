@@ -15,34 +15,35 @@ This plenary addresses the tools and concepts to understand a world marked by su
 # Speakers
 <img src="/images/LilyKong.jpg"
      style="width:50%" />
-   
-**Professor Lily Kong  
-President, Singapore Management University**
 
-Professor Lily Kong is SMU’s fifth President, and the first Singaporean to lead the 22 years old university. She is also the first Singaporean woman to head a university in Singapore. She was previously Provost of SMU, and Vice Provost and Vice President at the National University of Singapore (in various portfolios). 
+**Mr André Azoulay  
+Adviser to H.M. King Mohammed VI of Morocco  
+President of the Executive Committee, Foundation for the 3 Cultures and 3 Religions (Sevilla)  
+Founding President of the Essaouira-Mogador Foundation  
+President of the Moroccan National Foundation for Sciences Engineering**  
 
-Professor Kong is internationally known for her research on urban transformations in Asia, with particular focus on social and cultural change. She has written extensively about communal relations, particularly, the intersection of religion and secularity in cities, creative industries/cities, urban heritage conservation, and smart cities. She is an award-winning researcher and teacher locally and internationally. 
-
-Prof Kong was conferred the Public Service Star in 2020 and Public Administration Medal (Silver) in 2006. In a global study by Stanford University (2020), she was identified as among the world’s top 1% of scientists in the field of Geography. Prof Kong was inducted into the Singapore Women’s Hall of Fame in 2022, included in the Forbes Inaugural 50 over 50 (Asia 2022), and in Forbes Asia’s Power Businesswomen list (2020).
+Mr André Azoulay is an ardent ambassador of Morocco throughout the world. He is a strong advocate for peace and dialogue between the Arab Muslim World and Jewish Communities in Europe, USA, Morocco as well as the global Arab and Jewish diasporas. He is also well-known for contributions to the peace process in the Middle East and for the many interfaith cross-cultural initiatives he spearheaded.
 
 <img src="/images/Katherine%20Marshall.png"
      style="width:50%" />
 
-**Professor Katherine Marshall  
-Senior Fellow, Berkley Center for Religion, Peace, and World Affairs
-Professor of the Practice of Development, Conflict, and Religion
-Walsh School of Foreign Service, Georgetown University**
+**Professor Yoshiko Ashiwa  
+Professor of Anthropology and Global Studies  
+Founding Director of Institute for the Study of Peace and Reconciliation  
+Hitotsubashi University**  
 
-Katherine Marshall, a senior fellow at Georgetown University’s Berkley Center for Religion, Peace, and World Affairs, leads the center's work on religion and global development,. She is also professor of the practice of development, conflict, and religion in the Walsh School of Foreign Service, teaching diverse courses notably on the ethics of development work and mentoring students at many levels. She helped to create and serves as the executive director of the World Faiths Development Dialogue, an NGO that works to enhance bridges among different sectors and institutions. Marshall has some five decades of experience on wide ranging development issues in Africa, Latin America, East Asia, and the Middle East, particularly those facing the world’s poorest countries. She was a World Bank officer from 1971 to 2006, and led the World Bank’s faith and ethics initiative between 2000 and 2006.
+Professor Yoshiko Ashiwa’s research interests include religion, arts, culture and values, modernity, globalisation, and social movements mainly in Asia, especially Sri Lanka, China and Japan. She is co-editor of Making Religion, Making the State: The Politics of Religion in Modern China (2009, with David Wank).
 
-Katherine Marshall has written, spoken, and published extensively, including for RSiS, on wide-ranging topics that include inclusive societies and human rights. Her most recent book, co-edited with Susan Hayward, is _Women, Religion, and Peacebuilding: Illuminating the Unseen_ (United States Institute of Peace, 2015). Her book _Global Institutions of Religion: Ancient Movers, Modern Shakers_ (Routledge, 2013) explores relationships between religious institutions and current world affairs. She writes on many facets of international development, including _The World Bank: from Reconstruction to Development to Equity_ (Routledge, 2008); _Development and Faith: Where Mind, Heart and Soul Work Together_, co-authored with Marisa Van Saanen (World Bank, 2007); and _Mind, Heart and Soul in the Fight against Poverty_, co-authored with Lucy Keough (World Bank, 2004).
+**Dr Iyad Abumoghli
+Founder and Director of the United Nations Environment Programme’s (UNEP) Faith for Earth Initiative**
 
-As vice president of the G20 Interfaith Association, Katherine Marshall devotes much attention to supporting positive religious engagement on global agendas. She serves on the boards of several NGOs, on advisory groups, and prize selection committees, including AVINA Americas, the International Shinto Foundation, and the International Anti-Corruption Conference. She spent several years as a core group member of the Council of 100, a World Economic Forum initiative to advance understanding between the Islamic world and the West. She is a member of the Council on Foreign Relations and a previous trustee of Princeton University. She served as co-moderator of the Fes Forum, part of the Fes Festival of World Sacred Music since its inception. Marshall has a B.A. from Wellesley College, an MPA from Princeton’s School of Public and International Affairs, and an honorary doctorate from the University of Cambodia.
+With more than 35 years of experience with international organisations, the private sector and scientific institutions, Dr Abumoghli’s expertise focus on strategic planning, sustainable development, natural resources management, interfaith collaboration and knowledge and innovation. He is also the Lead Principal Advisor on Engaging with Faith-Based Organisations at UNEP.
 
 <img src="/images/Farish%20Ahmad-Noor.jpg"
      style="width:50%" />
 
-<p style="color:#2B3062"><b>Moderator:</b></p>**Professor Farish Ahmad-Noor  
-Professor of History at the University of Malaya**
+<p style="color:#2B3062"><b>Moderator:</b></p>**Assistant Professor Jack Meng-Tat Chia  
+Assistant Professor of History and Religious Studies, Faculty of Arts and Social Sciences  
+National University of Singapore**  
 
-Professor Farish A Noor is Professor at the Department of History, University Malaya. His recent works include Farish A. Noor and Peter Carey, *Ras, Kuasa, dan Kekerasan Kolonial di Hindia Belanda, 1808-1830* (Jakarta: KPG Gramedia Publishers, 2021); *Data-Collecting in 19th Century Colonial Southeast Asia: Framing the Other* (Amsterdam University Press, 2020); *America’s Encounters with Southeast Asia 1800-1900: Before the Pivot* (Amsterdam University Press, 2018); *The Discursive Construction of Southeast Asia in the Discourse of 19th Century Colonial-Capitalism* (Amsterdam University Press, 2016); and *The Malaysian Islamic Party 1951-2013: Islamism in a Mottled Nation* (Amsterdam University Press, 2014).
+Assistant Professor Jack Meng-Tat Chia specialises in Buddhism in maritime Southeast Asia and has broader research interests in migration, diasporas, transnationalism, pilgrimage and religious diplomacy. He is also an associate of the Religion and Globalisation Cluster at the Asia Research Institute and co-chairs the Theravada Studies Group of the Association for Asian Studies. 
