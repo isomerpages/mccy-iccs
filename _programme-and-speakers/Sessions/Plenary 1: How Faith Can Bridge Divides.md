@@ -55,8 +55,8 @@ An avid sports fan, when he does get a chance to take a break from his busy sche
 <img src="/images/Ven%20You%20Guang%20(1).jpg"
      style="width:50%" />
 
-**Venerable Shi You Guang
-Abbot and President, Samantabhadra Vihara
+**Venerable Shi You Guang  
+Abbot and President, Samantabhadra Vihara  
 Secretary-General, Singapore Buddhist Federation**
 
 Venerable Shi You Guang is also 1st Vice President of Metta Welfare Association, serving the community's special education, welfare and social needs. He received Higher Ordination at TzuYun Temple Taiwan. Venerable received both Dharma transmission of Hua-yen Lineage and CaoDong-Zen Lineage. He guides Buddhists and like-minded ones on the path to a harmonious way of life through sharing, classes and consultations and meets people from different walks of life. He actively participates in and supports inter-faith events and dialogues, establishing deeper understanding, trust and respect among the community.
