@@ -46,7 +46,6 @@ The 3-day programme featured speeches by renowned speakers from around the world
 
 ![](/images/ICCS%20teal%20line.png)
 
-![](/images/ICCS%20Programme%201_as%20at%2025%20Aug.png)
 [Download a copy of the latest programme and speaker list here.](/files/ICCS%202022%20Programme%20and%20Speakers_as%20at%207%20Sep%202022.pdf)
 
 # Synopses![](/images/ICCS%20Programme%202_as%20at%2025%20Aug.png)![](/images/ICCS%20Programme%203_as%20at%2025%20Aug.png)![](/images/ICCS%20Programme%204_as%20at%2025%20Aug.png)
