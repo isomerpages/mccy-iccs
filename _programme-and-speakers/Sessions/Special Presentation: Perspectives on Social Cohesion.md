@@ -16,6 +16,10 @@ Setting the stage for ICCS 2022 plenaries and breakouts, the Special Presentatio
 <img src="/images/LilyKong.jpg"
      style="width:25%"
 		 ALIGN=”left” />
+   
+**Professor Lily Kong  
+President, Singapore Management University**
+
 Professor Lily Kong is SMU’s fifth President, and the first Singaporean to lead the 22 years old university. She is also the first Singaporean woman to head a university in Singapore. She was previously Provost of SMU, and Vice Provost and Vice President at the National University of Singapore (in various portfolios). 
 
 Professor Kong is internationally known for her research on urban transformations in Asia, with particular focus on social and cultural change. She has written extensively about communal relations, particularly, the intersection of religion and secularity in cities, creative industries/cities, urban heritage conservation, and smart cities. She is an award-winning researcher and teacher locally and internationally. 
