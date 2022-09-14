@@ -15,32 +15,43 @@ This plenary critically examines the reasons for the rise and endurance of socia
 # Speakers
 <img src="/images/LilyKong.jpg"
      style="width:50%" />
-   
-**Professor Lily Kong  
-President, Singapore Management University**
 
-Professor Lily Kong is SMU’s fifth President, and the first Singaporean to lead the 22 years old university. She is also the first Singaporean woman to head a university in Singapore. She was previously Provost of SMU, and Vice Provost and Vice President at the National University of Singapore (in various portfolios). 
+**Dr Sadhvi Bhagawati Saraswati  
+Secretary-General, Global Interfaith Clean Water, Sanitation & Hygiene (WASH) Alliance  
+President, Divine Shakti Foundation  
+Co-President, Religions for Peace**
 
-Professor Kong is internationally known for her research on urban transformations in Asia, with particular focus on social and cultural change. She has written extensively about communal relations, particularly, the intersection of religion and secularity in cities, creative industries/cities, urban heritage conservation, and smart cities. She is an award-winning researcher and teacher locally and internationally. 
-
-Prof Kong was conferred the Public Service Star in 2020 and Public Administration Medal (Silver) in 2006. In a global study by Stanford University (2020), she was identified as among the world’s top 1% of scientists in the field of Geography. Prof Kong was inducted into the Singapore Women’s Hall of Fame in 2022, included in the Forbes Inaugural 50 over 50 (Asia 2022), and in Forbes Asia’s Power Businesswomen list (2020).
+Dr Sadhvi Bhagawati Saraswati is a renowned spiritual leader, author and social activist based in the Himalayas, India. She serves on the United Nations Advisory Council on Religion and on the steering committees of the International Partnership for Religion and Sustainable Development (PaRD) and the Moral Imperative to End Extreme Poverty, a campaign by the United Nations and World Bank.
 
 <img src="/images/Katherine%20Marshall.png"
      style="width:50%" />
 
-**Professor Katherine Marshall  
-Senior Fellow, Berkley Center for Religion, Peace, and World Affairs
-Professor of the Practice of Development, Conflict, and Religion
-Walsh School of Foreign Service, Georgetown University**
+**Lord John Alderdice  
+First Speaker of the Northern Ireland Assembly**
 
-Katherine Marshall, a senior fellow at Georgetown University’s Berkley Center for Religion, Peace, and World Affairs, leads the center's work on religion and global development,. She is also professor of the practice of development, conflict, and religion in the Walsh School of Foreign Service, teaching diverse courses notably on the ethics of development work and mentoring students at many levels. She helped to create and serves as the executive director of the World Faiths Development Dialogue, an NGO that works to enhance bridges among different sectors and institutions. Marshall has some five decades of experience on wide ranging development issues in Africa, Latin America, East Asia, and the Middle East, particularly those facing the world’s poorest countries. She was a World Bank officer from 1971 to 2006, and led the World Bank’s faith and ethics initiative between 2000 and 2006.
+John, Lord Alderdice has been an active Liberal Democrat member of the House of Lords since 1996 and was the Convenor of the Liberal Democrats in the House of Lords during the Liberal/Conservative Coalition Government. As Leader of Northern Ireland’s Alliance Party from 1987 to 1998, he played a significant role in the negotiation of the 1998 Belfast/Good Friday Agreement and when the new Northern Ireland Assembly was elected, he became its first Speaker. He was subsequently appointed by the British and Irish Governments as one of the four members of the Independent Monitoring Commission (IMC) established to end the operations of the terrorist groups.
 
-Katherine Marshall has written, spoken, and published extensively, including for RSiS, on wide-ranging topics that include inclusive societies and human rights. Her most recent book, co-edited with Susan Hayward, is _Women, Religion, and Peacebuilding: Illuminating the Unseen_ (United States Institute of Peace, 2015). Her book _Global Institutions of Religion: Ancient Movers, Modern Shakers_ (Routledge, 2013) explores relationships between religious institutions and current world affairs. She writes on many facets of international development, including _The World Bank: from Reconstruction to Development to Equity_ (Routledge, 2008); _Development and Faith: Where Mind, Heart and Soul Work Together_, co-authored with Marisa Van Saanen (World Bank, 2007); and _Mind, Heart and Soul in the Fight against Poverty_, co-authored with Lucy Keough (World Bank, 2004).
-
-As vice president of the G20 Interfaith Association, Katherine Marshall devotes much attention to supporting positive religious engagement on global agendas. She serves on the boards of several NGOs, on advisory groups, and prize selection committees, including AVINA Americas, the International Shinto Foundation, and the International Anti-Corruption Conference. She spent several years as a core group member of the Council of 100, a World Economic Forum initiative to advance understanding between the Islamic world and the West. She is a member of the Council on Foreign Relations and a previous trustee of Princeton University. She served as co-moderator of the Fes Forum, part of the Fes Festival of World Sacred Music since its inception. Marshall has a B.A. from Wellesley College, an MPA from Princeton’s School of Public and International Affairs, and an honorary doctorate from the University of Cambodia.
+He was President of Liberal International from 2005 to 2009 and continues to serve on its Bureau as a Presidente d’Honneur. He was the founding Chairman (now Emeritus Chairman) of the Centre for Democracy and Peace Building in Belfast and now heads up the Changing Character of War Centre at Pembroke College, University of Oxford. He is also a Senior Research Fellow at Harris Manchester College, University of Oxford, Director of the Centre for the Resolution of Intractable Conflict, and founding Chairman of The Concord Foundation, an independent peace building organisation.
 
 <img src="/images/Farish%20Ahmad-Noor.jpg"
      style="width:50%" />
+ 
+**Imam Uzair Akbar  
+Imam, Holland Park Mosque  
+President, Council of Imams Queensland (CIQ)  
+Head, Shariah Advisory Board with Amanah Islamic Finance Australia (AIFA)  
+Director, Centre of Excellence (Australian Youth Welfare Trust)  
+Director, ISHP Youth Club  
+Member of the Australian National Imams Council (ANIC)**
+
+Imam Uzair Akbar is a well-known respected scholar, dynamic speaker, and prominent leader in the Muslim community of Australia. He has been the appointed Imam for over two and a half decades in the century-old Holland Park mosque located in Brisbane Australia. He is currently the President of the Council of Imams Queensland (CIQ), member of ANIC (Australian National Imams Council), Head of Shariah Advisory board with Amanah Islamic Finance Australia (AIFA), Director of Centre of Excellence (Australian Youth Welfare Trust), Executive Board Member of the Islamic College Brisbane (ICB), Director of ISHP Youth Club, and sits on the board of many other not-for-profits organisations. 
+
+His passion, zeal and commitment speak volumes of his 26-year tenure in this place. Imam Uzair has been gifted with a unique way of connecting to the common audience through his Islamic lectures, Tafseer, and sermons. His forte includes connecting with the youth and giving common life analogies that really strike into the heart of his listeners. 
+
+Imam Uzair was born in England and completed his Islamic Scholar (Ulema) course overseas before coming to Australia. Imam Uzair has a very close relationship with several prominent scholars including the eminent Islamic finance scholar Justice (ret.) Mufti Taqi Usmani having hosted him to Australia on a few occasions. He is a long-term advocate for the Muslim community in Australia and regularly appears in many multi-faith forums, open days and hosts a variety of visits for schools, professionals, defence, and police personnel. He can be seen in various print articles, on TV programs such as ABC’s ‘You Can’t Ask That – Muslims’ or the very popular 3 part documentary “The Mosque Next Door” on Netflix & SBS Australia. 
+
+An avid sports fan, when he does get a chance to take a break from his busy schedule, you will see the Imam swinging his golf clubs or perfecting his cover drive on the cricket pitch.
+
 
 <p style="color:#2B3062"><b>Moderator:</b></p>**Professor Farish Ahmad-Noor  
 Professor of History at the University of Malaya**
