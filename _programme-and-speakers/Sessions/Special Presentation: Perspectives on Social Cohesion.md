@@ -28,7 +28,7 @@ Prof Kong was conferred the Public Service Star in 2020 and Public Administratio
 <img src="/images/Katherine%20Marshall.png"
      style="width:50%" />
 
-**Professor Katherine Marshall
+**Professor Katherine Marshall  
 Senior Fellow, Berkley Center for Religion, Peace, and World Affairs
 Professor of the Practice of Development, Conflict, and Religion
 Walsh School of Foreign Service, Georgetown University**
