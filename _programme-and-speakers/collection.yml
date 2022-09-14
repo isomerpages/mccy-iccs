@@ -2,5 +2,6 @@ collections:
   programme-and-speakers:
     output: true
     order:
+      - Sessions/Sessions.md
       - Sessions/.keep
       - Programme Overview.md
