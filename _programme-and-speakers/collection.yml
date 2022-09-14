@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Programme Overview.md
-      - "Sessions/Plenary 1: How Faith Can Bridge Divides.md"
       - Sessions/.keep
       - "Sessions/Special Presentation: Perspectives on Social Cohesion.md"
+      - "Sessions/Plenary 1: How Faith Can Bridge Divides.md"
