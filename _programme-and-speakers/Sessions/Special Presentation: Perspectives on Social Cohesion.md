@@ -42,8 +42,7 @@ As vice president of the G20 Interfaith Association, Katherine Marshall devotes 
 <img src="/images/Farish%20Ahmad-Noor.jpg"
      style="width:50%" />
 
-<p style="color:#2B3062"><b>Moderator:</b></p>
-**Professor Farish Ahmad-Noor  
+<p style="color:#2B3062"><b>Moderator:</b></p>**Professor Farish Ahmad-Noor  
 Professor of History at the University of Malaya**
 
 Professor Farish A Noor is Professor at the Department of History, University Malaya. His recent works include Farish A. Noor and Peter Carey, *Ras, Kuasa, dan Kekerasan Kolonial di Hindia Belanda, 1808-1830* (Jakarta: KPG Gramedia Publishers, 2021); *Data-Collecting in 19th Century Colonial Southeast Asia: Framing the Other* (Amsterdam University Press, 2020); *America’s Encounters with Southeast Asia 1800-1900: Before the Pivot* (Amsterdam University Press, 2018); *The Discursive Construction of Southeast Asia in the Discourse of 19th Century Colonial-Capitalism* (Amsterdam University Press, 2016); and *The Malaysian Islamic Party 1951-2013: Islamism in a Mottled Nation* (Amsterdam University Press, 2014).
