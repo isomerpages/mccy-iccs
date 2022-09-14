@@ -24,3 +24,8 @@ Professor Lily Kong is SMU’s fifth President, and the first Singaporean to lea
 Professor Kong is internationally known for her research on urban transformations in Asia, with particular focus on social and cultural change. She has written extensively about communal relations, particularly, the intersection of religion and secularity in cities, creative industries/cities, urban heritage conservation, and smart cities. She is an award-winning researcher and teacher locally and internationally. 
 
 Prof Kong was conferred the Public Service Star in 2020 and Public Administration Medal (Silver) in 2006. In a global study by Stanford University (2020), she was identified as among the world’s top 1% of scientists in the field of Geography. Prof Kong was inducted into the Singapore Women’s Hall of Fame in 2022, included in the Forbes Inaugural 50 over 50 (Asia 2022), and in Forbes Asia’s Power Businesswomen list (2020).
+
+**Professor Katherine Marshall
+Senior Fellow, Berkley Center for Religion, Peace, and World Affairs
+Professor of the Practice of Development, Conflict, and Religion
+Walsh School of Foreign Service, Georgetown University**
