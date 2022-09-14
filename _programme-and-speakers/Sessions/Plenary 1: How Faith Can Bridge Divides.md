@@ -33,9 +33,9 @@ John, Lord Alderdice has been an active Liberal Democrat member of the House of 
 
 He was President of Liberal International from 2005 to 2009 and continues to serve on its Bureau as a Presidente d’Honneur. He was the founding Chairman (now Emeritus Chairman) of the Centre for Democracy and Peace Building in Belfast and now heads up the Changing Character of War Centre at Pembroke College, University of Oxford. He is also a Senior Research Fellow at Harris Manchester College, University of Oxford, Director of the Centre for the Resolution of Intractable Conflict, and founding Chairman of The Concord Foundation, an independent peace building organisation.
 
-<img src="/images/Farish%20Ahmad-Noor.jpg"
+<img src="/images/Imam%20Uzair%20Akbar.jpg"
      style="width:50%" />
- 
+
 **Imam Uzair Akbar  
 Imam, Holland Park Mosque  
 President, Council of Imams Queensland (CIQ)  
@@ -52,12 +52,19 @@ Imam Uzair was born in England and completed his Islamic Scholar (Ulema) course 
 
 An avid sports fan, when he does get a chance to take a break from his busy schedule, you will see the Imam swinging his golf clubs or perfecting his cover drive on the cricket pitch.
 
+<img src="/images/Ven%20You%20Guang%20(1).jpg"
+     style="width:50%" />
+
 **Venerable Shi You Guang
 Abbot and President, Samantabhadra Vihara
 Secretary-General, Singapore Buddhist Federation**
 
 Venerable Shi You Guang is also 1st Vice President of Metta Welfare Association, serving the community's special education, welfare and social needs. He received Higher Ordination at TzuYun Temple Taiwan. Venerable received both Dharma transmission of Hua-yen Lineage and CaoDong-Zen Lineage. He guides Buddhists and like-minded ones on the path to a harmonious way of life through sharing, classes and consultations and meets people from different walks of life. He actively participates in and supports inter-faith events and dialogues, establishing deeper understanding, trust and respect among the community.
+![](/images/Kumar%20Ramakrishna.jpg)
 
+<img src="/images/Ven%20You%20Guang%20(1).jpg"
+     style="width:50%" />
+		 
 <p style="color:#2B3062"><b>Moderator:</b></p>**Professor Kumar Ramakrishna  
 Professor of National Security Studies, Nanyang Technological University, Singapore
 **   
