@@ -13,7 +13,7 @@ third_nav_title: Sessions
 # Synopsis
 This plenary critically examines the reasons for the rise and endurance of social polarisation due to ideological or religious beliefs. With a stronger understanding of these divides and the reasons behind them, we hope that some of the lessons gleaned can be applied to foster inter-religious peace and harmony in plural societies across the region and beyond. Specific lessons from faith traditions are shared. 
 # Speakers
-<img src="/images/LilyKong.jpg"
+<img src="/images/Sadhviji1-png.png"
      style="width:50%" />
 
 **Dr Sadhvi Bhagawati Saraswati  
@@ -23,7 +23,7 @@ Co-President, Religions for Peace**
 
 Dr Sadhvi Bhagawati Saraswati is a renowned spiritual leader, author and social activist based in the Himalayas, India. She serves on the United Nations Advisory Council on Religion and on the steering committees of the International Partnership for Religion and Sustainable Development (PaRD) and the Moral Imperative to End Extreme Poverty, a campaign by the United Nations and World Bank.
 
-<img src="/images/Katherine%20Marshall.png"
+<img src="/images/John%20Alderdice.png"
      style="width:50%" />
 
 **Lord John Alderdice  
