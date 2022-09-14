@@ -58,7 +58,8 @@ Secretary-General, Singapore Buddhist Federation**
 
 Venerable Shi You Guang is also 1st Vice President of Metta Welfare Association, serving the community's special education, welfare and social needs. He received Higher Ordination at TzuYun Temple Taiwan. Venerable received both Dharma transmission of Hua-yen Lineage and CaoDong-Zen Lineage. He guides Buddhists and like-minded ones on the path to a harmonious way of life through sharing, classes and consultations and meets people from different walks of life. He actively participates in and supports inter-faith events and dialogues, establishing deeper understanding, trust and respect among the community.
 
-<p style="color:#2B3062"><b>Moderator:</b></p>**Professor Farish Ahmad-Noor  
-Professor of History at the University of Malaya**
+<p style="color:#2B3062"><b>Moderator:</b></p>**Professor Kumar Ramakrishna
+Professor of National Security Studies, Nanyang Technological University, Singapore
+**
 
 Professor Farish A Noor is Professor at the Department of History, University Malaya. His recent works include Farish A. Noor and Peter Carey, *Ras, Kuasa, dan Kekerasan Kolonial di Hindia Belanda, 1808-1830* (Jakarta: KPG Gramedia Publishers, 2021); *Data-Collecting in 19th Century Colonial Southeast Asia: Framing the Other* (Amsterdam University Press, 2020); *America’s Encounters with Southeast Asia 1800-1900: Before the Pivot* (Amsterdam University Press, 2018); *The Discursive Construction of Southeast Asia in the Discourse of 19th Century Colonial-Capitalism* (Amsterdam University Press, 2016); and *The Malaysian Islamic Party 1951-2013: Islamism in a Mottled Nation* (Amsterdam University Press, 2014).
