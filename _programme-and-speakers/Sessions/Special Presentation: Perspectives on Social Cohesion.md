@@ -43,7 +43,6 @@ As vice president of the G20 Interfaith Association, Katherine Marshall devotes 
      style="width:50%" />
 
 <p style="color:#2B3062"><b>Moderator:</p></b>
-
 **Professor Farish Ahmad-Noor  
 Professor of History at the University of Malaya**
 
