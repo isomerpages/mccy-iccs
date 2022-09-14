@@ -25,7 +25,9 @@ Professor Kong is internationally known for her research on urban transformation
 
 Prof Kong was conferred the Public Service Star in 2020 and Public Administration Medal (Silver) in 2006. In a global study by Stanford University (2020), she was identified as among the world’s top 1% of scientists in the field of Geography. Prof Kong was inducted into the Singapore Women’s Hall of Fame in 2022, included in the Forbes Inaugural 50 over 50 (Asia 2022), and in Forbes Asia’s Power Businesswomen list (2020).
 
-![](/images/Katherine%20Marshall.png)
+<img src="/images/Katherine%20Marshall.png"
+     style="width:50%" />
+
 **Professor Katherine Marshall
 Senior Fellow, Berkley Center for Religion, Peace, and World Affairs
 Professor of the Practice of Development, Conflict, and Religion
