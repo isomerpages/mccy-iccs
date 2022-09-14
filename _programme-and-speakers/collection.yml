@@ -2,4 +2,5 @@ collections:
   programme-and-speakers:
     output: true
     order:
+      - Sessions.md
       - Programme & Speakers.md
