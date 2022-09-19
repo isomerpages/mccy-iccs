@@ -3,8 +3,6 @@ collections:
     output: true
     order:
       - Programme Overview.md
-      - "Sessions/Breakout Session – Identity 1: Languages, Identity &
-        Belonging.md"
       - Sessions/.keep
       - "Sessions/Special Presentation: Perspectives on Social Cohesion.md"
       - "Sessions/Plenary 1: How Faith Can Bridge Divides.md"
@@ -14,3 +12,5 @@ collections:
         Trust.md"
       - "Sessions/Breakout Session – Faith 1: Religion, Resilience & Cohesion
         (International Perspective).md"
+      - "Sessions/Breakout Session – Identity 1: Languages, Identity &
+        Belonging.md"
