@@ -40,7 +40,7 @@ S. Rajaratnam School of International Studies (RSIS), Nanyang Technological Univ
 
 Dr Shashi Jayakumar’s research and publications span a range of interests, including extremism, disinformation, social resilience, cyber and Singapore politics. He is also Singapore’s representative to the ASEAN Intergovernmental Commission on Human Rights (AICHR).
 
-<img src="/images/Jack%20Chia.png"
+<img src="/images/Terri%20Teo.jpg"
      style="width:50%" />
 
 <p style="color:#2B3062"><b>Moderator:</b></p>**Dr Terri-Anne Teo  
