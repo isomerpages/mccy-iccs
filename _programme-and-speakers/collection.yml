@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - Programme Overview.md
+      - "Sessions/Breakout Session – Faith 1: Religion, Resilience & Cohesion
+        (International Perspective).md"
       - Sessions/.keep
       - "Sessions/Special Presentation: Perspectives on Social Cohesion.md"
       - "Sessions/Plenary 1: How Faith Can Bridge Divides.md"
