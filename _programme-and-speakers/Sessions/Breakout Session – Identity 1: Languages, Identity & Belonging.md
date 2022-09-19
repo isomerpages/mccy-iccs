@@ -29,19 +29,10 @@ President of Inter-Religious Organisation**
 
 Reverend Terry Kee was Bishop of the Lutheran Church in Singapore, President of the National Council of Churches from 2012-2014 and 2018-2020, a council Member of Inter Religious Organisation since 2012 and a Missionary to Thailand from 1996-2005.
 
-<img src="/images/Master%20Tan%20Zhixia.jpg"
-     style="width:50%" />
-
-**Master Tan Zhixia  
-Taoist Mission (Singapore)**
-
-Master Tan Zhixia is a Taoist missionary ordained in The Complete Perfection Quanzhen Tradition of Taoism, the 21st Generation of Longmen Sect. Besides serving as Priest-in-Residence at the Temple of Heavenly Jade Emperor Yu Huang Gong, a National Monument of Singapore, she is also the Vice President of Taoist Mission (Singapore), an association which promotes Taoism and Chinese cultures and traditions. This gives her ample opportunities in developing Taoist studies and discipline, programmes for community engagement on social cohesion and peacebuilding from the Taoist perspective.
-
 <img src="/images/Mohamed%20bin%20Ali.jpg"
      style="width:50%" />
 
-<p style="color:#2B3062"><b>Moderator:</b></p>**Dr Mohamed bin Ali  
-Assistant Professor, Studies in Inter-Religious Relations in Plural Societies (SRP) Programme  
-S. Rajaratnam School of International Studies, Nanyang Technological University, Singapore**
+<p style="color:#2B3062"><b>Moderator:</b></p>**Associate Professor Catherine Gomes  
+Associate Professor of Culture and Communication, School of Media and Communication, RMIT University, Australia**
 
-Dr Mohamed bin Ali studied Islamic law at Al-Azhar University in Cairo, International Relations at the S. Rajaratnam School of International Studies, Nanyang Technological University, and the University of Exeter in United Kingdom where he completed his Doctor of Philosophy (PhD) in Arab and Islamic Studies. He has published widely on Islamic law, Islamist ideology, religious extremism and terrorism, inter-religious relations and rehabilitation of Muslim extremists.
+Associate Professor Catherine Gomes is internationally renowned for her research on the lived experiences of international students, their digital engagements and their wellbeing. She is editor of the Media, Culture and Communication in Migrant Societies book series with Amsterdam University Press and founding editor of Transitions: Journal of Transient Migration with Intellect Books. Catherine is also a recipient of an Australian Research Council Discovery Early Career Researcher Award Fellowship.
