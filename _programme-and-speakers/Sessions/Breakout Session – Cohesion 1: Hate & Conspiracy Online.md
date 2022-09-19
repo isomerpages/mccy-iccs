@@ -16,10 +16,10 @@ This breakout session further investigates issues raised during Plenary 3 around
 <img src="/images/Ghilad%20Zuckermann.jpg"
      style="width:50%" />
 
-**Professor Ghil’ad Zuckermann  
-Professor of Linguistics & Endangered Languages, University of Adelaide**
+**Father Philip Larrey  
+Chair of Logic and Epistemology, Pontifical Lateran University, The Vatican**
 
-Professor Ghil‘ad Zuckermann (DPhil Oxford; PhD Cambridge, titular; MA Tel Aviv, summa cum laude) is Chair of Linguistics and Endangered Languages at the University of Adelaide, Australia. Since the beginning of 2017 he has been the President of the Australian Association for Jewish Studies. 
+Father Philip Larrey is currently Dean of the Philosophy Department. His publications deal with the philosophy of knowledge and critical thinking. For years he has been following the philosophical implications of the rapid development of artificial intelligence. He has also published several books concerning the effects of the new digital era on society. 
 
 <img src="/images/Terry%20Kee.jpg"
      style="width:50%" />
