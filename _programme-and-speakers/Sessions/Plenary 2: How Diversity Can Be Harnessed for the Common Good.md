@@ -13,7 +13,7 @@ third_nav_title: Sessions
 # Synopsis
 This plenary addresses the tools and concepts to understand a world marked by super-diversity, that is, the existence of highly complex and heterogeneous societies. It raises questions about how to talk about identities and with people of different and overlapping identities, as well as appreciates the complex but important role the intersectionality of identities plays in forging social cohesion. It discusses the way that our belonging and identity overlap across issues such as gender, class, race, nationality, religious and worldview, both as individuals and groups. Only by understanding complex interconnections and interdependencies between individuals and social systems can we increase our social capital and create opportunities for individuals in society to form deep bonds across differences, towards a common good.
 # Speakers
-<img src="/images/LilyKong.jpg"
+<img src="/images/André%20Azoulay.jpg"
      style="width:50%" />
 
 **Mr André Azoulay  
@@ -46,4 +46,4 @@ With more than 35 years of experience with international organisations, the priv
 Assistant Professor of History and Religious Studies, Faculty of Arts and Social Sciences  
 National University of Singapore**  
 
-Assistant Professor Jack Meng-Tat Chia specialises in Buddhism in maritime Southeast Asia and has broader research interests in migration, diasporas, transnationalism, pilgrimage and religious diplomacy. He is also an associate of the Religion and Globalisation Cluster at the Asia Research Institute and co-chairs the Theravada Studies Group of the Association for Asian Studies. 
+Assistant Professor Jack Meng-Tat Chia specialises in Buddhism in maritime Southeast Asia and has broader research interests in migration, diasporas, transnationalism, pilgrimage and religious diplomacy. He is also an associate of the Religion and Globalisation Cluster at the Asia Research Institute and co-chairs the Theravada Studies Group of the Association for Asian Studies.
