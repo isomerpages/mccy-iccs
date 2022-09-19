@@ -22,7 +22,7 @@ Abbess of The Seon (Zen) Centre**
 
 Venerable Chi Kwang Sunim, an Australian Buddhist Nun for over forty years, lived and trained twenty years in South Korean. In 1998, after cultivating knowledge in textual studies and meditative experience, she returned to live in Australia and established a Buddhist Temple in Kinglake, Victoria. Here she serves a local and multicultural Buddhist community. Chi Kwang Sunim has co-founded several Buddhist organisations, chaired the Australian Sangha Association (ASA) and the Buddhist Council.
 
-<img src="/images/Patrice%20Brodeur.jpg"
+<img src="/images/Swami%20Samachittananda.jpg"
      style="width:50%" />
 
 **Swami Samachittananda  
