@@ -22,7 +22,7 @@ Singapore Taoist Federation**
 
 Master Benjamin Tan was initiated into Taoism ZhengYi Sect in 2013, ordained as a Luo generation ZhengYi Taoist priest in TianShi Mansion Mount Longhu (Jiangxi China) in 2018. He has represented the Taoist Federation (Singapore) at prayers, engagements, conferences, seminars and interfaith work. In addition, he is a leader of the Taoist Federation (Singapore) Prayer and Blessing Group, Council Member of Inter Religious Organisation representing Taoism, mentor to 3rd batch of Ambassador of Roses of Peace and Eunos IRCC Chairman. 
 
-<img src="/images/Fritjof%20Knier.png"
+<img src="/images/Dicky%20Sofjan.jpg"
      style="width:50%" />
 
 **Mr Dicky Sofjan  
