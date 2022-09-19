@@ -36,7 +36,7 @@ Associate Professor Patrice Brodeur’s expertise includes contemporary Islamic 
 
 **Dr Shashi Jayakumar  
 Head of the Centre of Excellence for National Security (CENS)  
-S. Rajaratnam School of International Studies (RSIS), Nanyang Technological University**
+S. Rajaratnam School of International Studies (RSIS), Nanyang Technological University, Singapore**
 
 Dr Shashi Jayakumar’s research and publications span a range of interests, including extremism, disinformation, social resilience, cyber and Singapore politics. He is also Singapore’s representative to the ASEAN Intergovernmental Commission on Human Rights (AICHR).
 
