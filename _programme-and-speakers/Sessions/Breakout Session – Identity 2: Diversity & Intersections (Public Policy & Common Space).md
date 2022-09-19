@@ -14,7 +14,7 @@ third_nav_title: Sessions
 # Synopsis
 This breakout session discusses public policies across the world that have helped identify and safeguard vulnerable individuals and communities from radicalisation, and how common spaces have been found to build resilience against divisive, extremist and religious narratives in communities.
 # Speakers
-<img src="/images/Benjamin%20Tan.jpg"
+<img src="/images/Krish%20Raval.png"
      style="width:50%" />
 
 **Mr Krish Raval OBE  
@@ -37,4 +37,4 @@ Tim Dixon is a co-founder of More in Common, an initiative to foster cohesion an
 Research Associate, IPS Social Lab, Institute of Policy Studies  
 National University of Singapore**
 
-Shane Pereira is Research Associate at IPS Social Lab in the Institute of Policy Studies. He specialises in applied ethnography and social research methods, and holds qualifications in Sociology and social research methods, which he taught for the last 11 years in both the National University of Singapore and King’s College London. 
+Shane Pereira is Research Associate at IPS Social Lab in the Institute of Policy Studies. He specialises in applied ethnography and social research methods, and holds qualifications in Sociology and social research methods, which he taught for the last 11 years in both the National University of Singapore and King’s College London.
