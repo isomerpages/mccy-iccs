@@ -12,40 +12,37 @@ third_nav_title: Sessions
 </div>
 
 # Synopsis
-This plenary asks: given that we know digital platforms can create echo chambers and be used for divisive ends, how can we employ them to promote social cohesion? People's identities are part of this, including their religious identities, but practical examples of how cohesion is built online and with technologies such as social media is central to this plenary.  
-
-Looking from different global angles and focusing on areas such as community-building, preventing and countering violent extremism, and mapping global peacebuilding, this session shows how online platforms may be beacons of cohesion and hope, rather than division and hatred.
+This breakout session has an interest in different faith-based strategies in building resilience against divisive, even extremist, religious narratives within communities, and how religious leaders and communities can build wider resilience beyond their tradition across societies. It focuses on international contexts.
 # Speakers
 <img src="/images/Jasvir%20Singh.jpg"
      style="width:50%" />
 
-**Mr Jasvir Singh  
-Founding Chair of City Sikhs, United Kingdom**
+**Venerable Chi Kwang Sunim  
+Abbess of The Seon (Zen) Centre**
 
-Mr Jasvir Singh is a prolific community activist and a leading figure within the British Sikh and British South Asian communities. City Sikhs is one of the main Sikh organisations in the UK and provides a voice for over 10,000 members across the country. He is also the former Co-Chair of the Faiths Forum for London that encourages and promotes interfaith social initiatives.
+Venerable Chi Kwang Sunim, an Australian Buddhist Nun for over forty years, lived and trained twenty years in South Korean. In 1998, after cultivating knowledge in textual studies and meditative experience, she returned to live in Australia and established a Buddhist Temple in Kinglake, Victoria. Here she serves a local and multicultural Buddhist community. Chi Kwang Sunim has co-founded several Buddhist organisations, chaired the Australian Sangha Association (ASA) and the Buddhist Council.
 
 <img src="/images/Patrice%20Brodeur.jpg"
      style="width:50%" />
 
-**Associate Professor Patrice Brodeur  
-Associate Professor, Institute of Religious Studies, University of Montreal (Canada)**
+**Swami Samachittananda  
+President, Ramakrishna Mission**
 
-Associate Professor Patrice Brodeur’s expertise includes contemporary Islamic thought and interreligious dialogues. He is also Senior Consultant, The International Dialogue Centre (KAICIID), Lisbon and has lectured academically to a variety of audiences and conducted trainings on different forms of dialogue in over fifty countries around the world.
+Swami Samachittananda is the President of Ramakrishna Mission Singapore, a branch of the Ramakrishna Order of India, worldwide spiritual and welfare organisation. Like the other branches in Asia-Oceania, North & South America, Europe and Africa, the Centre is a self-sustaining unit that looks to the Ramakrishna Order for spiritual guidance.
 
 <img src="/images/Shashi%20Jayakumar.png"
      style="width:50%" />
 
-**Dr Shashi Jayakumar  
-Head of the Centre of Excellence for National Security (CENS)  
-S. Rajaratnam School of International Studies (RSIS), Nanyang Technological University**
+**Master Tan Zhixia  
+Taoist Mission (Singapore)**
 
-Dr Shashi Jayakumar’s research and publications span a range of interests, including extremism, disinformation, social resilience, cyber and Singapore politics. He is also Singapore’s representative to the ASEAN Intergovernmental Commission on Human Rights (AICHR).
+Master Tan Zhixia is a Taoist missionary ordained in The Complete Perfection Quanzhen Tradition of Taoism, the 21st Generation of Longmen Sect. Besides serving as Priest-in-Residence at the Temple of Heavenly Jade Emperor Yu Huang Gong, a National Monument of Singapore, she is also the Vice President of Taoist Mission (Singapore), an association which promotes Taoism and Chinese cultures and traditions. This gives her ample opportunities in developing Taoist studies and discipline, programmes for community engagement on social cohesion and peacebuilding from the Taoist perspective.
 
 <img src="/images/Terri%20Teo.jpg"
      style="width:50%" />
 
-<p style="color:#2B3062"><b>Moderator:</b></p>**Dr Terri-Anne Teo  
-Lecturer in the Politics of Race and Ethnicity  
-Newcastle University, United Kingdom**
+<p style="color:#2B3062"><b>Moderator:</b></p>**Dr Mohamed bin Ali  
+Assistant Professor, Studies in Inter-Religious Relations in Plural Societies (SRP) Programme  
+S. Rajaratnam School of International Studies, Nanyang Technological University, Singapore**
 
-Dr Terri-Anne Teo holds a PhD in Politics from the University of Bristol, United Kingdom. Her research and teaching areas include race, citizenship, multiculturalism and migration. She has published in peer-reviewed journals, with her most recent publications in Journal of Intercultural Studies (2022), Ethnicities (2021) and Citizenship Studies (2021) addressing themes of ethnic and gender politics, citizenship and contestations, and multiculturalism. She is also the author of Civic Multiculturalism in Singapore: Revisiting Citizenship (Palgrave Macmillan, 2019) and co-editor of Postcolonial Governmentalities: Rationalities, Violences and Contestations (Rowman and Littlefield, 2020).
+Dr Mohamed bin Ali studied Islamic law at Al-Azhar University in Cairo, International Relations at the S. Rajaratnam School of International Studies, Nanyang Technological University, and the University of Exeter in United Kingdom where he completed his Doctor of Philosophy (PhD) in Arab and Islamic Studies. He has published widely on Islamic law, Islamist ideology, religious extremism and terrorism, inter-religious relations and rehabilitation of Muslim extremists.
