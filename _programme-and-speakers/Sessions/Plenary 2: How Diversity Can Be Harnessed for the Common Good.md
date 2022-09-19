@@ -42,7 +42,7 @@ Founder and Director of the United Nations Environment Programme’s (UNEP) Fai
 
 With more than 35 years of experience with international organisations, the private sector and scientific institutions, Dr Abumoghli’s expertise focus on strategic planning, sustainable development, natural resources management, interfaith collaboration and knowledge and innovation. He is also the Lead Principal Advisor on Engaging with Faith-Based Organisations at UNEP.
 
-<img src="/images/Farish%20Ahmad-Noor.jpg"
+<img src="/images/Jack%20Chia.png"
      style="width:50%" />
 
 <p style="color:#2B3062"><b>Moderator:</b></p>**Assistant Professor Jack Meng-Tat Chia  
