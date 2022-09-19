@@ -29,7 +29,7 @@ President of Inter-Religious Organisation**
 
 Reverend Terry Kee was Bishop of the Lutheran Church in Singapore, President of the National Council of Churches from 2012-2014 and 2018-2020, a council Member of Inter Religious Organisation since 2012 and a Missionary to Thailand from 1996-2005.
 
-<img src="/images/Mohamed%20bin%20Ali.jpg"
+<img src="/images/Catherine%20Gomes.jpg"
      style="width:50%" />
 
 <p style="color:#2B3062"><b>Moderator:</b></p>**Associate Professor Catherine Gomes  
