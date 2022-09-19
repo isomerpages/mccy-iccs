@@ -13,7 +13,7 @@ third_nav_title: Sessions
 # Synopsis
 This breakout session further investigates issues raised during Plenary 3 around hate, prejudice, and conspiracy online. A key focus is on conspiracy theories. It addresses practical, real world solutions and practices in this regard.
 # Speakers
-<img src="/images/Ghilad%20Zuckermann.jpg"
+<img src="/images/Phillip%20Larrey.jpg"
      style="width:50%" />
 
 **Father Philip Larrey  
