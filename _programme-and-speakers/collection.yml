@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Programme Overview.md
+      - "Sessions/Breakout Session – Cohesion 1: Hate & Conspiracy Online.md"
       - Sessions/.keep
       - "Sessions/Special Presentation: Perspectives on Social Cohesion.md"
       - "Sessions/Plenary 1: How Faith Can Bridge Divides.md"
