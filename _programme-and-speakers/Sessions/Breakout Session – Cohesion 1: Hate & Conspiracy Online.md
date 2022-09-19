@@ -32,7 +32,8 @@ Mr Fitjof Knier’s multilingual interaction platform, Integreat, provides under
 <img src="/images/Catherine%20Gomes.jpg"
      style="width:50%" />
 
-<p style="color:#2B3062"><b>Moderator:</b></p>**Associate Professor Catherine Gomes  
-Associate Professor of Culture and Communication, School of Media and Communication, RMIT University, Australia**
+<p style="color:#2B3062"><b>Moderator:</b></p>**Dr Gulizar Haciyakupoglu  
+Research Fellow, Centre of Excellence for National Security  
+S. Rajaratnam School of International Studies, Nanyang Technological University, Singapore**
 
-Associate Professor Catherine Gomes is internationally renowned for her research on the lived experiences of international students, their digital engagements and their wellbeing. She is editor of the Media, Culture and Communication in Migrant Societies book series with Amsterdam University Press and founding editor of Transitions: Journal of Transient Migration with Intellect Books. Catherine is also a recipient of an Australian Research Council Discovery Early Career Researcher Award Fellowship.
+Dr Gulizar Haziyakupoglu’s research concerns online harms, trust and advocacy. She is also the co-editor of a forthcoming edited volume titled Gender and Security in Digital Space: Navigating Access, Harassment, and Disinformation.
