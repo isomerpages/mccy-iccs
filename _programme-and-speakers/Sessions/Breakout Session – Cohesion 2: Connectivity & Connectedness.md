@@ -11,7 +11,7 @@ third_nav_title: Sessions
 </div>
 
 # Synopsis
-This breakout session discusses public policies across the world that have helped identify and safeguard vulnerable individuals and communities from radicalisation, and how common spaces have been found to build resilience against divisive, extremist and religious narratives in communities.
+This breakout session examines good practices and case studies about people who have used online platforms to build connections between different groups of people and strengthen social cohesion. The session is also used to understand what social media companies have been doing to promote social cohesion.
 # Speakers
 <img src="/images/Krish%20Raval.png"
      style="width:50%" />
