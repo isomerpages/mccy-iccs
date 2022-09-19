@@ -16,18 +16,18 @@ This breakout group examines how languages shape our perceptions of self and oth
 <img src="/images/Chi%20Kwang%20Sunim%202.jpg"
      style="width:50%" />
 
-**Venerable Chi Kwang Sunim  
-Abbess of The Seon (Zen) Centre**
+**Professor Ghil’ad Zuckermann  
+Professor of Linguistics & Endangered Languages, University of Adelaide**
 
-Venerable Chi Kwang Sunim, an Australian Buddhist Nun for over forty years, lived and trained twenty years in South Korean. In 1998, after cultivating knowledge in textual studies and meditative experience, she returned to live in Australia and established a Buddhist Temple in Kinglake, Victoria. Here she serves a local and multicultural Buddhist community. Chi Kwang Sunim has co-founded several Buddhist organisations, chaired the Australian Sangha Association (ASA) and the Buddhist Council.
+Professor Ghil‘ad Zuckermann (DPhil Oxford; PhD Cambridge, titular; MA Tel Aviv, summa cum laude) is Chair of Linguistics and Endangered Languages at the University of Adelaide, Australia. Since the beginning of 2017 he has been the President of the Australian Association for Jewish Studies. 
 
 <img src="/images/Swami%20Samachittananda.jpg"
      style="width:50%" />
 
-**Swami Samachittananda  
-President, Ramakrishna Mission**
+**Reverend Terry Kee
+President of Inter-Religious Organisation**
 
-Swami Samachittananda is the President of Ramakrishna Mission Singapore, a branch of the Ramakrishna Order of India, worldwide spiritual and welfare organisation. Like the other branches in Asia-Oceania, North & South America, Europe and Africa, the Centre is a self-sustaining unit that looks to the Ramakrishna Order for spiritual guidance.
+Reverend Terry Kee was Bishop of the Lutheran Church in Singapore, President of the National Council of Churches from 2012-2014 and 2018-2020, a council Member of Inter Religious Organisation since 2012 and a Missionary to Thailand from 1996-2005.
 
 <img src="/images/Master%20Tan%20Zhixia.jpg"
      style="width:50%" />
