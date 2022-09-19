@@ -24,7 +24,7 @@ President of the Moroccan National Foundation for Sciences Engineering**
 
 Mr André Azoulay is an ardent ambassador of Morocco throughout the world. He is a strong advocate for peace and dialogue between the Arab Muslim World and Jewish Communities in Europe, USA, Morocco as well as the global Arab and Jewish diasporas. He is also well-known for contributions to the peace process in the Middle East and for the many interfaith cross-cultural initiatives he spearheaded.
 
-<img src="/images/Katherine%20Marshall.png"
+<img src="/images/Yoshiko%20Ashiwa.jpg"
      style="width:50%" />
 
 **Professor Yoshiko Ashiwa  
