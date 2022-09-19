@@ -22,7 +22,7 @@ Founder Director, Faith in Leadership**
 
 Krish Raval is the Founder Director of Faith in Leadership, Britain’s principal leadership development organisation for religious and lay leaders across the main faith communities. Based at St Benet’s Hall, University of Oxford, Krish supports and mentors Faith in Leadership’s extraordinary alumni network and has worked across the globe to this end. Krish read law at the Universities of Cambridge and Sheffield and has worked as a leadership consultant for several Fortune 500 companies.
 
-<img src="/images/Dicky%20Sofjan.jpg"
+<img src="/images/Tim%20Dixon.jpg"
      style="width:50%" />
 
 **Mr Tim Dixon  
@@ -30,7 +30,7 @@ Co-Founder, More in Common**
 
 Tim Dixon is a co-founder of More in Common, an initiative to foster cohesion and unity in democratic societies, and counter the forces of division. Prior to More in Common, Tim co-founded six other social enterprises, including digital agency Purpose Europe, civil protection and democracy group The Syria Campaign, and peace advocacy and citizen engagement group Movilizatorio in Colombia. Tim was the Australian Prime Minister’s economic adviser and chief speechwriter, and worked for Prime Ministers Kevin Rudd and Julia Gillard.
 
-<img src="/images/Tan%20See%20Seng.jpg"
+<img src="/images/Shane%20Pereira.png"
      style="width:50%" />
 
 <p style="color:#2B3062"><b>Moderator:</b></p>**Mr Shane Pereira  
