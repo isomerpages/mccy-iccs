@@ -31,7 +31,7 @@ Associate Professor, Institute of Religious Studies, University of Montreal (Can
 
 Associate Professor Patrice Brodeur’s expertise includes contemporary Islamic thought and interreligious dialogues. He is also Senior Consultant, The International Dialogue Centre (KAICIID), Lisbon and has lectured academically to a variety of audiences and conducted trainings on different forms of dialogue in over fifty countries around the world.
 
-<img src="/images/Iyad%20Abumoghli.jpg"
+<img src="/images/Shashi%20Jayakumar.png"
      style="width:50%" />
 
 **Dr Shashi Jayakumar  
