@@ -34,6 +34,9 @@ Hitotsubashi University**
 
 Professor Yoshiko Ashiwa’s research interests include religion, arts, culture and values, modernity, globalisation, and social movements mainly in Asia, especially Sri Lanka, China and Japan. She is co-editor of Making Religion, Making the State: The Politics of Religion in Modern China (2009, with David Wank).
 
+<img src="/images/Iyad%20Abumoghli.jpg"
+     style="width:50%" />
+		 
 **Dr Iyad Abumoghli
 Founder and Director of the United Nations Environment Programme’s (UNEP) Faith for Earth Initiative**
 
