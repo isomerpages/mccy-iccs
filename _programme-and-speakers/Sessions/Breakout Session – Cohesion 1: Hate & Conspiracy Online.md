@@ -24,10 +24,10 @@ Father Philip Larrey is currently Dean of the Philosophy Department. His publica
 <img src="/images/Terry%20Kee.jpg"
      style="width:50%" />
 
-**Reverend Terry Kee
-President of Inter-Religious Organisation**
+**Mr Fritjof Knier  
+Project Manager, Integreat**
 
-Reverend Terry Kee was Bishop of the Lutheran Church in Singapore, President of the National Council of Churches from 2012-2014 and 2018-2020, a council Member of Inter Religious Organisation since 2012 and a Missionary to Thailand from 1996-2005.
+Mr Fitjof Knier’s multilingual interaction platform, Integreat, provides understandable information for refugees and migrants arriving in a city. It has been implemented in collaboration with over 80 of Germany’s 400 municipal governments throughout the country and most recently launched in Lesvos, Greece as well. 
 
 <img src="/images/Catherine%20Gomes.jpg"
      style="width:50%" />
