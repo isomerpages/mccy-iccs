@@ -37,7 +37,7 @@ Professor Yoshiko Ashiwa’s research interests include religion, arts, culture 
 <img src="/images/Iyad%20Abumoghli.jpg"
      style="width:50%" />
 		 
-**Dr Iyad Abumoghli
+**Dr Iyad Abumoghli  
 Founder and Director of the United Nations Environment Programme’s (UNEP) Faith for Earth Initiative**
 
 With more than 35 years of experience with international organisations, the private sector and scientific institutions, Dr Abumoghli’s expertise focus on strategic planning, sustainable development, natural resources management, interfaith collaboration and knowledge and innovation. He is also the Lead Principal Advisor on Engaging with Faith-Based Organisations at UNEP.
