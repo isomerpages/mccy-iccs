@@ -11,7 +11,9 @@ third_nav_title: Sessions
 </div>
 
 # Synopsis
-This plenary addresses the tools and concepts to understand a world marked by super-diversity, that is, the existence of highly complex and heterogeneous societies. It raises questions about how to talk about identities and with people of different and overlapping identities, as well as appreciates the complex but important role the intersectionality of identities plays in forging social cohesion. It discusses the way that our belonging and identity overlap across issues such as gender, class, race, nationality, religious and worldview, both as individuals and groups. Only by understanding complex interconnections and interdependencies between individuals and social systems can we increase our social capital and create opportunities for individuals in society to form deep bonds across differences, towards a common good.
+This plenary addresses the tools and concepts to understand a world marked by super-diversity, that is, the existence of highly complex and heterogeneous societies. It raises questions about how to talk about identities and with people of different and overlapping identities, as well as appreciates the complex but important role the intersectionality of identities plays in forging social cohesion. It discusses the way that our belonging and identity overlap across issues such as gender, class, race, nationality, religious and worldview, both as individuals and groups.  
+
+Only by understanding complex interconnections and interdependencies between individuals and social systems can we increase our social capital and create opportunities for individuals in society to form deep bonds across differences, towards a common good.
 # Speakers
 <img src="/images/André%20Azoulay.jpg"
      style="width:50%" />
