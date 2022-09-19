@@ -16,10 +16,10 @@ This breakout session examines good practices and case studies about people who 
 <img src="/images/Krish%20Raval.png"
      style="width:50%" />
 
-**Mr Krish Raval OBE  
-Founder Director, Faith in Leadership**
+**Dr Yang Mee Eng  
+Executive Director, ASEAN Foundation**
 
-Krish Raval is the Founder Director of Faith in Leadership, Britain’s principal leadership development organisation for religious and lay leaders across the main faith communities. Based at St Benet’s Hall, University of Oxford, Krish supports and mentors Faith in Leadership’s extraordinary alumni network and has worked across the globe to this end. Krish read law at the Universities of Cambridge and Sheffield and has worked as a leadership consultant for several Fortune 500 companies.
+Dr Yang worked in private and government sectors for over 26 years.. She was most recently the Senior Vice President at Alphacap.  There, she assisted SME companies and led the development and execution of Bloconomic Expo 2019, a platform aimed at creating a vast network of blockchain entrepreneurs and developers in the fast-evolving blockchain companies. Prior to that, she was the CEO of Gameview, the largest mobile game publisher in Malaysia, where she oversaw more than 50 staff members in their three offices in Malaysia, China and Thailand. 
 
 <img src="/images/Tim%20Dixon.jpg"
      style="width:50%" />
