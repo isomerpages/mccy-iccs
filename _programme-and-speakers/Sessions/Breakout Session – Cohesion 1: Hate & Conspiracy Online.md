@@ -21,7 +21,7 @@ Chair of Logic and Epistemology, Pontifical Lateran University, The Vatican**
 
 Father Philip Larrey is currently Dean of the Philosophy Department. His publications deal with the philosophy of knowledge and critical thinking. For years he has been following the philosophical implications of the rapid development of artificial intelligence. He has also published several books concerning the effects of the new digital era on society. 
 
-<img src="/images/Terry%20Kee.jpg"
+<img src="/images/Fritjof%20Knier.png"
      style="width:50%" />
 
 **Mr Fritjof Knier  
