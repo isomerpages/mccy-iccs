@@ -30,7 +30,7 @@ President, Ramakrishna Mission**
 
 Swami Samachittananda is the President of Ramakrishna Mission Singapore, a branch of the Ramakrishna Order of India, worldwide spiritual and welfare organisation. Like the other branches in Asia-Oceania, North & South America, Europe and Africa, the Centre is a self-sustaining unit that looks to the Ramakrishna Order for spiritual guidance.
 
-<img src="/images/Shashi%20Jayakumar.png"
+<img src="/images/Master%20Tan%20Zhixia.jpg"
      style="width:50%" />
 
 **Master Tan Zhixia  
@@ -38,7 +38,7 @@ Taoist Mission (Singapore)**
 
 Master Tan Zhixia is a Taoist missionary ordained in The Complete Perfection Quanzhen Tradition of Taoism, the 21st Generation of Longmen Sect. Besides serving as Priest-in-Residence at the Temple of Heavenly Jade Emperor Yu Huang Gong, a National Monument of Singapore, she is also the Vice President of Taoist Mission (Singapore), an association which promotes Taoism and Chinese cultures and traditions. This gives her ample opportunities in developing Taoist studies and discipline, programmes for community engagement on social cohesion and peacebuilding from the Taoist perspective.
 
-<img src="/images/Terri%20Teo.jpg"
+<img src="/images/Mohamed%20bin%20Ali.jpg"
      style="width:50%" />
 
 <p style="color:#2B3062"><b>Moderator:</b></p>**Dr Mohamed bin Ali  
