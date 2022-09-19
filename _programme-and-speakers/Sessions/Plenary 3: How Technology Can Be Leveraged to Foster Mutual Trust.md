@@ -15,7 +15,7 @@ This plenary asks: given that we know digital platforms can create echo chambers
 
 Looking from different global angles and focusing on areas such as community-building, preventing and countering violent extremism, and mapping global peacebuilding, this session shows how online platforms may be beacons of cohesion and hope, rather than division and hatred.
 # Speakers
-<img src="/images/André%20Azoulay.jpg"
+<img src="/images/Jasvir%20Singh.jpg"
      style="width:50%" />
 
 **Mr Jasvir Singh  
