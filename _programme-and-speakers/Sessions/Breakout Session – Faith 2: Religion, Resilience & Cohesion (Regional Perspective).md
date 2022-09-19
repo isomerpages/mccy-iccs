@@ -31,7 +31,7 @@ Graduate School of Universitas Gadjah Mada (UGM), Indonesia**
 
 Dicky Sofjan is a Core Doctoral Faculty in the Indonesian Consortium for Religious Studies (ICRS) based in the Graduate School of Universitas Gadjah Mada (UGM) in Yogyakarta. His main research interest mostly covers the nexus between religion and politics in Indonesia, Southeast Asia and the Middle East. He has been involved in many interfaith initiatives and programmes with the Indonesian Ministries of Religious and Foreign Affairs as well as with the White House, European Union and others. 
 
-<img src="/images/Gulizar%20Haciyakupoglu.jpg"
+<img src="/images/Tan%20See%20Seng.jpg"
      style="width:50%" />
 
 <p style="color:#2B3062"><b>Moderator:</b></p>**Dr Tan See Seng  
