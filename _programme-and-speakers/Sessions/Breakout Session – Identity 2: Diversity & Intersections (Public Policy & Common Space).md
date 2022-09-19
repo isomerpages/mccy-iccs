@@ -12,31 +12,29 @@ third_nav_title: Sessions
 </div>
 
 # Synopsis
-This breakout session has an interest in different faith-based strategies in building resilience against divisive, even extremist, religious narratives within communities, and how religious leaders and communities can build wider resilience beyond their tradition across societies. It focuses on regional (Southeast Asian) contexts.
+This breakout session discusses public policies across the world that have helped identify and safeguard vulnerable individuals and communities from radicalisation, and how common spaces have been found to build resilience against divisive, extremist and religious narratives in communities.
 # Speakers
 <img src="/images/Benjamin%20Tan.jpg"
      style="width:50%" />
 
-**Master Benjamin Tan Xianda  
-Singapore Taoist Federation**
+**Mr Krish Raval OBE  
+Founder Director, Faith in Leadership**
 
-Master Benjamin Tan was initiated into Taoism ZhengYi Sect in 2013, ordained as a Luo generation ZhengYi Taoist priest in TianShi Mansion Mount Longhu (Jiangxi China) in 2018. He has represented the Taoist Federation (Singapore) at prayers, engagements, conferences, seminars and interfaith work. In addition, he is a leader of the Taoist Federation (Singapore) Prayer and Blessing Group, Council Member of Inter Religious Organisation representing Taoism, mentor to 3rd batch of Ambassador of Roses of Peace and Eunos IRCC Chairman. 
+Krish Raval is the Founder Director of Faith in Leadership, Britain’s principal leadership development organisation for religious and lay leaders across the main faith communities. Based at St Benet’s Hall, University of Oxford, Krish supports and mentors Faith in Leadership’s extraordinary alumni network and has worked across the globe to this end. Krish read law at the Universities of Cambridge and Sheffield and has worked as a leadership consultant for several Fortune 500 companies.
 
 <img src="/images/Dicky%20Sofjan.jpg"
      style="width:50%" />
 
-**Mr Dicky Sofjan  
-Indonesian Consortium for Religious Studies (ICRS)  
-Graduate School of Universitas Gadjah Mada (UGM), Indonesia**
+**Mr Tim Dixon  
+Co-Founder, More in Common**
 
-Dicky Sofjan is a Core Doctoral Faculty in the Indonesian Consortium for Religious Studies (ICRS) based in the Graduate School of Universitas Gadjah Mada (UGM) in Yogyakarta. His main research interest mostly covers the nexus between religion and politics in Indonesia, Southeast Asia and the Middle East. He has been involved in many interfaith initiatives and programmes with the Indonesian Ministries of Religious and Foreign Affairs as well as with the White House, European Union and others. 
+Tim Dixon is a co-founder of More in Common, an initiative to foster cohesion and unity in democratic societies, and counter the forces of division. Prior to More in Common, Tim co-founded six other social enterprises, including digital agency Purpose Europe, civil protection and democracy group The Syria Campaign, and peace advocacy and citizen engagement group Movilizatorio in Colombia. Tim was the Australian Prime Minister’s economic adviser and chief speechwriter, and worked for Prime Ministers Kevin Rudd and Julia Gillard.
 
 <img src="/images/Tan%20See%20Seng.jpg"
      style="width:50%" />
 
-<p style="color:#2B3062"><b>Moderator:</b></p>**Dr Tan See Seng  
-President and CEO of International Students Inc.  
-Research Advisor at S. Rajaratnam School of International Studies (RSIS) and
-Senior Associate at Centre for Liberal Arts and Sciences, Nanyang Technological University, Singapore**
+<p style="color:#2B3062"><b>Moderator:</b></p>**Mr Shane Pereira  
+Research Associate, IPS Social Lab, Institute of Policy Studies  
+National University of Singapore**
 
-Professor Tan is President and CEO of International Students Inc., a faith-based non-profit organisation that works with international students in over 1,100 universities across the United States. He is concurrently Research Advisor at RSIS and Senior Associate at the Centre for Liberal Arts and Social Sciences, both at Nanyang Technological University.
+Shane Pereira is Research Associate at IPS Social Lab in the Institute of Policy Studies. He specialises in applied ethnography and social research methods, and holds qualifications in Sociology and social research methods, which he taught for the last 11 years in both the National University of Singapore and King’s College London. 
