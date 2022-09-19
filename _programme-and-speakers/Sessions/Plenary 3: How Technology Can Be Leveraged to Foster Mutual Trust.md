@@ -23,7 +23,7 @@ Founding Chair of City Sikhs, United Kingdom**
 
 Mr Jasvir Singh is a prolific community activist and a leading figure within the British Sikh and British South Asian communities. City Sikhs is one of the main Sikh organisations in the UK and provides a voice for over 10,000 members across the country. He is also the former Co-Chair of the Faiths Forum for London that encourages and promotes interfaith social initiatives.
 
-<img src="/images/Yoshiko%20Ashiwa.jpg"
+<img src="/images/Patrice%20Brodeur.jpg"
      style="width:50%" />
 
 **Associate Professor Patrice Brodeur  
