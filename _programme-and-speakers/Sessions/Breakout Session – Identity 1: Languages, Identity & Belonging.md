@@ -11,7 +11,7 @@ third_nav_title: Sessions
 </div>
 
 # Synopsis
-This breakout session has an interest in different faith-based strategies in building resilience against divisive, even extremist, religious narratives within communities, and how religious leaders and communities can build wider resilience beyond their tradition across societies. It focuses on international contexts.
+This breakout group examines how languages shape our perceptions of self and other, and our understanding of identities. Identity and language are key in building one’s sense of belonging, especially for minority groups. This breakout group explores how the limits in languages, the evolution of vocabulary and use of colloquialism affect the way we see ourselves and build our sense of belonging, and how we differentiate ourselves from others. Attention is given to the lived experience of communities and minority language groups.
 # Speakers
 <img src="/images/Chi%20Kwang%20Sunim%202.jpg"
      style="width:50%" />
