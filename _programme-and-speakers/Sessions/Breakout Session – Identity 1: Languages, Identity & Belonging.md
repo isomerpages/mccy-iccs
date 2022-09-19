@@ -13,7 +13,7 @@ third_nav_title: Sessions
 # Synopsis
 This breakout group examines how languages shape our perceptions of self and other, and our understanding of identities. Identity and language are key in building one’s sense of belonging, especially for minority groups. This breakout group explores how the limits in languages, the evolution of vocabulary and use of colloquialism affect the way we see ourselves and build our sense of belonging, and how we differentiate ourselves from others. Attention is given to the lived experience of communities and minority language groups.
 # Speakers
-<img src="/images/Chi%20Kwang%20Sunim%202.jpg"
+<img src="/images/Ghilad%20Zuckermann.jpg"
      style="width:50%" />
 
 **Professor Ghil’ad Zuckermann  
@@ -21,7 +21,7 @@ Professor of Linguistics & Endangered Languages, University of Adelaide**
 
 Professor Ghil‘ad Zuckermann (DPhil Oxford; PhD Cambridge, titular; MA Tel Aviv, summa cum laude) is Chair of Linguistics and Endangered Languages at the University of Adelaide, Australia. Since the beginning of 2017 he has been the President of the Australian Association for Jewish Studies. 
 
-<img src="/images/Swami%20Samachittananda.jpg"
+<img src="/images/Terry%20Kee.jpg"
      style="width:50%" />
 
 **Reverend Terry Kee
