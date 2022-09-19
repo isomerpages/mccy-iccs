@@ -29,7 +29,7 @@ Project Manager, Integreat**
 
 Mr Fitjof Knier’s multilingual interaction platform, Integreat, provides understandable information for refugees and migrants arriving in a city. It has been implemented in collaboration with over 80 of Germany’s 400 municipal governments throughout the country and most recently launched in Lesvos, Greece as well. 
 
-<img src="/images/Catherine%20Gomes.jpg"
+<img src="/images/Gulizar%20Haciyakupoglu.jpg"
      style="width:50%" />
 
 <p style="color:#2B3062"><b>Moderator:</b></p>**Dr Gulizar Haciyakupoglu  
