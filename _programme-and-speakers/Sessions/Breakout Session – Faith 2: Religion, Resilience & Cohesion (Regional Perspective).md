@@ -14,7 +14,7 @@ third_nav_title: Sessions
 # Synopsis
 This breakout session has an interest in different faith-based strategies in building resilience against divisive, even extremist, religious narratives within communities, and how religious leaders and communities can build wider resilience beyond their tradition across societies. It focuses on regional (Southeast Asian) contexts.
 # Speakers
-<img src="/images/Phillip%20Larrey.jpg"
+<img src="/images/Benjamin%20Tan.jpg"
      style="width:50%" />
 
 **Master Benjamin Tan Xianda  
@@ -39,4 +39,4 @@ President and CEO of International Students Inc.
 Research Advisor at S. Rajaratnam School of International Studies (RSIS) and
 Senior Associate at Centre for Liberal Arts and Sciences, Nanyang Technological University, Singapore**
 
-Professor Tan is President and CEO of International Students Inc., a faith-based non-profit organisation that works with international students in over 1,100 universities across the United States. He is concurrently Research Advisor at RSIS and Senior Associate at the Centre for Liberal Arts and Social Sciences, both at Nanyang Technological University. 
+Professor Tan is President and CEO of International Students Inc., a faith-based non-profit organisation that works with international students in over 1,100 universities across the United States. He is concurrently Research Advisor at RSIS and Senior Associate at the Centre for Liberal Arts and Social Sciences, both at Nanyang Technological University.
