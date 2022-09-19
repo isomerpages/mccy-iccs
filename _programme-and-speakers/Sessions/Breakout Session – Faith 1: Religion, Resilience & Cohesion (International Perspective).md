@@ -14,7 +14,7 @@ third_nav_title: Sessions
 # Synopsis
 This breakout session has an interest in different faith-based strategies in building resilience against divisive, even extremist, religious narratives within communities, and how religious leaders and communities can build wider resilience beyond their tradition across societies. It focuses on international contexts.
 # Speakers
-<img src="/images/Jasvir%20Singh.jpg"
+<img src="/images/Chi%20Kwang%20Sunim.jpg"
      style="width:50%" />
 
 **Venerable Chi Kwang Sunim  
