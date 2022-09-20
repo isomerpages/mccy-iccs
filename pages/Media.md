@@ -41,6 +41,9 @@ description: Media
 * 哈莉玛：继续创造安全和开放的平台, Channel U
 * A call for Singapore to continue creating safe and open platforms, CNA938
 * International Conference on Cohesive Societies begins today, CNA938
+* Cohesive societies are born of choice and conviction: President Halimah, Money FM 89.3
+* Cohesive societies are born of choice and conviction: President Halimah, Kiss 92
+* 
 
 **31 July 2022**  
 * <a href="https://www.zaobao.com.sg/news/singapore/story20220731-1298149" target="_blank">第二届社会和谐国际大会 9月来福士城会展中心举行, Lianhe Zaobao</a>
