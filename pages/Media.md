@@ -12,6 +12,7 @@ Social cohesion is more than about race or religion: SMU president, The Straits 
 
 **6 September 2022**  
 * <a href="https://www.straitstimes.com/singapore/covid-19-showed-that-cohesive-societies-are-borne-of-choice-and-conviction-president-halimah" target="_blank">Covid-19 showed that cohesive societies are born of choice and conviction: President Halimah, The Straits Times</a>
+* <a href="https://www.straitstimes.com/singapore/more-to-social-cohesion-than-just-racial-and-religious-harmony-says-smu-president" target="_blank">More to social cohesion than just racial and religious harmony, says SMU president, The Straits Times</a>
 
 **31 July 2022**  
 * <a href="https://www.zaobao.com.sg/news/singapore/story20220731-1298149" target="_blank">第二届社会和谐国际大会 9月来福士城会展中心举行, Lianhe Zaobao</a>
