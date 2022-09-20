@@ -58,7 +58,7 @@ description: Media
 * DPM Lawrence Wong, Warna 94.2 FM
 * DPM Lawrence Wong, Oli 96.8 FM
 * <a href="https://www.malaymail.com/news/malaysia/2022/09/09/the-malaysian-youths-on-a-mission-for-social-cohesion/27222" target="_blank">The Malaysian youths on a mission for social cohesion, Malay Mail</a>
-* Conference enables unity, community development, Borneo Bulletin</a>
+* <a href="https://borneobulletin.com.bn/conference-enables-unity-community-development/" target="_blank">Conference enables unity, community development, Borneo Bulletin</a>
 
 **8 September 2022**  
 * Call for different faiths to pull together to attain common goals, The Straits Times
