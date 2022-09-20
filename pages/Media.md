@@ -22,6 +22,7 @@ description: Media
 * Perpaduan sosial hasil usaha berterusan semua pihak: Lawrence, Berita Harian
 * <a href="https://www.beritaharian.sg/setempat/perpaduan-sosial-hasil-usaha-berterusan-semua-pihak-lawrence" target="_blank">Perpaduan sosial hasil usaha berterusan semua pihak: Lawrence, Berita Harian Online</a>
 * சமூக ஒற்றுமைக்கு இளம் தலைவர்கள் முக்கியம், Tamil Murasu
+* ஒன்றிணைந்த சமூகம் உருவாக விடாமுயற்சி அவசியம்: வோங், Tamil Murasu
 * <a href="https://www.tamilmurasu.com.sg/singapore/story20220909-95790.html" target="_blank">சமூக ஒற்றுமைக்கு இளம் தலைவர்கள் முக்கியம், Tamil Murasu Online</a>
 * Enhancing Social Cohesion: Regional studies should be conducted more regularly: Edwin Tong, Channel NewsAsia
 * Edwin Tong: Youth leadership is crucial for social cohesion, Money FM 89.3
