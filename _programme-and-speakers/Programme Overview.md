@@ -41,7 +41,7 @@ The 3-day programme featured speeches by renowned speakers from around the world
 
 ![](/images/ICCS%20teal%20line.png)
 
-	**<font size="+2">Day 3 (8 September 2022)</font>**
+**<font size="+2">Day 3 (8 September 2022)</font>**
 * Breakout Session 2
 * In Conversation with Deputy Prime Minister Lawrence Wong
 * Breakout Session 3
