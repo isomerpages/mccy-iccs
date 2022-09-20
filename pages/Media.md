@@ -15,7 +15,7 @@ description: Media
 * <a href="https://www.tamilmurasu.com.sg/singapore/story20220909-95790.html" target="_blank">சமூக ஒற்றுமைக்கு இளம் தலைவர்கள் முக்கியம், Tamil Murasu Online</a>
 * Enhancing Social Cohesion: Regional studies should be conducted more regularly: Edwin Tong, Channel NewsAsia
 * Edwin Tong: Youth leadership is crucial for social cohesion, Money FM 89.3
-* International Conference on Cohesive Socities, Warna 94.2FM
+* International Conference on Cohesive Societies, Warna 94.2FM
 
 **8 September 2022**  
 * Call for different faithsto pull together to attain common goals, The Straits Times
