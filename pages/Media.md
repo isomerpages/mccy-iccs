@@ -38,6 +38,10 @@ description: Media
 * Edwin Tong: Youth leadership is crucial for social cohesion, Money FM 89.3
 * International Conference on Cohesive Societies, Warna 94.2FM
 * 黄循财：我国社会凝聚力绝非偶然, Capital 95.8
+* Forward Singapore exercise not a political one: DPM Wong, Capital 95.8
+* International Conference on Cohesive Societies, Warna 94.2 FM
+* International Conference on Cohesive Societies, Warna 94.2 FM
+* International Conference on Cohesive Societies, Oli 96.8 FM
 
 **8 September 2022**  
 * Call for different faiths to pull together to attain common goals, The Straits Times
