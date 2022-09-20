@@ -28,9 +28,10 @@ description: Media
 * <a href="https://www.todayonline.com/singapore/rsis-survey-thought-leaders-finds-singapore-has-highest-level-social-cohesion-among-asean-member-states-1985016" target="_blank">RSIS survey of 'thought leaders' finds Singapore has highest level of social cohesion among Asean member states, TODAY Online</a>
 * <a href="https://www.zaobao.com.sg/realtime/singapore/story20220906-1310183">哈莉玛：要保障集体安全 须了解促进社会凝聚力的要素, Lianhe Zaobao Online</a>
 * <a href="https://www.8world.com/singapore/rsis-survey-singapore-highest-level-of-cohesion-among-asean-1909951">研究：我国社会凝聚力在亚细安国家中是最强的, 8world</a>
-* <a href="https://berita.mediacorp.sg/singapura/masyarakat-tidak-dapat-bertahan-tanpa-perekat-sosial-yang-satukan-penduduk-presiden-halimah-688376">Masyarakat tidak dapat bertahan tanpa perekat sosial yang satukan penduduk: Presiden Halimah, Berita</a>
-* <a href="https://berita.mediacorp.sg/singapura/bangunkan-platform-selamat-dan-terbuka-untuk-bincang-isu-sensitif-demi-perpaduan-sosial-presiden-halimah-688411">Bangunkan platform selamat dan terbuka untuk bincang isu sensitif demi perpaduan sosial: Presiden Halimah, Berita</a>
-* <a href="https://berita.mediacorp.sg/singapura/spura-punyai-tahap-perpaduan-sosial-tertinggi-antara-negara-anggota-asean-tinjauan-rsis-688441">S'pura punyai tahap perpaduan sosial tertinggi antara negara anggota ASEAN: Tinjauan RSIS, Berita</a>
+* <a href="https://berita.mediacorp.sg/singapura/masyarakat-tidak-dapat-bertahan-tanpa-perekat-sosial-yang-satukan-penduduk-presiden-halimah-688376">Masyarakat tidak dapat bertahan tanpa perekat sosial yang satukan penduduk: Presiden Halimah, Berita Online</a>
+* <a href="https://berita.mediacorp.sg/singapura/bangunkan-platform-selamat-dan-terbuka-untuk-bincang-isu-sensitif-demi-perpaduan-sosial-presiden-halimah-688411">Bangunkan platform selamat dan terbuka untuk bincang isu sensitif demi perpaduan sosial: Presiden Halimah, Berita Online</a>
+* <a href="https://berita.mediacorp.sg/singapura/spura-punyai-tahap-perpaduan-sosial-tertinggi-antara-negara-anggota-asean-tinjauan-rsis-688441">S'pura punyai tahap perpaduan sosial tertinggi antara negara anggota ASEAN: Tinjauan RSIS, Berita Online</a>
+* Presiden Halimah seru wujudkan platform terbuka untuk kukuhkan perpaduan, Berita
 * Enhancing Social Cohesion: President Halimah calls for more open platforms to discuss sensitive issues, Channel NewsAsia
 * Enhancing Social Cohesion, Channel NewsAsia
 * Ensuring Social Cohesion, Channel 5
