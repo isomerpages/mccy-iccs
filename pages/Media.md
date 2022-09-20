@@ -15,6 +15,7 @@ description: Media
 * <a href="https://www.zaobao.com.sg/news/singapore/story20220907-1310406" target="_blank">本地研究院调查：亚细安国家中我国社会最有凝聚力, Lianhe Zaobao Online</a>
 * Penyertaan golongan mudagalak perpaduan sosial kianmeningkat: Edwin Tong, Berita Harian
 * ‘Gam sosial’ penting demiperpaduan warga semasakrisis: Presiden Halimah, Berita Harian
+* <a href="https://www.beritaharian.sg/setempat/gam-sosial-penting-demi-perpaduan-warga-semasa-krisis-presiden-halimah" target="_blank">'Gam sosial' penting demi perpaduan warga semasa krisis: Presiden Halimah, Berita Harian Online</a>
 * Peranan agamarapat jurang dibincangdi sidang silang agam, Berita Harian
 
 **6 September 2022**  
