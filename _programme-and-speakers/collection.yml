@@ -3,24 +3,29 @@ collections:
     output: true
     order:
       - Programme Overview.md
-      - Sessions/.keep
-      - "Sessions/Special Presentation: Perspectives on Social Cohesion.md"
-      - "Sessions/Plenary 1: How Faith Can Bridge Divides.md"
-      - "Sessions/Plenary 2: How Diversity Can Be Harnessed for the Common
-        Good.md"
-      - "Sessions/Plenary 3: How Technology Can Be Leveraged to Foster Mutual
-        Trust.md"
-      - "Sessions/Breakout Session – Faith 1: Religion, Resilience & Cohesion
-        (International Perspective).md"
-      - "Sessions/Breakout Session – Identity 1: Languages, Identity &
-        Belonging.md"
-      - "Sessions/Breakout Session – Cohesion 1: Hate & Conspiracy Online.md"
-      - "Sessions/Breakout Session – Faith 2: Religion, Resilience & Cohesion
-        (Regional Perspective).md"
-      - "Sessions/Breakout Session – Identity 2: Diversity & Intersections
-        (Public Policy & Common Space).md"
-      - "Sessions/Breakout Session – Cohesion 2: Connectivity & Connectedness.md"
-      - "Sessions/Breakout Session – Faith 3: Faith Overcoming COVID–19
-        Pandemic.md"
-      - "Sessions/Breakout Session – Identity 3: Religion & Social Justice.md"
-      - "Sessions/Breakout Session – Cohesion 3: Youth Work Initiatives.md"
+      - Sessions and Speakers/.keep
+      - "Sessions and Speakers/Special Presentation: Perspectives on Social
+        Cohesion.md"
+      - "Sessions and Speakers/Plenary 1: How Faith Can Bridge Divides.md"
+      - "Sessions and Speakers/Plenary 2: How Diversity Can Be Harnessed for the
+        Common Good.md"
+      - "Sessions and Speakers/Plenary 3: How Technology Can Be Leveraged to
+        Foster Mutual Trust.md"
+      - "Sessions and Speakers/Breakout Session – Faith 1: Religion, Resilience
+        & Cohesion (International Perspective).md"
+      - "Sessions and Speakers/Breakout Session – Identity 1: Languages,
+        Identity & Belonging.md"
+      - "Sessions and Speakers/Breakout Session – Cohesion 1: Hate & Conspiracy
+        Online.md"
+      - "Sessions and Speakers/Breakout Session – Faith 2: Religion, Resilience
+        & Cohesion (Regional Perspective).md"
+      - "Sessions and Speakers/Breakout Session – Identity 2: Diversity &
+        Intersections (Public Policy & Common Space).md"
+      - "Sessions and Speakers/Breakout Session – Cohesion 2: Connectivity &
+        Connectedness.md"
+      - "Sessions and Speakers/Breakout Session – Faith 3: Faith Overcoming
+        COVID–19 Pandemic.md"
+      - "Sessions and Speakers/Breakout Session – Identity 3: Religion & Social
+        Justice.md"
+      - "Sessions and Speakers/Breakout Session – Cohesion 3: Youth Work
+        Initiatives.md"
