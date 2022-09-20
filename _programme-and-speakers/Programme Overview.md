@@ -14,12 +14,12 @@ ICCS 2022 was held from 6<sup>th</sup> to 8<sup>th</sup> September 2022 at the R
 The 3-day programme featured speeches by renowned speakers from around the world, panel discussions and dialogues on the themes of faith, identity and cohesion.
 
 # Programme
-**<font size="+2">Day 0 – 5 September 2022</font>**
+**<font size="+2">Day 0 (5 September 2022)</font>**
 * Community Dialogue
 
 ![](/images/ICCS%20teal%20line.png)
 
-**<font size="+2">Day 0 – 5 September 2022</font>**
+**<font size="+2">Day 1 (6 September 2022)</font>**
 * Opening Address by President Halimah Yacob
 * Special Presentation: Perspectives on Social Cohesion
 * 1st Plenary: How Faith Can Bridge Divides
@@ -31,7 +31,7 @@ The 3-day programme featured speeches by renowned speakers from around the world
 
 ![](/images/ICCS%20teal%20line.png)
 
-**<font size="+2">Day 0 – 5 September 2022</font>**
+**<font size="+2">Day 2 (7 September 2022)</font>**
 * 2nd Plenary: How Diversity Can Be Harnessed for the Common Good
 * 3rd Plenary: How Technology Can Be Leveraged to Foster Mutual Trust
 * Breakout Session 1
@@ -41,7 +41,7 @@ The 3-day programme featured speeches by renowned speakers from around the world
 
 ![](/images/ICCS%20teal%20line.png)
 
-	**<font size="+2">Day 0 – 5 September 2022</font>**
+	**<font size="+2">Day 3 (8 September 2022)</font>**
 * Breakout Session 2
 * In Conversation with Deputy Prime Minister Lawrence Wong
 * Breakout Session 3
@@ -51,4 +51,5 @@ The 3-day programme featured speeches by renowned speakers from around the world
 * Community Exploration
 
 ![](/images/ICCS%20teal%20line.png)
+
 [Download a copy of the ICCS 2022 programme and speaker list here.](/files/ICCS%202022%20Programme%20and%20Speakers_as%20at%207%20Sep%202022.pdf)
