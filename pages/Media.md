@@ -57,6 +57,7 @@ description: Media
 * 疫情考研了社会凝聚力, UFM100.3
 * DPM Lawrence Wong, Warna 94.2 FM
 * DPM Lawrence Wong, Oli 96.8 FM
+* <a href="https://www.malaymail.com/news/malaysia/2022/09/09/the-malaysian-youths-on-a-mission-for-social-cohesion/27222" target="_blank">The Malaysian youths on a mission for social cohesion, Malay Mail</a>
 
 **8 September 2022**  
 * Call for different faiths to pull together to attain common goals, The Straits Times
