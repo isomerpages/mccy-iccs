@@ -72,6 +72,7 @@ description: Media
 * Perlu ada pengorbanan dalam buru perpaduan sosial: ahli panel silang agama, Berita Harian
 * <a href="https://www.beritaharian.sg/setempat/perlu-ada-pengorbanan-dalam-buru-perpaduan-sosial-ahli-panel-silang-agama" target="_blank">Perlu ada pengorbanan dalam buru perpaduan sosial: ahli panel silang agama, Berita Harian Online</a>
 * <a href="https://www.8world.com/singapore/lawrence-wong-social-cohesion-1912671" target="_blank">黄循财：我国社会凝聚力非偶然产生, 8world</a>
+* <a href="https://indonesia.ucanews.com/2022/09/08/pidato-di-singapura-kardinal-parolin-soroti-pentingnya-kohesi-sosial/" target="_blank">Pidato di Singapura, Kardinal Parolin soroti pentingnya kohesi sosial, UCA News Indonesia</a>
 
 **7 September 2022**  
 * Cohesive societies born of choice and conviction: President Halimah, The Straits Times
@@ -93,7 +94,7 @@ description: Media
 * President Halimah urges to build open platforms to discuss sensitive issues and work together to strengthen unity and resilience in societies, Oli 96.8 FM
 * <a href="https://www.malaymail.com/news/malaysia/2022/09/07/whats-the-glue-holding-malaysian-society-together-study-shows-shared-identity-and-diversity-acceptance-biggest-influencers/26851" target="_blank">What’s the glue holding Malaysian society together? Study shows shared identity and diversity acceptance biggest influencers, Malay Mail</a>
 * <a href="https://www.ucanews.com/news/parolin-addresses-singapore-social-cohesion-meet/98671" target="_blank">Parolin addresses Singapore social cohesion meet, Union of Catholic Asian News</a>
-*
+
 **6 September 2022**  
 * <a href="https://www.straitstimes.com/singapore/covid-19-showed-that-cohesive-societies-are-borne-of-choice-and-conviction-president-halimah" target="_blank">Covid-19 showed that cohesive societies are born of choice and conviction: President Halimah, The Straits Times Online</a>
 * <a href="https://www.straitstimes.com/singapore/more-to-social-cohesion-than-just-racial-and-religious-harmony-says-smu-president" target="_blank">More to social cohesion than just racial and religious harmony, says SMU president, The Straits Times Online</a>
