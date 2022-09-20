@@ -3,8 +3,6 @@ collections:
     output: true
     order:
       - Programme Overview.md
-      - "Sessions/Breakout Session – Faith 3: Faith Overcoming COVID–19
-        Pandemic.md"
       - Sessions/.keep
       - "Sessions/Special Presentation: Perspectives on Social Cohesion.md"
       - "Sessions/Plenary 1: How Faith Can Bridge Divides.md"
@@ -22,3 +20,5 @@ collections:
       - "Sessions/Breakout Session – Identity 2: Diversity & Intersections
         (Public Policy & Common Space).md"
       - "Sessions/Breakout Session – Cohesion 2: Connectivity & Connectedness.md"
+      - "Sessions/Breakout Session – Faith 3: Faith Overcoming COVID–19
+        Pandemic.md"
