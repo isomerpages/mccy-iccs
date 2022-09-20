@@ -26,6 +26,7 @@ description: Media
 * <a href="https://www.todayonline.com/singapore/rsis-survey-thought-leaders-finds-singapore-has-highest-level-social-cohesion-among-asean-member-states-1985016" target="_blank">RSIS survey of 'thought leaders' finds Singapore has highest level of social cohesion among Asean member states, TODAY Online</a>
 * <a href="https://www.zaobao.com.sg/realtime/singapore/story20220906-1310183">哈莉玛：要保障集体安全 须了解促进社会凝聚力的要素, Lianhe Zaobao Online</a>
 * <a href="https://www.8world.com/singapore/rsis-survey-singapore-highest-level-of-cohesion-among-asean-1909951">研究：我国社会凝聚力在亚细安国家中是最强的, 8world</a>
+* <a href="https://berita.mediacorp.sg/singapura/masyarakat-tidak-dapat-bertahan-tanpa-perekat-sosial-yang-satukan-penduduk-presiden-halimah-688376">Masyarakat tidak dapat bertahan tanpa perekat sosial yang satukan penduduk: Presiden Halimah, Berita</a>
 
 **31 July 2022**  
 * <a href="https://www.zaobao.com.sg/news/singapore/story20220731-1298149" target="_blank">第二届社会和谐国际大会 9月来福士城会展中心举行, Lianhe Zaobao</a>
