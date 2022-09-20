@@ -4,6 +4,9 @@ permalink: /Media/
 description: Media
 ---
 # Media coverage     
+**17 September 2022**  
+* <a href="https://www.heraldmalaysia.com/news/parolin-addresses-singapore-social-cohesion-meet/67641/2" target="_blank">Parolin addresses Singapore social cohesion meet, Herald Malaysia Online</a>
+
 **16 September 2022**  
 * <a href="https://newsinfo.inquirer.net/1665168/study-ph-high-in-social-cohesion-embraces-diversity#ixzz7f0tjPWo2" target="_blank">Study: PH high in ‘social cohesion,’ embraces diversity, INQUIRER.net</a>
 
