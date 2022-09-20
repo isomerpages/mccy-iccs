@@ -7,13 +7,14 @@ description: Media
 **9 September 2022**  
 **8 September 2022**  
 **7 September 2022**  
-Cohesive societies born of choice and conviction: President Halimah, The Straits Times
-Social cohesion is more than about race or religion: SMU president, The Straits Times
+* Cohesive societies born of choice and conviction: President Halimah, The Straits Times
+* Social cohesion is more than about race or religion: SMU president, The Straits Times
 
 **6 September 2022**  
-* <a href="https://www.straitstimes.com/singapore/covid-19-showed-that-cohesive-societies-are-borne-of-choice-and-conviction-president-halimah" target="_blank">Covid-19 showed that cohesive societies are born of choice and conviction: President Halimah, The Straits Times</a>
-* <a href="https://www.straitstimes.com/singapore/more-to-social-cohesion-than-just-racial-and-religious-harmony-says-smu-president" target="_blank">More to social cohesion than just racial and religious harmony, says SMU president, The Straits Times</a>
+* <a href="https://www.straitstimes.com/singapore/covid-19-showed-that-cohesive-societies-are-borne-of-choice-and-conviction-president-halimah" target="_blank">Covid-19 showed that cohesive societies are born of choice and conviction: President Halimah, The Straits Times Online</a>
+* <a href="https://www.straitstimes.com/singapore/more-to-social-cohesion-than-just-racial-and-religious-harmony-says-smu-president" target="_blank">More to social cohesion than just racial and religious harmony, says SMU president, The Straits Times Online</a>
 * <a href="https://www.channelnewsasia.com/singapore/halimah-yacob-societies-social-glue-bonds-cohesion-2921561" target="_blank">Societies cannot survive without the social glue that bonds people together: President Halimah, CNA Online</a>
+* <a href="https://www.todayonline.com/singapore/rsis-survey-thought-leaders-finds-singapore-has-highest-level-social-cohesion-among-asean-member-states-1985016" target="_blank">RSIS survey of 'thought leaders' finds Singapore has highest level of social cohesion among Asean member states, TODAY Online</a>
 
 **31 July 2022**  
 * <a href="https://www.zaobao.com.sg/news/singapore/story20220731-1298149" target="_blank">第二届社会和谐国际大会 9月来福士城会展中心举行, Lianhe Zaobao</a>
