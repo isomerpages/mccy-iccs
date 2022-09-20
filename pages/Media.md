@@ -10,6 +10,7 @@ description: Media
 * S’pore continually looking into multi-faceted issue of disadvantages facing those less well off, The Straits Times
 * <a href="https://www.straitstimes.com/singapore/youth-leadership-crucial-for-social-cohesion-edwin-tong" target="_blank">Youth leadership crucial for social cohesion: Edwin Tong, The Straits Times Online</a>
 * 黄循财：多元化社会必有立场差异 应避免观点分歧撕裂社会, Lianhe Zaobao
+* <a href="https://www.zaobao.com.sg/news/singapore/story20220909-1311090" target="_blank">黄循财：多元化社会必有立场差异 应避免观点分歧撕裂社会, Lianhe Zaobao Online</a>
 * 黄循财：警惕可能撕裂社会的断层线, Lianhe Zaobao
 * 黄循财：国人须意识到国家建设不单是政府责任, Lianhe Zaobao
 * 唐振辉：多元文化可促进共同利益 加强国家韧力, Lianhe Zaobao
