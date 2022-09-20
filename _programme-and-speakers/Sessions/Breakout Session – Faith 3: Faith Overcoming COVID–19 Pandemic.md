@@ -35,8 +35,7 @@ Reverend Dr Edmund Fong is an ordained minister of the Presbyterian Church in Si
 <img src="/images/Teo%20Yi-Ling.jpg"
      style="width:50%" />
 
-<p style="color:#2B3062"><b>Moderator:</b></p>**Ms Teo Yi-Ling  
-Senior Fellow, Centre of Excellence for National Security  
-S. Rajaratnam School of International Studies, Nanyang Technological University, Singapore**
+<p style="color:#2B3062"><b>Moderator:</b></p>**Master Chung Kwang Tong  
+Board Member, Character & Leadership Academy**
 
-Teo Yi-Ling is a Senior Fellow with the Centre of Excellence for National Security (CENS) at RSIS. She is part of the Cyber and Homeland Defence Programme of CENS, and engaged in researching strategies of national cybersecurity resilience, data protection and governance regimes, online regulation regimes, and ethics and governance related to artificial intelligence and disruptive technology, with a view to informing policy responses for Singapore’s national security.
+Master Chung is a Taoist priest of the Quan Zhen Long-men (Dragon Gate) Tradition. He is also a Deputy Executive Director at the Character and Leadership Academy, and sits on several public and people advisory committees.
