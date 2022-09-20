@@ -338,7 +338,7 @@ href="https://www.todayonline.com/commentary/debate-dialogue-two-religions-one-f
 * [Speech by Mr Lawrence Wong, Deputy Prime Minister and Minister for Finance, Republic of Singapore, during an In Conversation session with DPM Wong at ICCS, 8 September 2022](/programme-and-speakers/Speeches/DPM-Speech/)
 * [Closing Address by Mr Edwin Tong, Minister for Culture, Community and Youth & Second Minister for Law, Republic of Singapore, at ICCS, 8 September 2022](/programme-and-speakers/Speeches/ClosingAddress/)
 * [Media Release on Day 1: The International Conference on Cohesive Societies Kicks Off Today, 6 September 2022](/files/ICCS%20Day%201%20Media%20Release.pdf)
-* Media Note on Day 2: The ICCS Young Leaders Programme Brings Together Like-minded Youths to Collaborate on Community-building Initiatives, 7 September 2022
+* [Media Note on Day 2: The ICCS Young Leaders Programme Brings Together Like-minded Youths to Collaborate on Community-building Initiatives, 7 September 2022](/files/ICCS%20Day%202%20Media%20Note.pdf)
 * Media Note on Day 3: The International Conference On Cohesive Societies (ICCS) Draws to a Close, 8 September 2022
 * [Media Release on The International Conference on Cohesive Societies to be Held in September This Year, 29 July 2022](/files/ICCS%202022%20Announcement%20Media%20Release.pdf)
 * <a 
