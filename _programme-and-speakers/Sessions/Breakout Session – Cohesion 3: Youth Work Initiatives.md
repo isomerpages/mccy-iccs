@@ -21,7 +21,7 @@ Founder, KRIS**
 
 Arizza Ann Nocum is the Co-Founder and President of KRIS, a non-profit organisation that utilises education as a pathway to peace in the Philippines. KRIS has built libraries and provided scholarships for young people victimised by conflict and poverty. Today, KRIS educates, empowers, and inspires young peace-builders through summits, training programmes, and offline and online information campaigns.
 
-<img src="/images/Julia%20Walsh.png"
+<img src="/images/Farahnaz.jpg"
      style="width:50%" />
 
 **Ms Farahnaz Ali Ghodsinia  
