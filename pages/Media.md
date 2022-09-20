@@ -89,6 +89,7 @@ description: Media
 * <a href="https://www.tamilmurasu.com.sg/singapore/story20220907-95644.html" target="_blank">‘கொவிட்-19 சூழல் இதை வலியுறுத்தியது’, Tamil Murasu Online</a>
 * President Halimah urges to build open platforms to discuss sensitive issues and work together to strengthen unity and resilience in societies, Capital 958
 * President Halimah urges to build open platforms to discuss sensitive issues and work together to strengthen unity and resilience in societies, Oli 96.8 FM
+* <a href="https://www.malaymail.com/news/malaysia/2022/09/07/whats-the-glue-holding-malaysian-society-together-study-shows-shared-identity-and-diversity-acceptance-biggest-influencers/26851" target="_blank">What’s the glue holding Malaysian society together? Study shows shared identity and diversity acceptance biggest influencers, Malay Mail</a>
 
 **6 September 2022**  
 * <a href="https://www.straitstimes.com/singapore/covid-19-showed-that-cohesive-societies-are-borne-of-choice-and-conviction-president-halimah" target="_blank">Covid-19 showed that cohesive societies are born of choice and conviction: President Halimah, The Straits Times Online</a>
@@ -119,6 +120,8 @@ description: Media
 * 必须要了解促进社会凝聚力的要素, UFM100.3
 * International Conference on Cohesive Societies, Warna 94.2 FM 
 * International Conference on Cohesive Societies, Oli 96.8 FM
+* <a href="https://www.malaymail.com/news/singapore/2022/09/06/in-singapore-conference-on-social-cohesion-seeks-to-connect-region-after-divisive-pandemic/26869" target="_blank">In Singapore, conference on ‘social cohesion’ seeks to connect region after divisive pandemic, Malay Mail</a>
+* 
 
 **31 July 2022**  
 * <a href="https://www.zaobao.com.sg/news/singapore/story20220731-1298149" target="_blank">第二届社会和谐国际大会 9月来福士城会展中心举行, Lianhe Zaobao</a>
