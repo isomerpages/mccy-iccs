@@ -2,8 +2,8 @@ collections:
   programme-and-speakers:
     output: true
     order:
-      - Speeches/.keep
       - Programme Overview.md
+      - Speeches/.keep
       - Sessions & Speakers/.keep
       - "Sessions & Speakers/Special Presentation: Perspectives on Social
         Cohesion.md"
