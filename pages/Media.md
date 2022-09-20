@@ -37,6 +37,7 @@ description: Media
 * Covid-19 pandemic also a test of social cohesion: DPM Wong, ONE FM 91.3
 * Edwin Tong: Youth leadership is crucial for social cohesion, Money FM 89.3
 * International Conference on Cohesive Societies, Warna 94.2FM
+* 黄循财：我国社会凝聚力绝非偶然, Capital 95.8
 
 **8 September 2022**  
 * Call for different faiths to pull together to attain common goals, The Straits Times
