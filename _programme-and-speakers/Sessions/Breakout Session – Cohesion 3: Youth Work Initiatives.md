@@ -37,7 +37,7 @@ Chairperson, Inter-Religious Organisation Youth Committee**
    
 Shukul Raaj Kumar is currently the Chairperson of the Inter-Religious Organisation Youth Committee. A Certified Scrum Master, he is also the Vice-Chairperson leading the Programmes team in Hindu Youth Network, that falls under the auspices of Hindu Endowment Board. He will also be doing his Masters in International Relations in August 2022 from the S. Rajaratnam School of International Studies (RSIS) in Nanyang Technological University.
 
-<img src="/images/Paul%20Hedges.jpg"
+<img src="/images/Irshad.jpg"
      style="width:50%" />
 
 <p style="color:#2B3062"><b>Moderator:</b></p>**Mr Abbas Ali Mohamed Irshad  
