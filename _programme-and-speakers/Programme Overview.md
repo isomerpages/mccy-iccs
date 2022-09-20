@@ -19,7 +19,7 @@ The 3-day programme featured speeches by renowned speakers from around the world
 
 ![](/images/ICCS%20teal%20line.png)
 
-**Day 0 – 5 September 2022**
+**<font size="+2">Day 0 – 5 September 2022</font>**
 * Opening Address by President Halimah Yacob
 * Special Presentation: Perspectives on Social Cohesion
 * 1st Plenary: How Faith Can Bridge Divides
@@ -31,7 +31,7 @@ The 3-day programme featured speeches by renowned speakers from around the world
 
 ![](/images/ICCS%20teal%20line.png)
 
-**Day 0 – 5 September 2022**
+**<font size="+2">Day 0 – 5 September 2022</font>**
 * 2nd Plenary: How Diversity Can Be Harnessed for the Common Good
 * 3rd Plenary: How Technology Can Be Leveraged to Foster Mutual Trust
 * Breakout Session 1
@@ -41,7 +41,7 @@ The 3-day programme featured speeches by renowned speakers from around the world
 
 ![](/images/ICCS%20teal%20line.png)
 
-**Day 0 – 5 September 2022**
+	**<font size="+2">Day 0 – 5 September 2022</font>**
 * Breakout Session 2
 * In Conversation with Deputy Prime Minister Lawrence Wong
 * Breakout Session 3
