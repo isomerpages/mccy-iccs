@@ -33,11 +33,11 @@ Within this context, the idea of social cohesion has been central to the study o
 
 Opening up the area of social cohesiveness through interventions that recognize the benefits of enlarged cohesion seems to be a worthwhile objective. Another of the tasks that should not be forgotten in order to construct cohesive societies is working on the connection between the efficiency and efficacy of social programs, the engagement of people in the administration of public affairs, and the inclusion of peripheral realities, again in both geographic and social dimensions. 
 
-This introductory reflection confronts us with a problem: our contemporary society is characterized by new forms of individual insecurity and community fragmentation as a result of social, cultural, demographic, and economic transformations; a problem that has intensified during the COVID-19 pandemic. How can we restore cohesion? 3 
+This introductory reflection confronts us with a problem: our contemporary society is characterized by new forms of individual insecurity and community fragmentation as a result of social, cultural, demographic, and economic transformations; a problem that has intensified during the COVID-19 pandemic. How can we restore cohesion?
 
 To address this subject, I will make an effort to provide some directional guidance from a Christian viewpoint that I believe may aid in the planning and establishment of cohesive societies. 
 
-**Individualism – Relationship – Fraternity **  
+**Individualism – Relationship – Fraternity**  
 
 In 1936, de Lubac, a French Jesuit, theologian, and Cardinal whose works were significant in the formulation of the doctrine of the Second Vatican Council, took a stance against the individualistic and, by extension, self-centered inclinations of his own day by stating: “Catholicism is essentially social in the most profound meaning of the term: not merely because of its applications in the realm of natural institutions, but first and foremost in itself, at the very core of its essence.” (H. De Lubac, Cattolicismo Aspetti sociali del dogma, trad. it. a cura di Elio Guerriero, Jaca Book, 1978, p. XXIII). 
 
@@ -63,7 +63,7 @@ What other alternative do we have to the pervasive individualism that seems to e
 
 4. The value of friendship 
 
-**Discernment as a compass **  
+**Discernment as a compass**  
 
 In realizing one’s existence, man is not called to rely on vague generic prescriptions, to dive headfirst into ideologies, or to graze on hypothetical visions of the future in which there is much heart and little intelligence; rather, man is called to patiently seek his way in today, enlightened by the great truths, which do not absolve him from the responsible, strenuous, and sometimes difficult search. 
 
@@ -95,7 +95,7 @@ We are also well-versed in the rich theological and human connotations of the te
 
 From this brief introduction to the many religious traditions, we may derive an additional lesson for the topic we will be discussing today: to develop a cohesive community, we must labor in the world without losing sight of the hope that only heaven can provide. 
 
-**For a welcoming city and world **
+**For a welcoming city and world**  
 
 In the 4th century, Saint Ambrose wrote: “The guest does not want wealth, but rather a gracious welcome. Not a lavish banquet, but ordinary food. It is better to provide friendship and generosity with beans than to slaughter calves in the stable with hostility “(AMBROGIO, Opere morali, Tutte le opere di Ambrogio, vol. XIII, p. 303). 
 
