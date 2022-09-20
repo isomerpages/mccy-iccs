@@ -10,6 +10,7 @@ description: Media
 * Cohesive societies born of choice and conviction: President Halimah, The Straits Times
 * Social cohesion is more than about race or religion: SMU president, The Straits Times
 * 哈莉玛总统：社会凝聚力是集体安全必要条件, Lianhe Zaobao
+* <a href="https://www.zaobao.com.sg/news/singapore/story20220907-1310407" target="_blank">哈莉玛总统：社会凝聚力是集体安全必要条件, Lianhe Zaobao Online</a>
 * 本地研究院调查：亚细安国家中我国社会最有凝聚力, Lianhe Zaobao
 
 **6 September 2022**  
