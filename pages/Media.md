@@ -14,6 +14,7 @@ description: Media
 * 黄循财：警惕可能撕裂社会的断层线, Lianhe Zaobao
 * <a href="https://www.zaobao.com.sg/news/singapore/story20220909-1311103" target="_blank">黄循财：警惕可能撕裂社会的断层线, Lianhe Zaobao Online</a>
 * 黄循财：国人须意识到国家建设不单是政府责任, Lianhe Zaobao
+* <a href="https://www.zaobao.com.sg/news/singapore/story20220909-1311102" target="_blank">黄循财：国人须意识到 国家建设不单是政府责任, Lianhe Zaobao Online</a>
 * 唐振辉：多元文化可促进共同利益 加强国家韧力, Lianhe Zaobao
 * <a href="https://www.zaobao.com.sg/news/singapore/story20220909-1311104" target="_blank">唐振辉：多元文化可促进共同利益 加强国家韧力, Lianhe Zaobao Online</a>
 * Edwin Tong: S'pura giat perkukuh keharmonian agama, satukan masyarakat, Berita Harian
