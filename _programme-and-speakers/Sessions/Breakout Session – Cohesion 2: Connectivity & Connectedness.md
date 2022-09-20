@@ -24,16 +24,16 @@ Dr Yang worked in private and government sectors for over 26 years.. She was mos
 <img src="/images/Tim%20Dixon.jpg"
      style="width:50%" />
 
-**Mr Tim Dixon  
-Co-Founder, More in Common**
+**Ms Teresa Tan  
+Director of Public Policy, ByteDance, Southeast Asia**
 
-Tim Dixon is a co-founder of More in Common, an initiative to foster cohesion and unity in democratic societies, and counter the forces of division. Prior to More in Common, Tim co-founded six other social enterprises, including digital agency Purpose Europe, civil protection and democracy group The Syria Campaign, and peace advocacy and citizen engagement group Movilizatorio in Colombia. Tim was the Australian Prime Minister’s economic adviser and chief speechwriter, and worked for Prime Ministers Kevin Rudd and Julia Gillard.
+Ms Teresa Tan leads ByteDance’s public policy and government relations across Southeast Asia, where she is responsible for promoting a regulatory environment that supports business growth and innovation. She partners with her team to drive impactful policy programmes around empowerment of small and medium-sized enterprises, digital safety and wellness, and inclusive access to online learning. Prior to joining ByteDance, Teresa served as the Regional Communications Lead at Grab where she pioneered the policy communications function. Teresa also served more than 10 years in the Singapore government across finance, home affairs and ICT Agencies. 
 
 <img src="/images/Shane%20Pereira.png"
      style="width:50%" />
 
-<p style="color:#2B3062"><b>Moderator:</b></p>**Mr Shane Pereira  
-Research Associate, IPS Social Lab, Institute of Policy Studies  
-National University of Singapore**
+<p style="color:#2B3062"><b>Moderator:</b></p>**Ms Teo Yi-Ling  
+Senior Fellow, Centre of Excellence for National Security  
+S. Rajaratnam School of International Studies, Nanyang Technological University, Singapore**
 
-Shane Pereira is Research Associate at IPS Social Lab in the Institute of Policy Studies. He specialises in applied ethnography and social research methods, and holds qualifications in Sociology and social research methods, which he taught for the last 11 years in both the National University of Singapore and King’s College London.
+Teo Yi-Ling is a Senior Fellow with the Centre of Excellence for National Security (CENS) at RSIS. She is part of the Cyber and Homeland Defence Programme of CENS, and engaged in researching strategies of national cybersecurity resilience, data protection and governance regimes, online regulation regimes, and ethics and governance related to artificial intelligence and disruptive technology, with a view to informing policy responses for Singapore’s national security.
