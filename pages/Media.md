@@ -94,6 +94,7 @@ description: Media
 * President Halimah urges to build open platforms to discuss sensitive issues and work together to strengthen unity and resilience in societies, Oli 96.8 FM
 * <a href="https://www.malaymail.com/news/malaysia/2022/09/07/whats-the-glue-holding-malaysian-society-together-study-shows-shared-identity-and-diversity-acceptance-biggest-influencers/26851" target="_blank">What’s the glue holding Malaysian society together? Study shows shared identity and diversity acceptance biggest influencers, Malay Mail</a>
 * <a href="https://www.ucanews.com/news/parolin-addresses-singapore-social-cohesion-meet/98671" target="_blank">Parolin addresses Singapore social cohesion meet, Union of Catholic Asian News</a>
+* <a href="https://www.vaticannews.va/it/vaticano/news/2022-09/cardinale-parolin-intervento-singapore.html" target="_blank">Parolin: bene comune e senso di umanità, passi verso società più coese, Vatican News</a>
 
 **6 September 2022**  
 * <a href="https://www.straitstimes.com/singapore/covid-19-showed-that-cohesive-societies-are-borne-of-choice-and-conviction-president-halimah" target="_blank">Covid-19 showed that cohesive societies are born of choice and conviction: President Halimah, The Straits Times Online</a>
