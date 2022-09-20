@@ -29,7 +29,7 @@ Peace Ambassador to the Office of the Philippine Presidential Adviser on the Pea
 
 Farahnaz Ali Ghodsinia was born and raised in the Philippines. Farah graduated Magna Cum Laude from the University of the Philippines-Diliman with a degree in Broadcast Communications. Currently she is working to pursue her graduate studies while serving as the Peace Ambassador to the Office of the Philippine Presidential Adviser on the Peace Process.
 
-<img src="/images/Julia%20Walsh.png"
+<img src="/images/Shukul%20Raaj%20Kumar.jpg"
      style="width:50%" />
 
 **Mr Shukul Raaj Kumar  
