@@ -18,21 +18,18 @@ Areas explored include overcoming racial and ethnic prejudice, protecting vulner
 <img src="/images/Mohd%20Hannan%20Hassan.jpg"
      style="width:50%" />
 
-**Dr Mohammad Hannan Hassan  
-Deputy Mufti, Islamic Religious Council of Singapore (MUIS)**
+**Mr Somboon Chungprampree  
+Executive Secretary, International Network of Engaged Buddhists (INEB)**
 
-Dr Mohammad Hannan Hassan specialises in History and Philosophy of Islamic Higher Education, Muslim-Jewish relations, interfaith relations, and history and philosophy of Islamic law in the Malay Archipelago. 
+Somboon Chungprampree (Moo), is a Thai social activist working for Peace and Justice in Asia. He is a civic leader and serves on the Board of a number of international and national foundations.
 
 <img src="/images/Edmund%20Fong.jpg"
      style="width:50%" />
 
-**Reverend Dr Edmund Fong  
-Lecturer, Trinity Theological College, Singapore  
-Lecturer in Systematic Theology (Christology and the reception of salvation)  
-Lecturer in Presbyterianism  
-Dean of Students**
+**Sister Julia Walsh  
+Franciscan Sisters of Perpetual Adoration**
 
-Reverend Dr Edmund Fong is an ordained minister of the Presbyterian Church in Singapore. Edmund joined the pastoral team of Adam Road Presbyterian Church in 2009. Edmund continues to participate actively in the pastoral and teaching ministries at Adam Road Presbyterian Church.
+Sister Julia Walsh is a Franciscan Sister of Perpetual Adoration and part of her congregation’s formation team, serving women who are discerning their vocation. Along with another Franciscan Sister, she co-founded The Fireplace, an intentional community and house of hospitality on Chicago’s southside that offers spiritual support to artists and activists.
 
 <img src="/images/Chung%20Kwang%20Tong.png"
      style="width:50%" />
