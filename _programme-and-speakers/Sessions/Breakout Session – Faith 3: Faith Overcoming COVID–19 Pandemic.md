@@ -16,18 +16,21 @@ This breakout session explores how traditions have evolved over this challenging
 <img src="/images/Yang%20Mee%20Eng.png"
      style="width:50%" />
 
-**Dr Yang Mee Eng  
-Executive Director, ASEAN Foundation**
+**Dr Mohammad Hannan Hassan  
+Deputy Mufti, Islamic Religious Council of Singapore (MUIS)**
 
-Dr Yang worked in private and government sectors for over 26 years.. She was most recently the Senior Vice President at Alphacap.  There, she assisted SME companies and led the development and execution of Bloconomic Expo 2019, a platform aimed at creating a vast network of blockchain entrepreneurs and developers in the fast-evolving blockchain companies. Prior to that, she was the CEO of Gameview, the largest mobile game publisher in Malaysia, where she oversaw more than 50 staff members in their three offices in Malaysia, China and Thailand. 
+Dr Mohammad Hannan Hassan specialises in History and Philosophy of Islamic Higher Education, Muslim-Jewish relations, interfaith relations, and history and philosophy of Islamic law in the Malay Archipelago. 
 
 <img src="/images/Teresa%20Tan.jpg"
      style="width:50%" />
 
-**Ms Teresa Tan  
-Director of Public Policy, ByteDance, Southeast Asia**
+**Reverend Dr Edmund Fong  
+Lecturer, Trinity Theological College, Singapore  
+Lecturer in Systematic Theology (Christology and the reception of salvation)  
+Lecturer in Presbyterianism  
+Dean of Students**
 
-Ms Teresa Tan leads ByteDance’s public policy and government relations across Southeast Asia, where she is responsible for promoting a regulatory environment that supports business growth and innovation. She partners with her team to drive impactful policy programmes around empowerment of small and medium-sized enterprises, digital safety and wellness, and inclusive access to online learning. Prior to joining ByteDance, Teresa served as the Regional Communications Lead at Grab where she pioneered the policy communications function. Teresa also served more than 10 years in the Singapore government across finance, home affairs and ICT Agencies. 
+Reverend Dr Edmund Fong is an ordained minister of the Presbyterian Church in Singapore. Edmund joined the pastoral team of Adam Road Presbyterian Church in 2009. Edmund continues to participate actively in the pastoral and teaching ministries at Adam Road Presbyterian Church.
 
 <img src="/images/Teo%20Yi-Ling.jpg"
      style="width:50%" />
