@@ -5,6 +5,9 @@ description: Media
 ---
 # Media coverage     
 **9 September 2022**  
+* Call to continue growing community of young leaders for social cohesion, The Straits Times
+* <a href="https://www.straitstimes.com/singapore/youth-leadership-crucial-for-social-cohesion-edwin-tong" target="_blank">Youth leadership crucial for social cohesion: Edwin Tong, The Straits Times Online</a>
+
 **8 September 2022**  
 * Call for different faithsto pull together to attain common goals, The Straits Times
 * Peranan media sosial pupuk ikatan dalam masyarakat, Berita Harian
