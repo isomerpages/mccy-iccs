@@ -11,9 +11,7 @@ third_nav_title: Sessions
 </div>
 
 # Synopsis
-This breakout session discusses some of the ways that religious identities inform social justice work, which in turn helps to deepen connections across various groups in society and promoting socially cohesive bonds. 
-
-Areas explored include overcoming racial and ethnic prejudice, protecting vulnerable individuals and communities beset by a lack of environmental justice, and countering radical and extremist narratives. It demonstrates examples of good practice and provide practical steps for working towards social justice from within various religious worldviews and identities.
+This breakout session looks explicitly at the work of youth leaders in social cohesion across Asia. The way that specific approaches to connect with young people and bridge potentially divisive partitions between communities will be of particular interest. It stresses the practice of building effective youth dialogue and service movements, rather than the theories involved in reaching younger people.
 # Speakers
 <img src="/images/Somboon.jpg"
      style="width:50%" />
