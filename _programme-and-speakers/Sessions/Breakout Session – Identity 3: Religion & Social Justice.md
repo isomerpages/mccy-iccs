@@ -31,7 +31,7 @@ Franciscan Sisters of Perpetual Adoration**
 
 Sister Julia Walsh is a Franciscan Sister of Perpetual Adoration and part of her congregation’s formation team, serving women who are discerning their vocation. Along with another Franciscan Sister, she co-founded The Fireplace, an intentional community and house of hospitality on Chicago’s southside that offers spiritual support to artists and activists.
 
-<img src="/images/Chung%20Kwang%20Tong.png"
+<img src="/images/Paul%20Hedges.jpg"
      style="width:50%" />
 
 <p style="color:#2B3062"><b>Moderator:</b></p>**Associate Professor Paul Hedges  
