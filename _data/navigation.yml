@@ -22,15 +22,6 @@ links:
         url: /CommunityExperience
       - title: Research & Commentaries
         url: /Research
-  - title: "Attendees Guide "
-    url: /venuetraveladvisory
-    sublinks:
-      - title: Venue & Travel Advisory
-        url: /VenueTravelAdvisory
-      - title: FAQs
-        url: /FAQs
-      - title: Visit Singapore
-        url: /visitsingapore
   - title: Past Events
     collection: past-events
   - title: Media
