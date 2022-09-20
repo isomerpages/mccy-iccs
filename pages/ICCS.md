@@ -15,7 +15,7 @@ ICCS 2022 was held from 6<sup>th</sup> to 8<sup>th</sup> September 2022 at a piv
 
 The Conference also cast a spotlight on youth as future leaders in an increasingly digitalised world and their immensely important role in fostering social cohesion.
 
-Read more about the programme and event happenings [here](/ProgrammeSpeakers).
+Read more about the programme and event happenings here.
 # Background
 
 ![President on stage](/images/icciccsstage.jpg)
@@ -28,6 +28,7 @@ The ICCS is the preeminent event for interfaith and multicultural dialogue. Moot
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UNgvcEaJT4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 </div>
+
 # ICCS Secretariat
 **The S. Rajaratnam School of International Studies (RSIS)** is a global think tank and professional graduate school of international affairs at the Nanyang Technological University, Singapore. An autonomous school, RSIS’ mission is to be a leading research and graduate teaching institution in strategic and international affairs in the Asia Pacific. With the core functions of research, graduate education, and networking, it produces research on Asia Pacific Security, Multilateralism and Regionalism, Conflict Studies, Non-traditional Security, Cybersecurity, Maritime Security and Terrorism Studies.
 
