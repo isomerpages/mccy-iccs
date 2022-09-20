@@ -32,6 +32,9 @@ description: Media
 * Lawrence Wong, Vasantham
 * Social cohesion does not happen by chance, CNA938
 * Forward Singapore exercise not a political one: DPM Wong, CNA938
+* Covid-19 pandemic also a test of social cohesion: DPM Wong, Kiss92
+* Covid-19 pandemic also a test of social cohesion: DPM Wong, Money FM 89.3
+* Covid-19 pandemic also a test of social cohesion: DPM Wong, ONE FM 91.3
 * Edwin Tong: Youth leadership is crucial for social cohesion, Money FM 89.3
 * International Conference on Cohesive Societies, Warna 94.2FM
 
