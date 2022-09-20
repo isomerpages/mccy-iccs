@@ -17,6 +17,7 @@ description: Media
 * <a href="https://www.zaobao.com.sg/news/singapore/story20220909-1311102" target="_blank">黄循财：国人须意识到 国家建设不单是政府责任, Lianhe Zaobao Online</a>
 * 唐振辉：多元文化可促进共同利益 加强国家韧力, Lianhe Zaobao
 * <a href="https://www.zaobao.com.sg/news/singapore/story20220909-1311104" target="_blank">唐振辉：多元文化可促进共同利益 加强国家韧力, Lianhe Zaobao Online</a>
+* 黄循财：通过谈判和妥协解决分歧, Shin Min Daily News
 * Edwin Tong: S'pura giat perkukuh keharmonian agama, satukan masyarakat, Berita Harian
 * <a href="https://www.beritaharian.sg/setempat/edwin-tong-spura-giat-perkukuh-keharmonian-agama-satukan-masyarakat" target="_blank">Edwin Tong: S'pura giat perkukuh keharmonian agama, satukan masyarakat, Berita Harian Online</a>
 * Perpaduan sosial hasil usaha berterusan semua pihak: Lawrence, Berita Harian
@@ -43,6 +44,7 @@ description: Media
 * International Conference on Cohesive Societies, Warna 94.2 FM
 * International Conference on Cohesive Societies, Oli 96.8 FM
 * 多元文化可以促进共同利益, Hao FM 96.3
+* 疫情考研了社会凝聚力, UFM100.3
 * 
 
 **8 September 2022**  
