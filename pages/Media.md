@@ -4,6 +4,10 @@ permalink: /Media/
 description: Media
 ---
 # Media coverage     
+**11 September 2022**  
+* Resipi bentuk masyarakat bersepadu, dinamik dan maju jaya, Berita Minggu
+* <a href="https://www.beritaharian.sg/wacana/resipi-bentuk-masyarakat-bersepadu-dinamik-dan-maju-jaya" target="_blank">Resipi bentuk masyarakat bersepadu, dinamik dan maju jaya, Berita Harian Online</a>
+
 **9 September 2022**  
 * Call to continue growing community of young leaders for social cohesion, The Straits Times
 * Building a cohesive society requires deliberate, consistent effort: DPM Lawrence Wong, The Straits Times
