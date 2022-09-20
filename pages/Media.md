@@ -333,6 +333,10 @@ href="https://www.todayonline.com/commentary/debate-dialogue-two-religions-one-f
 * Minister Grace Fu on the Reason Singapore is Hosting the ICCS, carried on Hello Singapore (Channel 8)
 
 # Speeches and News Releases   
+* Opening Address by Mdm Halimah Yacob, President of the Republic of Singapore, at ICCS, 6 September 2022
+* Special Address by Cardinal Pietro Parolin, Secretary of State, Holy See, at ICCS, 6 September 2022
+* Speech by Mr Lawrence Wong, Deputy Prime Minister and Minister for Finance, Republic of Singapore, during an In Conversation session with DPM Wong at ICCS, 8 September 2022
+* Closing Address by Mr Edwin Tong, Minister for Culture, Community and Youth & Second Minister for Law, Republic of Singapore, at ICCS, 8 September 2022
 * [Media Release on The International Conference on Cohesive Societies to be Held in September This Year, 29 July 2022](/files/ICCS%202022%20Announcement%20Media%20Release.pdf)
 * <a 
 href="https://www.rsis.edu.sg/rsis-speeches-article/rsis/closing-remarks-by-mr-heng-swee-keat-deputy-prime-minister-and-minister-for-finance-at-the-international-conference-on-cohesive-societies-iccs/#.XQyi_-gzbIU" target="_blank">Closing Remarks by Mr Heng Swee Keat, Deputy Prime Minister and Minister for Finance, at ICCS, 21 June 2019</a>  
