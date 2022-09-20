@@ -4,6 +4,9 @@ permalink: /Media/
 description: Media
 ---
 # Media coverage     
+**16 September 2022**  
+* <a href="https://newsinfo.inquirer.net/1665168/study-ph-high-in-social-cohesion-embraces-diversity#ixzz7f0tjPWo2" target="_blank">Study: PH high in ‘social cohesion,’ embraces diversity, INQUIRER.net</a>
+
 **15 September 2022**  
 * 戴VR眼镜参观宗教场所, Lianhe Zaobao
 * <a href="https://www.zaobao.com.sg/news/singapore/story20220915-1313074" target="_blank">戴VR眼镜参观宗教场所, Lianhe Zaobao Online</a>
