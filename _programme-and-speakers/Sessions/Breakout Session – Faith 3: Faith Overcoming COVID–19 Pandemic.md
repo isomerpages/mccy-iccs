@@ -13,7 +13,7 @@ third_nav_title: Sessions
 # Synopsis
 This breakout session explores how traditions have evolved over this challenging global COVID-19 pandemic in relation to practice rituals and ways to worship. In particular, the session discusses how communities have built internal connections within themselves despite being unable to meet physically, but also how they have utilised technology to reach out beyond their own communities.
 # Speakers
-<img src="/images/Yang%20Mee%20Eng.png"
+<img src="/images/Mohd%20Hannan%20Hassan.jpg"
      style="width:50%" />
 
 **Dr Mohammad Hannan Hassan  
@@ -21,7 +21,7 @@ Deputy Mufti, Islamic Religious Council of Singapore (MUIS)**
 
 Dr Mohammad Hannan Hassan specialises in History and Philosophy of Islamic Higher Education, Muslim-Jewish relations, interfaith relations, and history and philosophy of Islamic law in the Malay Archipelago. 
 
-<img src="/images/Teresa%20Tan.jpg"
+<img src="/images/Edmund%20Fong.jpg"
      style="width:50%" />
 
 **Reverend Dr Edmund Fong  
