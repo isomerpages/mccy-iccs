@@ -22,6 +22,7 @@ description: Media
 **8 September 2022**  
 * Call for different faiths to pull together to attain common goals, The Straits Times
 * <a href="https://www.straitstimes.com/singapore/politics/building-a-cohesive-society-requires-deliberate-consistent-effort-dpm-wong" target="_blank">Building a cohesive society requires deliberate, consistent effort: DPM Lawrence Wong, The Straits Times Online</a>
+* <a href="https://www.straitstimes.com/singapore/disadvantages-in-life-are-multi-faceted-and-spore-will-keep-addressing-them-dpm-wong" target="_blank">Disadvantages in life are multi-faceted and S'pore will keep addressing them: DPM Wong, The Straits Times Online</a>
 * Peranan media sosial pupuk ikatan dalam masyarakat, Berita Harian
 * <a href="https://www.beritaharian.sg/setempat/peranan-media-sosial-pupuk-ikatan-dalam-masyarakat" target="_blank">Peranan media sosial pupuk ikatan dalam masyarakat, Berita Harian Online</a>
 * Akhlak aspek paling penting dalam capai kesepaduan sosial, Berita Harian
