@@ -9,6 +9,8 @@ description: Media
 * <a href="https://www.straitstimes.com/singapore/youth-leadership-crucial-for-social-cohesion-edwin-tong" target="_blank">Youth leadership crucial for social cohesion: Edwin Tong, The Straits Times Online</a>
 * 唐振辉：多元文化可促进共同利益 加强国家韧力, Lianhe Zaobao
 * <a href="https://www.zaobao.com.sg/news/singapore/story20220909-1311104" target="_blank">唐振辉：多元文化可促进共同利益 加强国家韧力, Lianhe Zaobao Online</a>
+* Edwin Tong: S'pura giat perkukuh keharmonian agama, satukan masyarakat, Berita Harian
+* <a href="https://www.beritaharian.sg/setempat/edwin-tong-spura-giat-perkukuh-keharmonian-agama-satukan-masyarakat" target="_blank">Edwin Tong: S'pura giat perkukuh keharmonian agama, satukan masyarakat, Berita Harian Online</a>
 
 **8 September 2022**  
 * Call for different faithsto pull together to attain common goals, The Straits Times
