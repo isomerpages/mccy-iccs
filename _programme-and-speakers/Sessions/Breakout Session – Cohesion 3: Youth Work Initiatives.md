@@ -16,18 +16,18 @@ This breakout session looks explicitly at the work of youth leaders in social co
 <img src="/images/Somboon.jpg"
      style="width:50%" />
 
-**Mr Somboon Chungprampree  
-Executive Secretary, International Network of Engaged Buddhists (INEB)**
+**Ms Arizza Ann Nocum  
+Founder, KRIS**
 
-Somboon Chungprampree (Moo), is a Thai social activist working for Peace and Justice in Asia. He is a civic leader and serves on the Board of a number of international and national foundations.
+Arizza Ann Nocum is the Co-Founder and President of KRIS, a non-profit organisation that utilises education as a pathway to peace in the Philippines. KRIS has built libraries and provided scholarships for young people victimised by conflict and poverty. Today, KRIS educates, empowers, and inspires young peace-builders through summits, training programmes, and offline and online information campaigns.
 
 <img src="/images/Julia%20Walsh.png"
      style="width:50%" />
 
-**Sister Julia Walsh  
-Franciscan Sisters of Perpetual Adoration**
+**Ms Farahnaz Ali Ghodsinia  
+Peace Ambassador to the Office of the Philippine Presidential Adviser on the Peace Process**
 
-Sister Julia Walsh is a Franciscan Sister of Perpetual Adoration and part of her congregation’s formation team, serving women who are discerning their vocation. Along with another Franciscan Sister, she co-founded The Fireplace, an intentional community and house of hospitality on Chicago’s southside that offers spiritual support to artists and activists.
+Farahnaz Ali Ghodsinia was born and raised in the Philippines. Farah graduated Magna Cum Laude from the University of the Philippines-Diliman with a degree in Broadcast Communications. Currently she is working to pursue her graduate studies while serving as the Peace Ambassador to the Office of the Philippine Presidential Adviser on the Peace Process.
 
 <img src="/images/Paul%20Hedges.jpg"
      style="width:50%" />
