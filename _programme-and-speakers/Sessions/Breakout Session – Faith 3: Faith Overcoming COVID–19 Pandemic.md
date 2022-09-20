@@ -32,7 +32,7 @@ Dean of Students**
 
 Reverend Dr Edmund Fong is an ordained minister of the Presbyterian Church in Singapore. Edmund joined the pastoral team of Adam Road Presbyterian Church in 2009. Edmund continues to participate actively in the pastoral and teaching ministries at Adam Road Presbyterian Church.
 
-<img src="/images/Teo%20Yi-Ling.jpg"
+<img src="/images/Chung%20Kwang%20Tong.png"
      style="width:50%" />
 
 <p style="color:#2B3062"><b>Moderator:</b></p>**Master Chung Kwang Tong  
