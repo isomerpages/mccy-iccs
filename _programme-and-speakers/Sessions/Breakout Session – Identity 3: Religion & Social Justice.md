@@ -11,7 +11,9 @@ third_nav_title: Sessions
 </div>
 
 # Synopsis
-This breakout session explores how traditions have evolved over this challenging global COVID-19 pandemic in relation to practice rituals and ways to worship. In particular, the session discusses how communities have built internal connections within themselves despite being unable to meet physically, but also how they have utilised technology to reach out beyond their own communities.
+This breakout session discusses some of the ways that religious identities inform social justice work, which in turn helps to deepen connections across various groups in society and promoting socially cohesive bonds. 
+
+Areas explored include overcoming racial and ethnic prejudice, protecting vulnerable individuals and communities beset by a lack of environmental justice, and countering radical and extremist narratives. It demonstrates examples of good practice and provide practical steps for working towards social justice from within various religious worldviews and identities.
 # Speakers
 <img src="/images/Mohd%20Hannan%20Hassan.jpg"
      style="width:50%" />
