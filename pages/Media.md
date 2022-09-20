@@ -7,6 +7,8 @@ description: Media
 **9 September 2022**  
 * Call to continue growing community of young leaders for social cohesion, The Straits Times
 * <a href="https://www.straitstimes.com/singapore/youth-leadership-crucial-for-social-cohesion-edwin-tong" target="_blank">Youth leadership crucial for social cohesion: Edwin Tong, The Straits Times Online</a>
+* 唐振辉：多元文化可促进共同利益 加强国家韧力, Lianhe Zaobao
+* <a href="https://www.zaobao.com.sg/news/singapore/story20220909-1311104" target="_blank">唐振辉：多元文化可促进共同利益 加强国家韧力, Lianhe Zaobao Online</a>
 
 **8 September 2022**  
 * Call for different faithsto pull together to attain common goals, The Straits Times
