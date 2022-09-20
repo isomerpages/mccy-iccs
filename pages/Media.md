@@ -19,7 +19,7 @@ description: Media
 * Peranan agamarapat jurang dibincangdi sidang silang agam, Berita Harian
 * <a href="https://www.beritaharian.sg/setempat/peranan-agama-rapat-jurang-dibincang-di-sidang-silang-agama" target="_blank">Peranan agama rapat jurang dibincang di sidang silang agama, Berita Harian Online</a>
 * 'கொவிட்‌-19 சூழல்‌ இதைவலியுறுத்தியது', Tamil Murasu
-* ‘கொவிட்-19 சூழல் இதை வலியுறுத்தியது’, Tamil Murasu Online
+* <a href="https://www.tamilmurasu.com.sg/singapore/story20220907-95644.html" target="_blank">‘கொவிட்-19 சூழல் இதை வலியுறுத்தியது’, Tamil Murasu Online</a>
 
 **6 September 2022**  
 * <a href="https://www.straitstimes.com/singapore/covid-19-showed-that-cohesive-societies-are-borne-of-choice-and-conviction-president-halimah" target="_blank">Covid-19 showed that cohesive societies are born of choice and conviction: President Halimah, The Straits Times Online</a>
