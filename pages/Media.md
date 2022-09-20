@@ -7,7 +7,8 @@ description: Media
 **9 September 2022**  
 **8 September 2022**  
 * Call for different faithsto pull together to attain common goals, The Straits Times
-* Peranan mediasosial pupukikatan dalammasyarakat, Berita Harian
+* Peranan media sosial pupuk ikatan dalam masyarakat, Berita Harian
+* <a href="https://www.beritaharian.sg/setempat/peranan-media-sosial-pupuk-ikatan-dalam-masyarakat" target="_blank">Peranan media sosial pupuk ikatan dalam masyarakat, Berita Harian Online</a>
 
 **7 September 2022**  
 * Cohesive societies born of choice and conviction: President Halimah, The Straits Times
