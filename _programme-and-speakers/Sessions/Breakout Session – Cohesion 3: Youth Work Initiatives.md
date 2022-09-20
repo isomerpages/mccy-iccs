@@ -32,15 +32,15 @@ Farahnaz Ali Ghodsinia was born and raised in the Philippines. Farah graduated M
 <img src="/images/Julia%20Walsh.png"
      style="width:50%" />
 
-**Mr Shukul Raaj Kumar
-Chairperson, Inter-Religious Organisation Youth Committee
+**Mr Shukul Raaj Kumar  
+Chairperson, Inter-Religious Organisation Youth Committee**
+   
+Shukul Raaj Kumar is currently the Chairperson of the Inter-Religious Organisation Youth Committee. A Certified Scrum Master, he is also the Vice-Chairperson leading the Programmes team in Hindu Youth Network, that falls under the auspices of Hindu Endowment Board. He will also be doing his Masters in International Relations in August 2022 from the S. Rajaratnam School of International Studies (RSIS) in Nanyang Technological University.
 
-Farahnaz Ali Ghodsinia was born and raised in the Philippines. Farah graduated Magna Cum Laude from the University of the Philippines-Diliman with a degree in Broadcast Communications. Currently she is working to pursue her graduate studies while serving as the Peace Ambassador to the Office of the Philippine Presidential Adviser on the Peace Process.
 <img src="/images/Paul%20Hedges.jpg"
      style="width:50%" />
 
-<p style="color:#2B3062"><b>Moderator:</b></p>**Associate Professor Paul Hedges  
-Associate Professor, Studies in Inter-Religious Relations in Plural Societies Programme  
-S. Rajaratnam School of International Studies, Nanyang Technological University, Singapore**
+<p style="color:#2B3062"><b>Moderator:</b></p>**Mr Abbas Ali Mohamed Irshad  
+Founder, Roses of Peace**
 
-Paul Hedges was previously a Reader in Interreligious Studies at the University of Winchester, United Kingdom, and has worked at or lectured in other British, Canadian, European, and Chinese universities. He is co-editor of Interreligious Studies and Intercultural Theology, editor-in-chief of the Occasional Paper series Interreligious Relations, and sits on the editorial board of a number of other journal and book series. He publishes widely in interreligious studies, religious studies, and theology.
+Abbas Ali Mohamed Irshad is tackling the issue of apathy towards religious harmony among young people in Singapore with his inter-faith nonprofit group Roses of Peace. He encourages them to engage in difficult conversations about religion, a crucial topic in multi-ethnic Singapore, and other issues they face such as the rising cost of living and the mismatch between skills and job opportunities.
