@@ -34,7 +34,8 @@ Sister Julia Walsh is a Franciscan Sister of Perpetual Adoration and part of her
 <img src="/images/Chung%20Kwang%20Tong.png"
      style="width:50%" />
 
-<p style="color:#2B3062"><b>Moderator:</b></p>**Master Chung Kwang Tong  
-Board Member, Character & Leadership Academy**
+<p style="color:#2B3062"><b>Moderator:</b></p>**Associate Professor Paul Hedges  
+Associate Professor, Studies in Inter-Religious Relations in Plural Societies Programme  
+S. Rajaratnam School of International Studies, Nanyang Technological University, Singapore**
 
-Master Chung is a Taoist priest of the Quan Zhen Long-men (Dragon Gate) Tradition. He is also a Deputy Executive Director at the Character and Leadership Academy, and sits on several public and people advisory committees.
+Paul Hedges was previously a Reader in Interreligious Studies at the University of Winchester, United Kingdom, and has worked at or lectured in other British, Canadian, European, and Chinese universities. He is co-editor of Interreligious Studies and Intercultural Theology, editor-in-chief of the Occasional Paper series Interreligious Relations, and sits on the editorial board of a number of other journal and book series. He publishes widely in interreligious studies, religious studies, and theology.
