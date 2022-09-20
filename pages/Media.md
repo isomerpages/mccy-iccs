@@ -13,6 +13,8 @@ description: Media
 * <a href="https://www.beritaharian.sg/setempat/edwin-tong-spura-giat-perkukuh-keharmonian-agama-satukan-masyarakat" target="_blank">Edwin Tong: S'pura giat perkukuh keharmonian agama, satukan masyarakat, Berita Harian Online</a>
 * சமூக ஒற்றுமைக்கு இளம் தலைவர்கள் முக்கியம், Tamil Murasu
 * <a href="https://www.tamilmurasu.com.sg/singapore/story20220909-95790.html" target="_blank">சமூக ஒற்றுமைக்கு இளம் தலைவர்கள் முக்கியம், Tamil Murasu Online</a>
+* Enhancing Social Cohesion: Regional studies should be conducted more regularly: Edwin Tong, Channel NewsAsia
+* Edwin Tong: Youth leadership is crucial for social cohesion, Money FM 89.3
 
 **8 September 2022**  
 * Call for different faithsto pull together to attain common goals, The Straits Times
