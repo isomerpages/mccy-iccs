@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Programme Overview.md
-      - Speeches/Closing Address by Minister Edwin Tong.md
       - Speeches/.keep
       - Speeches/Opening Address by President Halimah Yacob.md
       - Speeches/Special Address by Cardinal Pietro Parolin.md
       - Speeches/Speech by Deputy Prime Minister Lawrence Wong.md
+      - Speeches/Closing Address by Minister Edwin Tong.md
       - Sessions & Speakers/.keep
       - "Sessions & Speakers/Special Presentation: Perspectives on Social
         Cohesion.md"
