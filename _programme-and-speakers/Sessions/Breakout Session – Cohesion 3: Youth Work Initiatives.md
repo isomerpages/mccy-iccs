@@ -13,7 +13,7 @@ third_nav_title: Sessions
 # Synopsis
 This breakout session looks explicitly at the work of youth leaders in social cohesion across Asia. The way that specific approaches to connect with young people and bridge potentially divisive partitions between communities will be of particular interest. It stresses the practice of building effective youth dialogue and service movements, rather than the theories involved in reaching younger people.
 # Speakers
-<img src="/images/Somboon.jpg"
+<img src="/images/Arizza%20Nocum.png"
      style="width:50%" />
 
 **Ms Arizza Ann Nocum  
