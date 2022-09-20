@@ -3,7 +3,7 @@ title: Community Experience
 permalink: /CommunityExperience/
 description: Community Experience
 ---
-The Community Experience is an immersive programme and will provide local and foreign delegates an opportunity to experience first-hand the manifestation of Singapore’s interracial and interreligious harmony policies, through interacting with our local community partners. 
+The Community Experience is an immersive programme and provides local and foreign delegates an opportunity to experience first-hand the manifestation of Singapore’s interracial and interreligious harmony policies, through interacting with our local community partners. 
 
 
 

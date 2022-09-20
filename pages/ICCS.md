@@ -8,20 +8,26 @@ description: About ICCS
 <iframe width="560" height="315" src="https://www.youtube.com/embed/snrH4UicNio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 </div>
-
+# About ICCS 2022
 We have many identities. Faith, ethnicity, culture, nationality – all intertwining and defining us as individuals. How can we unite despite our differences? How do we form bonds and bridge divides?
 
-It is a pivotal time for conversations, as the world emerges from a pandemic where polarisation and social isolation have come to the fore. Through the theme ***“Confident Identities, Connected Communities”***, The International Conference on Cohesive Societies (ICCS) 2022 will set the stage for the world to re-examine our multiple identities and the connections with our communities, covering the key aspects of faith, identity and cohesion.
+ICCS 2022 was held from 6<sup>th</sup> to 8<sup>th</sup> September 2022 at a pivotal time for conversations, as the world emerges from a pandemic where polarisation and social isolation have come to the fore. Through the theme ***“Confident Identities, Connected Communities”***, The International Conference on Cohesive Societies (ICCS) 2022 examined our multiple identities and the connections with our communities, covering the key aspects of faith, identity and cohesion.
 
-We will also cast a spotlight on youth as future leaders in an increasingly digitalised world and their immensely important role in fostering social cohesion.
+The Conference also cast a spotlight on youth as future leaders in an increasingly digitalised world and their immensely important role in fostering social cohesion.
 
-Find out more about the programme for ICCS 2022 [here](/ProgrammeSpeakers).
+Read more about the programme and event happenings [here](/ProgrammeOverview/).
 # Background
 
 ![President on stage](/images/icciccsstage.jpg)
 <font color = "grey"><font size="-1">Venerable Seck Kwang Phing presenting a commemorative version of the Commitment to Safeguard Religious Harmony to President Halimah Yacob on behalf of Singapore's National Steering Committee at ICCS 2019 on 19 June 2019. (Photo: MCCY)</font></font>
 
 The ICCS is the preeminent event for interfaith and multicultural dialogue. Mooted by President of Singapore Halimah Yacob, the Conference was held in Singapore for the first time in 2019, showcasing the tropical island-state’s unique approach to managing communal ties within a diverse population. It is organised by the S. Rajaratnam School of International Studies (RSIS) and supported by the Ministry of Culture, Community and Youth (MCCY).
+
+<div class="bp-youtube">
+	
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UNgvcEaJT4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
+</div>
 
 # ICCS Secretariat
 **The S. Rajaratnam School of International Studies (RSIS)** is a global think tank and professional graduate school of international affairs at the Nanyang Technological University, Singapore. An autonomous school, RSIS’ mission is to be a leading research and graduate teaching institution in strategic and international affairs in the Asia Pacific. With the core functions of research, graduate education, and networking, it produces research on Asia Pacific Security, Multilateralism and Regionalism, Conflict Studies, Non-traditional Security, Cybersecurity, Maritime Security and Terrorism Studies.

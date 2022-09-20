@@ -1,9 +1,139 @@
 ---
 title: Media
-permalink: /Media
+permalink: /Media/
 description: Media
 ---
 # Media coverage     
+**17 September 2022**  
+* <a href="https://www.heraldmalaysia.com/news/parolin-addresses-singapore-social-cohesion-meet/67641/2" target="_blank">Parolin addresses Singapore social cohesion meet, Herald Malaysia Online</a>
+
+**16 September 2022**  
+* <a href="https://newsinfo.inquirer.net/1665168/study-ph-high-in-social-cohesion-embraces-diversity#ixzz7f0tjPWo2" target="_blank">Study: PH high in ‘social cohesion,’ embraces diversity, INQUIRER.net</a>
+
+**15 September 2022**  
+* 戴VR眼镜参观宗教场所, Lianhe Zaobao
+* <a href="https://www.zaobao.com.sg/news/singapore/story20220915-1313074" target="_blank">戴VR眼镜参观宗教场所, Lianhe Zaobao Online</a>
+
+**11 September 2022**  
+* Resipi bentuk masyarakat bersepadu, dinamik dan maju jaya, Berita Minggu
+* <a href="https://www.beritaharian.sg/wacana/resipi-bentuk-masyarakat-bersepadu-dinamik-dan-maju-jaya" target="_blank">Resipi bentuk masyarakat bersepadu, dinamik dan maju jaya, Berita Harian Online</a>
+
+**9 September 2022**  
+* Call to continue growing community of young leaders for social cohesion, The Straits Times
+* Building a cohesive society requires deliberate, consistent effort: DPM Lawrence Wong, The Straits Times
+* S’pore continually looking into multi-faceted issue of disadvantages facing those less well off, The Straits Times
+* <a href="https://www.straitstimes.com/singapore/youth-leadership-crucial-for-social-cohesion-edwin-tong" target="_blank">Youth leadership crucial for social cohesion: Edwin Tong, The Straits Times Online</a>
+* 黄循财：多元化社会必有立场差异 应避免观点分歧撕裂社会, Lianhe Zaobao
+* <a href="https://www.zaobao.com.sg/news/singapore/story20220909-1311090" target="_blank">黄循财：多元化社会必有立场差异 应避免观点分歧撕裂社会, Lianhe Zaobao Online</a>
+* 黄循财：警惕可能撕裂社会的断层线, Lianhe Zaobao
+* <a href="https://www.zaobao.com.sg/news/singapore/story20220909-1311103" target="_blank">黄循财：警惕可能撕裂社会的断层线, Lianhe Zaobao Online</a>
+* 黄循财：国人须意识到国家建设不单是政府责任, Lianhe Zaobao
+* <a href="https://www.zaobao.com.sg/news/singapore/story20220909-1311102" target="_blank">黄循财：国人须意识到 国家建设不单是政府责任, Lianhe Zaobao Online</a>
+* 唐振辉：多元文化可促进共同利益 加强国家韧力, Lianhe Zaobao
+* <a href="https://www.zaobao.com.sg/news/singapore/story20220909-1311104" target="_blank">唐振辉：多元文化可促进共同利益 加强国家韧力, Lianhe Zaobao Online</a>
+* 黄循财：通过谈判和妥协解决分歧, Shin Min Daily News
+* Edwin Tong: S'pura giat perkukuh keharmonian agama, satukan masyarakat, Berita Harian
+* <a href="https://www.beritaharian.sg/setempat/edwin-tong-spura-giat-perkukuh-keharmonian-agama-satukan-masyarakat" target="_blank">Edwin Tong: S'pura giat perkukuh keharmonian agama, satukan masyarakat, Berita Harian Online</a>
+* Perpaduan sosial hasil usaha berterusan semua pihak: Lawrence, Berita Harian
+* <a href="https://www.beritaharian.sg/setempat/perpaduan-sosial-hasil-usaha-berterusan-semua-pihak-lawrence" target="_blank">Perpaduan sosial hasil usaha berterusan semua pihak: Lawrence, Berita Harian Online</a>
+* சமூக ஒற்றுமைக்கு இளம் தலைவர்கள் முக்கியம், Tamil Murasu
+* ஒன்றிணைந்த சமூகம் உருவாக விடாமுயற்சி அவசியம்: வோங், Tamil Murasu
+* <a href="https://www.tamilmurasu.com.sg/singapore/story20220909-95790.html" target="_blank">சமூக ஒற்றுமைக்கு இளம் தலைவர்கள் முக்கியம், Tamil Murasu Online</a>
+* Enhancing Social Cohesion: Regional studies should be conducted more regularly: Edwin Tong, Channel NewsAsia
+* Maintaining Social Cohesion, Channel NewsAsia
+* Enhancing Social Cohesion, Channel 5
+* Enhancing Social Cohesion, Channel U
+* Usaha konsisten untuk bina perpaduan SG: DPM Wong, Suria
+* Lawrence Wong, Vasantham
+* Social cohesion does not happen by chance, CNA938
+* Forward Singapore exercise not a political one: DPM Wong, CNA938
+* Covid-19 pandemic also a test of social cohesion: DPM Wong, Kiss92
+* Covid-19 pandemic also a test of social cohesion: DPM Wong, Money FM 89.3
+* Covid-19 pandemic also a test of social cohesion: DPM Wong, ONE FM 91.3
+* Edwin Tong: Youth leadership is crucial for social cohesion, Money FM 89.3
+* International Conference on Cohesive Societies, Warna 94.2FM
+* 黄循财：我国社会凝聚力绝非偶然, Capital 95.8
+* Forward Singapore exercise not a political one: DPM Wong, Capital 95.8
+* International Conference on Cohesive Societies, Warna 94.2 FM
+* International Conference on Cohesive Societies, Warna 94.2 FM
+* International Conference on Cohesive Societies, Oli 96.8 FM
+* 多元文化可以促进共同利益, Hao FM 96.3
+* 疫情考研了社会凝聚力, Hao FM 96.3
+* DPM Lawrence Wong, Hao FM 96.3
+* 疫情考研了社会凝聚力, UFM100.3
+* DPM Lawrence Wong, Warna 94.2 FM
+* DPM Lawrence Wong, Oli 96.8 FM
+* <a href="https://www.malaymail.com/news/malaysia/2022/09/09/the-malaysian-youths-on-a-mission-for-social-cohesion/27222" target="_blank">The Malaysian youths on a mission for social cohesion, Malay Mail</a>
+* <a href="https://borneobulletin.com.bn/conference-enables-unity-community-development/" target="_blank">Conference enables unity, community development, Borneo Bulletin</a>
+
+**8 September 2022**  
+* Call for different faiths to pull together to attain common goals, The Straits Times
+* <a href="https://www.straitstimes.com/singapore/politics/building-a-cohesive-society-requires-deliberate-consistent-effort-dpm-wong" target="_blank">Building a cohesive society requires deliberate, consistent effort: DPM Lawrence Wong, The Straits Times Online</a>
+* <a href="https://www.straitstimes.com/singapore/disadvantages-in-life-are-multi-faceted-and-spore-will-keep-addressing-them-dpm-wong" target="_blank">Disadvantages in life are multi-faceted and S'pore will keep addressing them: DPM Wong, The Straits Times Online</a>
+* <a href="https://www.todayonline.com/singapore/lawrence-wong-cohesion-struggling-families-1987856" target="_blank">Helping struggling families goes beyond handing out cash, but effort is worth it to gain social cohesion: Lawrence Wong, TODAY Online</a>
+* Peranan media sosial pupuk ikatan dalam masyarakat, Berita Harian
+* <a href="https://www.beritaharian.sg/setempat/peranan-media-sosial-pupuk-ikatan-dalam-masyarakat" target="_blank">Peranan media sosial pupuk ikatan dalam masyarakat, Berita Harian Online</a>
+* Akhlak aspek paling penting dalam capai kesepaduan sosial, Berita Harian
+* <a href="https://www.beritaharian.sg/setempat/akhlak-aspek-paling-penting-dalam-capai-kesepaduan-sosial" target="_blank">Akhlak aspek paling penting dalam capai kesepaduan sosial, Berita Harian Online</a>
+* Perlu ada pengorbanan dalam buru perpaduan sosial: ahli panel silang agama, Berita Harian
+* <a href="https://www.beritaharian.sg/setempat/perlu-ada-pengorbanan-dalam-buru-perpaduan-sosial-ahli-panel-silang-agama" target="_blank">Perlu ada pengorbanan dalam buru perpaduan sosial: ahli panel silang agama, Berita Harian Online</a>
+* <a href="https://www.8world.com/singapore/lawrence-wong-social-cohesion-1912671" target="_blank">黄循财：我国社会凝聚力非偶然产生, 8world</a>
+* <a href="https://indonesia.ucanews.com/2022/09/08/pidato-di-singapura-kardinal-parolin-soroti-pentingnya-kohesi-sosial/" target="_blank">Pidato di Singapura, Kardinal Parolin soroti pentingnya kohesi sosial, UCA News Indonesia</a>
+
+**7 September 2022**  
+* Cohesive societies born of choice and conviction: President Halimah, The Straits Times
+* Social cohesion is more than about race or religion: SMU president, The Straits Times
+* <a href="https://www.straitstimes.com/singapore/collaboration-of-different-faiths-needed-to-achieve-shared-objectives-interfaith-conference-panel" target="_blank">Inter-faith collaboration needed to achieve shared objectives: Panel, The Straits Times Online</a>
+* <a href="https://www.straitstimes.com/singapore/experts-at-interfaith-conference-warn-of-digital-divide-underscore-importance-of-connectivity" target="_blank">Experts at interfaith conference warn of digital divide, underscore importance of connectivity, The Straits Times Online</a>
+* 哈莉玛总统：社会凝聚力是集体安全必要条件, Lianhe Zaobao
+* <a href="https://www.zaobao.com.sg/news/singapore/story20220907-1310407" target="_blank">哈莉玛总统：社会凝聚力是集体安全必要条件, Lianhe Zaobao Online</a>
+* 本地研究院调查：亚细安国家中我国社会最有凝聚力, Lianhe Zaobao
+* <a href="https://www.zaobao.com.sg/news/singapore/story20220907-1310406" target="_blank">本地研究院调查：亚细安国家中我国社会最有凝聚力, Lianhe Zaobao Online</a>
+* Penyertaan golongan mudagalak perpaduan sosial kianmeningkat: Edwin Tong, Berita Harian
+* ‘Gam sosial’ penting demiperpaduan warga semasakrisis: Presiden Halimah, Berita Harian
+* <a href="https://www.beritaharian.sg/setempat/gam-sosial-penting-demi-perpaduan-warga-semasa-krisis-presiden-halimah" target="_blank">'Gam sosial' penting demi perpaduan warga semasa krisis: Presiden Halimah, Berita Harian Online</a>
+* Peranan agamarapat jurang dibincangdi sidang silang agam, Berita Harian
+* <a href="https://www.beritaharian.sg/setempat/peranan-agama-rapat-jurang-dibincang-di-sidang-silang-agama" target="_blank">Peranan agama rapat jurang dibincang di sidang silang agama, Berita Harian Online</a>
+* 'கொவிட்‌-19 சூழல்‌ இதைவலியுறுத்தியது', Tamil Murasu
+* <a href="https://www.tamilmurasu.com.sg/singapore/story20220907-95644.html" target="_blank">‘கொவிட்-19 சூழல் இதை வலியுறுத்தியது’, Tamil Murasu Online</a>
+* President Halimah urges to build open platforms to discuss sensitive issues and work together to strengthen unity and resilience in societies, Capital 958
+* President Halimah urges to build open platforms to discuss sensitive issues and work together to strengthen unity and resilience in societies, Oli 96.8 FM
+* <a href="https://www.malaymail.com/news/malaysia/2022/09/07/whats-the-glue-holding-malaysian-society-together-study-shows-shared-identity-and-diversity-acceptance-biggest-influencers/26851" target="_blank">What’s the glue holding Malaysian society together? Study shows shared identity and diversity acceptance biggest influencers, Malay Mail</a>
+* <a href="https://www.ucanews.com/news/parolin-addresses-singapore-social-cohesion-meet/98671" target="_blank">Parolin addresses Singapore social cohesion meet, Union of Catholic Asian News</a>
+* <a href="https://www.vaticannews.va/it/vaticano/news/2022-09/cardinale-parolin-intervento-singapore.html" target="_blank">Parolin: bene comune e senso di umanità, passi verso società più coese, Vatican News</a>
+
+**6 September 2022**  
+* <a href="https://www.straitstimes.com/singapore/covid-19-showed-that-cohesive-societies-are-borne-of-choice-and-conviction-president-halimah" target="_blank">Covid-19 showed that cohesive societies are born of choice and conviction: President Halimah, The Straits Times Online</a>
+* <a href="https://www.straitstimes.com/singapore/more-to-social-cohesion-than-just-racial-and-religious-harmony-says-smu-president" target="_blank">More to social cohesion than just racial and religious harmony, says SMU president, The Straits Times Online</a>
+* <a href="https://www.channelnewsasia.com/singapore/halimah-yacob-societies-social-glue-bonds-cohesion-2921561" target="_blank">Societies cannot survive without the social glue that bonds people together: President Halimah, CNA Online</a>
+* <a href="https://www.todayonline.com/singapore/rsis-survey-thought-leaders-finds-singapore-has-highest-level-social-cohesion-among-asean-member-states-1985016" target="_blank">RSIS survey of 'thought leaders' finds Singapore has highest level of social cohesion among Asean member states, TODAY Online</a>
+* <a href="https://www.zaobao.com.sg/realtime/singapore/story20220906-1310183">哈莉玛：要保障集体安全 须了解促进社会凝聚力的要素, Lianhe Zaobao Online</a>
+* <a href="https://www.8world.com/singapore/rsis-survey-singapore-highest-level-of-cohesion-among-asean-1909951">研究：我国社会凝聚力在亚细安国家中是最强的, 8world</a>
+* <a href="https://berita.mediacorp.sg/singapura/masyarakat-tidak-dapat-bertahan-tanpa-perekat-sosial-yang-satukan-penduduk-presiden-halimah-688376">Masyarakat tidak dapat bertahan tanpa perekat sosial yang satukan penduduk: Presiden Halimah, Berita Online</a>
+* <a href="https://berita.mediacorp.sg/singapura/bangunkan-platform-selamat-dan-terbuka-untuk-bincang-isu-sensitif-demi-perpaduan-sosial-presiden-halimah-688411">Bangunkan platform selamat dan terbuka untuk bincang isu sensitif demi perpaduan sosial: Presiden Halimah, Berita Online</a>
+* <a href="https://berita.mediacorp.sg/singapura/spura-punyai-tahap-perpaduan-sosial-tertinggi-antara-negara-anggota-asean-tinjauan-rsis-688441">S'pura punyai tahap perpaduan sosial tertinggi antara negara anggota ASEAN: Tinjauan RSIS, Berita Online</a>
+* Presiden Halimah seru wujudkan platform terbuka untuk kukuhkan perpaduan, Berita
+* Antara saranan termasuk mencari cara kreatif untuk tarik minat belia, Berita
+* Enhancing Social Cohesion: President Halimah calls for more open platforms to discuss sensitive issues, Channel NewsAsia
+* Enhancing Social Cohesion, Channel NewsAsia
+* Ensuring Social Cohesion, Channel 5
+* 哈莉玛：继续创造安全和开放的平台, 狮城有约, Channel 8
+* 哈莉玛：继续创造安全和开放的平台, Channel 8
+* 哈莉玛：继续创造安全和开放的平台, Channel U
+* A call for Singapore to continue creating safe and open platforms, CNA938
+* International Conference on Cohesive Societies begins today, CNA938
+* Cohesive societies are born of choice and conviction: President Halimah, Money FM 89.3
+* Cohesive societies are born of choice and conviction: President Halimah, Kiss 92
+* Cohesive societies are born of choice and conviction: President Halimah, ONE FM 91.3
+* 我国的社会凝聚力在亚细安国家中是最强的, Capital 958
+* 必须要了解促进社会凝聚力的要素, Hao FM 96.3
+* 东南亚凝聚力的整体水平是69%, Hao FM 96.3
+* 必须要了解促进社会凝聚力的要素, UFM100.3
+* International Conference on Cohesive Societies, Warna 94.2 FM 
+* International Conference on Cohesive Societies, Oli 96.8 FM
+* <a href="https://www.malaymail.com/news/singapore/2022/09/06/in-singapore-conference-on-social-cohesion-seeks-to-connect-region-after-divisive-pandemic/26869" target="_blank">In Singapore, conference on ‘social cohesion’ seeks to connect region after divisive pandemic, Malay Mail</a>
+* <a href="https://www.thejakartapost.com/indonesia/2022/09/06/thought-leaders-consider-asean-has-strong-social-cohesion-study.html" target="_blank">Thought leaders consider ASEAN has “strong” social cohesion: Study, The Jakarta Post</a>
+
 **31 July 2022**  
 * <a href="https://www.zaobao.com.sg/news/singapore/story20220731-1298149" target="_blank">第二届社会和谐国际大会 9月来福士城会展中心举行, Lianhe Zaobao</a>
 * உலக சமய மாநாடு: அதிபர், துணைப் பிரதமர் உரை, Tamil Murasu
@@ -203,6 +333,13 @@ href="https://www.todayonline.com/commentary/debate-dialogue-two-religions-one-f
 * Minister Grace Fu on the Reason Singapore is Hosting the ICCS, carried on Hello Singapore (Channel 8)
 
 # Speeches and News Releases   
+* [Opening Address by Mdm Halimah Yacob, President of the Republic of Singapore, at ICCS, 6 September 2022](/programme-and-speakers/Speeches/OpeningAddress/)
+* [Special Address by Cardinal Pietro Parolin, Secretary of State, Holy See, at ICCS, 6 September 2022](/programme-and-speakers/Speeches/SpecialAddress/)
+* [Speech by Mr Lawrence Wong, Deputy Prime Minister and Minister for Finance, Republic of Singapore, during an In Conversation session with DPM Wong at ICCS, 8 September 2022](/programme-and-speakers/Speeches/DPM-Speech/)
+* [Closing Address by Mr Edwin Tong, Minister for Culture, Community and Youth & Second Minister for Law, Republic of Singapore, at ICCS, 8 September 2022](/programme-and-speakers/Speeches/ClosingAddress/)
+* [Media Release on Day 1: The International Conference on Cohesive Societies Kicks Off Today, 6 September 2022](/files/ICCS%20Day%201%20Media%20Release.pdf)
+* [Media Note on Day 2: The ICCS Young Leaders Programme Brings Together Like-minded Youths to Collaborate on Community-building Initiatives, 7 September 2022](/files/ICCS%20Day%202%20Media%20Note.pdf)
+* [Media Note on Day 3: The International Conference On Cohesive Societies (ICCS) Draws to a Close, 8 September 2022](/files/ICCS%20Day%203%20Media%20Note.pdf)
 * [Media Release on The International Conference on Cohesive Societies to be Held in September This Year, 29 July 2022](/files/ICCS%202022%20Announcement%20Media%20Release.pdf)
 * <a 
 href="https://www.rsis.edu.sg/rsis-speeches-article/rsis/closing-remarks-by-mr-heng-swee-keat-deputy-prime-minister-and-minister-for-finance-at-the-international-conference-on-cohesive-societies-iccs/#.XQyi_-gzbIU" target="_blank">Closing Remarks by Mr Heng Swee Keat, Deputy Prime Minister and Minister for Finance, at ICCS, 21 June 2019</a>  
