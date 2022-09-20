@@ -19,6 +19,8 @@ description: Media
 * <a href="https://www.zaobao.com.sg/news/singapore/story20220909-1311104" target="_blank">唐振辉：多元文化可促进共同利益 加强国家韧力, Lianhe Zaobao Online</a>
 * Edwin Tong: S'pura giat perkukuh keharmonian agama, satukan masyarakat, Berita Harian
 * <a href="https://www.beritaharian.sg/setempat/edwin-tong-spura-giat-perkukuh-keharmonian-agama-satukan-masyarakat" target="_blank">Edwin Tong: S'pura giat perkukuh keharmonian agama, satukan masyarakat, Berita Harian Online</a>
+* Perpaduan sosial hasil usaha berterusan semua pihak: Lawrence, Berita Harian
+* <a href="https://www.beritaharian.sg/setempat/perpaduan-sosial-hasil-usaha-berterusan-semua-pihak-lawrence" target="_blank">Perpaduan sosial hasil usaha berterusan semua pihak: Lawrence, Berita Harian Online</a>
 * சமூக ஒற்றுமைக்கு இளம் தலைவர்கள் முக்கியம், Tamil Murasu
 * <a href="https://www.tamilmurasu.com.sg/singapore/story20220909-95790.html" target="_blank">சமூக ஒற்றுமைக்கு இளம் தலைவர்கள் முக்கியம், Tamil Murasu Online</a>
 * Enhancing Social Cohesion: Regional studies should be conducted more regularly: Edwin Tong, Channel NewsAsia
