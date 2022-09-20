@@ -30,6 +30,8 @@ description: Media
 * Enhancing Social Cohesion, Channel U
 * Usaha konsisten untuk bina perpaduan SG: DPM Wong, Suria
 * Lawrence Wong, Vasantham
+* Social cohesion does not happen by chance, CNA938
+* Forward Singapore exercise not a political one: DPM Wong, CNA938
 * Edwin Tong: Youth leadership is crucial for social cohesion, Money FM 89.3
 * International Conference on Cohesive Societies, Warna 94.2FM
 
