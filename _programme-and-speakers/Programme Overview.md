@@ -14,7 +14,7 @@ ICCS 2022 was held from 6<sup>th</sup> to 8<sup>th</sup> September 2022 at the R
 The 3-day programme featured speeches by renowned speakers from around the world, panel discussions and dialogues on the themes of faith, identity and cohesion.
 
 # Programme
-<font size="+2">**Day 0 – 5 September 2022**</cfont>
+**<font size="+2">Day 0 – 5 September 2022</font>**
 * Community Dialogue
 
 ![](/images/ICCS%20teal%20line.png)
