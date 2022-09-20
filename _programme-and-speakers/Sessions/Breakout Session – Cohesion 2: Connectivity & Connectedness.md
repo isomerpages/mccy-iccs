@@ -21,7 +21,7 @@ Executive Director, ASEAN Foundation**
 
 Dr Yang worked in private and government sectors for over 26 years.. She was most recently the Senior Vice President at Alphacap.  There, she assisted SME companies and led the development and execution of Bloconomic Expo 2019, a platform aimed at creating a vast network of blockchain entrepreneurs and developers in the fast-evolving blockchain companies. Prior to that, she was the CEO of Gameview, the largest mobile game publisher in Malaysia, where she oversaw more than 50 staff members in their three offices in Malaysia, China and Thailand. 
 
-<img src="/images/Teresa%20Tan.jpg"
+<img src="/images/Teresa%20Tan%202.jpg"
      style="width:50%" />
 
 **Ms Teresa Tan  
