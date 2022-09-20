@@ -13,109 +13,72 @@ third_nav_title: Speeches
 **<font size="+2">Closing Address by Mr Edwin Tong, Minister for Culture, Community and Youth & Second Minister for Law, Republic of Singapore, at the International Conference on Cohesive Societies 2022</font>**  
 <font size="-1">8 September 2022</font>
 
-Distinguished guests,
+Distinguished guests,  
+Ladies and gentlemen,  
 
-Ladies and gentlemen, 
+Good Afternoon
 
-1. Good Afternoon
+All too soon, we have now reached the last few hours of the International Conference on Cohesive Societies (ICCS) 2022, 2nd edition.
 
-2. All too soon, we have now reached the last few hours of the International Conference on Cohesive Societies (ICCS) 2022, 2nd edition.
+Lovely to see everyone, but time has just flown by, hasn’t it? It seemed only a moment ago that we had President Halimah open ICCS, standing right here.
 
-3. Lovely to see everyone, but time has just flown by, hasn’t it?
+I must say that not long after the first ICCS which we hosted in 2019, the COVID-19 pandemic unfortunately hit us, and we were not sure whether or when we could host the second one. But we were determined to find a place to hold the second one. And looking back on those days and seeing you all the past couple of days, we are so glad we did. Thank you very much to all of you.
 
-a. It seemed only a moment ago that we had President Halimah open ICCS, standing right here.
+This event has been a tremendous opportunity for us to rekindle old friendships and make many new ones. After all, building cohesive societies start with you and I. All of us, each of us, building strong friendships, fostering a deep sense of camaraderie, lasting ties, amongst all of us. And what we build here, we can bring back to our own countries. And that can grow exponentially.
 
-4. I must say that not long after the first ICCS which we hosted in 2019, the COVID-19 pandemic unfortunately hit us, and we were not sure whether or when we could host the second one.
+On this note, my colleagues and I in Singapore are very glad to have all of your support in making ICCS 2022 a very successful one. 
 
-a. But we were determined to find a place to hold the second one.
+We are so honoured to host more than 50 speakers, 800 delegates from about 40 countries, including 120 youth leaders. As I was saying, we have also been joined by 300 online participants over the past three days.
 
-b. And looking back on those days and seeing you all the past couple of days, we are so glad we did.
+I hope that this has been a fruitful conversation, fruitful Conference, but more importantly, your presence, each of your presences from so many different parts of the world, is a reflection of the strong, deep interest, in the topic and the collective, shared sense of responsibility that we all have. We all see this as our mission to build a culture of cohesion in our own societies.
 
-c. Thank you very much to all of you.
+This also tells us that while we might live in different societies, different parts of the world, in different continents, with our own different nuances, cultures, practices, traditions, each with our own sets of different circumstances and challenges. I think our shared commonality is that we are bound by responsibility to make cohesion happen in our own societies. And we all see value in listening to, and learning from one another.
 
-d. This event has been a tremendous opportunity for us to rekindle old friendships and make many new ones.
+**Overview of ICCS**  
 
-e. After all, building cohesive societies start with you and I. All of us, each of us, building strong friendships, fostering a deep sense of camaraderie, lasting ties, amongst all of us.
+So let me thank all the speakers that we’ve had past couple of days for your thoughtful and thought-provoking speeches, and for sharing your experiences so richly and so generously. It left us with a lot to think about.
 
-f. And what we build here, we can bring back to our own countries. And that can grow exponentially.
+I also want to thank our moderators for facilitating the discussions, and all our delegates for actively participating and lending a lot of vibrancy and vibe to ICCS 2022.
 
-5. On this note, my colleagues and I in Singapore are very glad to have all of your support in making ICCS 2022 a very successful one. 
-
-6. We are so honoured to host
-
-a. More than 50 speakers, 800 delegates from about 40 countries,
-
-b. including 120 youth leaders.
-
-c. As I was saying, we have also been joined by 300 online participants over the past three days.
-
-d. I hope that this has been a fruitful conversation, fruitful Conference, but more importantly, your presence, each of your presences from so many different parts of the world, is a reflection of the strong, deep interest, in the topic and the collective, shared sense of responsibility that we all have.
-
-e. We all see this as our mission to build a culture of cohesion in our own societies.
-
-f. This also tells us that while we might live in different societies, different parts of the world, in different continents, with our own different nuances, cultures, practices, traditions, each with our own sets of different circumstances and challenges,
-
-g. I think our shared commonality is that we are bound by responsibility to make cohesion happen in our own societies.
-
-h. And we all see value in listening to, and learning from one another.
-
-Overview of ICCS
-7. So let me thank all the speakers that we’ve had past couple of days for your thoughtful and thought-provoking speeches, and for sharing your experiences so richly and so generously. It left us with a lot to think about.
-
-8. I also want to thank our moderators for facilitating the discussions, and all our delegates for actively participating and lending a lot of vibrancy and vibe to ICCS 2022.
-
-9. I hope you all found it to be also a very practical-driven session.
+I hope you all found it to be also a very practical-driven session. We were very careful to try and plan this so that it was not just about the theory, but about exposing you to practices and reality.
  
-10. We were very careful to try and plan this so that it was not just about the theory, but about exposing you to practices and reality.
+Indeed, social cohesion is not just a theory, it must be a culture of practice, of lived experiences, powered by active and engaged citizenry, with open, frank, respect for each other.
  
-11. Indeed, social cohesion is not just a theory, it must be a culture of practice, of lived experiences, powered by active and engaged citizenry, with open, frank, respect for each other.
- 
-a. To this end, at this year’s ICCS, we’ve had many rich discussions over the course of 3 special addresses, 3 plenary sessions, 9 breakout sessions and 1 community dialogue.
+To this end, at this year’s ICCS, we’ve had many rich discussions over the course of 3 special addresses, 3 plenary sessions, 9 breakout sessions and 1 community dialogue.
 
-b. What stood out to me were the 9 community explorations, where many of you had a chance to visit a place of worship, met our multi-racial and multi-religious community leaders, and gained first-hand, our experience of multicultural living in Singapore.
+What stood out to me were the 9 community explorations, where many of you had a chance to visit a place of worship, met our multi-racial and multi-religious community leaders, and gained first-hand, our experience of multicultural living in Singapore.
  
-i. And I am very glad to hear that the Community Experience in particular has allowed many of participants to experience for yourself and also ask questions about a different faith and you’ve not had a chance to experience before.
-ii. You got to probe, ask questions, understand, know. Because it is only with understanding and knowing can we foster acceptance and eventually, embracement of each other’s beliefs, and different practices.
+And I am very glad to hear that the Community Experience in particular has allowed many of participants to experience for yourself and also ask questions about a different faith and you’ve not had a chance to experience before. You got to probe, ask questions, understand, know. Because it is only with understanding and knowing can we foster acceptance and eventually, embracement of each other’s beliefs, and different practices.
 
-iii. In addition, I’m also very glad to see that the discussions were grounded on the extensive use of data, including the Southeast Asia Social Cohesion Radar that RSIS just launched. It is important that it gives us a good grounding and good reality check at what we’re doing, continue to cultivate, and to look at the different needles that mark fault lines.
+In addition, I’m also very glad to see that the discussions were grounded on the extensive use of data, including the Southeast Asia Social Cohesion Radar that RSIS just launched. It is important that it gives us a good grounding and good reality check at what we’re doing, continue to cultivate, and to look at the different needles that mark fault lines. And we learn better how to address it.
 
-iv. And we learn better how to address it.
+I am heartened to know, from the many discussions we have had, the experience shared by so many of you thought leaders out there, tells me that we face many common challenges in building cohesive societies.
+ 
+Some of the difficulties, after we speak about it, are not quite so different. And even though we come from different parts of the world with different contexts, I’m glad to see that this has become a platform for us to exchange ideas that we can bring back to our own countries, our own societies and perhaps with a little bit of nuancing and contextualising, we can use them to good effect.
+ 
+This is why it is important to continue to have a platform like ICCS. To learn from one another, share insights and experience, and work together to develop solutions to address our common challenges. 
 
-12. I am heartened to know, from the many discussions we have had, the experience shared by so many of you thought leaders out there, tells me that we face many common challenges in building cohesive societies.
+As our President said in her opening address, we have to understand the drivers and dimensions of social cohesion more deeply, so that we can bridge divides and harness our diversity for a common good.
  
-a. Some of the difficulties, after we speak about it, are not quite so different.
+All of your enthusiasm enriched the deeply robust interactions we’ve had, frank exchanges with our moderators and our speakers, reflects our shared purpose and our urgency.
+ 
+As Professor Katherine Marshall said, we are in a “Kairos” moment in history where we should go beyond talking and towards actively building a better future for all. 
 
-b. And even though we come from different parts of the world with different contexts, I’m glad to see that this has become a platform for us to exchange ideas that we can bring back to our own countries, our own societies and perhaps with a little bit of nuancing and contextualising, we can use them to good effect.
- 
-13. This is why it is important to continue to have a platform like ICCS. 
- 
-a. To learn from one another, share insights and experience, and work together to develop solutions to address our common challenges. 
+Professor Lily Kong also emphasized why building social cohesion and resilience is today more important than ever. 
 
-b. As our President said in her opening address, we have to understand the drivers and dimensions of social cohesion more deeply, so that we can bridge divides and harness our diversity for a common good.
+And all of these theories and themes exemplified our conference theme of “Confident Identities, Connected Communities”. 
  
-14. All of your enthusiasm enriched the deeply robust interactions we’ve had, frank exchanges with our moderators and our speakers, reflects our shared purpose and our urgency.
- 
-a. As Professor Katherine Marshall said, we are in a “Kairos” moment in history where we should go beyond talking and towards actively building a better future for all. 
+So, as we close, I thought I’d share my reflections from this Conference what we’ve learnt over the past three days.
 
-b. Professor Lily Kong also emphasized why building social cohesion and resilience is today more important than ever. 
+It is not possible to capture the breadth of wisdom that we’ve heard in all the sessions, but let me try to encapsulate the key points.
 
-c. And all of these theories and themes exemplified our conference theme of “Confident Identities, Connected Communities”. 
+One common thread across our discussions that I’ve seen in our dialogues and practice sessions about Faith, Identity and Cohesion has been that mutual trust and shared experiences are critical in building cohesive societies. They’re a fundamental building block.
  
-15. So, as we close, I thought I’d share my reflections from this Conference what we’ve learnt over the past three days.
-
-16. It is not possible to capture the breadth of wisdom that we’ve heard in all the sessions, but let me try to encapsulate the key points.
+Faith can bridge divides. Some of the deepest chasms in society are a result of differing ideological or religious beliefs. And in recent times, perhaps driven by the COVID-19 pandemic, we’ve become more insular as a people.
  
-17. One common thread across our discussions that I’ve seen in our dialogues and practice sessions about Faith, Identity and Cohesion has been that mutual trust and shared experiences are critical in building cohesive societies. They’re a fundamental building block.
+Fault lines, often around the lines of identity, have been deepened. What we can do more to foster peace and harmony is to appreciate the commonalities, rather than the differences, across different faiths. Look at what binds us, rather than what divides us.
  
-18. Faith can bridge divides
- 
-a. Some of the deepest chasms in society are a result of differing ideological or religious beliefs. And in recent times, perhaps driven by the COVID-19 pandemic, we’ve become more insular as a people.
- 
-b. Fault lines, often around the lines of identity, have been deepened.
- 
-c. What we can do more to foster peace and harmony is to appreciate the commonalities, rather than the differences, across different faiths. Look at what binds us, rather than what divides us.
- 
-i. Dr Sadhvi Bhagawati Saraswati, Lord John Alderdice, Venerable You Shi Guang, and Imam Uzair Akbar all spoke about how our different beliefs could connect us through universal values that bind society together.
+Dr Sadhvi Bhagawati Saraswati, Lord John Alderdice, Venerable You Shi Guang, and Imam Uzair Akbar all spoke about how our different beliefs could connect us through universal values that bind society together.
  
 d. It is often in crises and times of insecurity where differing beliefs can widen divides.
  
