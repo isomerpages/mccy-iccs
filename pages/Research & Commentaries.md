@@ -3,12 +3,12 @@ title: Research & Commentaries
 permalink: /Research/
 description: Research & Commentaries
 ---
-
 The ICCS Research and Commentaries is a new and signature component of the ICCS, which includes:
 
 **1. Regional survey:** to foster more evidence-based discussions around the themes of ICCS. The survey will provide cross-country findings on social cohesion in the region and give insight into the core elements of social cohesion.
 
 **2. Commentary series:** comprising articles discussing issues relevant to ICCS and published on RSIS’ website. The commentaries are written by a mix of academics, youths and community practitioners for a wide range of views and expertise. Links to read the commentaries:
+* <a href="https://www.rsis.edu.sg/rsis-publication/rsis/reflections-on-iccs-2022-achieving-connectedness-and-cohesion/#.Yyl9DkIRXb0" target="_blank">Reflections on ICCS 2022 – Achieving Connectedness and Cohesion, 16 September 2022</a>
 * <a href="https://www.rsis.edu.sg/rsis-publication/rsis/towards-iccs-2022-what-next-for-interreligious-cooperation-new-possibilities-in-strengthening-social-cohesion/#.YxN_Ls0RXb0" target="_blank">Towards ICCS 2022 – What Next for Interreligious Cooperation? New Possibilities in Strengthening Social Cohesion, 2 September 2022</a>
 * <a href="https://www.rsis.edu.sg/rsis-publication/rsis/towards-iccs-2022-space-gender-and-social-cohesion/#.YxN_MM0RXb0" target="_blank">Towards ICCS 2022 – Space, Gender, and Social Cohesion, 31 August 2022</a>
 * <a href="https://www.rsis.edu.sg/rsis-publication/rsis/towards-iccs-2022-youth-and-women-groups-in-effective-and-inclusive-dialogue-on-social-cohesion/#.YxN_Mc0RXb0" target="_blank">Towards ICCS 2022 – Youth and Women Groups in Effective and Inclusive Dialogue on Social Cohesion, 29 August 2022</a>
