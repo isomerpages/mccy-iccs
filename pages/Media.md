@@ -27,6 +27,7 @@ description: Media
 * Enhancing Social Cohesion: Regional studies should be conducted more regularly: Edwin Tong, Channel NewsAsia
 * Maintaining Social Cohesion, Channel NewsAsia
 * Enhancing Social Cohesion, Channel 5
+* Enhancing Social Cohesion, Channel U
 * Edwin Tong: Youth leadership is crucial for social cohesion, Money FM 89.3
 * International Conference on Cohesive Societies, Warna 94.2FM
 
