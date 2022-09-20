@@ -13,7 +13,7 @@ third_nav_title: Sessions
 # Synopsis
 This breakout session explores how traditions have evolved over this challenging global COVID-19 pandemic in relation to practice rituals and ways to worship. In particular, the session discusses how communities have built internal connections within themselves despite being unable to meet physically, but also how they have utilised technology to reach out beyond their own communities.
 # Speakers
-<img src="/images/Mohd%20Hannan%20Hassan.jpg"
+<img src="/images/Mohd%20Hannan%20Hassan%202.jpg"
      style="width:50%" />
 
 **Dr Mohammad Hannan Hassan  
