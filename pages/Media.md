@@ -45,8 +45,10 @@ description: Media
 * International Conference on Cohesive Societies, Oli 96.8 FM
 * 多元文化可以促进共同利益, Hao FM 96.3
 * 疫情考研了社会凝聚力, Hao FM 96.3
+* DPM Lawrence Wong, Hao FM 96.3
 * 疫情考研了社会凝聚力, UFM100.3
-
+* DPM Lawrence Wong, Warna 94.2 FM
+* DPM Lawrence Wong, Oli 96.8 FM
 
 **8 September 2022**  
 * Call for different faiths to pull together to attain common goals, The Straits Times
