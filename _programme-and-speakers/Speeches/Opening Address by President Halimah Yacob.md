@@ -10,14 +10,14 @@ third_nav_title: Speeches
 
 </div>
 
-**<font size="+2">Opening Address by Mdm Halimah Yacob, President of the Republic of Singapore, at the International Conference on Cohesive Societies 2022</font>** 
+**<font size="+2">Opening Address by Mdm Halimah Yacob, President of the Republic of Singapore, at the International Conference on Cohesive Societies 2022</font>**  
 6 September 2022
 
-Mr Teo Chee Hean, Senior Minister and Coordinating Minister for National Security 
-Ministers 
-Ambassador Ong Keng Yong, Executive Deputy Chairman of RSIS 
-Distinguished Guests 
-Ladies and Gentlemen 
+Mr Teo Chee Hean, Senior Minister and Coordinating Minister for National Security  
+Ministers  
+Ambassador Ong Keng Yong, Executive Deputy Chairman of RSIS  
+Distinguished Guests  
+Ladies and Gentlemen  
 
 Good morning. Welcome to the International Conference on Cohesive Societies (ICCS). To our friends from overseas, a warm welcome to sunny Singapore!
 
