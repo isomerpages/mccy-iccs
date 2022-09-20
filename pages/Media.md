@@ -6,9 +6,12 @@ description: Media
 # Media coverage     
 **9 September 2022**  
 **8 September 2022**  
+* Call for different faithsto pull together to attain common goals, The Straits Times
+* 
 **7 September 2022**  
 * Cohesive societies born of choice and conviction: President Halimah, The Straits Times
 * Social cohesion is more than about race or religion: SMU president, The Straits Times
+* <a href="https://www.straitstimes.com/singapore/collaboration-of-different-faiths-needed-to-achieve-shared-objectives-interfaith-conference-panel" target="_blank">Inter-faith collaboration needed to achieve shared objectives: Panel, The Straits Times Online</a>
 * 哈莉玛总统：社会凝聚力是集体安全必要条件, Lianhe Zaobao
 * <a href="https://www.zaobao.com.sg/news/singapore/story20220907-1310407" target="_blank">哈莉玛总统：社会凝聚力是集体安全必要条件, Lianhe Zaobao Online</a>
 * 本地研究院调查：亚细安国家中我国社会最有凝聚力, Lianhe Zaobao
@@ -20,6 +23,8 @@ description: Media
 * <a href="https://www.beritaharian.sg/setempat/peranan-agama-rapat-jurang-dibincang-di-sidang-silang-agama" target="_blank">Peranan agama rapat jurang dibincang di sidang silang agama, Berita Harian Online</a>
 * 'கொவிட்‌-19 சூழல்‌ இதைவலியுறுத்தியது', Tamil Murasu
 * <a href="https://www.tamilmurasu.com.sg/singapore/story20220907-95644.html" target="_blank">‘கொவிட்-19 சூழல் இதை வலியுறுத்தியது’, Tamil Murasu Online</a>
+* President Halimah urges to build open platforms to discuss sensitive issues and work together to strengthen unity and resilience in societies, Capital 958
+* President Halimah urges to build open platforms to discuss sensitive issues and work together to strengthen unity and resilience in societies, Oli 96.8 FM
 
 **6 September 2022**  
 * <a href="https://www.straitstimes.com/singapore/covid-19-showed-that-cohesive-societies-are-borne-of-choice-and-conviction-president-halimah" target="_blank">Covid-19 showed that cohesive societies are born of choice and conviction: President Halimah, The Straits Times Online</a>
