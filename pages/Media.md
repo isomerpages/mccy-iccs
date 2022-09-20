@@ -47,7 +47,9 @@ description: Media
 * 我国的社会凝聚力在亚细安国家中是最强的, Capital 958
 * 必须要了解促进社会凝聚力的要素, Hao FM 96.3
 * 东南亚凝聚力的整体水平是69%, Hao FM 96.3
-* 
+* 必须要了解促进社会凝聚力的要素, UFM100.3
+* International Conference on Cohesive Societies, Warna 94.2 FM 
+* International Conference on Cohesive Societies, Oli 96.8 FM
 
 **31 July 2022**  
 * <a href="https://www.zaobao.com.sg/news/singapore/story20220731-1298149" target="_blank">第二届社会和谐国际大会 9月来福士城会展中心举行, Lianhe Zaobao</a>
