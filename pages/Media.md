@@ -7,7 +7,8 @@ description: Media
 **9 September 2022**  
 **8 September 2022**  
 * Call for different faithsto pull together to attain common goals, The Straits Times
-* 
+* Peranan mediasosial pupukikatan dalammasyarakat, Berita Harian
+
 **7 September 2022**  
 * Cohesive societies born of choice and conviction: President Halimah, The Straits Times
 * Social cohesion is more than about race or religion: SMU president, The Straits Times
