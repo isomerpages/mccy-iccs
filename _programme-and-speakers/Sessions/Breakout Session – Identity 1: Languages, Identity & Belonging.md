@@ -24,7 +24,7 @@ Professor Ghil‘ad Zuckermann (DPhil Oxford; PhD Cambridge, titular; MA Tel Avi
 <img src="/images/Terry%20Kee.jpg"
      style="width:50%" />
 
-**Reverend Terry Kee
+**Reverend Terry Kee  
 President of Inter-Religious Organisation**
 
 Reverend Terry Kee was Bishop of the Lutheran Church in Singapore, President of the National Council of Churches from 2012-2014 and 2018-2020, a council Member of Inter Religious Organisation since 2012 and a Missionary to Thailand from 1996-2005.
