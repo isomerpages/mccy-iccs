@@ -9,6 +9,8 @@ description: Media
 **7 September 2022**  
 * Cohesive societies born of choice and conviction: President Halimah, The Straits Times
 * Social cohesion is more than about race or religion: SMU president, The Straits Times
+* 哈莉玛总统：社会凝聚力是集体安全必要条件, Lianhe Zaobao
+* 本地研究院调查：亚细安国家中我国社会最有凝聚力, Lianhe Zaobao
 
 **6 September 2022**  
 * <a href="https://www.straitstimes.com/singapore/covid-19-showed-that-cohesive-societies-are-borne-of-choice-and-conviction-president-halimah" target="_blank">Covid-19 showed that cohesive societies are born of choice and conviction: President Halimah, The Straits Times Online</a>
