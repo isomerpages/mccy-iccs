@@ -43,6 +43,10 @@ description: Media
 * International Conference on Cohesive Societies begins today, CNA938
 * Cohesive societies are born of choice and conviction: President Halimah, Money FM 89.3
 * Cohesive societies are born of choice and conviction: President Halimah, Kiss 92
+* Cohesive societies are born of choice and conviction: President Halimah, ONE FM 91.3
+* 我国的社会凝聚力在亚细安国家中是最强的, Capital 958
+* 必须要了解促进社会凝聚力的要素, Hao FM 96.3
+* 东南亚凝聚力的整体水平是69%, Hao FM 96.3
 * 
 
 **31 July 2022**  
