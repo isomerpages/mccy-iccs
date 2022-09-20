@@ -23,7 +23,7 @@ Executive Secretary, International Network of Engaged Buddhists (INEB)**
 
 Somboon Chungprampree (Moo), is a Thai social activist working for Peace and Justice in Asia. He is a civic leader and serves on the Board of a number of international and national foundations.
 
-<img src="/images/Edmund%20Fong.jpg"
+<img src="/images/Julia%20Walsh.png"
      style="width:50%" />
 
 **Sister Julia Walsh  
