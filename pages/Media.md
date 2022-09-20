@@ -34,6 +34,9 @@ description: Media
 * Enhancing Social Cohesion: President Halimah calls for more open platforms to discuss sensitive issues, Channel NewsAsia
 * Enhancing Social Cohesion, Channel NewsAsia
 * Ensuring Social Cohesion, Channel 5
+* 哈莉玛：继续创造安全和开放的平台, 狮城有约, Channel 8
+* 哈莉玛：继续创造安全和开放的平台, Channel 8
+* 哈莉玛：继续创造安全和开放的平台, Channel U
 
 **31 July 2022**  
 * <a href="https://www.zaobao.com.sg/news/singapore/story20220731-1298149" target="_blank">第二届社会和谐国际大会 9月来福士城会展中心举行, Lianhe Zaobao</a>
