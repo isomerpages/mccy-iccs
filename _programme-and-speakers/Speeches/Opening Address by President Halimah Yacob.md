@@ -10,7 +10,7 @@ third_nav_title: Speeches
 
 </div>
 
-**<font size="+2">Opening Address by Mdm Halimah Yacob, President of the Republic of Singapore, at the International Conference on Cohesive Societies 2022.</font>**
+**<font size="+2">Opening Address by Mdm Halimah Yacob, President of the Republic of Singapore, at the International Conference on Cohesive Societies 2022</font>** 
 6 September 2022
 
 Mr Teo Chee Hean, Senior Minister and Coordinating Minister for National Security 
