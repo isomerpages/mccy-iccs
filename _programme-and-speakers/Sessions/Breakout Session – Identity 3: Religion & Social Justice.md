@@ -15,7 +15,7 @@ This breakout session discusses some of the ways that religious identities infor
 
 Areas explored include overcoming racial and ethnic prejudice, protecting vulnerable individuals and communities beset by a lack of environmental justice, and countering radical and extremist narratives. It demonstrates examples of good practice and provide practical steps for working towards social justice from within various religious worldviews and identities.
 # Speakers
-<img src="/images/Somboon.jpg"
+<img src="/images/Somboon%20Chungprampree.jpg"
      style="width:50%" />
 
 **Mr Somboon Chungprampree  
