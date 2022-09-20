@@ -29,7 +29,7 @@ Director of Public Policy, ByteDance, Southeast Asia**
 
 Ms Teresa Tan leads ByteDance’s public policy and government relations across Southeast Asia, where she is responsible for promoting a regulatory environment that supports business growth and innovation. She partners with her team to drive impactful policy programmes around empowerment of small and medium-sized enterprises, digital safety and wellness, and inclusive access to online learning. Prior to joining ByteDance, Teresa served as the Regional Communications Lead at Grab where she pioneered the policy communications function. Teresa also served more than 10 years in the Singapore government across finance, home affairs and ICT Agencies. 
 
-<img src="/images/Shane%20Pereira.png"
+<img src="/images/Teo%20Yi-Ling.jpg"
      style="width:50%" />
 
 <p style="color:#2B3062"><b>Moderator:</b></p>**Ms Teo Yi-Ling  
