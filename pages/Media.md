@@ -31,6 +31,9 @@ description: Media
 * <a href="https://berita.mediacorp.sg/singapura/masyarakat-tidak-dapat-bertahan-tanpa-perekat-sosial-yang-satukan-penduduk-presiden-halimah-688376">Masyarakat tidak dapat bertahan tanpa perekat sosial yang satukan penduduk: Presiden Halimah, Berita</a>
 * <a href="https://berita.mediacorp.sg/singapura/bangunkan-platform-selamat-dan-terbuka-untuk-bincang-isu-sensitif-demi-perpaduan-sosial-presiden-halimah-688411">Bangunkan platform selamat dan terbuka untuk bincang isu sensitif demi perpaduan sosial: Presiden Halimah, Berita</a>
 * <a href="https://berita.mediacorp.sg/singapura/spura-punyai-tahap-perpaduan-sosial-tertinggi-antara-negara-anggota-asean-tinjauan-rsis-688441">S'pura punyai tahap perpaduan sosial tertinggi antara negara anggota ASEAN: Tinjauan RSIS, Berita</a>
+* Enhancing Social Cohesion: President Halimah calls for more open platforms to discuss sensitive issues, Channel NewsAsia
+* Enhancing Social Cohesion, Channel NewsAsia
+* Ensuring Social Cohesion, Channel 5
 
 **31 July 2022**  
 * <a href="https://www.zaobao.com.sg/news/singapore/story20220731-1298149" target="_blank">第二届社会和谐国际大会 9月来福士城会展中心举行, Lianhe Zaobao</a>
