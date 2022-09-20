@@ -13,7 +13,7 @@ third_nav_title: Sessions
 # Synopsis
 This breakout session examines good practices and case studies about people who have used online platforms to build connections between different groups of people and strengthen social cohesion. The session is also used to understand what social media companies have been doing to promote social cohesion.
 # Speakers
-<img src="/images/Krish%20Raval.png"
+<img src="/images/Yang%20Mee%20Eng.png"
      style="width:50%" />
 
 **Dr Yang Mee Eng  
