@@ -122,7 +122,7 @@ description: Media
 * International Conference on Cohesive Societies, Warna 94.2 FM 
 * International Conference on Cohesive Societies, Oli 96.8 FM
 * <a href="https://www.malaymail.com/news/singapore/2022/09/06/in-singapore-conference-on-social-cohesion-seeks-to-connect-region-after-divisive-pandemic/26869" target="_blank">In Singapore, conference on ‘social cohesion’ seeks to connect region after divisive pandemic, Malay Mail</a>
-* 
+* <a href="https://www.thejakartapost.com/indonesia/2022/09/06/thought-leaders-consider-asean-has-strong-social-cohesion-study.html" target="_blank">Thought leaders consider ASEAN has “strong” social cohesion: Study, The Jakarta Post</a>
 
 **31 July 2022**  
 * <a href="https://www.zaobao.com.sg/news/singapore/story20220731-1298149" target="_blank">第二届社会和谐国际大会 9月来福士城会展中心举行, Lianhe Zaobao</a>
