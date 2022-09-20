@@ -36,6 +36,7 @@ description: Media
 * <a href="https://www.beritaharian.sg/setempat/akhlak-aspek-paling-penting-dalam-capai-kesepaduan-sosial" target="_blank">Akhlak aspek paling penting dalam capai kesepaduan sosial, Berita Harian Online</a>
 * Perlu ada pengorbanan dalam buru perpaduan sosial: ahli panel silang agama, Berita Harian
 * <a href="https://www.beritaharian.sg/setempat/perlu-ada-pengorbanan-dalam-buru-perpaduan-sosial-ahli-panel-silang-agama" target="_blank">Perlu ada pengorbanan dalam buru perpaduan sosial: ahli panel silang agama, Berita Harian Online</a>
+* <a href="https://www.8world.com/singapore/lawrence-wong-social-cohesion-1912671" target="_blank">黄循财：我国社会凝聚力非偶然产生, 8world</a>
 
 **7 September 2022**  
 * Cohesive societies born of choice and conviction: President Halimah, The Straits Times
