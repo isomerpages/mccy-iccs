@@ -28,6 +28,7 @@ description: Media
 * Maintaining Social Cohesion, Channel NewsAsia
 * Enhancing Social Cohesion, Channel 5
 * Enhancing Social Cohesion, Channel U
+* Usaha konsisten untuk bina perpaduan SG: DPM Wong, Suria
 * Edwin Tong: Youth leadership is crucial for social cohesion, Money FM 89.3
 * International Conference on Cohesive Societies, Warna 94.2FM
 
