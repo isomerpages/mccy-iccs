@@ -22,7 +22,7 @@ sections:
         and more at ICCS 2022.
       button: Read more
       url: /iccs
-      image: /images/XP3A5282.jpg
+      image: /images/For infopic 1.jpg
       alt: ICCS2019
   - infopic:
       title: Community Experience
