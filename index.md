@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/WEBSITE-BANNER_1200x630px_30_Jun.png
       key_highlights:
-        - title: Programme & Speakers
+        - title: Programme Overview
           description: ""
-          url: /ProgrammeSpeakers
+          url: /ProgrammeOverview/
         - title: Venue & Travel Advisory
           description: ""
           url: /VenueTravelAdvisory
@@ -43,4 +43,3 @@ sections:
       alt: YLP
       image: /images/18June2019ICCSPhotog1-34.jpg
 ---
-
