@@ -16,10 +16,10 @@ sections:
           description: ""
           url: /programme-and-speakers/specialpresentation/
   - infopic:
-      title: What's in store this ICCS
+      title: How we connected at ICCS 2022
       description: We have many identities, intertwining and defining us as
-        individuals. How can we unite despite our differences? Let’s explore
-        through ICCS 2022.
+        individuals. How can we unite despite our differences? We explored this
+        and more at ICCS 2022.
       button: Read more
       url: /iccs
       image: /images/18June2019ICCSPhotog1-399a.jpg
