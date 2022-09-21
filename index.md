@@ -12,9 +12,9 @@ sections:
         - title: Programme Overview
           description: ""
           url: /ProgrammeOverview/
-        - title: Venue & Travel Advisory
+        - title: Sessions & Speakers
           description: ""
-          url: /VenueTravelAdvisory
+          url: /programme-and-speakers/specialpresentation/
   - infopic:
       title: What's in store this ICCS
       description: We have many identities, intertwining and defining us as
