@@ -22,17 +22,17 @@ sections:
         and more at ICCS 2022.
       button: Read more
       url: /iccs
-      image: /images/18June2019ICCSPhotog1-399a.jpg
+      image: /images/XP3A5282.jpg
       alt: ICCS2019
   - infopic:
       title: Community Experience
-      description: This immersive programme will provide delegates an opportunity to
+      description: This immersive programme provides delegates an opportunity to
         experience Singapore’s interracial and interreligious harmony policies
         in action.
       button: READ MORE
       alt: Community
       url: /CommunityExperience
-      image: /images/21june2019iccsphotog3-255.jpg
+      image: /images/1RT_2830a.jpg
   - infopic:
       title: Young Leaders Programme
       description: The YLP is a platform for young local and international leaders to
@@ -41,5 +41,5 @@ sections:
       button: Read more
       url: /ylp
       alt: YLP
-      image: /images/18June2019ICCSPhotog1-34.jpg
+      image: /images/XP3A8000.jpg
 ---
