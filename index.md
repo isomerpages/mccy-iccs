@@ -22,7 +22,7 @@ sections:
         and more at ICCS 2022.
       button: Read more
       url: /iccs
-      image: /images/XP3A5282.jpg
+      image: /images/For infopic 1.jpg
       alt: ICCS2019
   - infopic:
       title: Community Experience
@@ -32,7 +32,7 @@ sections:
       button: READ MORE
       alt: Community
       url: /CommunityExperience
-      image: /images/1RT_2830b.jpg
+      image: /images/RT_CE 1 -77.jpg
   - infopic:
       title: Young Leaders Programme
       description: The YLP is a platform for young local and international leaders to
