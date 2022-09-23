@@ -19,3 +19,4 @@ Perspectives from the Southeast Asian region based on the study were as follows:
 2. Of the three domains, social relations had the strongest influence on social cohesion in Southeast Asia, while the domain of focus on the common good had the least impact on social cohesion in the region.
 3. Of the nine dimensions, there was a strong respect for social rules within the region. The dimensions of social networks, trust in people, acceptance of diversity, and identification, fared relatively equally. The dimension of solidarity and helpfulness seemed relatively less influential in determining social cohesion among the regional countries.
 
+For more on the Southeast Asian Social Cohesion Radar, click<a href="https://www.rsis.edu.sg/rsis-publication/rsis/southeast-asian-social-cohesion-radar-report/#.Yy0KXEIRXb0" target="_blank">here</a>.
