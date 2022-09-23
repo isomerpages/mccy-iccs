@@ -51,5 +51,3 @@ The 3-day programme featured speeches by renowned speakers from around the world
 * Community Exploration
 
 ![](/images/ICCS%20teal%20line.png)
-
-[Download a copy of the ICCS 2022 programme and speaker list here.](/files/ICCS%202022%20Programme%20and%20Speakers_as%20at%207%20Sep%202022.pdf)
