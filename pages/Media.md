@@ -14,6 +14,9 @@ description: Media
 * 戴VR眼镜参观宗教场所, Lianhe Zaobao
 * <a href="https://www.zaobao.com.sg/news/singapore/story20220915-1313074" target="_blank">戴VR眼镜参观宗教场所, Lianhe Zaobao Online</a>
 
+**14 September 2022**  
+* <a href="https://telquel.ma/2022/09/14/andre-azoulay-cest-tout-simplement-inoui-qua-mon-age-je-fasse-cette-decouverte_1784142" target="_blank">André Azoulay : “C’est tout simplement inouï qu’à mon âge je fasse cette découverte”, TelQuel</a>
+
 **11 September 2022**  
 * Resipi bentuk masyarakat bersepadu, dinamik dan maju jaya, Berita Minggu
 * <a href="https://www.beritaharian.sg/wacana/resipi-bentuk-masyarakat-bersepadu-dinamik-dan-maju-jaya" target="_blank">Resipi bentuk masyarakat bersepadu, dinamik dan maju jaya, Berita Harian Online</a>
