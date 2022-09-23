@@ -6,6 +6,16 @@ description: Commentaries
 The ICCS commentary series comprises articles discussing issues relevant to ICCS and published on RSIS’ website. The commentaries are written by a mix of academics, youths and community practitioners for a wide range of views and expertise. Links to read the commentaries:
 
 
+
+
+| Title/Author | Date | Synopsis |
+| -------- | -------- | -------- |
+| Reflections on ICCS 2022 – Achieving Connectedness and Cohesion by Ong Keng Yong | 16 Sep 2022     | Diversity, modernity, and most recently, the COVID-19 pandemic, have complicated social relationships across many societies globally. Mutual trust, stronger bonds, and the harnessing of technology are needed to keep diverse communities together. Strengthening social cohesion requires deliberate effort and conviction from everyone.   |
+
+
+
+
+
 * <a href="https://www.rsis.edu.sg/rsis-publication/rsis/reflections-on-iccs-2022-achieving-connectedness-and-cohesion/#.Yyl9DkIRXb0" target="_blank">Reflections on ICCS 2022 – Achieving Connectedness and Cohesion, 16 September 2022</a>
 * <a href="https://www.rsis.edu.sg/rsis-publication/rsis/towards-iccs-2022-inside-iccs-building-on-success-from-2019-to-2022/#.Yyl9SUIRXb0" target="_blank">Towards ICCS 2022 – Inside ICCS: Building on Success from 2019 to 2022, 5 September 2022</a>
 * <a href="https://www.rsis.edu.sg/rsis-publication/rsis/towards-iccs-2022-what-next-for-interreligious-cooperation-new-possibilities-in-strengthening-social-cohesion/#.YxN_Ls0RXb0" target="_blank">Towards ICCS 2022 – What Next for Interreligious Cooperation? New Possibilities in Strengthening Social Cohesion, 2 September 2022</a>
