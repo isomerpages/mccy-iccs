@@ -2,5 +2,6 @@ collections:
   archive:
     output: true
     order:
+      - Research Symposium.md
       - Frequently Asked Questions.md
       - Code of Conduct.md
