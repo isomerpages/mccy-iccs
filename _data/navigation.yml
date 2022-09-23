@@ -22,8 +22,8 @@ links:
         url: /YLP
       - title: Community Experience
         url: /CommunityExperience
-      - title: Research & Commentaries
-        url: /Research
+  - title: Research
+    collection: research
   - title: Past Events
     collection: past-events
   - title: Media

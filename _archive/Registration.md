@@ -1,8 +1,9 @@
 ---
 title: Registration
-permalink: /Registration
+permalink: /Registration/
 description: Registration
 ---
+
 **Please register your interest below to attend ICCS 2022.**  
 This event is by invitation only.
 

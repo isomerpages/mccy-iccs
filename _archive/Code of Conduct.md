@@ -1,10 +1,11 @@
 ---
 title: Code of Conduct
-permalink: /CodeofConduct
+permalink: /CodeofConduct/
 date: 2022-01-13
 layout: post
 description: ""
 ---
+
 # Purpose
 
 The ICCS Secretariat is committed to enabling events at which everyone can participate in an inclusive, respectful and safe environment.

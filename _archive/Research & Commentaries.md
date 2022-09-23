@@ -3,6 +3,7 @@ title: Research & Commentaries
 permalink: /Research/
 description: Research & Commentaries
 ---
+
 The ICCS Research and Commentaries is a new and signature component of the ICCS, which includes:
 
 **1. Regional survey:** to foster more evidence-based discussions around the themes of ICCS. The survey will provide cross-country findings on social cohesion in the region and give insight into the core elements of social cohesion.

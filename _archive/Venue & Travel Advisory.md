@@ -1,8 +1,9 @@
 ---
 title: Venue & Travel Advisory
-permalink: /VenueTravelAdvisory
+permalink: /VenueTravelAdvisory/
 description: Venue & Travel Advisory
 ---
+
 ICCS 2022 will take place at the Raffles City Convention Centre, Level 4, located at 80 Bras Basah Road, Singapore 189560. In the vicinity, there are two hotels, Swissotel The Stamford and Fairmont Singapore, to cater to your accommodation needs.  
 
 # About venue  

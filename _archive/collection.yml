@@ -1,0 +1,11 @@
+collections:
+  archive:
+    output: true
+    order:
+      - Research & Commentaries.md
+      - Plenary & Breakout Sessions.md
+      - Registration.md
+      - Venue & Travel Advisory.md
+      - Research Symposium.md
+      - Frequently Asked Questions.md
+      - Code of Conduct.md

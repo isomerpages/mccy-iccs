@@ -3,6 +3,7 @@ title: Research Symposium
 permalink: /ResearchSymposium/
 description: ""
 ---
+
 Building on the outcomes of the inaugural ICCS in 2019, and to enrich discussions at the second edition of the ICCS, RSIS is launching a research study on social cohesion.
 
 The study titled **“Southeast Asian Social Cohesion Radar 2022”** seeks to understand localised experiences of social cohesion and identity, and analyse the factors and environment that make societies in ASEAN Member States cohesive. 
