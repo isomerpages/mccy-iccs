@@ -10,11 +10,14 @@ sections:
       background: /images/WEBSITE-BANNER_1200x630px_30_Jun.png
       key_highlights:
         - title: Programme Overview
-          description: ""
+          description: What happened at ICCS 2022
           url: /ProgrammeOverview/
         - title: Sessions & Speakers
-          description: ""
+          description: Speeches, plenary and breakout sessions
           url: /programme-and-speakers/specialpresentation/
+        - title: Research
+          description: Signature component of ICCS
+          url: research/socialcohesionradar/
   - infopic:
       title: How we connected at ICCS 2022
       description: We have many identities, intertwining and defining us as
