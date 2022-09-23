@@ -3,9 +3,7 @@ title: Commentaries
 permalink: /research/Commentaries/
 description: Commentaries
 ---
-The ICCS commentary series comprises articles discussing issues relevant to ICCS and published on RSIS’ website. The commentaries are written by a mix of academics, youths and community practitioners for a wide range of views and expertise. Links to read the commentaries:
-
-
+The ICCS commentary series comprises articles discussing issues relevant to ICCS and published on RSIS’ website. The commentaries are written by a mix of academics, youths and community practitioners for a wide range of views and expertise. 
 
 
 | Title & Author | Date | Synopsis |
@@ -33,7 +31,4 @@ The ICCS commentary series comprises articles discussing issues relevant to ICC
 | <a href="https://www.rsis.edu.sg/rsis-publication/cms/towards-iccs-2022-digital-destinies-geopolitics-division-and-cohesion/" target="_blank">Towards ICCS 2022 – Digital Destinies: Geopolitics, Division and Cohesion</a><br> by Amalina Anuar | 4 Oct 2021 | Thanks in part to geopolitics, the digital economy is leading towards less, not greater, integration, connectivity and connection. Defusing tensions by redesigning technology to work for cohesion will be pivotal to reversing this trend. |
 | <a href="https://www.rsis.edu.sg/rsis-publication/rsis/towards-iccs-2022-inter-religious-dialogue-catholic-social-teachings-and-cohesion/" target="_blank">Towards ICCS 2022 – Inter-Religious Dialogue: Catholic Social Teachings and Cohesion</a><br> by Barry Desker | 2 Sep 2021 | The Catholic Church has been at the leading edge of interreligious dialogue since the 1960s. Combined with its focus on social teachings, it is important to reflect on what this – the largest Christian denomination – has contributed to cohesion and welfare both in Singapore and globally. |
 | <a href="https://www.rsis.edu.sg/rsis-publication/rsis/towards-iccs-2022-cohesion-as-a-choice-regardless-of-faith-and-identity/" target="_blank">Towards ICCS 2022 – Cohesion as a Choice: Regardless of Faith and Identity</a><br> by Jolene Jerard | 23 Aug 2021 | Social cohesion is a work in progress. Societies can choose to achieve greater levels of social cohesion by forging greater inclusivity. Two things can break this: Exclusivist ideas and the imposition of perceived group superiority. |
-
-
-* <a href="" target="_blank">, , 23 August 2021</a>
-* <a href="https://www.rsis.edu.sg/rsis-publication/cens/towards-iccs-2022-cohesive-societies-shared-humanity-looking-back-moving-forward/" target="_blank">Towards ICCS 2022 – Cohesive Societies, Shared Humanity: Looking Back, Moving Forward, Norman Vasu, 1 July 2021</a>
+| <a href="https://www.rsis.edu.sg/rsis-publication/cens/towards-iccs-2022-cohesive-societies-shared-humanity-looking-back-moving-forward/" target="_blank">Towards ICCS 2022 – Cohesive Societies, Shared Humanity: Looking Back, Moving Forward</a><br> by Norman Vasu | 1 Jul 2021 | The inaugural International Conference on Cohesive Societies (ICCS) hosted by Singapore in June 2019 brought together a diversity of faiths and perspectives on religion’s role in contributing to social harmony and cohesion. With ICCS 2022 on the horizon, how can this conference maintain its relevance and strengthen trust across a very diverse global community? This essay kicks off a special series in RSIS Commentary to explore the theme. |
