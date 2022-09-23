@@ -12,11 +12,11 @@ sections:
         - title: Programme Overview
           description: What happened at ICCS 2022
           url: /ProgrammeOverview/
-        - title: Sessions & Speakers
-          description: Speeches, plenary and breakout sessions
+        - title: ICCS 2022 Sessions & Speakers
+          description: Speeches, plenary & breakout sessions
           url: /programme-and-speakers/specialpresentation/
         - title: Research
-          description: Signature component of ICCS
+          description: A signature component of ICCS
           url: research/socialcohesionradar/
   - infopic:
       title: How we connected at ICCS 2022
