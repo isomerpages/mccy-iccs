@@ -24,6 +24,8 @@ links:
         url: /CommunityExperience
       - title: Research & Commentaries
         url: /Research
+  - title: Research
+    collection: research
   - title: Past Events
     collection: past-events
   - title: Media
