@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Venue & Travel Advisory.md
       - Research Symposium.md
       - Frequently Asked Questions.md
       - Code of Conduct.md
