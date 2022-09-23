@@ -8,10 +8,10 @@ The ICCS commentary series comprises articles discussing issues relevant to ICC
 
 
 
-| Title/Author | Date | Synopsis |
+| Title & Author | Date | Synopsis |
 | -------- | -------- | -------- |
-| <a href="https://www.rsis.edu.sg/rsis-publication/rsis/reflections-on-iccs-2022-achieving-connectedness-and-cohesion/#.Yyl9DkIRXb0" target="_blank">Reflections on ICCS 2022 – Achieving Connectedness and Cohesion</a><br> by Ong Keng Yong | 16 Sep 2022     | Diversity, modernity, and most recently, the COVID-19 pandemic, have complicated social relationships across many societies globally. Mutual trust, stronger bonds, and the harnessing of technology are needed to keep diverse communities together. Strengthening social cohesion requires deliberate effort and conviction from everyone.   |
-
+| <a href="https://www.rsis.edu.sg/rsis-publication/rsis/reflections-on-iccs-2022-achieving-connectedness-and-cohesion/#.Yyl9DkIRXb0" target="_blank">Reflections on ICCS 2022 – Achieving Connectedness and Cohesion</a><br> by Ong Keng Yong | 16 Sep 2022 | Diversity, modernity, and most recently, the COVID-19 pandemic, have complicated social relationships across many societies globally. Mutual trust, stronger bonds, and the harnessing of technology are needed to keep diverse communities together. Strengthening social cohesion requires deliberate effort and conviction from everyone.   |
+| <a href="https://www.rsis.edu.sg/rsis-publication/rsis/towards-iccs-2022-inside-iccs-building-on-success-from-2019-to-2022/#.Yy0QsEIRXb1" target="_blank">Towards ICCS 2022 – Inside ICCS: Building on Success from 2019 to 2022</a><br> by Paul Hedges | 5 Sep 2022 | Delegates and speakers almost universally welcomed ICCS 2019. While pulling together an international event of this scale is never easy for the organisers, there were still ways that ICCS 2022 could be improved from its predecessor. Developing the youth track, coping with Covid-19, and further thinking about technology and IT platforms have all been key issues, tying continuity with change and innovation. |
 
 
 
