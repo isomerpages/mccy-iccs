@@ -1,5 +1,5 @@
 collections:
-  research-and-commentaries:
+  research:
     output: true
     order:
       - Southeast Asian Social Cohesion Radar.md
