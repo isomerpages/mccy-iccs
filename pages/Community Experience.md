@@ -4,8 +4,8 @@ permalink: /CommunityExperience/
 description: Community Experience
 ---
 The Community Experience is an immersive programme and provides local and foreign delegates an opportunity to experience first-hand the manifestation of Singapore’s interracial and interreligious harmony policies, through interacting with our local community partners. It consists of:
-* **Community Explorations**, which are ongoing until Nov 2022;
-* **Community Dialogue**, which took place on 5 Sep 2022.
+* **Community Explorations**: ongoing until Nov 2022;
+* **Community Dialogue**: took place on 5 Sep 2022 at Wisma Geylang Serai.
 
 # Community Explorations
 ![](/images/RT_CE%201%20-121.jpg)
