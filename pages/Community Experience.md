@@ -8,6 +8,9 @@ The Community Experience is an immersive programme and provides local and foreig
 * **Community Dialogue**, which took place on 5 Sep 2022.
 
 # Community Explorations
+![](/images/RT_CE%201%20-121.jpg)
+<font color = "grey"><font size="-1">Delegates visiting Lorong Koo Chye Sheng Hong Temple in Singapore on 6 Sep 2022 as part of the ICCS 2022 Community Experience programme.</font></font>  
+
 Organised by OnePeople.sg in conjunction with ICCS 2022, the Community Exploration series provides participants unique and experiential opportunities to learn about the diverse religious communities in Singapore. Participants will get to uncover little known facts and stories through guided tours and enriching conversations with religious practitioners.
 
 Sign up for the [upcoming Community Explorations here.](https://bit.ly/OPSG_ICCS_CE2022)
