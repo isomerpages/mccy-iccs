@@ -22,6 +22,8 @@ Sign up for the [upcoming Community Explorations here.](https://bit.ly/OPSG_ICCS
 * 12 Nov 2022, 10am - 12nn: Palelai Buddhist Temple
 * 19 Nov 2022, 4pm - 6pm: Singapore Jain Religious Society
 
+![](/images/CE7_080922-69.jpg)
+<font color = "grey"><font size="-1">Delegates visiting Cathedral of the Good Shepherd in Singapore on 8 Sep 2022 as part of the ICCS 2022 Community Experience programme.</font></font>  
 # Community Dialogue
 The ICCS 2022 Community Dialogue took place on 5 Sep 2022, one day before ICCS, at Wisma Geylang Serai.
 
