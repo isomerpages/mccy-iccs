@@ -32,7 +32,7 @@ sections:
       description: The Community Exploration series, which provides opportunities to
         visit Singapore's places of worship and learn about our diverse
         communities, runs till Nov 22.
-      button: HOW TO SIGN UP
+      button: SIGN UP NOW
       alt: Community
       url: /CommunityExperience
       image: /images/RT_CE 1 -77.jpg
