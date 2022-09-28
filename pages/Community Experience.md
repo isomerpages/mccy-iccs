@@ -3,8 +3,17 @@ title: Community Experience
 permalink: /CommunityExperience/
 description: Community Experience
 ---
-The Community Experience is an immersive programme and provides local and foreign delegates an opportunity to experience first-hand the manifestation of Singapore’s interracial and interreligious harmony policies, through interacting with our local community partners. 
+The Community Experience is an immersive programme and provides local and foreign delegates an opportunity to experience first-hand the manifestation of Singapore’s interracial and interreligious harmony policies, through interacting with our local community partners. It consists of:
+* Community Explorations, which are still ongoing until Nov 2022;
+* Community Dialogue, which took place on 5 Sep 2022.
 
+# Community Explorations
+Organised by OnePeople.sg in conjunction with ICCS 2022, the Community Exploration series provides participants unique and experiential opportunities to learn about the diverse religious communities in Singapore. Participants will get to uncover little known facts and stories through guided tours and enriching conversations with religious practitioners.
+
+Sign up for the upcoming Community Explorations here.
+* 1 Oct 2022, 10am - 12nn: Zion Bishan-Bible-Presbyterian Church
+* 8 Oct 2022, 10am - 12nn: Nagore Dargah
+* 16 Oct2022, 10am - 12nn: Soon Thian Keing (Tua Konsi) Ltd 
 
 
 ![](/images/Community%20Experience/21june2019iccsphotog3-293a.jpg)
