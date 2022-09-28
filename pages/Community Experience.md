@@ -24,7 +24,7 @@ The ICCS 2022 Community Dialogue took place on 5 Sep 2022, a day before ICCS, at
 
 In an increasingly complex and diverse social landscape, how can we be inclusive and build bridges between different communities? What outcomes should we be looking at? How can we inspire change for the better?
 
-<u>**Speakers:**</u>  
+<font size="+1"><u>**Speakers:**</u></font>  
 
 <img src="/images/Julian%20Hargreaves.png"
      style="width:50%" />
