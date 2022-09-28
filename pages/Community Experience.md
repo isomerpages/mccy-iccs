@@ -31,7 +31,7 @@ The ICCS 2022 Community Dialogue took place on 5 Sep 2022, one day before ICCS, 
 
 It explored key constructs, impact models and ground-up approaches on questions such as: how can we be inclusive and build bridges between different communities in an increasingly complex and diverse social landscape, and how can we inspire change for the better.
 
-![](/images/ICCS%2005092022%20Geyland%20Serai-73.jpg)
+![](/images/ICCS%2005092022%20Geyland%20Serai-73.jpg)  
 
 <font size="+2"><u><b>Speakers:</b></u></font>  
 
@@ -58,13 +58,3 @@ She holds a Master of Arts in Islamic Studies and Christian-Muslim Relations fro
 **Principal Research Fellow and the Head of the Social Lab at the Institute of Policy Studies, Lee Kuan Yew School of Public Policy, National University of Singapore**  
 
 He has been involved in over 50 research projects examining social policy issues including race, religion, immigrant relations, family and poverty. Together with his colleagues, he recently released a report on the second wave of the CNA-IPS survey on race relations. He also led the IPS-OnePeople.sg Indicators of Racial and Religious Harmony study and other studies examining inclusion issues. Dr Mathew is on the boards of OnePeople.sg and the National Volunteer and Philanthropy Centre, and Families for Life Council.
-
-# Programme Outline
-![](/images/Community%20Experience/ICCS%20CD%20programme%20-%20030922.png)
-
-![](/images/Community%20Experience/ICCS%20programme_300822.png)
-
-[Download a copy of the latest Community Experience programme here](/files/Community%20Experience/ICCS%20Community%20Experience%20programme%20-%20030922.pdf)
-
-![](/images/Community%20Experience/21june2019iccsphotog3-225.jpg)
-<font color = "grey"><font size="-1">Delegates visiting Singapore's places of worship as part of the Community Experience programme at ICCS 2019. (Photo: MCCY)</font></font>
