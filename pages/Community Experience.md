@@ -23,13 +23,15 @@ Sign up for the [upcoming Community Explorations here.](https://bit.ly/OPSG_ICCS
 * 19 Nov 2022, 4pm - 6pm: Singapore Jain Religious Society
 
 ![](/images/CE7_080922-69.jpg)
-<font color = "grey"><font size="-1">Delegates visiting Cathedral of the Good Shepherd in Singapore on 8 Sep 2022 as part of the ICCS 2022 Community Experience programme.</font></font>  
+<font color = "grey"><font size="-1">Delegates visiting Cathedral of the Good Shepherd in Singapore on 8 Sep 2022 as part of the ICCS 2022 Community Experience programme.</font></font>
 # Community Dialogue
 The ICCS 2022 Community Dialogue took place on 5 Sep 2022, one day before ICCS, at Wisma Geylang Serai.
 
 It explored key constructs, impact models and ground-up approaches on questions such as: how can we be inclusive and build bridges between different communities in an increasingly complex and diverse social landscape, and how can we inspire change for the better.
 
-<font size="+1"><u><b>Speakers:</b></u></font>  
+![](/images/ICCS%2005092022%20Geyland%20Serai-73.jpg)
+
+<font size="+2"><u><b>Speakers:</b></u></font>  
 
 <img src="/images/Julian%20Hargreaves.png"
      style="width:50%" />
