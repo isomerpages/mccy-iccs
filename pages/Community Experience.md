@@ -13,7 +13,11 @@ Organised by OnePeople.sg in conjunction with ICCS 2022, the Community Explorati
 Sign up for the upcoming Community Explorations here.
 * 1 Oct 2022, 10am - 12nn: Zion Bishan-Bible-Presbyterian Church
 * 8 Oct 2022, 10am - 12nn: Nagore Dargah
-* 16 Oct2022, 10am - 12nn: Soon Thian Keing (Tua Konsi) Ltd 
+* 16 Oct 2022, 10am - 12nn: Soon Thian Keing (Tua Konsi) Ltd [Fully subscribed]
+* 29 Oct 2022, 10am - 12nn: Bahá'í Centre
+* 5 Nov 2022, 10am - 12nn: Sultan Mosque
+* 12 Nov 2022, 10am - 12nn: Palelai Buddhist Temple
+* 19 Nov 2022, 4pm - 6pm: Singapore Jain Religious Society
 
 
 ![](/images/Community%20Experience/21june2019iccsphotog3-293a.jpg)
