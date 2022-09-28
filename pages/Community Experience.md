@@ -26,6 +26,9 @@ In an increasingly complex and diverse social landscape, how can we be inclusive
 
 **Speakers:**  
 
+<img src="/images/Julian%20Hargreaves.png"
+     style="width:50%" />
+		 
 **Dr Julian Hargreaves**  
 **Director of Research at The Woolf Institute**   
 
