@@ -14,13 +14,13 @@ The Community Experience is an immersive programme and provides local and foreig
 Organised by OnePeople.sg in conjunction with ICCS 2022, the Community Exploration series provides participants unique and experiential opportunities to learn about the diverse religious communities in Singapore. Participants will get to uncover little known facts and stories through guided tours and enriching conversations with religious practitioners.
 
 Sign up for the [upcoming Community Explorations here.](https://bit.ly/OPSG_ICCS_CE2022)
-* 1 Oct 2022, 10am - 12nn: Zion Bishan-Bible-Presbyterian Church
-* 8 Oct 2022, 10am - 12nn: Nagore Dargah
-* 16 Oct 2022, 10am - 12nn: Soon Thian Keing (Tua Konsi) Ltd [Fully subscribed]
-* 29 Oct 2022, 10am - 12nn: Bahá'í Centre
-* 5 Nov 2022, 10am - 12nn: Sultan Mosque
-* 12 Nov 2022, 10am - 12nn: Palelai Buddhist Temple
-* 19 Nov 2022, 4pm - 6pm: Singapore Jain Religious Society
+* **1 Oct 2022, 10am - 12nn:** Zion Bishan-Bible-Presbyterian Church
+* **8 Oct 2022, 10am - 12nn:** Nagore Dargah
+* **16 Oct 2022, 10am - 12nn:** Soon Thian Keing (Tua Konsi) Ltd [Fully subscribed]
+* **29 Oct 2022, 10am - 12nn:** Bahá'í Centre
+* **5 Nov 2022, 10am - 12nn:** Sultan Mosque
+* **12 Nov 2022, 10am - 12nn:** Palelai Buddhist Temple
+* **19 Nov 2022, 4pm - 6pm:** Singapore Jain Religious Society
 
 Visit OnePeopleSG's [Facebook](https://www.facebook.com/OnePeople.sg/) and [Instagram](https://www.instagram.com/onepeople.sg/) pages for up-to-date information on the upcoming Community Explorations.
 
