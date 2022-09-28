@@ -22,7 +22,7 @@ Sign up for the [upcoming Community Explorations here.](https://bit.ly/OPSG_ICCS
 * 12 Nov 2022, 10am - 12nn: Palelai Buddhist Temple
 * 19 Nov 2022, 4pm - 6pm: Singapore Jain Religious Society
 
-Visit OnePeopleSG's Facebook and Instagram pages for up-to-date information on the upcoming Community Explorations.
+Visit OnePeopleSG's [Facebook](https://www.facebook.com/OnePeople.sg/) and [Instagram](https://www.instagram.com/onepeople.sg/) pages for up-to-date information on the upcoming Community Explorations.
 
 ![](/images/CE7_080922-69.jpg)
 <font color = "grey"><font size="-1">Delegates visiting Cathedral of the Good Shepherd in Singapore on 8 Sep 2022 as part of the ICCS 2022 Community Experience programme.</font></font>
