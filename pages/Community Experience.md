@@ -10,7 +10,7 @@ The Community Experience is an immersive programme and provides local and foreig
 # Community Explorations
 Organised by OnePeople.sg in conjunction with ICCS 2022, the Community Exploration series provides participants unique and experiential opportunities to learn about the diverse religious communities in Singapore. Participants will get to uncover little known facts and stories through guided tours and enriching conversations with religious practitioners.
 
-Sign up for the upcoming Community Explorations here.
+Sign up for the [upcoming Community Explorations here.](https://bit.ly/OPSG_ICCS_CE2022)
 * 1 Oct 2022, 10am - 12nn: Zion Bishan-Bible-Presbyterian Church
 * 8 Oct 2022, 10am - 12nn: Nagore Dargah
 * 16 Oct 2022, 10am - 12nn: Soon Thian Keing (Tua Konsi) Ltd [Fully subscribed]
@@ -19,9 +19,29 @@ Sign up for the upcoming Community Explorations here.
 * 12 Nov 2022, 10am - 12nn: Palelai Buddhist Temple
 * 19 Nov 2022, 4pm - 6pm: Singapore Jain Religious Society
 
+# Community Dialogue
+The ICCS 2022 Community Dialogue took place on 5 Sep 2022, a day before ICCS, at Wisma Geylang Serai. It explored key constructs, impact models and ground-up approaches on questions such as: how can we be inclusive and build bridges between different communities in an increasingly complex and diverse social landscape, and how can we inspire change for the better.
 
-![](/images/Community%20Experience/21june2019iccsphotog3-293a.jpg)
-<font color = "grey"><font size="-1">Delegates visiting the Nagore Dargah Indian Muslim Heritage Centre in Singapore as part of the Community Experience programme at ICCS 2019. (Photo: MCCY)</font></font>
+In an increasingly complex and diverse social landscape, how can we be inclusive and build bridges between different communities? What outcomes should we be looking at? How can we inspire change for the better?
+
+**Speakers:**  
+
+**Dr Julian Hargreaves**  
+**Director of Research at The Woolf Institute**   
+
+He holds an MRes (Distinction) in Criminology and a PhD in Applied Social Science, both from Lancaster University. His research interests include ethnic and religious minority communities; diversity, integration and cohesion; Islamophobia and Antisemitism; counter-extremism and counterterrorism; social research methods; and policy-related research. As part of his work at the Woolf Institute, he teaches on the MPhil in Middle Eastern and Asian Studies (Pathway A: Muslim-Jewish Relations), University of Cambridge. He is an Affiliated Lecturer at the Faculty of Asian and Middle Eastern Studies, a Research Associate at St. Edmund's College, Cambridge and a Visiting Fellow at the Centre of Islamic Studies. At the Woolf Institute, Julian has led the research and analysis on various projects including the Diversity Study of England and Wales 2020 (the UK's largest known study of diversity).
+
+**Ms See Guat Kwee**  
+**Author, interfaith bridgebuilder and facilitator**  
+
+She holds a Master of Arts in Islamic Studies and Christian-Muslim Relations from Hartford International University of Religion and Peace, CT USA (previously Hartford Seminary). Her book, Christian-Muslim Relations in Singapore from Independence to Post 9/11 was published in 2019. She was founding Chairperson for the Centre for Interfaith Understanding, Singapore (2020-2022) and is currently its Board Member. She has been creating safe spaces for conversation for more than a decade using the circle process.
+
+Moderator
+
+**Dr Mathew Mathews**  
+**Principal Research Fellow and the Head of the Social Lab at the Institute of Policy Studies, Lee Kuan Yew School of Public Policy, National University of Singapore**  
+
+He has been involved in over 50 research projects examining social policy issues including race, religion, immigrant relations, family and poverty. Together with his colleagues, he recently released a report on the second wave of the CNA-IPS survey on race relations. He also led the IPS-OnePeople.sg Indicators of Racial and Religious Harmony study and other studies examining inclusion issues. Dr Mathew is on the boards of OnePeople.sg and the National Volunteer and Philanthropy Centre, and Families for Life Council.
 
 # Programme Outline
 ![](/images/Community%20Experience/ICCS%20CD%20programme%20-%20030922.png)
