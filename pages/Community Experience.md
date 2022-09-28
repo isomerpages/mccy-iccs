@@ -20,11 +20,11 @@ Sign up for the [upcoming Community Explorations here.](https://bit.ly/OPSG_ICCS
 * 19 Nov 2022, 4pm - 6pm: Singapore Jain Religious Society
 
 # Community Dialogue
-The ICCS 2022 Community Dialogue took place on 5 Sep 2022, a day before ICCS, at Wisma Geylang Serai. It explored key constructs, impact models and ground-up approaches on questions such as: how can we be inclusive and build bridges between different communities in an increasingly complex and diverse social landscape, and how can we inspire change for the better.
+The ICCS 2022 Community Dialogue took place on 5 Sep 2022, one day before ICCS, at Wisma Geylang Serai.
 
-In an increasingly complex and diverse social landscape, how can we be inclusive and build bridges between different communities? What outcomes should we be looking at? How can we inspire change for the better?
+It explored key constructs, impact models and ground-up approaches on questions such as: how can we be inclusive and build bridges between different communities in an increasingly complex and diverse social landscape, and how can we inspire change for the better.
 
-<font size="+1"><u>**Speakers:**</u></font>  
+<font size="+1"><u><b>Speakers:</b></u></font>  
 
 <img src="/images/Julian%20Hargreaves.png"
      style="width:50%" />
