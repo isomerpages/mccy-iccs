@@ -36,6 +36,7 @@ He holds an MRes (Distinction) in Criminology and a PhD in Applied Social Scienc
 
 She holds a Master of Arts in Islamic Studies and Christian-Muslim Relations from Hartford International University of Religion and Peace, CT USA (previously Hartford Seminary). Her book, Christian-Muslim Relations in Singapore from Independence to Post 9/11 was published in 2019. She was founding Chairperson for the Centre for Interfaith Understanding, Singapore (2020-2022) and is currently its Board Member. She has been creating safe spaces for conversation for more than a decade using the circle process.
 
+![](/images/Mathew%20Mathews.jpg)
 Moderator
 
 **Dr Mathew Mathews**  
