@@ -13,7 +13,7 @@ The Community Experience is an immersive programme and provides local and foreig
 
 Organised by OnePeople.sg in conjunction with ICCS 2022, the Community Exploration series provides participants unique and experiential opportunities to learn about the diverse religious communities in Singapore. Participants will get to uncover little known facts and stories through guided tours and enriching conversations with religious practitioners.
 
-Sign up for the [upcoming Community Explorations here.](https://bit.ly/OPSG_ICCS_CE2022)
+Sign up for the <a href="https://bit.ly/OPSG_ICCS_CE2022" target="_blank">upcoming Community Explorations here.</a>
 * **1 Oct 2022, 10am - 12nn:** Zion Bishan-Bible-Presbyterian Church
 * **8 Oct 2022, 10am - 12nn:** Nagore Dargah
 * **16 Oct 2022, 10am - 12nn:** Soon Thian Keing (Tua Konsi) Ltd [Fully subscribed]
@@ -22,7 +22,7 @@ Sign up for the [upcoming Community Explorations here.](https://bit.ly/OPSG_ICCS
 * **12 Nov 2022, 10am - 12nn:** Palelai Buddhist Temple
 * **19 Nov 2022, 4pm - 6pm:** Singapore Jain Religious Society
 
-Visit OnePeopleSG's [Facebook](https://www.facebook.com/OnePeople.sg/) and [Instagram](https://www.instagram.com/onepeople.sg/) pages for up-to-date information on the upcoming Community Explorations.
+Visit OnePeopleSG's <a href="https://www.facebook.com/OnePeople.sg/" target="_blank">Facebook</a> and <a href="https://www.instagram.com/onepeople.sg/" target="_blank">Instagram</a> pages for up-to-date information on the upcoming Community Explorations.
 
 ![](/images/CE7_080922-69.jpg)
 <font color = "grey"><font size="-1">Delegates visiting Cathedral of the Good Shepherd in Singapore on 8 Sep 2022 as part of the ICCS 2022 Community Experience programme.</font></font>
@@ -33,7 +33,7 @@ It explored key constructs, impact models and ground-up approaches on questions 
 
 ![](/images/ICCS%2005092022%20Geyland%20Serai-73.jpg)  
 
-<font size="+2"><u><b>Speakers:</b></u></font>  
+<br><font size="+2"><u><b>Speakers:</b></u></font>  
 
 <img src="/images/Julian%20Hargreaves.png"
      style="width:50%" />
