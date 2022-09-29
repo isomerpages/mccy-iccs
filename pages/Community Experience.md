@@ -32,7 +32,7 @@ The ICCS 2022 Community Dialogue took place on 5 Sep 2022, one day before ICCS, 
 It explored key constructs, impact models and ground-up approaches on questions such as: how can we be inclusive and build bridges between different communities in an increasingly complex and diverse social landscape, and how can we inspire change for the better.
 
 ![](/images/ICCS%2005092022%20Geyland%20Serai-73.jpg)  
-<font color = "grey"><font size="-1">Community Dialogue in session on 5 Sep 2022 at Wisma Geylang Serai.</font></font>
+<font color = "grey"><font size="-1">Community Dialogue in session on 5 Sep 2022 at Wisma Geylang Serai in Singapore.</font></font>
 
 <br><font size="+2"><u><b>Speakers:</b></u></font>  
 
