@@ -32,6 +32,7 @@ The ICCS 2022 Community Dialogue took place on 5 Sep 2022, one day before ICCS, 
 It explored key constructs, impact models and ground-up approaches on questions such as: how can we be inclusive and build bridges between different communities in an increasingly complex and diverse social landscape, and how can we inspire change for the better.
 
 ![](/images/ICCS%2005092022%20Geyland%20Serai-73.jpg)  
+<font color = "grey"><font size="-1">Community Dialogue in e on 8 Sep 2022 as part of the ICCS 2022 Community Experience programme.</font></font>
 
 <br><font size="+2"><u><b>Speakers:</b></u></font>  
 
@@ -43,9 +44,9 @@ It explored key constructs, impact models and ground-up approaches on questions 
 
 He holds an MRes (Distinction) in Criminology and a PhD in Applied Social Science, both from Lancaster University. His research interests include ethnic and religious minority communities; diversity, integration and cohesion; Islamophobia and Antisemitism; counter-extremism and counterterrorism; social research methods; and policy-related research. As part of his work at the Woolf Institute, he teaches on the MPhil in Middle Eastern and Asian Studies (Pathway A: Muslim-Jewish Relations), University of Cambridge. He is an Affiliated Lecturer at the Faculty of Asian and Middle Eastern Studies, a Research Associate at St. Edmund's College, Cambridge and a Visiting Fellow at the Centre of Islamic Studies. At the Woolf Institute, Julian has led the research and analysis on various projects including the Diversity Study of England and Wales 2020 (the UK's largest known study of diversity).
 
-<img src="/images/See%20Guat%20Kwee.jpg"
+<img src="/images/See%20Guat%20Kwee%202.jpg"
      style="width:50%" />
-		 
+
 **Ms See Guat Kwee**  
 **Author, interfaith bridgebuilder and facilitator**  
 
