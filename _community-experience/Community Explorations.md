@@ -82,5 +82,5 @@ Visit OnePeopleSG's <a href="https://www.facebook.com/OnePeople.sg/" target="_bl
 
 </div>
 
-* **6 Sep 2022:** Sri Srinivasa Perumal Temple
-* **6 Sep 2022:** Zion Bishan Bible-Presbyterian Church
+* **6 Sep 2022:** Sri Srinivasa Perumal Temple <a href="https://www.facebook.com/media/set/?set=a.462682365903412&type=3" target="_blank">[Photos]</a>
+* **6 Sep 2022:** Zion Bishan Bible-Presbyterian Church <a href="https://www.facebook.com/media/set/?set=a.462679369237045&type=3" target="_blank">[Photos]</a>
