@@ -75,5 +75,12 @@ Visit OnePeopleSG's <a href="https://www.facebook.com/OnePeople.sg/" target="_bl
 </div>
 
 * **6 Sep 2022:** Lorong Koo Chye Sheng Hong Temple
+
+<div style="text-align:center">
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FICCSSG%2Fposts%2F462686665902982&width=500&show_text=true&appId=1841049369315940&height=667" width="500" height="667" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+</div>
+
 * **6 Sep 2022:** Sri Srinivasa Perumal Temple
 * **6 Sep 2022:** Zion Bishan Bible-Presbyterian Church
