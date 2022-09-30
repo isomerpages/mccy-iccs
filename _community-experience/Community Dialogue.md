@@ -9,9 +9,7 @@ It explored key constructs, impact models and ground-up approaches on questions 
 
 ![](/images/ICCS%2005092022%20Geyland%20Serai-73.jpg)  
 <font color = "grey"><font size="-1">Community Dialogue in session on 5 Sep 2022 at Wisma Geylang Serai in Singapore.</font></font>
-
-<br><font size="+2"><u><b>Speakers:</b></u></font>  
-
+# Speakers
 <img src="/images/Julian%20Hargreaves.png"
      style="width:50%" />
 		 
