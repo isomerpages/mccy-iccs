@@ -33,7 +33,11 @@ Visit OnePeopleSG's <a href="https://www.facebook.com/OnePeople.sg/" target="_bl
 * **10 Sep 2022:** Sri Sivan Temple <a href="https://www.facebook.com/OnePeople.sg/posts/5705977042773872" target="_blank">[Summary]</a>
 * **9 Sep 2022:** Cathedral of the Good Shepherd
 
+<div style="text-align:center">
+
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FICCSSG%2Fposts%2F462614302576885&show_text=true&width=500" width="500" height="652" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+</div>
 
 * 9 Sep 2022: Silat Road Sikh Temple 
 # Community Dialogue
