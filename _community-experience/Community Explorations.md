@@ -3,6 +3,10 @@ title: Community Explorations
 permalink: /community-experience/CommunityExplorations/
 description: Community Explorations
 ---
+The Community Experience is an immersive programme and provides local and foreign delegates an opportunity to experience first-hand the manifestation of Singapore’s interracial and interreligious harmony policies, through interacting with our local community partners. It consists of:
+* **Community Explorations**: ongoing until Nov 2022;
+* **Community Dialogue**: took place on 5 Sep 2022 at Wisma Geylang Serai.
+
 ![](/images/RT_CE%201%20-121.jpg)
 <font color = "grey"><font size="-1">Delegates visiting Lorong Koo Chye Sheng Hong Temple in Singapore on 6 Sep 2022 as part of the ICCS 2022 Community Experience programme.</font></font>  
 
@@ -42,13 +46,7 @@ Visit OnePeopleSG's <a href="https://www.facebook.com/OnePeople.sg/" target="_bl
 	
 </div>
 
-* **8 Sep 2022:** Nagore Dargah
-
-<div style="text-align:center">
-	
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FICCSSG%2Fposts%2F462609965910652&width=500&show_text=true&appId=1841049369315940&height=652" width="500" height="652" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-	
-</div>
+* **8 Sep 2022:** Nagore Dargah <a href="https://www.facebook.com/media/set/?set=a.462609949243987&type=3" target="_blank">[Photos]</a>
 
 * **7 Sep 2022:** Buddha Tooth Relic Temple
 
