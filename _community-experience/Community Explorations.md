@@ -48,14 +48,7 @@ Visit OnePeopleSG's <a href="https://www.facebook.com/OnePeople.sg/" target="_bl
 
 * **8 Sep 2022:** Nagore Dargah <a href="https://www.facebook.com/media/set/?set=a.462609949243987&type=3" target="_blank">[Photos]</a>
 
-* **7 Sep 2022:** Buddha Tooth Relic Temple
-
-<div style="text-align:center">
-	
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FICCSSG%2Fposts%2F462662732572042&width=500&show_text=true&appId=1841049369315940&height=652" width="500" height="652" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-</div>
-
+* **7 Sep 2022:** Buddha Tooth Relic Temple <a href="https://www.facebook.com/media/set/?set=a.462662715905377&type=3" target="_blank">[Photos]</a>
 * **7 Sep 2022:** Maghain Aboth Synagogue
 
 <div style="text-align:center">
