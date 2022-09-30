@@ -34,7 +34,7 @@ sections:
         communities, runs till Nov 22.
       button: SIGN UP NOW
       alt: Community
-      url: /CommunityExperience
+      url: /community-experience/CommunityExplorations/
       image: /images/RT_CE 1 -77.jpg
   - infopic:
       title: Young Leaders Programme
