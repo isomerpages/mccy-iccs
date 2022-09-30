@@ -30,11 +30,12 @@ Visit OnePeopleSG's <a href="https://www.facebook.com/OnePeople.sg/" target="_bl
 **Past Community Explorations:**
 * **24 Sep 2022**: An-Nahdhah Mosque
 * **17 Sep 2022:** Silat Road Sikh Temple <a href="https://www.facebook.com/OnePeople.sg/posts/5705977042773872" target="_blank">[Summary]</a>
-* **10 Sep 2022:** Sri Sivan Temple<a href="https://www.facebook.com/OnePeople.sg/posts/5705977042773872" target="_blank">[Summary]</a>
-* 9 Sep 2022: Cathedral of the Good Shepherd <a href="https://www.facebook.com/OnePeople.sg/posts/5705977042773872" target="_blank">[Photos]</a>
+* **10 Sep 2022:** Sri Sivan Temple <a href="https://www.facebook.com/OnePeople.sg/posts/5705977042773872" target="_blank">[Summary]</a>
+* **9 Sep 2022:** Cathedral of the Good Shepherd
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FICCSSG%2Fposts%2F462614302576885&show_text=true&width=500" width="500" height="652" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-* 9 Sep 2022: 
+
+* 9 Sep 2022: Silat Road Sikh Temple 
 # Community Dialogue
 The ICCS 2022 Community Dialogue took place on 5 Sep 2022, one day before ICCS, at Wisma Geylang Serai.
 
