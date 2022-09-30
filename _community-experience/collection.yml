@@ -1,4 +1,5 @@
 collections:
   community-experience:
     output: true
-    order: []
+    order:
+      - Community Experience.md
