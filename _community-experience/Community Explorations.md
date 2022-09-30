@@ -30,22 +30,8 @@ Visit OnePeopleSG's <a href="https://www.facebook.com/OnePeople.sg/" target="_bl
 * **24 Sep 2022**: Masjid An-Nahdhah
 * **17 Sep 2022:** Silat Road Sikh Temple <a href="https://www.facebook.com/OnePeople.sg/posts/5705977042773872" target="_blank">[Summary]</a>
 * **10 Sep 2022:** Sri Sivan Temple <a href="https://www.facebook.com/OnePeople.sg/posts/5705977042773872" target="_blank">[Summary]</a>
-* **8 Sep 2022:** Cathedral of the Good Shepherd
-
-<div style="text-align:center">
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FICCSSG%2Fposts%2F462614302576885&show_text=true&width=500" width="500" height="652" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-</div>
-
-* **8 Sep 2022:** Silat Road Sikh Temple
-
-<div style="text-align:center">
-	
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FICCSSG%2Fposts%2F462612575910391&width=500&show_text=true&appId=1841049369315940&height=652" width="500" height="652" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-	
-</div>
-
+* **8 Sep 2022:** Cathedral of the Good Shepherd <a href="https://www.facebook.com/media/set/?vanity=ICCSSG&set=a.462614285910220" target="_blank">[Photos]</a>
+* **8 Sep 2022:** Silat Road Sikh Temple <a href="https://www.facebook.com/media/set/?vanity=ICCSSG&set=a.462612555910393" target="_blank">[Photos]</a>
 * **8 Sep 2022:** Nagore Dargah <a href="https://www.facebook.com/media/set/?set=a.462609949243987&type=3" target="_blank">[Photos]</a>
 * **7 Sep 2022:** Buddha Tooth Relic Temple <a href="https://www.facebook.com/media/set/?set=a.462662715905377&type=3" target="_blank">[Photos]</a>
 * **7 Sep 2022:** Maghain Aboth Synagogue <a href="https://www.facebook.com/media/set/?vanity=ICCSSG&set=a.462659192572396" target="_blank">[Photos]</a>
