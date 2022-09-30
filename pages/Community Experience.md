@@ -26,6 +26,11 @@ Visit OnePeopleSG's <a href="https://www.facebook.com/OnePeople.sg/" target="_bl
 
 ![](/images/CE7_080922-69.jpg)
 <font color = "grey"><font size="-1">Delegates visiting Cathedral of the Good Shepherd in Singapore on 8 Sep 2022 as part of the ICCS 2022 Community Experience programme.</font></font>
+
+**Past Community Explorations:**
+* 24 Sep 2022: An-Nahdhah Mosque
+* 17 Sep 2022: Silat Road Sikh Temple <a href="https://www.facebook.com/OnePeople.sg/posts/5705977042773872" target="_blank">[Summary]</a>
+* 10 Sep 2022: Sri Sivan Temple<a href="https://www.facebook.com/OnePeople.sg/posts/5705977042773872" target="_blank">[Summary]</a>
 # Community Dialogue
 The ICCS 2022 Community Dialogue took place on 5 Sep 2022, one day before ICCS, at Wisma Geylang Serai.
 
