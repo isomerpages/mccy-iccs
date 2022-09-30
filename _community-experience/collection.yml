@@ -1,0 +1,6 @@
+collections:
+  community-experience:
+    output: true
+    order:
+      - Community Explorations.md
+      - Community Dialogue.md
