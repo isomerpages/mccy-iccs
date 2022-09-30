@@ -81,7 +81,7 @@ Visit OnePeopleSG's <a href="https://www.facebook.com/OnePeople.sg/" target="_bl
 
 * **6 Sep 2022:** Lorong Koo Chye Sheng Hong Temple
 * **6 Sep 2022:** Sri Srinivasa Perumal Temple
-* **6 Sep 2022:** Masjid An-Nahdhah
+* **6 Sep 2022:** Zion Bishan Bible-Presbyterian Church
 # Community Dialogue
 The ICCS 2022 Community Dialogue took place on 5 Sep 2022, one day before ICCS, at Wisma Geylang Serai.
 
