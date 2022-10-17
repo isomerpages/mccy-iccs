@@ -4,8 +4,6 @@ permalink: /programme-and-speakers/Sessions/Breakout-Cohesion-3/
 description: Breakout Session – Cohesion 3
 third_nav_title: Sessions & Speakers
 ---
-
-
 <div class="bp-youtube">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sRpsZBDwWNI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -14,6 +12,8 @@ third_nav_title: Sessions & Speakers
 
 # Synopsis
 This breakout session looks explicitly at the work of youth leaders in social cohesion across Asia. The way that specific approaches to connect with young people and bridge potentially divisive partitions between communities will be of particular interest. It stresses the practice of building effective youth dialogue and service movements, rather than the theories involved in reaching younger people.
+# Visual Summary
+![](/images/Cohesion%203%20-%20Youth%20Work%20Initiatives_HiRes.jpg)
 # Speakers
 <img src="/images/Arizza%20Nocum.png"
      style="width:50%" />
