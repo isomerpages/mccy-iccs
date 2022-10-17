@@ -4,8 +4,6 @@ permalink: /programme-and-speakers/Sessions/Breakout-Cohesion-2/
 description: Breakout Session – Cohesion 2
 third_nav_title: Sessions & Speakers
 ---
-
-
 <div class="bp-youtube">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f66W3zuZvS8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -14,6 +12,8 @@ third_nav_title: Sessions & Speakers
 
 # Synopsis
 This breakout session examines good practices and case studies about people who have used online platforms to build connections between different groups of people and strengthen social cohesion. The session is also used to understand what social media companies have been doing to promote social cohesion.
+# Visual Summary
+![](/images/Cohesion%202%20-%20Connectivity%20and%20Connectedness_HiRes.jpg)
 # Speakers
 <img src="/images/Yang%20Mee%20Eng.png"
      style="width:50%" />
