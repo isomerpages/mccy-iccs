@@ -5,8 +5,6 @@ permalink: /programme-and-speakers/Sessions/Breakout-Identity-2/
 description: Breakout Session – Identity 2
 third_nav_title: Sessions & Speakers
 ---
-
-
 <div class="bp-youtube">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uaMKEdg0fkw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -15,6 +13,8 @@ third_nav_title: Sessions & Speakers
 
 # Synopsis
 This breakout session discusses public policies across the world that have helped identify and safeguard vulnerable individuals and communities from radicalisation, and how common spaces have been found to build resilience against divisive, extremist and religious narratives in communities.
+# Visual Summary
+![](/images/Identity%202%20-%20Diversity%20and%20Intersections_HiRes.jpg)
 # Speakers
 <img src="/images/Krish%20Raval.png"
      style="width:50%" />
