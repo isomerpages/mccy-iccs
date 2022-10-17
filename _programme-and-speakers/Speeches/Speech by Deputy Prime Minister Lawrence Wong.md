@@ -69,3 +69,5 @@ To conclude. Each of us is involved in the project of social cohesion in differe
 Thank you very much.
 
 <font size="-1"><sup>1</sup> Thomas Hale, Noam Angrist, Rafel Goldszmidt, Beatriz Kira, Anna Petherick, Toby Phillips, Samuel Webster, Emily Cameron-Blake, Laura Hallas, Saptarshi Majumdar, and Helen Tatlow. (2021). “A global panel database  of pandemic policies (Oxford COVID-19 Government Response Tracker).” Nature Human Behaviour. [https://doi.org/10.1038/s41562-021-01079-8](https://doi.org/10.1038/s41562-021-01079-8)</font>
+# Visual Summary
+![](/images/Deputy%20Prime%20Minister_HiRes.jpg)
