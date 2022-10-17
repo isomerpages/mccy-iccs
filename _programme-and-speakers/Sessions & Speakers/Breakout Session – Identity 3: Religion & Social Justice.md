@@ -4,8 +4,6 @@ permalink: /programme-and-speakers/Sessions/Breakout-Identity-3/
 description: Breakout Session – Identity 3
 third_nav_title: Sessions & Speakers
 ---
-
-
 <div class="bp-youtube">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oSEmti8idSw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -16,6 +14,8 @@ third_nav_title: Sessions & Speakers
 This breakout session discusses some of the ways that religious identities inform social justice work, which in turn helps to deepen connections across various groups in society and promoting socially cohesive bonds. 
 
 Areas explored include overcoming racial and ethnic prejudice, protecting vulnerable individuals and communities beset by a lack of environmental justice, and countering radical and extremist narratives. It demonstrates examples of good practice and provide practical steps for working towards social justice from within various religious worldviews and identities.
+# Visual Summary
+![](/images/identity%203-%20religion%20and%20social%20justice_HiRes.jpg)
 # Speakers
 <img src="/images/Somboon%20Chungprampree.jpg"
      style="width:50%" />
