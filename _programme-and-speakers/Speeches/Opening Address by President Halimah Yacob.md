@@ -56,3 +56,5 @@ In closing, I encourage everyone to use this opportunity to speak our minds resp
 This is a time to come together as a family, to recognise the beauty in our diversity and use that to our advantage in tackling greater challenges to come, so that we can build brighter and more cohesive societies for all.
 
 I wish you a fruitful Conference. Thank you.
+# Visual Summary
+![](/images/Opening%20Address_HiRes.jpg)
