@@ -168,3 +168,5 @@ All of this illustrates that the great religious traditions of mankind are capab
 An appropriate description of this dedication is found in John Paul II’s closing remarks at the 1986 historic prayer for peace in Assisi: “We attempt to find in it a foreshadowing of what God would want the historical evolution of mankind to be: a brotherly journey in which we accompany one another toward the ultimate goal he creates for us.”
 
 Thank you.
+# Visual Summary
+![](/images/Special%20Address_HiRes.jpg)
