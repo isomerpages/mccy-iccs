@@ -189,3 +189,5 @@ Finally, I must say that the friendships we’ve made at this conference have be
 So on that note, as I leave, I will leave you with a video that captures the highlights of the last few days, you’ll see many of you there, and I hope that this little memento will remind you of ICCS 2022, of the hospitality of Singapore and will remind you that even as you go back to your home countries, that ICCS 2022 does not end here.
 
 Till the next time, thank you very much.
+# Visual Summary
+![](/images/Closing%20Address_HiRes.jpg)
