@@ -4,8 +4,6 @@ permalink: /programme-and-speakers/Sessions/Breakout-Cohesion-1/
 description: Breakout Session – Cohesion 1
 third_nav_title: Sessions & Speakers
 ---
-
-
 <div class="bp-youtube">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5NRnFbDCjNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -14,6 +12,8 @@ third_nav_title: Sessions & Speakers
 
 # Synopsis
 This breakout session further investigates issues raised during Plenary 3 around hate, prejudice, and conspiracy online. A key focus is on conspiracy theories. It addresses practical, real world solutions and practices in this regard.
+# Visual Summary
+![](/images/Cohesion%201%20-%20Hate%20and%20conspiracy%20online_HiRes.jpg)
 # Speakers
 <img src="/images/Phillip%20Larrey.jpg"
      style="width:50%" />

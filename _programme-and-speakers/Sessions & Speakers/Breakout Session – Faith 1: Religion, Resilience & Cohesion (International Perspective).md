@@ -5,8 +5,6 @@ permalink: /programme-and-speakers/Sessions/Breakout-Faith-1/
 description: Breakout Session – Faith 1
 third_nav_title: Sessions & Speakers
 ---
-
-
 <div class="bp-youtube">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FJiiG9bkips" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -15,6 +13,8 @@ third_nav_title: Sessions & Speakers
 
 # Synopsis
 This breakout session has an interest in different faith-based strategies in building resilience against divisive, even extremist, religious narratives within communities, and how religious leaders and communities can build wider resilience beyond their tradition across societies. It focuses on international contexts.
+# Visual Summary
+![](/images/Faith%201%20-%20Religion,%20Resilience%20and%20Cohesion_HiRes.jpg)
 # Speakers
 <img src="/images/Chi%20Kwang%20Sunim%202.jpg"
      style="width:50%" />

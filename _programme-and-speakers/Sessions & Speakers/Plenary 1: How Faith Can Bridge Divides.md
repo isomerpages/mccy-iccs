@@ -4,8 +4,6 @@ permalink: /programme-and-speakers/Sessions/Plenary1/
 description: Plenary 1
 third_nav_title: Sessions & Speakers
 ---
-
-
 <div class="bp-youtube">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4aINM8LqkRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -14,6 +12,8 @@ third_nav_title: Sessions & Speakers
 
 # Synopsis
 This plenary critically examines the reasons for the rise and endurance of social polarisation due to ideological or religious beliefs. With a stronger understanding of these divides and the reasons behind them, we hope that some of the lessons gleaned can be applied to foster inter-religious peace and harmony in plural societies across the region and beyond. Specific lessons from faith traditions are shared. 
+# Visual Summary
+![](/images/Plenary%201-%20How%20Faith%20Can%20Bridge%20Divides_HiRes.jpg)
 # Speakers
 <img src="/images/Sadhviji1-png.png"
      style="width:50%" />

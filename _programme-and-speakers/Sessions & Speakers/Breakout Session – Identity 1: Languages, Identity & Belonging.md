@@ -4,8 +4,6 @@ permalink: /programme-and-speakers/Sessions/Breakout-Identity-1/
 description: Breakout Session – Identity 1
 third_nav_title: Sessions & Speakers
 ---
-
-
 <div class="bp-youtube">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/in4ZChoJd0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -14,6 +12,8 @@ third_nav_title: Sessions & Speakers
 
 # Synopsis
 This breakout group examines how languages shape our perceptions of self and other, and our understanding of identities. Identity and language are key in building one’s sense of belonging, especially for minority groups. This breakout group explores how the limits in languages, the evolution of vocabulary and use of colloquialism affect the way we see ourselves and build our sense of belonging, and how we differentiate ourselves from others. Attention is given to the lived experience of communities and minority language groups.
+# Visual Summary
+![](/images/Identity%201%20Languages,%20Identity%20and%20Belonging_HiRes.jpg)
 # Speakers
 <img src="/images/Ghilad%20Zuckermann.jpg"
      style="width:50%" />

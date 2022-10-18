@@ -5,8 +5,6 @@ permalink: /programme-and-speakers/Sessions/Breakout-Faith-2/
 description: Breakout Session – Faith 2
 third_nav_title: Sessions & Speakers
 ---
-
-
 <div class="bp-youtube">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aIozL-X69J8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -15,6 +13,8 @@ third_nav_title: Sessions & Speakers
 
 # Synopsis
 This breakout session has an interest in different faith-based strategies in building resilience against divisive, even extremist, religious narratives within communities, and how religious leaders and communities can build wider resilience beyond their tradition across societies. It focuses on regional (Southeast Asian) contexts.
+# Visual Summary
+![](/images/Faith%202%20-%20Religion,%20Resilience%20and%20Cohesion_HiRes.jpg)
 # Speakers
 <img src="/images/Benjamin%20Tan.jpg"
      style="width:50%" />

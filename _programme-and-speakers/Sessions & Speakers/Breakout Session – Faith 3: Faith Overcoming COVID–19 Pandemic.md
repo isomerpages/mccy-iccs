@@ -4,8 +4,6 @@ permalink: /programme-and-speakers/Sessions/Breakout-Faith-3/
 description: Breakout Session – Faith 3
 third_nav_title: Sessions & Speakers
 ---
-
-
 <div class="bp-youtube">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/82bNB0VYIDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -14,6 +12,8 @@ third_nav_title: Sessions & Speakers
 
 # Synopsis
 This breakout session explores how traditions have evolved over this challenging global COVID-19 pandemic in relation to practice rituals and ways to worship. In particular, the session discusses how communities have built internal connections within themselves despite being unable to meet physically, but also how they have utilised technology to reach out beyond their own communities.
+# Visual Summary
+![](/images/Faith%203%20-%20Faith%20overcoming%20COVID-19_HiRes.jpg)
 # Speakers
 <img src="/images/Mohd%20Hannan%20Hassan%202.jpg"
      style="width:50%" />

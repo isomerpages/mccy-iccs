@@ -4,8 +4,6 @@ permalink: /programme-and-speakers/Sessions/Plenary3/
 description: Plenary 3
 third_nav_title: Sessions & Speakers
 ---
-
-
 <div class="bp-youtube">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hNpkaEJppKY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -16,6 +14,8 @@ third_nav_title: Sessions & Speakers
 This plenary asks: given that we know digital platforms can create echo chambers and be used for divisive ends, how can we employ them to promote social cohesion? People's identities are part of this, including their religious identities, but practical examples of how cohesion is built online and with technologies such as social media is central to this plenary.  
 
 Looking from different global angles and focusing on areas such as community-building, preventing and countering violent extremism, and mapping global peacebuilding, this session shows how online platforms may be beacons of cohesion and hope, rather than division and hatred.
+# Visual Summary
+![](/images/Plenary%203-%20How%20technology%20can%20be%20leveraged%20to%20foster%20mutual%20trust_HiRes.jpg)
 # Speakers
 <img src="/images/Jasvir%20Singh.jpg"
      style="width:50%" />
