@@ -2,6 +2,7 @@ collections:
   programme-and-speakers:
     output: true
     order:
+      - Reflections on ICCS 2022.md
       - Programme Overview.md
       - Speeches/.keep
       - Speeches/Opening Address by President Halimah Yacob.md
