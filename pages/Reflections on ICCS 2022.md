@@ -5,7 +5,7 @@ description: Reflections on ICCS 2022
 ---
 <table>
 <tr>
-	<td>col 1</td>
+	<td><img src="/images/Ong%20Keng%20Yong.png" style="width:10%"></td>
 	<td>by Ong Keng Yong</td>
 	</tr>
 </table>
