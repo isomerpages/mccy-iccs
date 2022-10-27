@@ -5,6 +5,7 @@ description: Reflections on ICCS 2022
 ---
 <table>
  <tr>
+	 <th>row 1:</th>
 	<td><img src="/images/Speaker_Ong%20Keng%20Yong_square.png" style="width:50px"></td>
 	<td>by Ong Keng Yong</td>
 	<td></td>
@@ -13,6 +14,12 @@ description: Reflections on ICCS 2022
 	<td></td>
 	<td></td>
 		<td></td>
+	 		<td></td>
+	 		<td></td>
+	 		<td></td>
+	 		<td></td>
+	 		<td></td>
+	 		<td></td>
 	 	<td>Wednesday, 14 October 2022</td>
  </tr>
 </table>
