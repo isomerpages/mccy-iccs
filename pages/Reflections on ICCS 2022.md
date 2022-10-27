@@ -22,7 +22,8 @@ description: Reflections on ICCS 2022
 	 <td></td>
 	 <td></td>
 	 <td></td>
-	 <td><font size="-1">Wednesday, 14 October 2022</font></td>
+	 <td></td>
+	 <td><font size="-1">Friday, 16 September 2022</font></td>
 	</tr>
 	<tr></tr>
 </table>  
