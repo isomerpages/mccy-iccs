@@ -7,22 +7,6 @@ description: Reflections on ICCS 2022
  <tr>
 	 <td><img src="/images/Speaker_Ong%20Keng%20Yong_square.png" style="width:35px"></td>
 	 <td><font size="-1">by Ong Keng Yong</font></td>
-	 <td></td>
-	 <td></td>
-	 <td></td>
-	 <td></td>
-	 <td></td>
-	 <td></td>
-	 <td></td>
-	 <td></td>
-	 <td></td>
-	 <td></td>
-	 <td></td>
-	 <td></td>
-	 <td></td>
-	 <td></td>
-	 <td></td>
-	 <td></td>
 	 <td><font size="-1">Friday, 16 September 2022</font></td>
 	</tr>
 	<tr></tr>
