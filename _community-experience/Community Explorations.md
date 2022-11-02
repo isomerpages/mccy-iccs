@@ -23,8 +23,8 @@ Visit OnePeopleSG's <a href="https://www.facebook.com/OnePeople.sg/" target="_bl
 <font color = "grey"><font size="-1">Delegates visiting Cathedral of the Good Shepherd in Singapore on 8 Sep 2022 as part of the ICCS 2022 Community Experience programme.</font></font>
 # Past Community Explorations
 * **29 Oct 2022:** Bahá'í Centre
-* **16 Oct 2022:** Soon Thian Keing (Tua Konsi) Ltd
-* **8 Oct 2022:** Nagore Dargah
+* **16 Oct 2022:** Soon Thian Keing (Tua Konsi) Ltd <a href="https://www.facebook.com/OnePeople.sg/posts/5795921527112756" target="_blank">[Summary]</a>
+* **8 Oct 2022:** Nagore Dargah <a href="https://www.facebook.com/OnePeople.sg/posts/5795921527112756" target="_blank">[Summary]</a>
 * **1 Oct 2022:** Zion Bishan-Bible-Presbyterian Church
 * **24 Sep 2022**: Masjid An-Nahdhah
 * **17 Sep 2022:** Silat Road Sikh Temple <a href="https://www.facebook.com/OnePeople.sg/posts/5705977042773872" target="_blank">[Summary]</a>
