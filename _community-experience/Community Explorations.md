@@ -13,10 +13,6 @@ The **Community Experience** is an immersive programme and provides local and fo
 Organised by OnePeople.sg in conjunction with ICCS 2022, the Community Exploration series provides participants unique and experiential opportunities to learn about the diverse religious communities in Singapore. Participants uncover little known facts and stories through guided tours and enriching conversations with religious practitioners.
 
 Sign up for the <a href="https://bit.ly/OPSG_ICCS_CE2022" target="_blank">upcoming Community Explorations here.</a>
-* **1 Oct 2022, 10am - 12nn:** Zion Bishan-Bible-Presbyterian Church
-* **8 Oct 2022, 10am - 12nn:** Nagore Dargah
-* **16 Oct 2022, 10am - 12nn:** Soon Thian Keing (Tua Konsi) Ltd [Fully subscribed]
-* **29 Oct 2022, 10am - 12nn:** Bahá'í Centre
 * **5 Nov 2022, 10am - 12nn:** Sultan Mosque
 * **12 Nov 2022, 10am - 12nn:** Palelai Buddhist Temple
 * **19 Nov 2022, 4pm - 6pm:** Singapore Jain Religious Society
@@ -26,6 +22,10 @@ Visit OnePeopleSG's <a href="https://www.facebook.com/OnePeople.sg/" target="_bl
 ![](/images/CE7_080922-69.jpg)
 <font color = "grey"><font size="-1">Delegates visiting Cathedral of the Good Shepherd in Singapore on 8 Sep 2022 as part of the ICCS 2022 Community Experience programme.</font></font>
 # Past Community Explorations
+* **29 Oct 2022:** Bahá'í Centre
+* **16 Oct 2022:** Soon Thian Keing (Tua Konsi) Ltd
+* **8 Oct 2022:** Nagore Dargah
+* **1 Oct 2022:** Zion Bishan-Bible-Presbyterian Church
 * **24 Sep 2022**: Masjid An-Nahdhah
 * **17 Sep 2022:** Silat Road Sikh Temple <a href="https://www.facebook.com/OnePeople.sg/posts/5705977042773872" target="_blank">[Summary]</a>
 * **10 Sep 2022:** Sri Sivan Temple <a href="https://www.facebook.com/OnePeople.sg/posts/5705977042773872" target="_blank">[Summary]</a>
