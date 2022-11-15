@@ -15,7 +15,7 @@ Organised by OnePeople.sg in conjunction with ICCS 2022, the Community Explorati
 Sign up for the <a href="https://bit.ly/OPSG_ICCS_CE2022" target="_blank">final Community Exploration here.</a>
 * **19 Nov 2022, 4pm - 6pm:** Singapore Jain Religious Society
 
-Visit OnePeopleSG's <a href="https://www.facebook.com/OnePeople.sg/" target="_blank">Facebook</a> and <a href="https://www.instagram.com/onepeople.sg/" target="_blank">Instagram</a> pages for up-to-date information on the upcoming Community Explorations.
+Visit OnePeopleSG's <a href="https://www.facebook.com/OnePeople.sg/" target="_blank">Facebook</a> and <a href="https://www.instagram.com/onepeople.sg/" target="_blank">Instagram</a> pages for up-to-date information on the Community Explorations.
 
 ![](/images/CE7_080922-69.jpg)
 <font color = "grey"><font size="-1">Delegates visiting Cathedral of the Good Shepherd in Singapore on 8 Sep 2022 as part of the ICCS 2022 Community Experience programme.</font></font>
