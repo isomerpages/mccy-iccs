@@ -2,7 +2,6 @@ collections:
   archive:
     output: true
     order:
-      - Research & Commentaries.md
       - Plenary & Breakout Sessions.md
       - Registration.md
       - Venue & Travel Advisory.md
