@@ -2,7 +2,6 @@ collections:
   past-events:
     output: true
     order:
-      - ICCS 2022/.keep
       - ICCS 2019/.keep
       - ICCS 2019/Overview.md
       - ICCS 2019/Speakers.md
