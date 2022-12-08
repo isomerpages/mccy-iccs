@@ -29,7 +29,7 @@ On the final day, the audience tuned into the Singapore experience in managing i
 
 For many, ICCS 2022 not only presented them with a rare opportunity to speak about their causes, passions and projects, but also exposed delegates and speakers to the myriad of social cohesion issues that continue to challenge diverse communities around the world. Speakers and delegates found meaning from both the robust discussions at the conference, as well as experiential journeys outside of the conference.
 
-About the Author
-----------------
+![](/images/ICCS__2022-09-08__12-23-17.jpg)
+<font color = "grey"><font size="-1">Delegates and speakers alike found meaning and forged friendships at ICCS 2022.</font></font>
 
-_Ong Keng Yong is Executive Deputy Chairman of the S. Rajaratnam School of International Studies (RSIS), Nanyang Technological University, Singapore. He wishes to acknowledge the inputs of the ICCS team in RSIS in the writing of this commentary._
+Beyond the Main Conference, there was a special Young Leaders Programme that ran in parallel with the main proceedings, featuring several speakers as well as content creators Father Fiel Pareja, Reverend Chris Lee and Yasmin Jay who leverage their platforms to share a message of hope and peace through faith.
