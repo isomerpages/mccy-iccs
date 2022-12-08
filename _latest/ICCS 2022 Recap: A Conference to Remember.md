@@ -23,7 +23,7 @@ The Main Conference of ICCS 2022 presented a stellar line-up of leaders from pol
 Commencing proceedings was an inspiring speech by Madam Halimah Yacob, President of the Republic of Singapore, as well as a special address by Cardinal Pietro Parolin, Secretary of State of the Holy See. 
 
 ![](/images/ICCS_06092022_RCCC-144.jpg)
-President Halimah Yacob opening ICCS 2022 with her speech on 6 September 2022.
+<font color = "grey"><font size="-1">President Halimah Yacob opening ICCS 2022 with her speech on 6 September 2022.</font></font>
 
 The three-day Conference also highlighted three plenary discussions, focused on themes such as faith, diversity and technology. It was a treat to hear from luminaries such as Mr André Azoulay sharing about his upbringing as a Jew in predominantly Muslim Morocco, as well as Dr Shashi Jayakumar highlighting the need for vigilance against online hate speech. 
 
