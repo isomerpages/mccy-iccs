@@ -23,6 +23,7 @@ One of the key highlights of this year’s YLP was a special Fireside Chat featu
 ![](/images/ICCS__2022-09-07__14-22-27.jpg)
 <font color = "grey"><font size="-1">Father Fiel Pareja, Reverend Chris Lee and Yasmin Jay inspiring the youth delegates with their sharings in a fireside chat facilitated by Krish Raval OBE.</font></font> 
 
+* <a href="https://youtu.be/YxzsyKN3CQ0" target="_blank">Click here to watch the YLP 2022 Fireside Chat on our YouTube channel.</a> 
 
 The YLP also featured a showcase for innovations by young interfaith leaders to encourage social cohesion. An example was Don Basil Kannangara and his social enterprise, Being Bridges, which rolls out virtual reality (VR) goggles that are programmed to “bring” users on a virtual tour of various houses of worship in Singapore. Created as an educational resource during the pandemic, these VR goggles allow users to better understand a new faith community within the comforts of their own homes.
 
