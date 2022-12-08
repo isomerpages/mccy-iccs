@@ -3,7 +3,6 @@ title: "ICCS 2022 Recap: Experiencing the Diversity of Singapore"
 permalink: /latest/experiencing-the-diversity-of-Singapore/
 description: "ICCS 2022 Recap: Experiencing the Diversity of Singapore"
 ---
-
 <table>
  <tr>
 	 <td><img src="/images/ICCS-parallelogram_narrow.png" style="width:20px"></td>
@@ -34,6 +33,6 @@ Upon reaching the house of worship, delegates were brought along an immersive jo
 The tours concluded with brief Q&A sessions between the hosts and visiting delegates. These brief discussions allowed for deeper understanding of the spotlighted faith. Delegates were then treated with Singapore’s national pastime: dining out. Delegates were presented with a dizzying array of diverse culinary offerings at a Singapore hawker centre, thus bringing the evening’s proceedings to a fulfilling end.
 
 ![](/images/CE3_06092022_291.jpg)
-<font color = "grey"><font size="-1">Delegates bonded over food and experienced local and Southeast Asian delicacies, such as durians.</font></font>
+<font color = "grey"><font size="-1">Delegates bonded over food and experienced local and Southeast Asian delicacies, such as durians.</font></font> 
 
 * [Click here to view all ICCS 2022 Community Explorations.](/community-experience/communityexplorations/)
