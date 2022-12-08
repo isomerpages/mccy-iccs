@@ -26,7 +26,7 @@ Commencing proceedings was an inspiring speech by Madam Halimah Yacob, President
 The three-day Conference also highlighted three plenary discussions, focused on themes such as faith, diversity and technology. It was a treat to hear from luminaries such as Mr André Azoulay sharing about his upbringing as a Jew in predominantly Muslim Morocco, as well as Dr Shashi Jayakumar highlighting the need for vigilance against online hate speech. 
 
 ![](/images/ICCS__2022-09-07__09-15-15.jpg)
-<font color = "grey"><font size="-1">Mr André Azoulay sharing his views on the plenary theme “How Diversity Can Be Harnessed for the Common Good on 7 September 2022.</font></font> 
+<font color = "grey"><font size="-1">Mr André Azoulay sharing his views on the plenary theme “How Diversity Can Be Harnessed for the Common Good on 7 September 2022.</font></font>  
 
 * [Click here for all ICCS 2022 speeches, and plenary and breakout session summaries.](/programme-and-speakers/speeches/openingaddress/)
 
