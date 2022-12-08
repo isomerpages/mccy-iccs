@@ -26,3 +26,8 @@ ICCS 2022 speakers and delegates visiting the Lorong Koo Chye Sheng Hong Temple 
 Participants boarded a bus in the evening from the Raffles City Convention Centre, where the Main Conference and Young Leaders Programme took place, taking a journey across Singapore peppered with interesting observations and anecdotes by an enthusiastic team of local guides. For many of the delegates visiting from overseas, these rides provided helpful context for them as they take in the sights and sounds of Singapore.
 
 Upon reaching the house of worship, delegates were brought along an immersive journey that highlighted how each house of worship came to be and its place within the wider community today. Often, there are recurring themes underpinning these origin stories, such as the collective sacrifice and unity displayed by various communities in coming together to build and consecrate their houses of worship.
+
+![](/images/CE2_060922-109.jpg)
+ICCS 2022 speakers and delegates visiting the Sri Srinivasa Perumal Temple on 6 September 2022.
+
+The tours concluded with brief Q&A sessions between the hosts and visiting delegates. These brief discussions allowed for deeper understanding of the spotlighted faith. Delegates were then treated with Singapore’s national pastime: dining out. Delegates were presented with a dizzying array of diverse culinary offerings at a Singapore hawker centre, thus bringing the evening’s proceedings to a fulfilling end.
