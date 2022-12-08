@@ -22,6 +22,13 @@ Commencing proceedings was an inspiring speech by Madam Halimah Yacob, President
 
 The three-day Conference also highlighted three plenary discussions, focused on themes such as faith, diversity and technology. It was a treat to hear from luminaries such as Mr André Azoulay sharing about his upbringing as a Jew in predominantly Muslim Morocco, as well as Dr Shashi Jayakumar highlighting the need for vigilance against online hate speech. 
 
+![](/images/ICCS__2022-09-07__09-15-15.jpg)
+<font color = "grey"><font size="-1">Mr André Azoulay sharing his views on the plenary theme “How Diversity Can Be Harnessed for the Common Good on 7 September 2022.</font></font>
+
+On the final day, the audience tuned into the Singapore experience in managing interfaith matters with two sessions featuring Deputy Prime Minister Mr Lawrence Wong and Minister for Culture, Community and Youth Mr Edwin Tong.
+
+For many, ICCS 2022 not only presented them with a rare opportunity to speak about their causes, passions and projects, but also exposed delegates and speakers to the myriad of social cohesion issues that continue to challenge diverse communities around the world. Speakers and delegates found meaning from both the robust discussions at the conference, as well as experiential journeys outside of the conference.
+
 About the Author
 ----------------
 
