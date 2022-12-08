@@ -11,10 +11,12 @@ description: "ICCS 2022 Recap: A Conference to Remember"
 	 <td></td>
 	 <td></td>
 	 <td></td>
+	 <td></td>
 	 <td><font size="-1">Monday, 12 December 2022</font></td>
 	</tr>
 	<tr></tr>
 </table>  
+
 
 The Main Conference of ICCS 2022 presented a stellar line-up of leaders from policy, faith, community and youth realms, coming together to discuss new trends and approaches to fostering social cohesion within and beyond our communities.
 
