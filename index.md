@@ -19,14 +19,12 @@ sections:
           description: A signature component of ICCS
           url: research/socialcohesionradar/
   - infopic:
-      title: How we connected at ICCS 2022
-      description: We have many identities, intertwining and defining us as
-        individuals. How can we unite despite our differences? We explored this
-        and more at ICCS 2022.
+      title: "ICCS 2022 Recap: A Conference to Remember"
+      description: ICCS 2022 presented a stellar line-up of leaders coming together to
+        discuss new trends and approaches to fostering social cohesion.
       button: Read more
-      url: /iccs
+      url: /latest/a-conference-to-remember/
       image: /images/For infopic 1.jpg
-      alt: ICCS2019
   - infopic:
       title: Community Experience
       description: The Community Exploration series, which provides opportunities to
