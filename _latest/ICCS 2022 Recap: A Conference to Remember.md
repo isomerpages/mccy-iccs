@@ -7,11 +7,6 @@ description: "ICCS 2022 Recap: A Conference to Remember"
  <tr>
 	 <td><img src="/images/ICCS-parallelogram_narrow.png" style="width:20px"></td>
 	 <td><font size="-1">by ICCS Team</font></td>
-	 <td></td>
-	 <td></td>
-	 <td></td>
-	 <td></td>
-	 <td></td>
 	 <td><font size="-1">Monday, 12 December 2022</font></td>
 	</tr>
 	<tr></tr>
