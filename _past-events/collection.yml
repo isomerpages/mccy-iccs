@@ -2,6 +2,7 @@ collections:
   past-events:
     output: true
     order:
+      - Speech by Deputy Prime Minister Lawrence Wong.md
       - Special Address by Cardinal Pietro Parolin.md
       - Opening Address by President Halimah Yacob.md
       - Programme Overview.md
