@@ -28,10 +28,9 @@ sections:
       alt: Plenary 2
   - infopic:
       title: Community Experience
-      description: The Community Exploration series, which provides opportunities to
-        visit Singapore's places of worship and learn about our diverse
-        communities, runs till Nov 22.
-      button: SIGN UP NOW
+      description: The Community Dialogue and Community Exploration series provide
+        opportunities to learn about Singapore's diverse communities.
+      button: READ MORE
       alt: Community
       url: /community-experience/CommunityExplorations/
       image: /images/RT_CE 1 -77.jpg
