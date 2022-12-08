@@ -3,13 +3,11 @@ title: "ICCS 2022 Recap: A Conference to Remember"
 permalink: /latest/a-conference-to-remember/
 description: "ICCS 2022 Recap: A Conference to Remember"
 ---
-
-
 <table>
  <tr>
-	 <td><img src="/images/Speaker_Ong%20Keng%20Yong_square.png" style="width:35px"></td>
-	 <td><font size="-1">by Ong Keng Yong</font></td>
-	 <td><font size="-1">Friday, 16 September 2022</font></td>
+	 <td><img src="/images/01-ICCS-Standard_Shape_CMYK.png" style="width:35px"></td>
+	 <td><font size="-1">by ICCS Team</font></td>
+	 <td><font size="-1">Monday, 12 December 2022</font></td>
 	</tr>
 	<tr></tr>
 </table>  
