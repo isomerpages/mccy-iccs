@@ -9,10 +9,10 @@ sections:
   - hero:
       background: /images/WEBSITE-BANNER_1200x630px_30_Jun.png
       key_highlights:
-        - title: Programme Overview
-          description: ICCS 2022 at a glance
-          url: /ProgrammeOverview/
-        - title: ICCS 2022 Sessions & Speakers
+        - title: Latest News
+          description: What's happening for ICCS
+          url: /latest/a-conference-to-remember/
+        - title: ICCS 2022 at a glance
           description: Speeches, plenary & breakout sessions
           url: /programme-and-speakers/specialpresentation/
         - title: Research
