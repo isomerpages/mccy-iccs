@@ -2,5 +2,6 @@ collections:
   latest:
     output: true
     order:
+      - "ICCS 2022 Recap: Experiencing the diversity of Singapore.md"
       - "ICCS 2022 Recap: Putting Our Faith in Youth.md"
       - "ICCS 2022 Recap: A Conference to Remember.md"
