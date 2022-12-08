@@ -5,13 +5,19 @@ description: "ICCS 2022 Recap: A Conference to Remember"
 ---
 <table>
  <tr>
-	 <td><img src="/images/01-ICCS-Standard_Shape_CMYK.png" style="width:35px"></td>
+	 <td><img src="/images/ICCS-parallelogram_narrow.png" style="width:35px"></td>
 	 <td><font size="-1">by ICCS Team</font></td>
+	 <td></td>
+	 <td></td>
+	 <td></td>
+	 <td></td>
+	 <td></td>
+	 <td></td>
 	 <td><font size="-1">Monday, 12 December 2022</font></td>
 	</tr>
 	<tr></tr>
 </table>  
-
+![]()
 From 6 to 8 September 2022, the S. Rajaratnam School of International Studies (RSIS) hosted the second International Conference on Cohesive Societies (ICCS) with the support of Singapore’s Ministry of Culture, Community and Youth (MCCY). Mooted by President of Singapore, Halimah Yacob, the conference was first held in Singapore in 2019 to encourage conversations on social cohesion so as to build knowledge, and to strengthen and forge networks across diverse communities.
 
 The two editions of ICCS have adopted the thematic framework of faith, identity and cohesion to explore solidarity and togetherness. Being multi-racial and multi-religious, Singapore is an appropriate setting for the discussion of sensitive issues, and the brainstorming of new ideas conducive to forming bonds and bridging divides.
