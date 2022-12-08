@@ -25,7 +25,7 @@ Each tour was centred on a house of worship that holds prominence within the lar
 
 Participants boarded a bus in the evening from the Raffles City Convention Centre, where the Main Conference and Young Leaders Programme took place, taking a journey across Singapore peppered with interesting observations and anecdotes by an enthusiastic team of local guides. For many of the delegates visiting from overseas, these rides provided helpful context for them as they take in the sights and sounds of Singapore.
 
-Upon reaching the house of worship, delegates were brought along an immersive journey that highlighted how each house of worship came to be and its place within the wider community today. Often, there are recurring themes underpinning these origin stories, such as the collective sacrifice and unity displayed by various communities in coming together to build and consecrate their houses of worship.
+Upon reaching the house of worship, delegates were brought along an immersive journey that highlighted how each house of worship came to be and its place within the wider community today. Often, there were recurring themes underpinning these origin stories, such as the collective sacrifice and unity displayed by various communities in coming together to build and consecrate their houses of worship.
 
 ![](/images/CE2_060922-109.jpg)
 <font color = "grey"><font size="-1">ICCS 2022 speakers and delegates visiting the Sri Srinivasa Perumal Temple on 6 September 2022.</font></font>
