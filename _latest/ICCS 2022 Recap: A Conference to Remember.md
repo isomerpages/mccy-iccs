@@ -11,8 +11,6 @@ description: "ICCS 2022 Recap: A Conference to Remember"
 	 <td></td>
 	 <td></td>
 	 <td></td>
-	 <td></td>
-	 <td></td>
 	 <td><font size="-1">Monday, 12 December 2022</font></td>
 	</tr>
 	<tr></tr>
