@@ -21,3 +21,8 @@ Father Fiel Pareja, Reverend Chris Lee and Yasmin Jay inspiring the youth delega
 
 The YLP also featured a showcase for innovations by young interfaith leaders to encourage social cohesion. An example was Don Basil Kannangara and his social enterprise, Being Bridges, which rolls out virtual reality (VR) goggles that are programmed to “bring” users on a virtual tour of various houses of worship in Singapore. Created as an educational resource during the pandemic, these VR goggles allow users to better understand a new faith community within the comforts of their own homes.
 
+![](/images/ICCS__2022-09-08__08-48-13.jpg)
+The VR goggles by Being Bridges featured at ICCS 2022 and gave users the opportunity to explore various houses of worship virtually.
+
+Additionally, the YLP also featured a series of city tours for the youth delegates, presenting them with a front-seat view on Singapore’s journey in inspiring social cohesion and how some of these approaches can be replicated elsewhere. Part of the YLP programme also featured The Pitch, a stage for teams of YLP delegates to share their vision of change and realise them with funding support from the Ministry of Culture, Community and Youth (MCCY). We had winning pitches devoted to enhancing social cohesion through diverse avenues, such as sustainability, food and culture, as well as technology.
+
