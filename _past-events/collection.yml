@@ -2,6 +2,7 @@ collections:
   past-events:
     output: true
     order:
+      - Special Address by Cardinal Pietro Parolin.md
       - Opening Address by President Halimah Yacob.md
       - Programme Overview.md
       - ICCS 2019/.keep
