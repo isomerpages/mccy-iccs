@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Programme Overview.md
+      - Speeches/Opening Address by President Halimah Yacob.md
       - Speeches/.keep
       - Sessions & Speakers/.keep
       - "Sessions & Speakers/Special Presentation: Perspectives on Social
