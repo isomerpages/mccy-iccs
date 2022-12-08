@@ -24,7 +24,8 @@ sections:
         discuss new trends and approaches to fostering social cohesion.
       button: Read more
       url: /latest/a-conference-to-remember/
-      image: /images/For infopic 1.jpg
+      image: /images/ICCS__2022-09-07__10-01-18.jpg
+      alt: Plenary 2
   - infopic:
       title: Community Experience
       description: The Community Exploration series, which provides opportunities to
