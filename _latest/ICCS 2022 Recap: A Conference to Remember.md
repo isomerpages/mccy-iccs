@@ -12,8 +12,6 @@ description: "ICCS 2022 Recap: A Conference to Remember"
 	<tr></tr>
 </table>  
 
----
-
 The Main Conference of ICCS 2022 presented a stellar line-up of leaders from policy, faith, community and youth realms, coming together to discuss new trends and approaches to fostering social cohesion within and beyond our communities.
 
 Commencing proceedings was an inspiring speech by Madam Halimah Yacob, President of the Republic of Singapore, as well as a special address by Cardinal Pietro Parolin, Secretary of State of the Holy See. 
