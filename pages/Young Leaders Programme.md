@@ -32,3 +32,5 @@ In this session, Franciscan Sister of Perpetual Adoration and Vocation Minister,
 
 
 * **The Pitch:** A stage for teams of delegates to share their vision of change and realise them with funding support from the Ministry of Culture, Community and Youth.
+
+[Click here for a recap of the ICCS 2022 Young Leaders Programme.](/latest/putting-our-faith-in-youth/)
