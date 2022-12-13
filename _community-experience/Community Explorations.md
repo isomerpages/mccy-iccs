@@ -15,8 +15,8 @@ Organised by OnePeople.sg in conjunction with ICCS 2022, the Community Explorati
 ![](/images/CE7_080922-69.jpg)
 <font color = "grey"><font size="-1">Delegates visiting Cathedral of the Good Shepherd in Singapore on 8 Sep 2022 as part of the ICCS 2022 Community Experience programme.</font></font>
 # Past Community Explorations
-* **19 Nov 2022:** Singapore Jain Religious Society
-* **12 Nov 2022:** Palelai Buddhist Temple
+* **19 Nov 2022:** Singapore Jain Religious Society <a href="https://www.facebook.com/OnePeople.sg/posts/5896038620434379" target="_blank">[Recap]</a>
+* **12 Nov 2022:** Palelai Buddhist Temple <a href="https://www.facebook.com/OnePeople.sg/posts/5896038620434379" target="_blank">[Recap]</a>
 * **5 Nov 2022:** Sultan Mosque <a href="https://www.facebook.com/OnePeople.sg/posts/pfbid0TkNkR1pzVZy8aAsXHbuTQp8gHyFAHm37hy4goqSHCRZGv47tV7LvCuTxnSpPtYW5l" target="_blank">[Recap]</a>
 * **29 Oct 2022:** Bahá'í Centre <a href="https://www.facebook.com/OnePeople.sg/posts/pfbid0TkNkR1pzVZy8aAsXHbuTQp8gHyFAHm37hy4goqSHCRZGv47tV7LvCuTxnSpPtYW5l" target="_blank">[Recap]</a>
 * **16 Oct 2022:** Soon Thian Keing (Tua Konsi) Ltd <a href="https://www.facebook.com/OnePeople.sg/posts/5795921527112756" target="_blank">[Recap]</a>
