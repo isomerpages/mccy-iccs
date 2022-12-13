@@ -4,6 +4,9 @@ permalink: /programme-and-speakers/Speeches/DPM-Speech/
 description: Speech by Deputy Prime Minister Lawrence Wong
 third_nav_title: Speeches
 ---
+
+
+
 <div class="bp-youtube">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SMU_PwMFNvs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

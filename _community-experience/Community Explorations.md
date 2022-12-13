@@ -4,23 +4,19 @@ permalink: /community-experience/CommunityExplorations/
 description: Community Explorations
 ---
 The **Community Experience** is an immersive programme and provides local and foreign delegates an opportunity to experience first-hand the manifestation of Singapore’s interracial and interreligious harmony policies, through interacting with our local community partners. It consists of:
-* **Community Explorations**: ongoing until Nov 2022;
-* **[Community Dialogue](/community-experience/CommunityDialogue/)**: took place on 5 Sep 2022 at Wisma Geylang Serai.
+* **Community Explorations**: [[Click here for a recap]](/latest/experiencing-the-diversity-of-singapore/)
+* **Community Dialogue**: [took place on 5 Sep 2022](/community-experience/CommunityDialogue/) at Wisma Geylang Serai.
 
 ![](/images/RT_CE%201%20-121.jpg)
 <font color = "grey"><font size="-1">Delegates visiting Lorong Koo Chye Sheng Hong Temple in Singapore on 6 Sep 2022 as part of the ICCS 2022 Community Experience programme.</font></font>  
 
 Organised by OnePeople.sg in conjunction with ICCS 2022, the Community Exploration series provides participants unique and experiential opportunities to learn about the diverse religious communities in Singapore. Participants uncover little known facts and stories through guided tours and enriching conversations with religious practitioners.
 
-Sign up for the <a href="https://bit.ly/OPSG_ICCS_CE2022" target="_blank">final Community Exploration here.</a>
-* **19 Nov 2022, 4pm - 6pm:** Singapore Jain Religious Society
-
-Visit OnePeopleSG's <a href="https://www.facebook.com/OnePeople.sg/" target="_blank">Facebook</a> and <a href="https://www.instagram.com/onepeople.sg/" target="_blank">Instagram</a> pages for up-to-date information on the Community Explorations.
-
 ![](/images/CE7_080922-69.jpg)
 <font color = "grey"><font size="-1">Delegates visiting Cathedral of the Good Shepherd in Singapore on 8 Sep 2022 as part of the ICCS 2022 Community Experience programme.</font></font>
 # Past Community Explorations
-* **12 Nov 2022:** Palelai Buddhist Temple
+* **19 Nov 2022:** Singapore Jain Religious Society <a href="https://www.facebook.com/OnePeople.sg/posts/5896038620434379" target="_blank">[Recap]</a>
+* **12 Nov 2022:** Palelai Buddhist Temple <a href="https://www.facebook.com/OnePeople.sg/posts/5896038620434379" target="_blank">[Recap]</a>
 * **5 Nov 2022:** Sultan Mosque <a href="https://www.facebook.com/OnePeople.sg/posts/pfbid0TkNkR1pzVZy8aAsXHbuTQp8gHyFAHm37hy4goqSHCRZGv47tV7LvCuTxnSpPtYW5l" target="_blank">[Recap]</a>
 * **29 Oct 2022:** Bahá'í Centre <a href="https://www.facebook.com/OnePeople.sg/posts/pfbid0TkNkR1pzVZy8aAsXHbuTQp8gHyFAHm37hy4goqSHCRZGv47tV7LvCuTxnSpPtYW5l" target="_blank">[Recap]</a>
 * **16 Oct 2022:** Soon Thian Keing (Tua Konsi) Ltd <a href="https://www.facebook.com/OnePeople.sg/posts/5795921527112756" target="_blank">[Recap]</a>
