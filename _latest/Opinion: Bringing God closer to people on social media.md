@@ -44,4 +44,4 @@ A recent experience that inspired me was the International Conference on Cohesiv
 
 However, my biggest takeaway from ICCS 2022 was seeing that even as we’re surrounded by so much negative dialogue online, there is a much larger collective of good hearts that seek to care for one another, and it is my fervent hope that we act in bold kindness to counteract this rise in intolerance across societies, both online and offline. I pray that we remain steadfast in our communities and continue to preserve the ties that hold us together even in the face of tough circumstances.
 
-*(This article was first published on INQUIRER.net on 23 December 2022.)*
+*(This article was <a href="https://opinion.inquirer.net/159781/bringing-god-closer-to-people-on-social-media-drawing-2-6m-followers" target="_blank">first published on INQUIRER.net</a> on 23 December 2022.)*
