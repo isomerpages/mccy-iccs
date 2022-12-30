@@ -4,6 +4,8 @@ permalink: /latest/bringing-God-closer-to-people-on-social-media/
 description: Bringing God closer to people on social media, drawing 2.6M
   followers - Father Fiel Pareja
 ---
+### Bringing God closer to people on social media, drawing 2.6M followers
+
 <table>
  <tr>
 	 <td><img src="/images/Father%20Fiel%20Pareja_square.png" style="width:25px"></td>
