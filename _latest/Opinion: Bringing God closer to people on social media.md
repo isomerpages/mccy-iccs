@@ -22,7 +22,7 @@ When people ask me about my journey as a faith leader on social media, I would a
 When I got ordained as a priest in the Archdiocese of San Fernando, Pampanga on Valentine’s Day 2020, I was elated as I was finally able to serve the community that I have long loved and cherished. The Almighty, however, had other plans—the pandemic began to unleash its full brunt upon the world, which then meant that I was physically unable to hold Mass and tend to the needs of the faithful
 
 ![](/images/RT_CE%201%20-79.jpg)
-<font color = "grey"><font size="-1">ICCS 2022 speakers and delegates visiting the Lorong Koo Chye Sheng Hong Temple on 6 September 2022.</font></font>
+<font color = "grey"><font size="-1">Father Fiel Pareja (standing) sharing his experience at the ICCS 2022 Young Leaders Programme on 6 September 2022.</font></font>
 
 Of course, it was frustrating to finally have a dream vocation come to be, only for it to stumble right at the beginning. However, a close younger relative of mine had introduced me to this exciting new virtual world through an app called TikTok, with its constant stream of eye-catching videos featuring zany dance moves and witty dialogues.
 
@@ -41,3 +41,5 @@ This does not mean that social media does not come without its pitfalls. As much
 A recent experience that inspired me was the International Conference on Cohesive Societies (ICCS 2022) which was held this past September in Singapore. There, I was exposed to a diverse range of not only nationalities and cultures, but also experiences and opinions. I was also able to share stories about my TikTok ministry and inspire young leaders seeking to bring greater cohesion to their various communities.
 
 However, my biggest takeaway from ICCS 2022 was seeing that even as we’re surrounded by so much negative dialogue online, there is a much larger collective of good hearts that seek to care for one another, and it is my fervent hope that we act in bold kindness to counteract this rise in intolerance across societies, both online and offline. I pray that we remain steadfast in our communities and continue to preserve the ties that hold us together even in the face of tough circumstances.
+
+*(This article was first published on INQUIRER.net on 23 December 2022.)*
