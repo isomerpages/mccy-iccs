@@ -4,7 +4,7 @@ permalink: /latest/bringing-God-closer-to-people-on-social-media/
 description: Bringing God closer to people on social media, drawing 2.6M
   followers - Father Fiel Pareja
 ---
-### Bringing God closer to people on social media, drawing 2.6M followers
+## Bringing God closer to people on social media, drawing 2.6M followers
 
 <table>
  <tr>
@@ -19,12 +19,14 @@ description: Bringing God closer to people on social media, drawing 2.6M
 	<tr></tr>
 </table>
 
-When people ask me about my journey as a faith leader on social media, I would attribute it to God’s grace which placed me in the right place at the right time.
-
-When I got ordained as a priest in the Archdiocese of San Fernando, Pampanga on Valentine’s Day 2020, I was elated as I was finally able to serve the community that I have long loved and cherished. The Almighty, however, had other plans—the pandemic began to unleash its full brunt upon the world, which then meant that I was physically unable to hold Mass and tend to the needs of the faithful
-
 ![](/images/ICCS__2022-09-07__14-22-27.jpg)
 <font color = "grey"><font size="-1">Father Fiel Pareja (standing) sharing his experience at the ICCS 2022 Young Leaders Programme on 6 September 2022.</font></font>
+
+When people ask me about my journey as a faith leader on social media, I would attribute it to God’s grace which placed me in the right place at the right time.
+
+When I got ordained as a priest in the Archdiocese of San Fernando, Pampanga on Valentine’s Day 2020, I was elated as I was finally able to serve the community that I have long loved and cherished. The Almighty, however, had other plans—the pandemic began to unleash its full brunt upon the world, which then meant that I was physically unable to hold Mass and tend to the needs of the faithful.
+
+
 
 Of course, it was frustrating to finally have a dream vocation come to be, only for it to stumble right at the beginning. However, a close younger relative of mine had introduced me to this exciting new virtual world through an app called TikTok, with its constant stream of eye-catching videos featuring zany dance moves and witty dialogues.
 
