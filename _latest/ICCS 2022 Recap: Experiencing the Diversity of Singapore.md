@@ -3,6 +3,8 @@ title: "ICCS 2022 Recap: Experiencing the Diversity of Singapore"
 permalink: /latest/experiencing-the-diversity-of-Singapore/
 description: "ICCS 2022 Recap: Experiencing the Diversity of Singapore"
 ---
+## Experiencing the Diversity of Singapore
+
 <table>
  <tr>
 	 <td><img src="/images/ICCS-parallelogram_narrow.png" style="width:20px"></td>
