@@ -3,6 +3,8 @@ title: "ICCS 2022 Recap: A Conference to Remember"
 permalink: /latest/a-conference-to-remember/
 description: "ICCS 2022 Recap: A Conference to Remember"
 ---
+## A Conference to Remember
+
 <table>
  <tr>
 	 <td><img src="/images/ICCS-parallelogram_narrow.png" style="width:20px"></td>
