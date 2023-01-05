@@ -14,13 +14,13 @@ description: Bringing God closer to people on social media, drawing 2.6M
 	 <td></td>
 	 <td></td>
 	 <td></td>
-	 <td><font size="-1">Friday, 30 December 2022</font></td>
+	 <td><font size="-1">Thursday, 5 January 2022</font></td>
 	</tr>
 	<tr></tr>
 </table>
 
 ![](/images/ICCS__2022-09-07__14-22-27.jpg)
-<font color = "grey"><font size="-1">Father Fiel Pareja (standing) sharing his experience at the ICCS 2022 Young Leaders Programme on 6 September 2022.</font></font>
+<font color = "grey"><font size="-1">Father Fiel Pareja (standing) sharing his experience at the ICCS 2022 Young Leaders Programme Fireside Chat on 7 September 2022.</font></font>
 
 When people ask me about my journey as a faith leader on social media, I would attribute it to God’s grace which placed me in the right place at the right time.
 
