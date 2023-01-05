@@ -3,6 +3,7 @@ title: "ICCS 2022 Recap: Young Leaders Programme"
 permalink: /latest/putting-our-faith-in-youth/
 description: "ICCS 2022 Recap: Young Leaders Programme"
 ---
+## Putting Our Faith in Youth
 
 <table>
  <tr>
