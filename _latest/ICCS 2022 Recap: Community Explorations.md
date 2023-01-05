@@ -7,7 +7,7 @@ description: "ICCS 2022 Recap: Community Explorations"
 
 <table>
  <tr>
-	 <td><img src="/images/ICCS-parallelogram_narrow.png" style="width:25px"></td>
+	 <td><img src="/images/ICCS-parallelogram_narrow.png" style="width:22px"></td>
 	 <td><font size="-1">by ICCS Team</font></td>
 	 <td></td>
 	 <td></td>
