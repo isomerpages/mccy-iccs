@@ -3,7 +3,6 @@ title: "ICCS 2022 Recap: Community Explorations"
 permalink: /latest/experiencing-the-diversity-of-Singapore/
 description: "ICCS 2022 Recap: Community Explorations"
 ---
-
 ## Experiencing the Diversity of Singapore
 
 <table>
@@ -19,12 +18,12 @@ description: "ICCS 2022 Recap: Community Explorations"
 	<tr></tr>
 </table>
 
+![](/images/RT_CE%201%20-79.jpg)
+<font color = "grey"><font size="-1">ICCS 2022 speakers and delegates visiting the Lorong Koo Chye Sheng Hong Temple on 6 September 2022.</font></font>
+
 A unique element to the ICCS 2022 experience is the Community Exploration tours. Held each evening during the three-day Conference, the tours took place following each day’s plenaries and breakout sessions. 
 
 Each tour was centred on a house of worship that holds prominence within the larger Singaporean community, highlighting its origin story as well as how the house of worship goes above and beyond in contributing to and enriching Singapore’s diverse society. Faiths represented in the Community Exploration tours include Christianity, Islam, Judaism, Buddhism, Hinduism, Taoism and Sikhism.
-
-![](/images/RT_CE%201%20-79.jpg)
-<font color = "grey"><font size="-1">ICCS 2022 speakers and delegates visiting the Lorong Koo Chye Sheng Hong Temple on 6 September 2022.</font></font>
 
 Participants boarded a bus in the evening from the Raffles City Convention Centre, where the Main Conference and Young Leaders Programme took place, taking a journey across Singapore peppered with interesting observations and anecdotes by an enthusiastic team of local guides. For many of the delegates visiting from overseas, these rides provided helpful context for them as they take in the sights and sounds of Singapore.
 
