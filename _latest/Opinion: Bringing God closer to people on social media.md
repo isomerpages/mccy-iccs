@@ -8,7 +8,7 @@ description: Bringing God closer to people on social media, drawing 2.6M
 
 <table>
  <tr>
-	 <td><img src="/images/Father%20Fiel%20Pareja_square.png" style="width:25px"></td>
+	 <td><img src="/images/Father%20Fiel%20Pareja_square.png" style="width:27px"></td>
 	 <td><font size="-1">by Father Fiel Pareja</font></td>
 	 <td></td>
 	 <td></td>
