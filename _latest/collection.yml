@@ -2,6 +2,7 @@ collections:
   latest:
     output: true
     order:
-      - "ICCS 2022 Recap: Experiencing the Diversity of Singapore.md"
-      - "ICCS 2022 Recap: Putting Our Faith in Youth.md"
-      - "ICCS 2022 Recap: A Conference to Remember.md"
+      - "Opinion: Bringing God closer to people on social media.md"
+      - "ICCS 2022 Recap: Community Explorations.md"
+      - "ICCS 2022 Recap: Young Leaders Programme.md"
+      - "ICCS 2022 Recap: Main Conference.md"

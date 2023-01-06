@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Latest News
           description: What's happening for ICCS
-          url: /latest/experiencing-the-diversity-of-singapore/
+          url: /latest/bringing-god-closer-to-people-on-social-media/
         - title: ICCS 2022 at a glance
           description: Speeches, plenary & breakout sessions
           url: /programme-and-speakers/specialpresentation/
@@ -45,4 +45,3 @@ sections:
       alt: YLP
       image: /images/XP3A8000.jpg
 ---
-
