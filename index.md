@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/WEBSITE-BANNER_6_JAN_1200x630px_OK.png
+      background: /images/WEBSITE-BANNER_1200x630px_30_Jun.png
       key_highlights:
         - title: Latest News
           description: What's happening for ICCS
