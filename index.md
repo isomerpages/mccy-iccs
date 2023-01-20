@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Latest News
           description: What's happening for ICCS
-          url: /latest/bringing-god-closer-to-people-on-social-media/
+          url: /latest/feature-hanadi-doleh/
         - title: ICCS 2022 at a glance
           description: Speeches, plenary & breakout sessions
           url: /programme-and-speakers/specialpresentation/
