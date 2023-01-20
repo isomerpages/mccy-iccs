@@ -33,3 +33,13 @@ The challenges of being an American Palestinian Muslim woman in a post-9/11 worl
 
 ![](/images/Hanadi_2.jpg)
 <font color = "grey"><font size="-1">Hanadi Doleh (centre) speaking at a 9/11 Interfaith Peace Walk Commemorating 20 Years in September 2021, an event which she hosted and planned.</font></font>
+
+**Tell us more about your work with the Interfaith Center of New York (ICNY), including some key milestones and some of the challenges/trends you're observing in the US.**
+
+I am the Director of Community Partnerships at the ICNY, a secular non-profit organisation with a mission to overcome prejudice, violence, and misunderstanding by activating the power of the city’s grassroots religious and civic leaders and their communities. I also plan, implement and facilitate ICNY’s flagship conference, the Rabbi Marshall T. Meyer Retreat on Social Justice annually. 
+
+In fact, we recently completed our 40th Retreat on Housing Now: Faith Communities’ Call to Action. This conference explored the important relationship between faith leaders and housing advocacy in New York City. It presented an opportunity for us to discuss not only trending or long-standing social justice issues but offer key solutions and call to action prospects for community involvement for greater change. 
+
+I also plan and facilitate the Interfaith Civic Leadership Academy, ICNY’s leadership development programme for diverse faith leaders. It is a programme that offers a cohort of diverse religious leaders the tools they need to work effectively on behalf of their communities. 
+
+Through my work at ICNY, I have had the opportunity to become a trusted source in underrepresented and minority communities. It is through relationship-building that I have had the chance to associate with communities that have long had their doors closed to the outside. 
