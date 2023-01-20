@@ -3,7 +3,6 @@ title: "Feature: Hanadi Doleh's Interfaith Journey"
 permalink: /latest/feature-hanadi-doleh/
 description: "Feature: Hanadi Doleh's Interfaith Journey"
 ---
-
 ## A Big Heart From the Big Apple
 
 <table>
@@ -18,3 +17,5 @@ description: "Feature: Hanadi Doleh's Interfaith Journey"
 	</tr>
 	<tr></tr>
 </table>
+
+For many delegates and speakers, ICCS 2022 was a remarkable experience that introduced new approaches to fostering social cohesion within our communities. There were horizons broadened, friendships forged and experiences gained. One of our delegates was Ms. Hanadi Doleh, Director of Community Partnerships at the Interfaith Center of New York (ICNY). She shares more about her personal journey and her takeaways from ICCS 2022:
