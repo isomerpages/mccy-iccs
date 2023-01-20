@@ -32,7 +32,7 @@ As an American Palestinian Muslim woman, I have faced many challenges, particula
 The challenges of being an American Palestinian Muslim woman in a post-9/11 world are vast; they come in spiritual, physical and mental forms. I do not know if I can say I will ever escape them, but I am confident that the diverse community that surrounds me will always hold me close.
 
 ![](/images/Hanadi_2.jpg)
-<font color = "grey"><font size="-1">Hanadi Doleh (centre) speaking at a 9/11 Interfaith Peace Walk Commemorating 20 Years in September 2021, an event which she hosted and planned.</font></font>
+<font color = "grey"><font size="-1">Hanadi Doleh (centre) speaking at a 9/11 Interfaith Peace Walk Commemorating 20 Years in September 2021, an event which she hosted and planned. (Picture courtesy of Hanadi Doleh)</font></font>
 
 **Tell us more about your work with the Interfaith Center of New York (ICNY), including some key milestones and some of the challenges/trends you're observing in the US.**
 
@@ -42,4 +42,7 @@ In fact, we recently completed our 40th Retreat on Housing Now: Faith Communitie
 
 I also plan and facilitate the Interfaith Civic Leadership Academy, ICNY’s leadership development programme for diverse faith leaders. It is a programme that offers a cohort of diverse religious leaders the tools they need to work effectively on behalf of their communities. 
 
-Through my work at ICNY, I have had the opportunity to become a trusted source in underrepresented and minority communities. It is through relationship-building that I have had the chance to associate with communities that have long had their doors closed to the outside. 
+Through my work at ICNY, I have had the opportunity to become a trusted source in underrepresented and minority communities. It is through relationship-building that I have had the chance to associate with communities that have long had their doors closed to the outside.
+
+![](/images/Hanadi_3.jpg)
+<font color = "grey"><font size="-1">Hanadi Doleh (right) with then-New York City Comptroller Scott Stringer receiving a commendation in June 2019 for outstanding advocacy on behalf of NYC’s growing Muslim community. (Picture courtesy of Hanadi Doleh)</font></font>
