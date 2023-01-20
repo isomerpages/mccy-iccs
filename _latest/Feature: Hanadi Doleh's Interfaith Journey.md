@@ -51,6 +51,9 @@ Through my work at ICNY, I have had the opportunity to become a trusted source i
  
 Attending the ICCS 2022 was an amazing experience; from traveling 19 hours nonstop and landing in a beautiful country to attending an 800+ person conference. It is in fact an experience I still rave about. The people, the food and country were astounding. While attending ICCS 2022, I was lucky enough to meet people from all around the world who are doing very similar work as myself. I must say that my biggest highlight was meeting with Deputy Prime Minister Lawrence Wong and sharing who I am and the work I do in New York City. 
 
+![](/images/Hanadi_4.jpg)
+<font color = "grey"><font size="-1">Hanadi Doleh (far left) and other ICCS 2022 delegates meeting Singapore's Deputy Prime Minister Lawrence Wong (far right) on 8 September 2022.</font></font>
+
 Another highlight worth mentioning is that I was interviewed as a conference attendee and my interview was shared at the end of the conference with the audience. Hearing the cheers and applause brought me tears of immense joy. I am only just some girl from New York City being cheered on for her words and presence and with that, ICCS 2022 was one of the greatest experiences of my life.
 
 * **Watch: Hanadi Doleh's interview (from 3:49) for the video which was played at the end of ICCS 2022.**
