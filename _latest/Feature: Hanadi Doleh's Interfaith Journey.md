@@ -36,7 +36,7 @@ The challenges of being an American Palestinian Muslim woman in a post-9/11 worl
 
 **Tell us more about your work with the Interfaith Center of New York (ICNY), including some key milestones and some of the challenges/trends you're observing in the US.**
 
-I am the Director of Community Partnerships at the ICNY, a secular non-profit organisation with a mission to overcome prejudice, violence, and misunderstanding by activating the power of the city’s grassroots religious and civic leaders and their communities. I also plan, implement and facilitate ICNY’s flagship conference, the Rabbi Marshall T. Meyer Retreat on Social Justice annually. 
+I am the Director of Community Partnerships at the ICNY, a secular non-profit organisation with a mission to overcome prejudice, violence and misunderstanding by activating the power of the city’s grassroots religious and civic leaders and their communities. I also plan, implement and facilitate ICNY’s flagship conference, the Rabbi Marshall T. Meyer Retreat on Social Justice annually. 
 
 In fact, we recently completed our 40th Retreat on Housing Now: Faith Communities’ Call to Action. This conference explored the important relationship between faith leaders and housing advocacy in New York City. It presented an opportunity for us to discuss not only trending or long-standing social justice issues but offer key solutions and call to action prospects for community involvement for greater change. 
 
