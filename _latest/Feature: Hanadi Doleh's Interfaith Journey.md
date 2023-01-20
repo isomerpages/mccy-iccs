@@ -45,7 +45,7 @@ I also plan and facilitate the Interfaith Civic Leadership Academy, ICNY’s lea
 Through my work at ICNY, I have had the opportunity to become a trusted source in underrepresented and minority communities. It is through relationship-building that I have had the chance to associate with communities that have long had their doors closed to the outside.
 
 ![](/images/Hanadi_3.jpg)
-<font color = "grey"><font size="-1">Hanadi Doleh (right) with then-New York City Comptroller Scott Stringer receiving a commendation in June 2019 for outstanding advocacy on behalf of NYC’s growing Muslim community. (Picture courtesy of Hanadi Doleh)</font></font>
+<font color = "grey"><font size="-1">Hanadi Doleh (right), with then-New York City Comptroller Scott Stringer, receiving a commendation in June 2019 for outstanding advocacy on behalf of NYC’s growing Muslim community. (Picture courtesy of Hanadi Doleh)</font></font>
 
 **How did you find ICCS 2022? Were there any lessons or observations that you gleaned from your time in Singapore? What were some interesting anecdotes or highlights you'd like to share?**
  
@@ -53,5 +53,5 @@ Attending the ICCS 2022 was an amazing experience; from traveling 19 hours nonst
 
 Another highlight worth mentioning is that I was interviewed as a conference attendee and my interview was shared at the end of the conference with the audience. Hearing the cheers and applause brought me tears of immense joy. I am only just some girl from New York City being cheered on for her words and presence and with that, ICCS 2022 was one of the greatest experiences of my life.
 
-* **Watch: Hanadi Doleh's interview for the ICCS 2022 wrap-up video (from 3:49).**
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FICCSSG%2Fvideos%2F1807111626294694%2F&show_text=true&width=560&t=0" width="560" height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+* **Watch: Hanadi Doleh's interview (from 3:49) for the video which was played at the end of ICCS 2022.**
+<center><iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FICCSSG%2Fvideos%2F1807111626294694%2F&show_text=true&width=560&t=0" width="560" height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe></center>
