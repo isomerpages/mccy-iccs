@@ -53,4 +53,5 @@ Attending the ICCS 2022 was an amazing experience; from traveling 19 hours nonst
 
 Another highlight worth mentioning is that I was interviewed as a conference attendee and my interview was shared at the end of the conference with the audience. Hearing the cheers and applause brought me tears of immense joy. I am only just some girl from New York City being cheered on for her words and presence and with that, ICCS 2022 was one of the greatest experiences of my life.
 
+* **Watch: Hanadi Doleh's interview for the ICCS 2022 wrap-up video (from 3:49).**
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FICCSSG%2Fvideos%2F1807111626294694%2F&show_text=true&width=560&t=0" width="560" height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
