@@ -29,4 +29,7 @@ I like to think of myself as the quintessential New Yorker: a hijab-wearing, att
 
 As an American Palestinian Muslim woman, I have faced many challenges, particularly after 9/11. I was 16 when the tragedy of 9/11 happened. My life as I knew it changed. My identity became public enemy #1, but it was through the strength of my community and faith that propelled me forward. I will forever be indebted to all the allies who shared this burden with me, who never left me alone, who encouraged me to wear my faith loudly and proudly.
 
-The challenges of being an American Palestinian Muslim woman in a post-9/11 world are vast; they come in spiritual, physical and mental forms. I do not know if I can say I will ever escape them, but I am confident that the diverse community that surrounds me will always hold me close. 
+The challenges of being an American Palestinian Muslim woman in a post-9/11 world are vast; they come in spiritual, physical and mental forms. I do not know if I can say I will ever escape them, but I am confident that the diverse community that surrounds me will always hold me close.
+
+![](/images/Hanadi_2.jpg)
+<font color = "grey"><font size="-1">Hanadi Doleh (centre) speaking at a 9/11 Interfaith Peace Walk Commemorating 20 Years in September 2021, an event which she hosted and planned.</font></font>
