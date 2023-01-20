@@ -46,3 +46,9 @@ Through my work at ICNY, I have had the opportunity to become a trusted source i
 
 ![](/images/Hanadi_3.jpg)
 <font color = "grey"><font size="-1">Hanadi Doleh (right) with then-New York City Comptroller Scott Stringer receiving a commendation in June 2019 for outstanding advocacy on behalf of NYC’s growing Muslim community. (Picture courtesy of Hanadi Doleh)</font></font>
+
+**How did you find ICCS 2022? Were there any lessons or observations that you gleaned from your time in Singapore? What were some interesting anecdotes or highlights you'd like to share?**
+ 
+Attending the ICCS 2022 was an amazing experience; from traveling 19 hours nonstop and landing in a beautiful country to attending an 800+ person conference. It is in fact an experience I still rave about. The people, the food and country were astounding. While attending ICCS 2022, I was lucky enough to meet people from all around the world who are doing very similar work as myself. I must say that my biggest highlight was meeting with Deputy Prime Minister Lawrence Wong and sharing who I am and the work I do in New York City. 
+
+Another highlight worth mentioning is that I was interviewed as a conference attendee and my interview was shared at the end of the conference with the audience. Hearing the cheers and applause brought me tears of immense joy. I am only just some girl from New York City being cheered on for her words and presence and with that, ICCS 2022 was one of the greatest experiences of my life. 
