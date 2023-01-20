@@ -2,6 +2,7 @@ collections:
   latest:
     output: true
     order:
+      - "Feature: Hanadi Doleh.md"
       - "Opinion: Bringing God closer to people on social media.md"
       - "ICCS 2022 Recap: Community Explorations.md"
       - "ICCS 2022 Recap: Young Leaders Programme.md"
