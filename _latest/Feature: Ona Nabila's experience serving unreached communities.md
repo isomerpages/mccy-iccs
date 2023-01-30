@@ -56,5 +56,9 @@ As someone who also shares humble roots with these communities, I am keenly awar
  
 As a doctor, I seek to improve the wellbeing of all of my patients regardless of race, language or faith, while also learning from their diverse experiences. In fact, my work on Kei Island, a Hindu community that has been around for centuries, has allowed me to learn about their cultural practices and norms as well as their cultural resilience and their sense of communal togetherness.
 
-My experience at YLP has further imbued in me the need for greater understanding and respect across diverse faiths and communities. As much as I seek to serve all regardless of background, I feel that I have also gained from learning from other cultures and experiences. 
+My experience at YLP has further imbued in me the need for greater understanding and respect across diverse faiths and communities. As much as I seek to serve all regardless of background, I feel that I have also gained from learning from other cultures and experiences.
 
+![](/images/Ona4.jpg)
+<font color = "grey"><font size="-1">Dr. Ona Nabila (left) with her colleagues from doctorSHARE, Dr. Edith Irenne Marlissa (centre) and Dr. Gaby Venera (right) at ICCS 2022. (Picture courtesy of Ona Nabila)</font></font>
+
+I also picked up the idea of servant leadership, that to lead requires great sacrifice beyond just giving out orders to those under you. Indeed, as I continue my work with doctorSHARE, these lessons will continue to hold me in good stead.
