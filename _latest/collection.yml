@@ -2,6 +2,7 @@ collections:
   latest:
     output: true
     order:
+      - "Feature: Ona Nabila's experience serving unreached communities.md"
       - "Feature: Hanadi Doleh's Interfaith Journey.md"
       - "Opinion: Bringing God closer to people on social media.md"
       - "ICCS 2022 Recap: Community Explorations.md"
