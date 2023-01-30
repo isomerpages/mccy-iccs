@@ -21,7 +21,7 @@ description: "Feature: Hanadi Doleh's Interfaith Journey"
 For many delegates and speakers, ICCS 2022 was a remarkable experience that introduced new approaches to fostering social cohesion within our communities. There were horizons broadened, friendships forged and experiences gained. One of our delegates was Hanadi Doleh, Director of Community Partnerships at the Interfaith Center of New York (ICNY). She shares more about her personal journey and her takeaways from ICCS 2022:
 
 ![](/images/Hanadi_1.jpg)
-<font color = "grey"><font size="-1">Hanadi Doleh (centre) as a delegate of the ICCS 2022 Young Leaders Programme..</font></font>
+<font color = "grey"><font size="-1">Hanadi Doleh (centre) as a delegate of the ICCS 2022 Young Leaders Programme.</font></font>
 
 **As a Muslim American, tell us more about the joys and challenges that come as part of your lived experience.**
 
