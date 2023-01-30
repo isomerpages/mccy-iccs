@@ -42,31 +42,8 @@ There are also challenges arising from socioeconomic factors such as long-held t
 
 A case in point is when villagers practice subsistence farming of crops with low nutritional value. While there was initial reluctance to embrace new approaches, we managed to introduce a new garden with low-cost and high-nutrition crops, and shared ideas on how to maintain this garden with the villagers.
 
+**What compelled you to go forth and serve with underserved communities in far-away locales?**
 
-![](/images/Hanadi_2.jpg)
-<font color = "grey"><font size="-1">Hanadi Doleh (centre) speaking at a 9/11 Interfaith Peace Walk Commemorating 20 Years in September 2021, an event which she hosted and planned. (Picture courtesy of Hanadi Doleh)</font></font>
+I come from a humble background, and my tuition fees for medical school were exorbitant. It was tough for my family to scrimp and save to put me through university, so I believe my graduation is indeed God’s grace. It is indeed a calling for me to serve those who have been left behind or are cut off from much-needed healthcare.
 
-**Tell us more about your work with the Interfaith Center of New York (ICNY), including some key milestones and some of the challenges/trends you're observing in the US.**
-
-I am the Director of Community Partnerships at the ICNY, a secular non-profit organisation with a mission to overcome prejudice, violence and misunderstanding by activating the power of the city’s grassroots religious and civic leaders and their communities. I also plan, implement and facilitate ICNY’s flagship conference, the Rabbi Marshall T. Meyer Retreat on Social Justice annually. 
-
-In fact, we recently completed our 40th Retreat on Housing Now: Faith Communities’ Call to Action. This conference explored the important relationship between faith leaders and housing advocacy in New York City. It presented an opportunity for us to discuss not only trending or long-standing social justice issues but offer key solutions and call to action prospects for community involvement for greater change. 
-
-I also plan and facilitate the Interfaith Civic Leadership Academy, ICNY’s leadership development programme for diverse faith leaders. It is a programme that offers a cohort of diverse religious leaders the tools they need to work effectively on behalf of their communities. 
-
-Through my work at ICNY, I have had the opportunity to become a trusted source in underrepresented and minority communities. It is through relationship-building that I have had the chance to associate with communities that have long had their doors closed to the outside.
-
-![](/images/Hanadi_3.jpg)
-<font color = "grey"><font size="-1">Hanadi Doleh (right), with then-New York City Comptroller Scott Stringer, receiving a commendation in June 2019 for outstanding advocacy on behalf of NYC’s growing Muslim community. (Picture courtesy of Hanadi Doleh)</font></font>
-
-**How did you find ICCS 2022? Were there any lessons or observations that you gleaned from your time in Singapore? What were some interesting anecdotes or highlights you'd like to share?**
- 
-Attending the ICCS 2022 was an amazing experience; from traveling 19 hours nonstop and landing in a beautiful country to attending an 800+ person conference. It is in fact an experience I still rave about. The people, the food and country were astounding. While attending ICCS 2022, I was lucky enough to meet people from all around the world who are doing very similar work as myself. I must say that my biggest highlight was meeting with Deputy Prime Minister Lawrence Wong and sharing who I am and the work I do in New York City. 
-
-![](/images/Hanadi_4.jpg)
-<font color = "grey"><font size="-1">Hanadi Doleh (far left) and other ICCS 2022 delegates meeting Singapore's Deputy Prime Minister Lawrence Wong (far right) on 8 September 2022.</font></font>
-
-Another highlight worth mentioning is that I was interviewed as a conference attendee and my interview was shared at the end of the conference with the audience. Hearing the cheers and applause brought me tears of immense joy. I am only just some girl from New York City being cheered on for her words and presence and with that, ICCS 2022 was one of the greatest experiences of my life.
-
-* **Watch: Hanadi Doleh's interview (from 3:49) for the video which was played at the end of ICCS 2022.**
-<center><iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FICCSSG%2Fvideos%2F1807111626294694%2F&show_text=true&width=560&t=0" width="560" height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe></center>
+As someone who also shares humble roots with these communities, I am keenly aware that not all people live in cities with access to healthcare facilities, while some live from hand to mouth without adequate funds to tend to their wellbeing. If I can do as much as I can to move the needle just a little, I believe I should. 
