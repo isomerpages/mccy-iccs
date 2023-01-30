@@ -28,6 +28,7 @@ For many delegates and speakers, ICCS 2022 was a remarkable experience that intr
 I’m a women and children’s health specialist, based on Kei Island in the Southeast Maluku islands and have served with doctorSHARE since 2021. Officially established in 2009, doctorSHARE is a non-profit organisation focusing on medical healthcare services and humanitarian aid for unreached communities across Indonesia’s vast archipelago. 
 
 Since its inception, we have served almost 70,000 patients with a diverse range of medical needs.
+
 We also have a floating hospital; a tuberculosis clinic in Sentani Lake, Papua; a women and children’s clinic in Kei Island, Southeast Maluku; and a new clinic under construction in Nias Island, North Sumatra.
 
 My time with doctorSHARE has impressed upon me the existing challenges that many communities face. A recent memory was having to send a patient with dengue fever to a hospital in another island 2 hours away by boat. We had to brave choppy waters! Thankfully, we managed to get the patient over there in time to receive medical attention.
@@ -46,4 +47,14 @@ A case in point is when villagers practice subsistence farming of crops with low
 
 I come from a humble background, and my tuition fees for medical school were exorbitant. It was tough for my family to scrimp and save to put me through university, so I believe my graduation is indeed God’s grace. It is indeed a calling for me to serve those who have been left behind or are cut off from much-needed healthcare.
 
-As someone who also shares humble roots with these communities, I am keenly aware that not all people live in cities with access to healthcare facilities, while some live from hand to mouth without adequate funds to tend to their wellbeing. If I can do as much as I can to move the needle just a little, I believe I should. 
+As someone who also shares humble roots with these communities, I am keenly aware that not all people live in cities with access to healthcare facilities, while some live from hand to mouth without adequate funds to tend to their wellbeing. If I can do as much as I can to move the needle just a little, I believe I should.
+
+![](/images/Ona3.jpg)
+<font color = "grey"><font size="-1">Dr. Ona Nabila (right) on a home visit in Tanimbar Kei, an island in a group of islands in southeastern Indonesia called the Kei Islands (also known as Kai Islands). (Picture courtesy of Ona Nabila)</font></font>
+
+**From your experience at the ICCS 2022 Young Leaders Programme (YLP) segment, what are some lessons and observations you picked up? How do you think you can apply these lessons to your work with DoctorShare?**
+ 
+As a doctor, I seek to improve the wellbeing of all of my patients regardless of race, language or faith, while also learning from their diverse experiences. In fact, my work on Kei Island, a Hindu community that has been around for centuries, has allowed me to learn about their cultural practices and norms as well as their cultural resilience and their sense of communal togetherness.
+
+My experience at YLP has further imbued in me the need for greater understanding and respect across diverse faiths and communities. As much as I seek to serve all regardless of background, I feel that I have also gained from learning from other cultures and experiences. 
+
