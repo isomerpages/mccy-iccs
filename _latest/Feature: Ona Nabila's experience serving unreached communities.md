@@ -49,7 +49,8 @@ I come from a humble background, and my tuition fees for medical school were exo
 
 As someone who also shares humble roots with these communities, I am keenly aware that not all people live in cities with access to healthcare facilities, while some live from hand to mouth without adequate funds to tend to their wellbeing. If I can do as much as I can to move the needle just a little, I believe I should.
 
-![](/images/Ona3.jpg)
+<img src="/images/Ona3.jpg"
+     style="width:50%" />
 <font color = "grey"><font size="-1">Dr. Ona Nabila (right) on a home visit in Tanimbar Kei, an island in a group of islands in southeastern Indonesia called the Kei Islands (also known as Kai Islands). (Picture courtesy of Ona Nabila)</font></font>
 
 **From your experience at the ICCS 2022 Young Leaders Programme (YLP) segment, what are some lessons and observations you picked up? How do you think you can apply these lessons to your work with DoctorShare?**
@@ -58,7 +59,8 @@ As a doctor, I seek to improve the wellbeing of all of my patients regardless of
 
 My experience at YLP has further imbued in me the need for greater understanding and respect across diverse faiths and communities. As much as I seek to serve all regardless of background, I feel that I have also gained from learning from other cultures and experiences.
 
-![](/images/Ona4.jpg)
+<img src="/images/Ona4.jpg"
+     style="width:50%" />
 <font color = "grey"><font size="-1">Dr. Ona Nabila (left) with her colleagues from doctorSHARE, Dr. Edith Irenne Marlissa (centre) and Dr. Gaby Venera (right) at ICCS 2022. (Picture courtesy of Ona Nabila)</font></font>
 
 I also picked up the idea of servant leadership, that to lead requires great sacrifice beyond just giving out orders to those under you. Indeed, as I continue my work with doctorSHARE, these lessons will continue to hold me in good stead.
