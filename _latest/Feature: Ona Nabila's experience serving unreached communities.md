@@ -13,7 +13,7 @@ description: "Feature: Ona Nabila's experience serving unreached communities"
 	 <td></td>
 	 <td></td>
 	 <td></td>
-	 <td><font size="-1">Tuesday, 31 January 2023</font></td>
+	 <td><font size="-1">Thursday, 2 February 2023</font></td>
 	</tr>
 	<tr></tr>
 </table>
