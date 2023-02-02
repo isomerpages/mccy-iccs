@@ -66,5 +66,5 @@ My experience at YLP has further imbued in me the need for greater understanding
 I also picked up the idea of servant leadership, that to lead requires great sacrifice beyond just giving out orders to those under you. Indeed, as I continue my work with doctorSHARE, these lessons will continue to hold me in good stead.
 
 ## Read also:
-* [Feature: Hanadi Doleh's Interfaith Journey - A Big Heart From the Big Apple](latest/feature-hanadi-doleh/)
-* [Opinion: Bringing God closer to people on social media, drawing 2.6M followers](latest/bringing-god-closer-to-people-on-social-media/)
+* [Feature: Hanadi Doleh's Interfaith Journey - A Big Heart From the Big Apple](/latest/feature-hanadi-doleh/)
+* [Opinion: Bringing God closer to people on social media, drawing 2.6M followers](/latest/bringing-god-closer-to-people-on-social-media/)
