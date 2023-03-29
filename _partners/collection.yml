@@ -2,5 +2,6 @@ collections:
   partners:
     output: true
     order:
+      - Partners/hashpeace.md
       - Partners/.keep
       - Partners/Faith in Leadership.md
