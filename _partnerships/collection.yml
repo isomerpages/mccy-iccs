@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - "Partners/Mosaic: Interfaith Youth Action.md"
       - Partners/.keep
       - Partners/Faith in Leadership.md
       - Partners/hashpeace.md
