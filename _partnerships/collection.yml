@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - Partners/IRO Singapore Mosaic.md
       - Partners/Interfaith Center of New York.md
       - Partners/Interfaith America.md
       - Partners/hashpeace.md
