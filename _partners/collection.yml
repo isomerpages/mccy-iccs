@@ -2,6 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - Faith in Leadership.md
-      - Partners/Faith in Leadership.md
       - Partners/.keep
+      - Partners/Faith in Leadership.md
+      - Faith in Leadership.md
