@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - test.md
       - Partners/Interfaith America.md
       - Partners/hashpeace.md
       - Partners/.keep
