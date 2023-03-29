@@ -2,8 +2,8 @@ collections:
   partnerships:
     output: true
     order:
-      - Partnerships/Interfaith Center of New York.md
-      - Partnerships/Interfaith America.md
-      - Partnerships/hashpeace.md
-      - Partnerships/.keep
-      - Partnerships/Faith in Leadership.md
+      - Partners/Interfaith Center of New York.md
+      - Partners/Interfaith America.md
+      - Partners/hashpeace.md
+      - Partners/.keep
+      - Partners/Faith in Leadership.md
