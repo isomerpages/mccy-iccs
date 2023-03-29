@@ -2,13 +2,13 @@ collections:
   partnerships:
     output: true
     order:
-      - Partners/The Faith & Belief Forum.md
-      - Partners/RSIS.md
-      - Partners/Roses of Peace.md
-      - Partners/OnePeoplesg.md
-      - Partners/IRO Singapore Mosaic.md
-      - Partners/Interfaith Center of New York.md
-      - Partners/Interfaith America.md
-      - Partners/hashpeace.md
       - Partners/.keep
       - Partners/Faith in Leadership.md
+      - Partners/hashpeace.md
+      - Partners/Interfaith America.md
+      - Partners/Interfaith Center of New York.md
+      - Partners/IRO Singapore Mosaic.md
+      - Partners/OnePeoplesg.md
+      - Partners/Roses of Peace.md
+      - Partners/RSIS.md
+      - Partners/The Faith & Belief Forum.md
