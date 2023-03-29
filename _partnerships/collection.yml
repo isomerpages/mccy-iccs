@@ -2,13 +2,13 @@ collections:
   partnerships:
     output: true
     order:
-      - "Partners/Mosaic: Interfaith Youth Action.md"
       - Partners/.keep
       - Partners/Faith in Leadership.md
       - Partners/hashpeace.md
       - Partners/Interfaith America.md
       - Partners/Interfaith Center of New York.md
       - Partners/IRO Singapore Mosaic.md
+      - "Partners/Mosaic: Interfaith Youth Action.md"
       - Partners/OnePeoplesg.md
       - Partners/Roses of Peace.md
       - Partners/RSIS.md
