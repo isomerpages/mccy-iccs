@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - Partners/RSIS.md
       - Partners/Roses of Peace.md
       - Partners/OnePeoplesg.md
       - Partners/IRO Singapore Mosaic.md
