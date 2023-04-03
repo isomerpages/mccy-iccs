@@ -12,7 +12,7 @@ The Centre is also the administrative centre of the Bahá'í Faith in Singapore.
 
 Inspired by the teachings of the Baha'i Faith, the community also actively contributes to strengthening social harmony in Singapore by participating in interfaith activities that broaden mutual understanding and facilitate inter-community interaction.
 
-[Read more about Kampong Gelam at Visit Singapore's website.](https://www.visitsingapore.com/see-do-singapore/places-to-see/kampong-gelam/)
+[Click here to learn more about Baha'l Centre.](https://bahai.org.sg/)
 # Buddha Tooth Relic Temple
 ![](/images/Chinatown%202.jpg)
 
@@ -22,7 +22,7 @@ The temple also has a museum which displays ancient Buddhist artefacts. BTRTM is
 
 Apart from its rich cultural offerings, BTRTM has been active in its community efforts locally and internationally. The temple has also been a keen supporter of interfaith harmony and has hosted tours for visitors belonging to different ethnicities and faiths.
 
-[Read more about Chinatown at Visit Singapore's website.](https://www.visitsingapore.com/see-do-singapore/places-to-see/chinatown/)
+[Click here to learn more about Buddha Tooth Relic Temple.](https://www.buddhatoothrelictemple.org.sg/)
 # Central Sikh Gurdwara
 ![](/images/Little%20India.jpg)
 
@@ -32,7 +32,7 @@ Adjoining the temple, there is a seven-storey tower that serves as a community f
 
 Gazetted a historical site in 1999, the temple has a Langgar (Kitchen) facility that provides free vegetarian food to visitors daily. In collaboration with a local charity kitchen, Willing Hearts, CSG together with other Sikh temples, has started a Langgar Outreach Programme to serve the community in-need.
 
-[Read more about Little India on Visit Singapore's website.](https://www.visitsingapore.com/see-do-singapore/places-to-see/little-india/)
+[Click here to learn more about Central Sikh Gurdwara.](https://sikhs.org.sg/about-cst/)
 # Maghain Aboth Synagogue 
 ![](/images/Bras%20Basah.jpg)
 
@@ -44,7 +44,7 @@ The premise houses the newly established Jews of Singapore Museum, which is open
 
 The synagogues have further added colour and detail to Singapore's growing multi-ethnic community.
 
-[Read more about Bras Basah.Bugis at Visit Singapore's website.](https://www.visitsingapore.com/see-do-singapore/places-to-see/bras-basah-bugis/)
+[Click here to learn more about Maghain Aboth Synagogue.](https://singaporejews.com/maghain-aboth-synagogues/)
 # Saint Andrew's Cathedral
 ![](/images/Kampong%20Gelam.jpg)
 
@@ -56,7 +56,7 @@ SAC remains an important place of worship for the Anglican community and conduct
 
 SAC has been active in the local community scene such as being involved in Adopt a Block in the Community project in the Bukit Merah area and befriending migrant workers, especially during the COVID-19 pandemic.
 
-[Read more about Kampong Gelam at Visit Singapore's website.](https://www.visitsingapore.com/see-do-singapore/places-to-see/kampong-gelam/)
+[Click here to learn more about Saint Andrew's Cathedral.](https://cathedral.org.sg/)
 # Singapore Jain Religious Society
 ![](/images/Chinatown%202.jpg)
 
@@ -66,7 +66,7 @@ SJRS conducts free religious classes for the young (ages 4 to 12). They also hav
 
 Apart from its various initiatives, SJRS has been active in its community efforts. SJRS partners with Sunlove as well as other organisations for the Jain community to give back to the community. SJRS is also a part of the Kembangan-Chai Chee IRCC and has supported the IRCC in various events.
 
-[Read more about Chinatown at Visit Singapore's website.](https://www.visitsingapore.com/see-do-singapore/places-to-see/chinatown/)
+[Click here to learn more about Singapore Jain Religious Society.](https://www.sjrs.org.sg/)
 # Sri Mariamman Temple
 ![](/images/Little%20India.jpg)
 
@@ -78,7 +78,7 @@ Gazetted a national monument in 1973, SMT is well-known for holding the annual F
 
 The temple is nestled between Jamae Chulia Mosque and Buddha Tooth Relic Temple, adding vibrancy to the multiracial and multireligious fabric of Singapore.
 
-[Read more about Little India on Visit Singapore's website.](https://www.visitsingapore.com/see-do-singapore/places-to-see/little-india/)
+[Click here to learn more about Sri Mariamman Temple.](https://heb.org.sg/smt/)
 # Sultan Mosque 
 ![](/images/Bras%20Basah.jpg)
 
@@ -90,7 +90,7 @@ In the past, the mosque served as a stopover for Muslim pilgrims from the region
 
 The rich heritage and architecture of the mosque add to the cultural diversity that Singapore houses.
 
-[Read more about Bras Basah.Bugis at Visit Singapore's website.](https://www.visitsingapore.com/see-do-singapore/places-to-see/bras-basah-bugis/)
+[Click here to learn more about Sultan Mosque.](https://www.sultanmosque.sg/)
 # Thian Hock Keng Temple
 ![](/images/Kampong%20Gelam.jpg)
 
@@ -102,7 +102,7 @@ THKT is managed by the Singapore Hokkien Huay Kuan and was gazetted a national m
 
 The temple remains an important place of worship for local Chinese Buddhists and Taoists.
 
-[Read more about Kampong Gelam at Visit Singapore's website.](https://www.visitsingapore.com/see-do-singapore/places-to-see/kampong-gelam/)
+[Click here to learn more about Thian Hock Keng Temple.](https://thianhockkeng.com.sg/site/)
 # Zoroastrian House
 ![](/images/Chinatown%202.jpg)
 
@@ -114,4 +114,4 @@ Contrary to popular belief, Zoroastrians are not fire worshippers, rather they s
 
 While the community is about only 350 members strong, the contributions of the Zoroastrians to Singapore's progress and cultural development have been significant.
 
-[Read more about Chinatown at Visit Singapore's website.](https://www.visitsingapore.com/see-do-singapore/places-to-see/chinatown/)
+[Click here to learn more about Zoroastrian House.](https://pzas.org/)
