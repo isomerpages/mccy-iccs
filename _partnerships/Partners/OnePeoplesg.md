@@ -14,4 +14,4 @@ OPSG serves as the voice and advocate for multiracialism being collaborative in 
 OPSG is a partnership of founding partners and institutions which come together across racial and organisational lines for the larger goal of social cohesion. OPSG also works closely with various religious organisations, community stakeholders, government agencies and individuals to reach out and pursue the development of deeper racial harmony in Singapore.
 
 
-[Read more about Kampong Gelam at Visit Singapore's website.](https://www.visitsingapore.com/see-do-singapore/places-to-see/kampong-gelam/)
+[Click here to learn more about OnePeople.Sg.](https://www.onepeople.sg/)
