@@ -15,4 +15,4 @@ These include Muslim, Sikh, Hindu, Buddhist, Christian, Jewish, Afro Caribbean, 
 ICNY’s decades of organizing and educating in New York City’s grassroots religious communities have gained us trust, the basis for all our successes, which recently includes increasing turn-out for the 2020 US Census and galvanizing faith-community humanitarian response to the COVID-19.
 
 
-[Read more about Kampong Gelam at Visit Singapore's website.](https://www.visitsingapore.com/see-do-singapore/places-to-see/kampong-gelam/)
+[Click here to learn more about the Interfaith Center of New York.](https://interfaithcenter.org/)
