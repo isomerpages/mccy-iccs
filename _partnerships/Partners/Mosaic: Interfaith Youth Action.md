@@ -13,5 +13,4 @@ These skills such as leadership, empathy, active listening, and nonviolent commu
 Mosaic: Interfaith Youth Action achieves this by developing engaging and exciting programming focused on the creation of meaningful interfaith experiences for young people, which empower them to build a more just, equitable, and peaceful society.
 
 
-[Read more about Kampong Gelam at Visit Singapore's website.](https://www.visitsingapore.com/see-do-singapore/places-to-see/kampong-gelam/)
-
+[Click here to learn more about Mosaic: Interfaith Youth Action.](https://mosaicaction.org/)
