@@ -27,21 +27,25 @@ Apart from its rich cultural offerings, BTRTM has been active in its community e
 
 [Click here to learn more about Buddha Tooth Relic Temple.](https://www.buddhatoothrelictemple.org.sg/)
 # Central Sikh Gurdwara
-![](/images/Little%20India.jpg)
+![](/images/Places%20of%20Worship/photo_central%20sikh%20gurdwara%202.jpg)
 
 Central Sikh Gurdwara (Temple) (CSG) is one of the 7 Sikh temples for the Sikh community in Singapore. Established in 1912, it was previously known as the Queen Street Gurdwara, due to its former location on Queen Street. Currently situated at Towner, the Gurdwara housed the Sri Guru Granth Sahib, the holy scripture of the Sikhs. Besides serving as a temple, the Gurdwara also functions as a community facility for the Sikhs in Singapore, with facilities such as dining halls and a library.
 
 Adjoining the temple, there is a seven-storey tower that serves as a community facility for cultural activities and religious classes.
 
+![](/images/Places%20of%20Worship/photo_central%20sikh%20gurdwara%205.jpg)
+
 Gazetted a historical site in 1999, the temple has a Langgar (Kitchen) facility that provides free vegetarian food to visitors daily. In collaboration with a local charity kitchen, Willing Hearts, CSG together with other Sikh temples, has started a Langgar Outreach Programme to serve the community in-need.
 
 [Click here to learn more about Central Sikh Gurdwara.](https://sikhs.org.sg/about-cst/)
 # Maghain Aboth Synagogue 
-![](/images/Bras%20Basah.jpg)
+![](/images/Places%20of%20Worship/photo_maghain%20aboth%20synagogue%201.png)
 
 Maghain Aboth Synagogue (MAS) is the oldest surviving synagogue in Southeast Asia, and is one of Singapore's two synagogues, the other being Chesed-El Synagogue. The name of the synagogue means "Shield of Our Fathers" in Hebrew. MAS is a testament to the contributions of the small but close-knit Jewish community in Singapore since the colonial era.
 
 Gazetted a national monument in 1998, MAS has been a meeting place of the Jewish community for weekly Sabbath services and religious festivals such as Rosh Hashanah,Yom Kippur (Jewish New Year's Day) and the Passover.
+
+![](/images/Places%20of%20Worship/photo_maghain%20aboth%20synagogue%202.png)
 
 The premise houses the newly established Jews of Singapore Museum, which is open to public, as well as a kosher shop and a restaurant.
 
