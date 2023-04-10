@@ -53,7 +53,7 @@ The synagogues have further added colour and detail to Singapore's growing multi
 
 [Click here to learn more about Maghain Aboth Synagogue.](https://singaporejews.com/maghain-aboth-synagogues/)
 # Saint Andrew's Cathedral
-![](/images/Kampong%20Gelam.jpg)
+![](/images/Places%20of%20Worship/photo_saint%20andrew's%20cathedral%205.jpg)
 
 St Andrew's Cathedral (SAC) is the oldest Anglican place of worship in Singapore and was gazetted a national monument in 1973. The cathedral is named after Saint Andrew, the Patron of Scotland, to honour the Scottish community who had donated generously to the building fund. Featuring a neo-Gothic architectural style, the construction of the building was carried out by Indian convict labourers. The cathedral can accommodate up to 300 seated worshippers.
 
@@ -61,25 +61,31 @@ It is believed that the land to build the church was donated by Singapore's firs
 
 SAC remains an important place of worship for the Anglican community and conducts services in many languages.
 
+![](/images/Places%20of%20Worship/photo_saint%20andrew's%20cathedral%204.jpg)
+
 SAC has been active in the local community scene such as being involved in Adopt a Block in the Community project in the Bukit Merah area and befriending migrant workers, especially during the COVID-19 pandemic.
 
 [Click here to learn more about Saint Andrew's Cathedral.](https://cathedral.org.sg/)
 # Singapore Jain Religious Society
-![](/images/Chinatown%202.jpg)
+![](/images/Places%20of%20Worship/photo_singapore%20jain%20religious%20society%205.jpg)
 
 The Singapore Jain Religious Society (SJRS) is located at 18 Jln Yasin. SJRS was formed in 1972 and registered as a religious society. In 1978, the building at 18 Jln Yasin was built and has since become the place where the Jain community conduct their festivities, functions and classes.
 
 SJRS conducts free religious classes for the young (ages 4 to 12). They also have a Youth Wing, Ladies Wing and Senior Wing. These individual wings conduct their own activities and initiatives for the Jain community in Singapore.
 
+![](/images/Places%20of%20Worship/photo_singapore%20jain%20religious%20society%203.jpg)
+
 Apart from its various initiatives, SJRS has been active in its community efforts. SJRS partners with Sunlove as well as other organisations for the Jain community to give back to the community. SJRS is also a part of the Kembangan-Chai Chee IRCC and has supported the IRCC in various events.
 
 [Click here to learn more about Singapore Jain Religious Society.](https://www.sjrs.org.sg/)
 # Sri Mariamman Temple
-![](/images/Little%20India.jpg)
+![](/images/Places%20of%20Worship/photo_sri%20mariamman%20temple%202.jpg)
 
 Sri Mariamman Temple (SMT) is the oldest Hindu temple in Singapore. The temple was constructed for worship by immigrants from the Nagapatnam and Cuddalore districts of South India. The temple is dedicated to Goddess Mariamman, known for her healing powers in curing diseases and illnesses.
 
 Located in Chinatown, the building of SMT was the inspiration of Mr Naraina Pillai, a clerk with the British East India Company who is known to have accompanied Sir Stamford Raffles (Founder of Singapore) on his visit to the island.
+
+![](/images/Places%20of%20Worship/photo_sri%20mariamman%20temple%205.jpg)
 
 Gazetted a national monument in 1973, SMT is well-known for holding the annual Firewalking Festival, which falls in October or November.
 
@@ -87,11 +93,13 @@ The temple is nestled between Jamae Chulia Mosque and Buddha Tooth Relic Temple,
 
 [Click here to learn more about Sri Mariamman Temple.](https://heb.org.sg/smt/)
 # Sultan Mosque 
-![](/images/Bras%20Basah.jpg)
+![](/images/Places%20of%20Worship/photo_sultan%20mosque%202.jpg)
 
 Sultan Mosque is a prominent landmark in the Kampong Glam Malay Heritage District. The mosque is named after Sultan Hussain Shah, Ruler of Temasek (former name of Singapore) who has proposed to build a mosque to Sir Stamford Raffles, who then contributed 3000 Spanish dollars from the British East India Company towards the mosque's building fund.
 
 Gazetted a national monument in 1975, the mosque can hold up to 5000 congregants in its two-storey hall. The mosque's architectural style is influenced by the Indo-Saracenic style, which combines traditional Indian and Islamic elements with European features.
+
+![](/images/Places%20of%20Worship/photo_sultan%20mosque%203.jpg)
 
 In the past, the mosque served as a stopover for Muslim pilgrims from the region on their Hajj (pilgrimage to the Islamic holy city, Mecca).
 
@@ -99,11 +107,13 @@ The rich heritage and architecture of the mosque add to the cultural diversity t
 
 [Click here to learn more about Sultan Mosque.](https://www.sultanmosque.sg/)
 # Thian Hock Keng Temple
-![](/images/Kampong%20Gelam.jpg)
+![](/images/Places%20of%20Worship/photo_thian%20hock%20keng%20temple%202.jpg)
 
 Thian Hock Keng Temple (THKT) is one of the oldest Hokkien temples in Singapore. It is believed that Chinese immigrants visited the temple to give thanks to Mazu (Goddess of the Seas) for their safe voyage.
 
 The temple is built in traditional southern Chinese architectural style and was assembled without nails. The Qing Dynasty Emperor, Guang Xu, had presented a plaque inscribed with the words that translate as Gentle Waves over the South Seas, which depict the stature of the temple.
+
+![](/images/Places%20of%20Worship/photo_thian%20hock%20keng%20temple%203.jpg)
 
 THKT is managed by the Singapore Hokkien Huay Kuan and was gazetted a national monument in 1973. The temple's restoration efforts in 2001 have won the prestigious UNESCO Asia-Pacific Heritage 2001 Awards for Culture Heritage Conservation Building.
 
@@ -111,11 +121,13 @@ The temple remains an important place of worship for local Chinese Buddhists and
 
 [Click here to learn more about Thian Hock Keng Temple.](https://thianhockkeng.com.sg/site/)
 # Zoroastrian House
-![](/images/Chinatown%202.jpg)
+![](/images/Places%20of%20Worship/photo_zoroastrian%20house%202.jpg)
 
 The Zoroastrian House (ZH), inaugurated in 2011, was contributed by Homiyar Vasania, a prominent member of the Zoroastrian community in Singapore. ZH is the only prayer hall for Parsis in Singapore and also serves as home to the Parsi Zoroastrian Association of Southeast Asia (PZAS).
 
 The premise is used for various purposes by the community, primarily Sunday prayers every week by the in-house religious worker. This premise is not synonymous with the Fire Temple (an official place of worship for the Zoroastrians). There is no Fire Temple in Singapore and worship is conducted in private settings.
+
+![](/images/Places%20of%20Worship/photo_zoroastrian%20house%205.jpg)
 
 Contrary to popular belief, Zoroastrians are not fire worshippers, rather they see fire in a more symbolic way as representing God's light or wisdom.
 
