@@ -12,4 +12,4 @@ They recognise the immense impact that faith leaders and faith communities have 
 
 Faith in Leadership is now Britain’s principal leadership development organisation for our faith communities. Incubated at the University of Cambridge Divinity School and currently based at St Benet’s Hall, Oxford University, Faith in Leadership runs a range of residential and day programmes for senior faith leaders, lay leaders and young people.
 
-[Read more about Chinatown at Visit Singapore's website.](https://www.visitsingapore.com/see-do-singapore/places-to-see/chinatown/)
+[Click here to learn more about Faith in Leadership.](https://www.faithinleadership.org/)
