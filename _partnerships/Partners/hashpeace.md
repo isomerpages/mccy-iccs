@@ -21,4 +21,4 @@ Guided by the philosophy that “the only obstacle that stands between us and a 
 
 * **Establish a support network of peace leaders in Singapore & worldwide** 
 
-[Read more about Kampong Gelam at Visit Singapore's website.](https://www.visitsingapore.com/see-do-singapore/places-to-see/kampong-gelam/)
+[Click here to learn more about hash.peace.](https://www.hashpeace.com/)
