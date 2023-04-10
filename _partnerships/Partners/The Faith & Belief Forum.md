@@ -10,4 +10,4 @@ The Faith & Belief Forum has worked tirelessly for 25 years to build good relati
 
 We create spaces in schools, universities, workplaces and the wider community where people can engage with questions of belief and identity and meet people different from themselves. Enabling people to learn from each other challenges stereotypes and creates understanding and trust between people. By building better interfaith relations, we enable people to work together across lines of difference and be a powerful force for good.
 
-[Read more about Kampong Gelam at Visit Singapore's website.](https://www.visitsingapore.com/see-do-singapore/places-to-see/kampong-gelam/)
+[Click here to learn more about The Faith & Belief Forum.](https://faithbeliefforum.org/)
