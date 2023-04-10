@@ -13,4 +13,4 @@ Since that time, Interfaith America has evolved from a small Chicago-based nonpr
 Utilizing a research-backed approach, IA works across higher education, racial equity, health, workplace, bridgebuilding, democracy, and technology.
 
 
-[Read more about Kampong Gelam at Visit Singapore's website.](https://www.visitsingapore.com/see-do-singapore/places-to-see/kampong-gelam/)
+[Click here to learn more about Interfaith America.](https://www.interfaithamerica.org/)
