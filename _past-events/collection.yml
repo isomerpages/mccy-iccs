@@ -2,6 +2,7 @@ collections:
   past-events:
     output: true
     order:
+      - ICCS 2019/Closing Remarks by Deputy Prime Minister Heng Swee Keat.md
       - ICCS 2019/.keep
       - ICCS 2019/Overview.md
       - ICCS 2019/Speakers.md
