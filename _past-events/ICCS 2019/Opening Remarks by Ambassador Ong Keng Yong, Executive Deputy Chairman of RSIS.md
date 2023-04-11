@@ -4,7 +4,7 @@ permalink: /past-events/iccs-2019/openingremarks/
 description: ""
 third_nav_title: ICCS 2019
 ---
-**<font size="+2">Opening Remarks by Ambassador Ong Keng Yong, Executive Deputy Chairman of RSIS, at the International Conference on Cohesive Societies 2019</font>**  
+**<font size="+2">Opening Remarks by Mr Ong Keng Yong, Ambassador of the Republic of Singapore, Executive Deputy Chairman of RSIS, at the International Conference on Cohesive Societies 2019</font>**  
 <font size="-1">20 June 2019</font>
 
 Her Excellency, Madam Halimah Yacob, President of the Republic of Singapore  
