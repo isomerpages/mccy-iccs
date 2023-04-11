@@ -10,7 +10,7 @@ third_nav_title: ICCS 2019
 
 </div>
 
-**<font size="+2">Closing Remarks by Mr Heng Swee Keat, Deputy Prime Minister and Minister for Finance, at the International Conference on Cohesive Societies 2019</font>**  
+**<font size="+2">Closing Remarks by Mr Heng Swee Keat, Deputy Prime Minister and Minister for Finance of the Republic of Singapore, at the International Conference on Cohesive Societies 2019</font>**  
 <font size="-1">21 June 2019</font>
 
 Minister Grace Fu  
@@ -76,4 +76,3 @@ To conclude, humans have a deep spiritual impulse, to seek the meaning of life a
 So it is very meaningful to bring together leaders, thinkers and activists of all major faiths, across different continents, to engage in dialogues, learn new perspectives, and unite in a fellowship of respect and trust.  I applaud you for your commitment to building cohesion as well as deepening understanding and trust. 
 
 Thank you for joining us in this conference. I look forward to continuing the discussion with you during the dialogue.
-
