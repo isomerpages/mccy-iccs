@@ -10,7 +10,7 @@ third_nav_title: ICCS 2019
 
 </div>
 
-**<font size="+2">Closing Remarks by Mr Heng Swee Keat, Deputy Prime Minister and Minister for Finance of the Republic of Singapore, at the International Conference on Cohesive Societies 2019</font>**  
+**<font size="+2">Closing Remarks by Mr Heng Swee Keat, Deputy Prime Minister and Minister for Finance, Republic of Singapore, at the International Conference on Cohesive Societies 2019</font>**  
 <font size="-1">21 June 2019</font>
 
 Minister Grace Fu  
