@@ -12,4 +12,4 @@ Singapore is more than its tourist attractions. It’s constantly evolving, rein
 Read on for some of our recommendations on <a href="/visit-singapore/culturalenclaves" target="_blank">where to go</a>, <a href="/visit-singapore/localdishes" target="_blank">what to eat</a> and <a href="/visit-singapore/attractions" target="_blank">where to play</a>.
 
 
-*This section is produced in partnership with <a href="https://www.visitsingapore.com/en/" target="_blank">*Passion Made Possible*</a>.*
+*This section is produced in partnership with <a href="https://www.visitsingapore.com/en/" target="_blank">Passion Made Possible</a>.*
