@@ -2,6 +2,9 @@ collections:
   past-events:
     output: true
     order:
+      - ICCS 2019/.keep
+      - ICCS 2019/Overview.md
+      - ICCS 2019/Speakers.md
       - ICCS 2019/Welcome Remarks by Ambassador Ong Keng Yong, Executive Deputy
         Chairman of RSIS.md
       - ICCS 2019/Opening Address by President Halimah Yacob.md
@@ -10,9 +13,6 @@ collections:
       - ICCS 2019/Keynote Speech by His Majesty King Abdullah II Ibn Al Hussein
         of the Hashemite Kingdom of Jordan.md
       - ICCS 2019/Closing Remarks by Deputy Prime Minister Heng Swee Keat.md
-      - ICCS 2019/.keep
-      - ICCS 2019/Overview.md
-      - ICCS 2019/Speakers.md
       - ICCS 2019/Gallery.md
       - ICCS 2019/ICCS Book.md
       - Mission:Unite.md
