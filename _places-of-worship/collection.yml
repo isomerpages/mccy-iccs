@@ -1,4 +1,5 @@
 collections:
   places-of-worship:
     output: true
-    order: []
+    order:
+      - Places of Worship.md
