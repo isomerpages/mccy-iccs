@@ -3,18 +3,18 @@ title: Places of Worship
 permalink: /visit-singapore/placesofworship/
 description: ""
 ---
-# Baha'l Centre
+# Bahá'í Centre
 ![](/images/Places%20of%20Worship/photo_baha’l%20centre%201.jpg) 
 
-The Baha'i community in Singapore gather for prayers and activities at the Bahá'í Centre. The Centre is presently located at 55 Cantonment Road and nestled within a row of shops that was constructed in 1819 during the British Colonialism. Apart from the Centre, Baha'is also invite their family, friends, and neighbours to their homes for worship and fellowship.
+The Bahá'í community in Singapore gather for prayers and activities at the Bahá'í Centre. The Centre is presently located at 55 Cantonment Road and nestled within a row of shops that was constructed in 1819 during the British Colonialism. Apart from the Centre, Bahá'ís also invite their family, friends, and neighbours to their homes for worship and fellowship.
 
-The Centre is also the administrative centre of the Bahá'í Faith in Singapore. The Spiritual Assembly of the Bahá'ís of Singapore guides and co-ordinates the activities of the Local Spiritual Assemblies and individual members of the Baha'i community.
+The Centre is also the administrative centre of the Bahá'í Faith in Singapore. The Spiritual Assembly of the Bahá'ís of Singapore guides and co-ordinates the activities of the Local Spiritual Assemblies and individual members of the Bahá'í community.
 
 ![](/images/Places%20of%20Worship/photo_baha’l%20centre%203.jpg)
 
-Inspired by the teachings of the Baha'i Faith, the community also actively contributes to strengthening social harmony in Singapore by participating in interfaith activities that broaden mutual understanding and facilitate inter-community interaction.
+Inspired by the teachings of the Bahá'í Faith, the community also actively contributes to strengthening social harmony in Singapore by participating in interfaith activities that broaden mutual understanding and facilitate inter-community interaction.
 
-[Click here to learn more about Baha'l Centre.](https://bahai.org.sg/)
+<a href="https://bahai.org.sg/" target="_blank">[Click here to learn more about the Bahá'í Centre.]</a>
 # Buddha Tooth Relic Temple
 ![](/images/Chinatown%202.jpg)
 
@@ -24,7 +24,7 @@ The temple also has a museum which displays ancient Buddhist artefacts. BTRTM is
 
 Apart from its rich cultural offerings, BTRTM has been active in its community efforts locally and internationally. The temple has also been a keen supporter of interfaith harmony and has hosted tours for visitors belonging to different ethnicities and faiths.
 
-[Click here to learn more about Buddha Tooth Relic Temple.](https://www.buddhatoothrelictemple.org.sg/)
+<a href="https://www.buddhatoothrelictemple.org.sg/" target="_blank">[Click here to learn more about the Buddha Tooth Relic Temple.]</a>
 # Central Sikh Gurdwara
 ![](/images/Places%20of%20Worship/photo_central%20sikh%20gurdwara%202.jpg)
 
@@ -36,7 +36,7 @@ Adjoining the temple, there is a seven-storey tower that serves as a community f
 
 Gazetted a historical site in 1999, the temple has a Langgar (Kitchen) facility that provides free vegetarian food to visitors daily. In collaboration with a local charity kitchen, Willing Hearts, CSG together with other Sikh temples, has started a Langgar Outreach Programme to serve the community in-need.
 
-[Click here to learn more about Central Sikh Gurdwara.](https://sikhs.org.sg/about-cst/)
+<a href="https://sikhs.org.sg/about-cst/" target="_blank">[Click here to learn more about the Central Sikh Gurdwara.]</a>
 # Maghain Aboth Synagogue 
 ![](/images/Places%20of%20Worship/photo_maghain%20aboth%20synagogue%201.png)
 
@@ -50,7 +50,7 @@ The premise houses the newly established Jews of Singapore Museum, which is open
 
 The synagogues have further added colour and detail to Singapore's growing multi-ethnic community.
 
-[Click here to learn more about Maghain Aboth Synagogue.](https://singaporejews.com/maghain-aboth-synagogues/)
+<a href="https://singaporejews.com/maghain-aboth-synagogues/" target="_blank">[Click here to learn more about the Maghain Aboth Synagogue.]</a>
 # Saint Andrew's Cathedral
 ![](/images/Places%20of%20Worship/photo_saint%20andrew's%20cathedral%205.jpg)
 
@@ -64,7 +64,7 @@ SAC remains an important place of worship for the Anglican community and conduct
 
 SAC has been active in the local community scene such as being involved in Adopt a Block in the Community project in the Bukit Merah area and befriending migrant workers, especially during the COVID-19 pandemic.
 
-[Click here to learn more about Saint Andrew's Cathedral.](https://cathedral.org.sg/)
+<a href="https://cathedral.org.sg/" target="_blank">[Click here to learn more about the Saint Andrew's Cathedral.]</a>
 # Singapore Jain Religious Society
 ![](/images/Places%20of%20Worship/photo_singapore%20jain%20religious%20society%205.jpg)
 
@@ -76,7 +76,7 @@ SJRS conducts free religious classes for the young (ages 4 to 12). They also hav
 
 Apart from its various initiatives, SJRS has been active in its community efforts. SJRS partners with Sunlove as well as other organisations for the Jain community to give back to the community. SJRS is also a part of the Kembangan-Chai Chee IRCC and has supported the IRCC in various events.
 
-[Click here to learn more about Singapore Jain Religious Society.](https://www.sjrs.org.sg/)
+<a href="https://www.sjrs.org.sg/" target="_blank">[Click here to learn more about the Singapore Jain Religious Society.]</a>
 # Sri Mariamman Temple
 ![](/images/Places%20of%20Worship/photo_sri%20mariamman%20temple%202.jpg)
 
@@ -90,7 +90,7 @@ Gazetted a national monument in 1973, SMT is well-known for holding the annual F
 
 The temple is nestled between Jamae Chulia Mosque and Buddha Tooth Relic Temple, adding vibrancy to the multiracial and multireligious fabric of Singapore.
 
-[Click here to learn more about Sri Mariamman Temple.](https://heb.org.sg/smt/)
+<a href="https://heb.org.sg/smt/" target="_blank">[Click here to learn more about the Sri Mariamman Temple.]</a>
 # Sultan Mosque 
 ![](/images/Places%20of%20Worship/photo_sultan%20mosque%202.jpg)
 
@@ -104,7 +104,8 @@ In the past, the mosque served as a stopover for Muslim pilgrims from the region
 
 The rich heritage and architecture of the mosque add to the cultural diversity that Singapore houses.
 
-[Click here to learn more about Sultan Mosque.](https://www.sultanmosque.sg/)
+<a href="https://www.sultanmosque.sg/" target="_blank">[Click here to learn more about the Sultan Mosque.]</a>
+
 # Thian Hock Keng Temple
 ![](/images/Places%20of%20Worship/photo_thian%20hock%20keng%20temple%202.jpg)
 
@@ -118,7 +119,7 @@ THKT is managed by the Singapore Hokkien Huay Kuan and was gazetted a national m
 
 The temple remains an important place of worship for local Chinese Buddhists and Taoists.
 
-[Click here to learn more about Thian Hock Keng Temple.](https://thianhockkeng.com.sg/site/)
+<a href="https://thianhockkeng.com.sg/site/" target="_blank">[Click here to learn more about the Thian Hock Keng Temple.]</a>
 # Zoroastrian House
 ![](/images/Places%20of%20Worship/photo_zoroastrian%20house%202.jpg)
 
@@ -132,4 +133,4 @@ Contrary to popular belief, Zoroastrians are not fire worshippers, rather they s
 
 While the community is about only 350 members strong, the contributions of the Zoroastrians to Singapore's progress and cultural development have been significant.
 
-[Click here to learn more about Zoroastrian House.](https://pzas.org/)
+<a href="https://pzas.org/" target="_blank">[Click here to learn more about the Zoroastrian House.]</a>
