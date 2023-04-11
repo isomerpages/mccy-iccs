@@ -8,9 +8,12 @@ third_nav_title: ICCS 2019
 **<font size="+2">Keynote Speech by His Majesty King Abdullah II Ibn Al Hussein of the Hashemite Kingdom of Jordan at the International Conference On Cohesive Societies 2019 </font>**  
 <font size="-1">20 June 2019</font>
 
-In the name of God, the Compassionate, the Merciful, Madam President, Your Excellencies, Distinguished Guests,
+In the name of God, the Compassionate, the Merciful                                                     
+Madam President                                          
+Your Excellencies                           
+Distinguished Guests
 
-Thank you so much for having me here today. I am delighted to be in Singapore again.
+Thank you so much for having me here today. I am delighted to be in Singapore again. 
 
 Madam President, I deeply appreciate your invitation to this important conference. Because the dynamism I see here is urgently needed to tackle the world’s single most important threat—the attack on interfaith harmony, mutual respect, and trust.
 
