@@ -2,14 +2,14 @@ collections:
   places-of-worship:
     output: true
     order:
-      - Examples/Zoroastrian House.md
-      - Examples/Thian Hock Keng Temple.md
-      - Examples/Sultan Mosque.md
-      - Examples/Sri Mariamman Temple.md
-      - Examples/Singapore Jain Religious Society.md
-      - Examples/Saint Andrew's Cathedral.md
-      - Examples/Maghain Aboth Synagogue.md
-      - Examples/Central Sikh Gurdwara.md
-      - Examples/Buddha Tooth Relic Temple.md
-      - Examples/Bahá'í Centre.md
       - Examples/.keep
+      - Examples/Bahá'í Centre.md
+      - Examples/Buddha Tooth Relic Temple.md
+      - Examples/Central Sikh Gurdwara.md
+      - Examples/Maghain Aboth Synagogue.md
+      - Examples/Saint Andrew's Cathedral.md
+      - Examples/Singapore Jain Religious Society.md
+      - Examples/Sri Mariamman Temple.md
+      - Examples/Sultan Mosque.md
+      - Examples/Thian Hock Keng Temple.md
+      - Examples/Zoroastrian House.md
