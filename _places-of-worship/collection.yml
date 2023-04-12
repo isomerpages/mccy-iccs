@@ -2,4 +2,5 @@ collections:
   places-of-worship:
     output: true
     order:
+      - Examples/Places of Worship.md
       - Examples/.keep
