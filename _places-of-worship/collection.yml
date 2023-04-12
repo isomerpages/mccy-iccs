@@ -2,6 +2,7 @@ collections:
   places-of-worship:
     output: true
     order:
+      - Examples/Zoroastrian House.md
       - Examples/Thian Hock Keng Temple.md
       - Examples/Sultan Mosque.md
       - Examples/Sri Mariamman Temple.md
