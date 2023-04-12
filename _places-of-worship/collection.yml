@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Examples/.keep
-      - Places of Worship.md
