@@ -2,6 +2,7 @@ collections:
   places-of-worship:
     output: true
     order:
+      - Examples/Saint Andrew's Cathedral.md
       - Examples/Maghain Aboth Synagogue.md
       - Examples/Central Sikh Gurdwara.md
       - Examples/Buddha Tooth Relic Temple.md
