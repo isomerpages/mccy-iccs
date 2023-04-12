@@ -2,5 +2,6 @@ collections:
   places-of-worship:
     output: true
     order:
+      - Examples/Bahá'í Centre.md
       - Examples/Places of Worship.md
       - Examples/.keep
