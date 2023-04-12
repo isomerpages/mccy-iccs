@@ -2,6 +2,7 @@ collections:
   places-of-worship:
     output: true
     order:
+      - Examples/Sultan Mosque.md
       - Examples/Sri Mariamman Temple.md
       - Examples/Singapore Jain Religious Society.md
       - Examples/Saint Andrew's Cathedral.md
