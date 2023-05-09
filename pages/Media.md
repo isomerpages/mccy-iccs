@@ -1,6 +1,6 @@
 ---
 title: Media
-permalink: /Media/
+permalink: /media/
 description: Media
 ---
 # Media coverage     
@@ -336,10 +336,10 @@ href="https://www.todayonline.com/commentary/debate-dialogue-two-religions-one-f
 * Minister Grace Fu on the Reason Singapore is Hosting the ICCS, carried on Hello Singapore (Channel 8)
 
 # Speeches and News Releases   
-* [Opening Address by Mdm Halimah Yacob, President of the Republic of Singapore, at ICCS, 6 September 2022](/programme-and-speakers/Speeches/OpeningAddress/)
-* [Special Address by Cardinal Pietro Parolin, Secretary of State, Holy See, at ICCS, 6 September 2022](/programme-and-speakers/Speeches/SpecialAddress/)
-* [Speech by Mr Lawrence Wong, Deputy Prime Minister and Minister for Finance, Republic of Singapore, during an In Conversation session with DPM Wong at ICCS, 8 September 2022](/programme-and-speakers/Speeches/DPM-Speech/)
-* [Closing Address by Mr Edwin Tong, Minister for Culture, Community and Youth & Second Minister for Law, Republic of Singapore, at ICCS, 8 September 2022](/programme-and-speakers/Speeches/ClosingAddress/)
+* [Opening Address by Mdm Halimah Yacob, President of the Republic of Singapore, at ICCS, 6 September 2022](/programme-and-speakers/speeches/openingaddress/)
+* [Special Address by Cardinal Pietro Parolin, Secretary of State, Holy See, at ICCS, 6 September 2022](/programme-and-speakers/speeches/specialaddress/)
+* [Speech by Mr Lawrence Wong, Deputy Prime Minister and Minister for Finance, Republic of Singapore, during an In Conversation session with DPM Wong at ICCS, 8 September 2022](/programme-and-speakers/speeches/dpm-speech/)
+* [Closing Address by Mr Edwin Tong, Minister for Culture, Community and Youth & Second Minister for Law, Republic of Singapore, at ICCS, 8 September 2022](/programme-and-speakers/speeches/closingaddress/)
 * [Media Release on Day 1: The International Conference on Cohesive Societies Kicks Off Today, 6 September 2022](/files/ICCS%20Day%201%20Media%20Release.pdf)
 * [Media Note on Day 2: The ICCS Young Leaders Programme Brings Together Like-minded Youths to Collaborate on Community-building Initiatives, 7 September 2022](/files/ICCS%20Day%202%20Media%20Note.pdf)
 * [Media Note on Day 3: The International Conference On Cohesive Societies (ICCS) Draws to a Close, 8 September 2022](/files/ICCS%20Day%203%20Media%20Note.pdf)

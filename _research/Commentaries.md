@@ -1,6 +1,6 @@
 ---
 title: Commentaries
-permalink: /research/Commentaries/
+permalink: /research/commentaries/
 description: Commentaries
 ---
 The ICCS commentary series&nbsp;comprises articles discussing issues relevant to ICCS and published on RSIS’ website. The commentaries are written by a mix of academics, youths and community practitioners for a wide range of views and expertise. 

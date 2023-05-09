@@ -1,6 +1,6 @@
 ---
 title: ICCS Book
-permalink: /PastEvents/ICCS2019/ICCSBook
+permalink: /pastevents/iccs2019/iccsbook/
 description: ICCS Book
 third_nav_title: ICCS 2019
 ---

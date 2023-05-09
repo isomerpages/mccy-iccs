@@ -1,7 +1,7 @@
 ---
 title: "Breakout Session – Identity 2: Diversity & Intersections (Public Policy
   & Common Space)"
-permalink: /programme-and-speakers/Sessions/Breakout-Identity-2/
+permalink: /programme-and-speakers/sessions/breakout-identity-2/
 description: Breakout Session – Identity 2
 third_nav_title: Sessions & Speakers
 ---

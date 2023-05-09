@@ -1,6 +1,6 @@
 ---
 title: Special Address by Cardinal Pietro Parolin
-permalink: /programme-and-speakers/Speeches/SpecialAddress/
+permalink: /programme-and-speakers/speeches/specialaddress/
 description: Special Address by Cardinal Pietro Parolin
 third_nav_title: Speeches
 ---

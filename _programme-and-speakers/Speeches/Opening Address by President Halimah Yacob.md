@@ -1,6 +1,6 @@
 ---
 title: Opening Address by President Halimah Yacob
-permalink: /programme-and-speakers/Speeches/OpeningAddress/
+permalink: /programme-and-speakers/speeches/openingaddress/
 description: Opening Address by President Halimah Yacob
 third_nav_title: Speeches
 ---

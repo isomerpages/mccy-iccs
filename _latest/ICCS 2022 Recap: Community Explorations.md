@@ -1,6 +1,6 @@
 ---
 title: "ICCS 2022 Recap: Community Explorations"
-permalink: /latest/experiencing-the-diversity-of-Singapore/
+permalink: /latest/experiencing-the-diversity-of-singapore/
 description: "ICCS 2022 Recap: Community Explorations"
 ---
 ## Experiencing the Diversity of Singapore

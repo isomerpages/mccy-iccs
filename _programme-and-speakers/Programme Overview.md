@@ -1,6 +1,6 @@
 ---
 title: Programme Overview
-permalink: /ProgrammeOverview/
+permalink: /programmeoverview/
 description: Programme Overview
 ---
 

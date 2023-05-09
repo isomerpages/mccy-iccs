@@ -1,6 +1,6 @@
 ---
 title: Closing Address by Minister Edwin Tong
-permalink: /programme-and-speakers/Speeches/ClosingAddress/
+permalink: /programme-and-speakers/speeches/closingaddress/
 description: Closing Address by Minister Edwin Tong
 third_nav_title: Speeches
 ---

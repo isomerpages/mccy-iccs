@@ -1,6 +1,6 @@
 ---
 title: Gallery
-permalink: /PastEvents/ICCS2019/Gallery
+permalink: /pastevents/iccs2019/gallery/
 description: ICCS 2019 Gallery
 third_nav_title: ICCS 2019
 ---

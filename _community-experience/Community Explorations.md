@@ -1,11 +1,11 @@
 ---
 title: Community Explorations
-permalink: /community-experience/CommunityExplorations/
+permalink: /community-experience/communityexplorations/
 description: Community Explorations
 ---
 The **Community Experience** is an immersive programme and provides local and foreign delegates an opportunity to experience first-hand the manifestation of Singapore’s interracial and interreligious harmony policies, through interacting with our local community partners. It consists of:
 * **Community Explorations**: [[Click here for a recap]](/latest/experiencing-the-diversity-of-singapore/)
-* **Community Dialogue**: [took place on 5 Sep 2022](/community-experience/CommunityDialogue/) at Wisma Geylang Serai.
+* **Community Dialogue**: [took place on 5 Sep 2022](/community-experience/communitydialogue/) at Wisma Geylang Serai.
 
 ![](/images/RT_CE%201%20-121.jpg)
 <font color = "grey"><font size="-1">Delegates visiting Lorong Koo Chye Sheng Hong Temple in Singapore on 6 Sep 2022 as part of the ICCS 2022 Community Experience programme.</font></font>  
