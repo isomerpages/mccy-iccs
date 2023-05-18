@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Examples/.keep
-      - Examples/Bahá'í Centre.md
       - Examples/Buddha Tooth Relic Temple.md
       - Examples/Central Sikh Gurdwara.md
       - Examples/Maghain Aboth Synagogue.md
