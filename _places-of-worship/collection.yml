@@ -2,6 +2,7 @@ collections:
   places-of-worship:
     output: true
     order:
+      - Saint Andrew's Cathedral.md
       - Maghain Aboth Synagogue.md
       - Central Sikh Gurdwara.md
       - Buddha Tooth Relic Temple.md
