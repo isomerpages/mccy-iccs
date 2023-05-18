@@ -2,7 +2,6 @@ collections:
   places-of-worship:
     output: true
     order:
-      - Bahá'í Centre.md
       - Buddha Tooth Relic Temple.md
       - Central Sikh Gurdwara.md
       - Maghain Aboth Synagogue.md
