@@ -2,6 +2,7 @@ collections:
   visit-singapore:
     output: true
     order:
+      - Places of Worship/Bahá'í Centre.md
       - Places of Worship/.keep
       - Visit Singapore.md
       - Cultural Enclaves.md
