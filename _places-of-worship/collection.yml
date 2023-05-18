@@ -2,6 +2,7 @@ collections:
   places-of-worship:
     output: true
     order:
+      - Sri Mariamman Temple.md
       - Singapore Jain Religious Society.md
       - Saint Andrew's Cathedral.md
       - Maghain Aboth Synagogue.md
