@@ -2,6 +2,7 @@ collections:
   places-of-worship:
     output: true
     order:
+      - Zoroastrian House.md
       - Thian Hock Keng Temple.md
       - Sultan Mosque.md
       - Sri Mariamman Temple.md
