@@ -2,6 +2,7 @@ collections:
   places-of-worship:
     output: true
     order:
+      - Bahá'í Centre.md
       - Examples/.keep
       - Examples/Buddha Tooth Relic Temple.md
       - Examples/Central Sikh Gurdwara.md
