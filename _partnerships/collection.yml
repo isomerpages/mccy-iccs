@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - Interfaith Center of New York.md
       - IRO Singapore.md
       - "Mosaic: Interfaith Youth Action.md"
       - OnePeoplesg.md
