@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - RSIS.md
       - The Faith & Belief Forum.md
       - Partners/.keep
       - Partners/Faith in Leadership.md
