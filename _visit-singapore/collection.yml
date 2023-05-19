@@ -2,7 +2,6 @@ collections:
   visit-singapore:
     output: true
     order:
-      - Singapore Jain Religious Society.md
       - Visit Singapore.md
       - Cultural Enclaves.md
       - Places of Worship/Buddha Tooth Relic Temple.md
