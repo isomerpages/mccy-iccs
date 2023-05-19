@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - IRO Singapore.md
       - "Mosaic: Interfaith Youth Action.md"
       - OnePeoplesg.md
       - Roses of Peace.md
