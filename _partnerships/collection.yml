@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - Faith in Leadership.md
       - hashpeace.md
       - Interfaith America.md
       - Interfaith Center of New York.md
