@@ -11,7 +11,7 @@ Thian Hock Keng Temple (THKT) is one of the oldest Hokkien temples in Singapore.
 
 The temple is built in traditional southern Chinese architectural style and was assembled without nails. The Qing Dynasty Emperor, Guang Xu, had presented a plaque inscribed with the words that translate as Gentle Waves over the South Seas, which depict the stature of the temple.
 
-![](/images/Places%20of%20Worship/photo_thian%20hock%20keng%20temple%203.jpg)
+<img src="/images/Places%20of%20Worship/photo_thian%20hock%20keng%20temple%203.jpg" style="width:50%">
 
 THKT is managed by the Singapore Hokkien Huay Kuan and was gazetted a national monument in 1973. The temple's restoration efforts in 2001 have won the prestigious UNESCO Asia-Pacific Heritage 2001 Awards for Culture Heritage Conservation Building.
 
