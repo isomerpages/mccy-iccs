@@ -17,4 +17,4 @@ Contrary to popular belief, Zoroastrians are not fire worshippers, rather they s
 
 While the community is about only 350 members strong, the contributions of the Zoroastrians to Singapore's progress and cultural development have been significant.
 
-<a href="https://pzas.org/" target="_blank">[Click here to learn more about the Zoroastrian House]</a>
+<a href="https://pzas.org/" target="_blank">[Click here to learn more about the Zoroastrian House.]</a>
