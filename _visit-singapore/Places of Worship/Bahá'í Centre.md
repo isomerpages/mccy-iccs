@@ -15,4 +15,4 @@ The Centre is also the administrative centre of the Bahá'í Faith in Singapore.
 
 Inspired by the teachings of the Bahá'í Faith, the community also actively contributes to strengthening social harmony in Singapore by participating in interfaith activities that broaden mutual understanding and facilitate inter-community interaction.
 
-<a href="https://bahai.org.sg/" target="_blank">[Click here to learn more about the Bahá'í Centre.]</a>
+<a href="https://bahai.org.sg/" target="_blank">[Click here to learn more about the Bahá'í Centre]</a>
