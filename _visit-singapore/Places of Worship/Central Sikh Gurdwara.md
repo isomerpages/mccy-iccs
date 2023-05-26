@@ -15,4 +15,4 @@ Adjoining the temple, there is a seven-storey tower that serves as a community f
 
 Gazetted a historical site in 1999, the temple has a Langgar (Kitchen) facility that provides free vegetarian food to visitors daily. In collaboration with a local charity kitchen, Willing Hearts, CSG together with other Sikh temples, has started a Langgar Outreach Programme to serve the community in-need.
 
-<a href="https://sikhs.org.sg/about-cst/" target="_blank">[Click here to learn more about the Central Sikh Gurdwara.]</a>
+<a href="https://sikhs.org.sg/about-cst/" target="_blank">[Click here to learn more about the Central Sikh Gurdwara]</a>
