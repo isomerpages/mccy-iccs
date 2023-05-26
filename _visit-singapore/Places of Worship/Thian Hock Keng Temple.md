@@ -17,4 +17,4 @@ THKT is managed by the Singapore Hokkien Huay Kuan and was gazetted a national m
 
 The temple remains an important place of worship for local Chinese Buddhists and Taoists.
 
-<a href="https://thianhockkeng.com.sg/site/" target="_blank">[Click here to learn more about the Thian Hock Keng Temple.]</a>
+<a href="https://thianhockkeng.com.sg/site/" target="_blank">[Click here to learn more about the Thian Hock Keng Temple]</a>
