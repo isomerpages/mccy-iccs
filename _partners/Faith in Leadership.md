@@ -11,4 +11,4 @@ They recognise the immense impact that faith leaders and faith communities have 
 
 Faith in Leadership is now Britain’s principal leadership development organisation for our faith communities. Incubated at the University of Cambridge Divinity School and currently based at St Benet’s Hall, Oxford University, Faith in Leadership runs a range of residential and day programmes for senior faith leaders, lay leaders and young people.
 
-<a href="https://www.faithinleadership.org/" target="_blank">[Click here to learn more about Faith in Leadership.]</a>
+<a href="https://www.faithinleadership.org/" target="_blank">[Click here to learn more about Faith in Leadership]</a>
