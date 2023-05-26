@@ -13,4 +13,4 @@ The temple also has a museum which displays ancient Buddhist artefacts. BTRTM is
 
 Apart from its rich cultural offerings, BTRTM has been active in its community efforts locally and internationally. The temple has also been a keen supporter of interfaith harmony and has hosted tours for visitors belonging to different ethnicities and faiths.
 
-<a href="https://www.buddhatoothrelictemple.org.sg/" target="_blank">[Click here to learn more about the Buddha Tooth Relic Temple.]</a>
+<a href="https://www.buddhatoothrelictemple.org.sg/" target="_blank">[Click here to learn more about the Buddha Tooth Relic Temple]</a>
