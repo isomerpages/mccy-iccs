@@ -3,7 +3,7 @@ title: Faith in Leadership
 permalink: /partners/faithinleadership/
 description: Faith in Leadership
 ---
-<img src="/images/Partner's%20Logo/faith-in-leadership-logo.gif" style="width:10%">
+<img src="/images/Partner's%20Logo/faith-in-leadership-logo.gif" style="width:40%">
 
 Faith in Leadership (FiL) was founded in 2007 to create a diverse family of faith leaders equipped to lead inter and intra-faith initiatives for the benefit of all. 
 
