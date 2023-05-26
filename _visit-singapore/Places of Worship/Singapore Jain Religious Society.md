@@ -15,4 +15,4 @@ SJRS conducts free religious classes for the young (ages 4 to 12). They also hav
 
 Apart from its various initiatives, SJRS has been active in its community efforts. SJRS partners with Sunlove as well as other organisations for the Jain community to give back to the community. SJRS is also a part of the Kembangan-Chai Chee IRCC and has supported the IRCC in various events.
 
-<a href="https://www.sjrs.org.sg/" target="_blank">[Click here to learn more about the Singapore Jain Religious Society.]</a>
+<a href="https://www.sjrs.org.sg/" target="_blank">[Click here to learn more about the Singapore Jain Religious Society]</a>
