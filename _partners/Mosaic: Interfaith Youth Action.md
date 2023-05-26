@@ -11,4 +11,4 @@ These skills such as leadership, empathy, active listening, and nonviolent commu
 
 Mosaic: Interfaith Youth Action achieves this by developing engaging and exciting programming focused on the creation of meaningful interfaith experiences for young people, which empower them to build a more just, equitable, and peaceful society.
 
-<a href="https://mosaicaction.org/" target="_blank">[Click here to learn more about Mosaic: Interfaith Youth Action.]</a>
+<a href="https://mosaicaction.org/" target="_blank">[Click here to learn more about Mosaic: Interfaith Youth Action]</a>
