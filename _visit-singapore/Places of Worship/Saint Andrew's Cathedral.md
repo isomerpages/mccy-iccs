@@ -17,4 +17,4 @@ SAC remains an important place of worship for the Anglican community and conduct
 
 SAC has been active in the local community scene such as being involved in Adopt a Block in the Community project in the Bukit Merah area and befriending migrant workers, especially during the COVID-19 pandemic.
 
-<a href="https://cathedral.org.sg/" target="_blank">[Click here to learn more about the Saint Andrew's Cathedral.]</a>
+<a href="https://cathedral.org.sg/" target="_blank">[Click here to learn more about the Saint Andrew's Cathedral]</a>
