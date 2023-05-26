@@ -17,4 +17,4 @@ The premise houses the newly established Jews of Singapore Museum, which is open
 
 The synagogues have further added colour and detail to Singapore's growing multi-ethnic community.
 
-<a href="https://singaporejews.com/maghain-aboth-synagogues/" target="_blank">[Click here to learn more about the Maghain Aboth Synagogue.]</a>
+<a href="https://singaporejews.com/maghain-aboth-synagogues/" target="_blank">[Click here to learn more about the Maghain Aboth Synagogue]</a>
