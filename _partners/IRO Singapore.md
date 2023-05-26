@@ -9,4 +9,4 @@ The IRO was formed in 1949 by religious leaders from different faiths, with a ti
 
 Religious freedom is truly unique in Singapore, where all religious groups are able to practice without persecution from any majority faith. Through keeping multi-faith harmony, the people in Singapore have inter-religious peace, awareness of other religious practices and understanding of different customs or ways of worship.
 
-<a href="https://iro.sg/" target="_blank">[Click here to learn more about IRO Singapore.]</a>
+<a href="https://iro.sg/" target="_blank">[Click here to learn more about IRO Singapore]</a>
