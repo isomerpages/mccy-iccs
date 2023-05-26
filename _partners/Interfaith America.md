@@ -11,4 +11,4 @@ Since that time, Interfaith America has evolved from a small Chicago-based nonpr
 
 Utilizing a research-backed approach, IA works across higher education, racial equity, health, workplace, bridgebuilding, democracy, and technology.
 
-<a href="https://www.interfaithamerica.org/" target="_blank">[Click here to learn more about Interfaith America.]</a>
+<a href="https://www.interfaithamerica.org/" target="_blank">[Click here to learn more about Interfaith America]</a>
