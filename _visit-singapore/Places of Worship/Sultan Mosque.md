@@ -17,4 +17,4 @@ In the past, the mosque served as a stopover for Muslim pilgrims from the region
 
 The rich heritage and architecture of the mosque add to the cultural diversity that Singapore houses.
 
-<a href="https://www.sultanmosque.sg/" target="_blank">[Click here to learn more about the Sultan Mosque.]</a>
+<a href="https://www.sultanmosque.sg/" target="_blank">[Click here to learn more about the Sultan Mosque]</a>
