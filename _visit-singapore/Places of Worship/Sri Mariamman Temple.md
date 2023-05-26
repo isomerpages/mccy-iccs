@@ -17,4 +17,4 @@ Gazetted a national monument in 1973, SMT is well-known for holding the annual F
 
 The temple is nestled between Jamae Chulia Mosque and Buddha Tooth Relic Temple, adding vibrancy to the multiracial and multireligious fabric of Singapore.
 
-<a href="https://heb.org.sg/smt/" target="_blank">[Click here to learn more about the Sri Mariamman Temple.]</a>
+<a href="https://heb.org.sg/smt/" target="_blank">[Click here to learn more about the Sri Mariamman Temple]</a>
