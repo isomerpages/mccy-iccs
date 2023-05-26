@@ -13,4 +13,4 @@ These include Muslim, Sikh, Hindu, Buddhist, Christian, Jewish, Afro Caribbean, 
 
 ICNY’s decades of organizing and educating in New York City’s grassroots religious communities have gained us trust, the basis for all our successes, which recently includes increasing turn-out for the 2020 US Census and galvanizing faith-community humanitarian response to the COVID-19.
 
-<a href="https://interfaithcenter.org/" target="_blank">[Click here to learn more about the Interfaith Center of New York.]</a>
+<a href="https://interfaithcenter.org/" target="_blank">[Click here to learn more about the Interfaith Center of New York]</a>
