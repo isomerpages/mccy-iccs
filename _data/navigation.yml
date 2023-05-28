@@ -31,6 +31,4 @@ links:
   - title: Other Past Events
     collection: past-events
   - title: Media
-    url: /resource
-  - title: Menu Title
-    resource_room: true
+    url: /resource-room/media-room
