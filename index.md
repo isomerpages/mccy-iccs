@@ -45,7 +45,7 @@ sections:
       alt: YLP
       image: /images/XP3A8000.jpg
   - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
+      title: Media
+      subtitle: Learn More
+      button: View More
 ---
