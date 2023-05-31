@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /pastevents/ICCS2019/Overview
+permalink: /pastevents/iccs2019/overview/
 description: ICCS 2019
 third_nav_title: ICCS 2019
 ---

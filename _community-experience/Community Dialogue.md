@@ -1,6 +1,6 @@
 ---
 title: Community Dialogue
-permalink: /community-experience/CommunityDialogue/
+permalink: /community-experience/communitydialogue/
 description: Community Dialogue
 ---
 The ICCS 2022 Community Dialogue took place on 5 Sep 2022, one day before ICCS, at Wisma Geylang Serai.

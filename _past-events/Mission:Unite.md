@@ -1,6 +1,6 @@
 ---
 title: Mission:Unite
-permalink: /past-events/missionunite
+permalink: /past-events/missionunite/
 description: Mission:Unite
 ---
 

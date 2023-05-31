@@ -1,6 +1,6 @@
 ---
 title: ICCS
-permalink: /ICCS/
+permalink: /iccs/
 description: About ICCS
 ---
 <div class="bp-youtube">
@@ -15,7 +15,7 @@ ICCS 2022 was held from 6<sup>th</sup> to 8<sup>th</sup> September 2022 at a piv
 
 The Conference also cast a spotlight on youth as future leaders in an increasingly digitalised world and their immensely important role in fostering social cohesion.
 
-Read more about the programme and event happenings [here](/ProgrammeOverview/).
+Read more about the programme and event happenings [here](/programmeoverview/).
 # Background
 
 ![President on stage](/images/icciccsstage.jpg)

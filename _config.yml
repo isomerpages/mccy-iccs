@@ -15,7 +15,7 @@ colors:
       color: "#00b0a6"
     - title: media-color-five
       color: "#00b0a6"
-resources_name: resource
+resources_name: media-room
 description: An international platform to engage in dialogue and action on how
   we can foster harmony in societies.
 permalink: none
@@ -51,10 +51,11 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://mccy-iccs-staging.netlify.app
-prod: https://mccy-iccs-prod.netlify.app
+staging: https://staging.d324p8ryoietf6.amplifyapp.com/
+prod: https://master.d324p8ryoietf6.amplifyapp.com/
 is_government: false
 shareicon: /images/WEBSITE-BANNER_1200x630px_30_Jun.png
 facebook-pixel: ""
 google_analytics: UA-256421843-1
 linkedin-insights: ""
+google_analytics_ga4: ""

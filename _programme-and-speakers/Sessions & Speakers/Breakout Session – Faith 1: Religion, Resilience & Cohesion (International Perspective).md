@@ -1,7 +1,7 @@
 ---
 title: "Breakout Session – Faith 1: Religion, Resilience & Cohesion
   (International Perspective)"
-permalink: /programme-and-speakers/Sessions/Breakout-Faith-1/
+permalink: /programme-and-speakers/sessions/breakout-faith-1/
 description: Breakout Session – Faith 1
 third_nav_title: Sessions & Speakers
 ---

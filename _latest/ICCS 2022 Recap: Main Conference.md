@@ -42,4 +42,4 @@ For many, ICCS 2022 not only presented them with a rare opportunity to speak abo
 Beyond the Main Conference, there was a special Young Leaders Programme that ran in parallel with the main proceedings, featuring several speakers as well as content creators Father Fiel Pareja, Reverend Chris Lee and Yasmin Jay who leverage their platforms to share a message of hope and peace through faith.
 
 * [Click here for a recap of the ICCS 2022 Young Leaders Programme.](/latest/putting-our-faith-in-youth/)
-* [Click here for a recap of the ICCS 2022 Community Exploration series.](/latest/experiencing-the-diversity-of-Singapore/)
+* [Click here for a recap of the ICCS 2022 Community Exploration series.](/latest/experiencing-the-diversity-of-singapore/)

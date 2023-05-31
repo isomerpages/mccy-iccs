@@ -1,6 +1,6 @@
 ---
 title: Social Cohesion Conversations
-permalink: /past-events/socialcohesionconversations
+permalink: /past-events/socialcohesionconversations/
 description: Social Cohesion Conversations
 ---
 

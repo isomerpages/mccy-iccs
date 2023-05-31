@@ -1,6 +1,6 @@
 ---
 title: Speakers
-permalink: /PastEvents/ICCS2019/Speakers
+permalink: /pastevents/iccs2019/speakers/
 description: ICCS 2019 Speakers
 third_nav_title: ICCS 2019
 ---

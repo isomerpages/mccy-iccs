@@ -33,7 +33,7 @@ sections:
         opportunities to learn about Singapore's diverse communities.
       button: READ MORE
       alt: Community
-      url: /community-experience/CommunityExplorations/
+      url: /community-experience/communityexplorations/
       image: /images/RT_CE 1 -77.jpg
   - infopic:
       title: Young Leaders Programme
@@ -44,4 +44,8 @@ sections:
       url: /ylp
       alt: YLP
       image: /images/XP3A8000.jpg
+  - resources:
+      title: Media
+      subtitle: Learn More
+      button: View More
 ---

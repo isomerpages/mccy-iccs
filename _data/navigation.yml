@@ -3,7 +3,7 @@ links:
   - title: Latest
     url: /latest/feature-ona-nabila/
   - title: About
-    url: /ICCS
+    url: /iccs/
     sublinks:
       - title: ICCS
         url: /ICCS
@@ -14,19 +14,21 @@ links:
   - title: Research
     collection: research
   - title: ICCS 2022
-    url: /ProgrammeOverview/
+    url: /programmeoverview/
     sublinks:
       - title: Programme Overview
-        url: /ProgrammeOverview/
+        url: /programmeoverview/
       - title: Speeches
-        url: /programme-and-speakers/Speeches/OpeningAddress/
+        url: /programme-and-speakers/speeches/openingaddress/
       - title: Sessions & Speakers
         url: /programme-and-speakers/specialpresentation/
       - title: Young Leaders Programme
-        url: /YLP
+        url: /ylp
       - title: Community Experience
-        url: /community-experience/CommunityExplorations/
+        url: /community-experience/communityexplorations/
+      - title: Partners
+        url: /partners/faithinleadership/
   - title: Other Past Events
     collection: past-events
   - title: Media
-    url: /Media
+    url: /media-room/

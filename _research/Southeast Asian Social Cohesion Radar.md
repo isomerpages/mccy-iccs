@@ -1,6 +1,6 @@
 ---
 title: Southeast Asian Social Cohesion Radar
-permalink: /research/SocialCohesionRadar/
+permalink: /research/socialcohesionradar/
 description: Southeast Asian Social Cohesion Radar
 ---
 <div class="bp-youtube">
