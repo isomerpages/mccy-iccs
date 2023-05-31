@@ -9,7 +9,7 @@ third_nav_title: Places of Worship
 
 Maghain Aboth Synagogue (MAS) is the oldest surviving synagogue in Southeast Asia, and is one of Singapore's two synagogues, the other being Chesed-El Synagogue. The name of the synagogue means "Shield of Our Fathers" in Hebrew. MAS is a testament to the contributions of the small but close-knit Jewish community in Singapore since the colonial era.
 
-Gazetted a national monument in 1998, MAS has been a meeting place of the Jewish community for weekly Sabbath services and religious festivals such as Rosh Hashanah,Yom Kippur (Jewish New Year's Day) and the Passover.
+Gazetted a national monument in 1998, MAS has been a meeting place of the Jewish community for weekly Sabbath services and religious festivals such as Rosh Hashanah, Yom Kippur (Jewish New Year's Day) and the Passover.
 
 ![](/images/Places%20of%20Worship/photo_maghain%20aboth%20synagogue%202.png)
 
