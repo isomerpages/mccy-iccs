@@ -1,7 +1,7 @@
 ---
 title: Community Explorations (Educators’ Edition)
 permalink: /latest/ce2023/
-description: "Community Explorations (Educators’ Edition) "
+description: Community Explorations (Educators’ Edition)
 ---
 ## People, Places, Perspectives
 
@@ -18,12 +18,26 @@ description: "Community Explorations (Educators’ Edition) "
 	<tr></tr>
 </tbody></table>
 
-For many delegates and speakers, ICCS 2022 was a remarkable experience that introduced new approaches to fostering social cohesion within our communities. There were horizons broadened, friendships forged and experiences gained. One of our delegates was Dr. Ona Nabila, a doctor and clinic coordinator serving in remote and under-served regions in Indonesia with doctorSHARE. She shares more about her personal journey and her takeaways from ICCS 2022:
+![](/images/img20230601114945.jpg)
+<font color="grey"><font size="-1">Participants taking a group photo at St Joseph’s Church (Victoria Street), one of the sites visited for Community Explorations - Educators’ Edition</font></font>
+
+Learning through exploration—that was what teachers in Singapore did last week to enhance their understanding and experience first-hand the country’s religious diversity and harmony.
+
+In a spin-off of the Community Explorations series last seen at the International Conference on Cohesive Societies (ICCS) in September 2022 as well as in the ensuing months, an Educators’ Edition brought groups of enthusiastic educators on learning journeys to twelve places of worship in Singapore, representing six different religions.
+
+This edition was organised by the Character and Citizenship Education Branch of the Ministry of Education (MOE), in partnership with OnePeople.sg and ICCS, as part of the Teachers’ Conference and ExCEL Fest 2023.&nbsp;
+
+ICCS joined the teachers at four of these sites, namely Central Sikh Temple, Khadijah Mosque and Religious Rehabilitation Group, Buddha Tooth Relic Temple and Museum, and St Joseph’s Church (Victoria Street).
+
+<a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3ODY4MTIyMDk5OTI1NDk0?story\_media\_id=3113929842198450272\_12175069916&amp;igshid=MzRlODBiNWFlZA==" target="_blank">[See a recap of our live IG Story updates during the visits here]</a>
+
+**Day 1 (30 May 2023): Central Sikh Temple**
+![](/images/microsoftteams-image.png)
+**For many delegates and speakers, ICCS 2022 was a remarkable experience that introduced new approaches to fostering social cohesion within our communities. There were horizons broadened, friendships forged and experiences gained. One of our delegates was Dr. Ona Nabila, a doctor and clinic coordinator serving in remote and under-served regions in Indonesia with doctorSHARE. She shares more about her personal journey and her takeaways from ICCS 2022:
 
 **Tell us more about doctorSHARE, as well as your experience as a doctor serving unreached communities.**
 
-![](/images/img20230601114945.jpg)
-<font color="grey"><font size="-1">Dr. Ona Nabila (standing) working with youths in the community. (Picture courtesy of Ona Nabila)</font></font>
+
 
 I’m a women and children’s health specialist, based on Kei Island in the Southeast Maluku islands and have served with doctorSHARE since 2021. Officially established in 2009, doctorSHARE is a non-profit organisation focusing on medical healthcare services and humanitarian aid for unreached communities across Indonesia’s vast archipelago. 
 
