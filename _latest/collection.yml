@@ -2,8 +2,7 @@ collections:
   latest:
     output: true
     order:
-      - "Community Explorations (Educators’ Edition): People, Places,
-        Perspectives.md"
+      - Community Explorations (Educators’ Edition).md
       - "Feature: Ona Nabila's experience serving unreached communities.md"
       - "Feature: Hanadi Doleh's Interfaith Journey.md"
       - "Opinion: Bringing God closer to people on social media.md"
