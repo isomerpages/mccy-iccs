@@ -33,6 +33,12 @@ ICCS joined the teachers at four of these sites, namely Central Sikh Temple, Kha
 
 **Day 1 (30 May 2023): Central Sikh Temple**
 ![](/images/microsoftteams-image.png)
+<font color="grey"><font size="-1">Facade of the Central Sikh Temple.</font></font>
+
+
+Donning headscarves and bandannas, a group of teachers went on their learning journey at Central Sikh Temple. They learned about the five virtues of the Sikhism belief: Sat (Truth), Santokh (Contentment), Daya (Compassion), Nimrata (Humility) and Pyare (Love). On a tour around the temple, the teachers also witnessed how Sikhs in Singapore practise these virtues in their everyday lives and actions.
+
+
 **For many delegates and speakers, ICCS 2022 was a remarkable experience that introduced new approaches to fostering social cohesion within our communities. There were horizons broadened, friendships forged and experiences gained. One of our delegates was Dr. Ona Nabila, a doctor and clinic coordinator serving in remote and under-served regions in Indonesia with doctorSHARE. She shares more about her personal journey and her takeaways from ICCS 2022:
 
 **Tell us more about doctorSHARE, as well as your experience as a doctor serving unreached communities.**
