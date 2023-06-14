@@ -19,7 +19,7 @@ description: Community Explorations (Educators’ Edition)
 </tbody></table>
 
 ![](/images/img20230601114945.jpg)
-<font color="grey"><font size="-1">Participants taking a group photo at St Joseph’s Church (Victoria Street), one of the sites visited for Community Explorations - Educators’ Edition</font></font>
+<font color="grey"><font size="-1">Participants taking a group photo at St Joseph’s Church (Victoria Street), one of the sites visited for Community Explorations - Educators’ Edition.</font></font>
 
 Learning through exploration—that was what teachers in Singapore did last week to enhance their understanding and experience first-hand the country’s religious diversity and harmony.
 
