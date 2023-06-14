@@ -52,13 +52,13 @@ The century-old Khadijah Mosque played host to another group of teachers on Day 
 
 ![](https://lh5.googleusercontent.com/Fm3TRW7iM0Qn1phs8qAI4zhVUIFqCGRGWYzLSLKfdxV9Z9kUejLuX0QQPINMWyPIGguEBlNCsK9sjrjEqYH1708ei1OHk4LM3AooUDx2QQ2r_NrsQ3DrR0qpu2GirEh2qAELOcDrn9k8e6EcTjpJrwI) <font color="grey"><font size="-1">This chandelier was donated to the mosque by a Chinese, non-Muslim man 23 years ago. It has since become the centrepiece of the prayer room as a symbol of interfaith harmony and the mosque’s commitment to social cohesion.</font></font>
 
-They were then led on a tour of the newly-minted Majulah Gallery, which showcased facts and common misconceptions about religious extremism and the efforts of the Religious Rehabilitation Group (RRG) to counsel self-radicalised individuals in Singapore since its inception in 2003.&nbsp;
+They were then led on a tour of the newly-minted Majulah Gallery, which showcased facts and common misconceptions about religious extremism and the efforts of the Religious Rehabilitation Group (RRG) to counsel self-radicalised individuals in Singapore since its inception in 2003.
 
-Exhibits in the gallery emphasised the peace-seeking nature of Islamic teachings and the vulnerability of today’s youth to online extremist propaganda, which were themes that resonated deeply with the teachers.&nbsp;
+Exhibits in the gallery emphasised the peace-seeking nature of Islamic teachings and the vulnerability of today’s youth to online extremist propaganda, which were themes that resonated deeply with the teachers.
 
-“If we are not able to connect deeply, understand and dialogue meaningfully, the dialogues that shape our students' identity, relationships and choices would get pushed underground and online,” said Faith Yeo, a Principles of Accounts teacher from Serangoon Secondary School.&nbsp;
+“If we are not able to connect deeply, understand and dialogue meaningfully, the dialogues that shape our students' identity, relationships and choices would get pushed underground and online,” said Faith Yeo, a Principles of Accounts teacher from Serangoon Secondary School.
 
-“As educators, it is important to provide a safe space for our students to share, learn and discuss racial and religious issues…as well as to take appropriate action when they see threats.”
+“As educators, it is important to provide a safe space for our students to share, learn and discuss racial and religious issues… as well as to take appropriate action when they see threats.”
 
 ![](https://lh4.googleusercontent.com/NsziXLvpXspTk4kjW782B6f5le9xjJzCCCKFy98UKoXxgfRU6MClVm8HHHqA0-AeRaNaS5Vd-dc4QK7HEapGwtuMHbbRyAR6HMdzwZVqdekVXiSpg7U0lQ362IWedbDwm9E9yeeONFJs9yINKeT4E0s)<font color="grey"><font size="-1">Religious extremism did not start with 9/11, and it can never end without the concerted effort of our educators to nurture discerning minds and responsible beings.</font></font>
 
