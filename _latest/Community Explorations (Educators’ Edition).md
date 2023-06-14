@@ -22,7 +22,7 @@ image: /images/img_5308-min-2.jpg
 ![](/images/img20230601114945.jpg)
 <font color="grey"><font size="-1">Participants taking a group photo at St Joseph’s Church (Victoria Street), one of the sites visited for Community Explorations - Educators’ Edition.</font></font>
 
-Learning through exploration—that was what teachers in Singapore did last week to enhance their understanding and experience first-hand the country’s religious diversity and harmony.
+Learning through exploration—that was what teachers in Singapore did a fortnight ago to enhance their understanding and experience first-hand the country’s religious diversity and harmony.
 
 In a spin-off of the Community Explorations series last seen at the International Conference on Cohesive Societies (ICCS) in September 2022 as well as in the ensuing months, an Educators’ Edition brought groups of enthusiastic educators on learning journeys to twelve places of worship in Singapore, representing six different religions.
 
