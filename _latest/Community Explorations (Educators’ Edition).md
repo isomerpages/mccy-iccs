@@ -29,7 +29,7 @@ This edition was organised by the Character and Citizenship Education Branch of 
 
 ICCS joined the teachers at four of these sites, namely Central Sikh Temple, Khadijah Mosque and Religious Rehabilitation Group, Buddha Tooth Relic Temple and Museum, and St Joseph’s Church (Victoria Street).
 
-<a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3ODY4MTIyMDk5OTI1NDk0?story\_media\_id=3113929842198450272\_12175069916&amp;igshid=MzRlODBiNWFlZA==" target="_blank">[See a recap of our live IG Story updates during the visits here]</a>
+* <a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3ODY4MTIyMDk5OTI1NDk0?story\_media\_id=3113929842198450272\_12175069916&amp;igshid=MzRlODBiNWFlZA==" target="_blank">See a recap of our live IG Story updates during the visits here</a>
 
 **Day 1 (30 May 2023): Central Sikh Temple**
 ![](/images/microsoftteams-image.png)
@@ -41,12 +41,12 @@ Donning headscarves and bandannas, a group of teachers went on their learning jo
 
 As the day’s programme drew to a close, participants sat down with representatives from the Sikh Centre for a Q&amp;A session. Topics explored included the protection of religious rights, the breaking of racial and religious stereotypes, and the common values that connect all religions.
 
-![](https://lh6.googleusercontent.com/r1O9t-anOll_YS_VEAgBCZhhrAPQehraEXFLNk6SkMt0SdvXUZP021QQeqYodDR6Nj0Ubdbc6w0qv-uQuxOE_wQwOW9Z2cANYN4L6lCMvqBwXFCYwHqDEJzrQIE-hb8RP_SjIFRiIc6njtJKzEEfafw) <font color="grey"><font size="-1">*“From this exploration, I was able to draw connections between Sikhism and my religion, Islam*,” remarked Natrah Binti Ibrahim (pictured, second from right), a Malay Language teacher from Riverside Secondary School. *“Such learning journeys are a way for us to understand others better.* ”</font></font>
+![](https://lh6.googleusercontent.com/r1O9t-anOll_YS_VEAgBCZhhrAPQehraEXFLNk6SkMt0SdvXUZP021QQeqYodDR6Nj0Ubdbc6w0qv-uQuxOE_wQwOW9Z2cANYN4L6lCMvqBwXFCYwHqDEJzrQIE-hb8RP_SjIFRiIc6njtJKzEEfafw) <font color="grey"><font size="-1">“From this exploration, I was able to draw connections between Sikhism and my religion, Islam,” remarked Natrah Binti Ibrahim (pictured, second from right), a Malay Language teacher from Riverside Secondary School. “Such learning journeys are a way for us to understand others better.”</font></font>
 
 **Day 2 (31 May 2023): Khadijah Mosque &amp; Religious Rehabilitation Group**
 
 ![](https://lh5.googleusercontent.com/leqAwqZolgAQNgU9-8aguFIHBx63nRerSFW74ZicBmDb2WoIn1s8Aorbhz6C_48DQDKlbzn9aoI2SJxiU_rqEhUL-07wki17mRBPQ8_WVBTphnlWUkqW4JFIINDtk7DsRjP-97B9IX85WJzjk_Zskfo)
-<font color="grey"><font size="-1">Khadijah Mosque &amp; Religious Rehabilitation Group</font></font>
+<font color="grey"><font size="-1">Khadijah Mosque &amp; Religious Rehabilitation Group.</font></font>
 
 The century-old Khadijah Mosque played host to another group of teachers on Day 2 of the Community Explorations. The teachers learnt about the mosque’s history, its conservation efforts and how it has helped shape interfaith harmony in the community.
 
@@ -55,7 +55,6 @@ The century-old Khadijah Mosque played host to another group of teachers on Day 
 They were then led on a tour of the newly-minted Majulah Gallery, which showcased facts and common misconceptions about religious extremism and the efforts of the Religious Rehabilitation Group (RRG) to counsel self-radicalised individuals in Singapore since its inception in 2003.&nbsp;
 
 Exhibits in the gallery emphasised the peace-seeking nature of Islamic teachings and the vulnerability of today’s youth to online extremist propaganda, which were themes that resonated deeply with the teachers.&nbsp;
-
 
 “If we are not able to connect deeply, understand and dialogue meaningfully, the dialogues that shape our students' identity, relationships and choices would get pushed underground and online,” said Faith Yeo, a Principles of Accounts teacher from Serangoon Secondary School.&nbsp;
 
@@ -82,7 +81,7 @@ During the tour, the guide spoke of some of the challenges the temple faced over
 
 **Day 3 (1 June 2023): St. Joseph’s Church (Victoria Street)**
 
-![](https://lh3.googleusercontent.com/g0BZbGI-Z-8tyR5Pcz_3-u70OpP5jWSXgdwRH6LE0XS4y7ukDoxSTIeXbjmeM99q6AYgbimeds0xearyjzILln1tNSXaQt15-Ompf9UNzMnrL0LAEe3pYiiEJ5-R6u1ioYuE5CKVRsHgyITsIDy48ag) <font color="grey"><font size="-1">St Joseph’s Church</font></font>
+![](https://lh3.googleusercontent.com/g0BZbGI-Z-8tyR5Pcz_3-u70OpP5jWSXgdwRH6LE0XS4y7ukDoxSTIeXbjmeM99q6AYgbimeds0xearyjzILln1tNSXaQt15-Ompf9UNzMnrL0LAEe3pYiiEJ5-R6u1ioYuE5CKVRsHgyITsIDy48ag) <font color="grey"><font size="-1">St Joseph’s Church.</font></font>
 
 The wet weather on the third day of the programme did nothing to dampen the spirits of the teachers who visited St Joseph’s Church (Victoria Street). After the introductory talk on the church, its history and its connections with the Portuguese Association, the participants were brought on a tour of the church, where they learnt more about the history of the church and its latest conservation project which concluded in 2022.
 
@@ -90,8 +89,8 @@ The wet weather on the third day of the programme did nothing to dampen the spir
 
 Participants then discussed topics such as the dwindling number of devotees coming to the church over the past few decades due to urban-rural migration, as well as their personal histories and fond memories with the church.
 
-**Concluding Remarks**
+**Reflections**
 
 Participants of this series of learning journeys walked away with deepened impressions of religion in Singapore, and gained a greater appreciation of the common ground between the religions. Through understanding the intricate tapestry of people, places and perspectives within the Singaporean community, teachers could then empower the youth to see strength in diversity and to build an open and inclusive Singapore.
 
-<a href="https://www.iccs.sg/latest/experiencing-the-diversity-of-singapore/" target="_blank">[Read a recap of the Community Explorations of ICCS 2022 here]</a>
+* <a href="https://www.iccs.sg/latest/experiencing-the-diversity-of-singapore/" target="_blank">Read a recap of the Community Explorations of ICCS 2022 here</a>
