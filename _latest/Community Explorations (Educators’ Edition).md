@@ -13,7 +13,7 @@ description: Community Explorations (Educators’ Edition)
 	 <td></td>
 	 <td></td>
 	 <td></td>
-	 <td><font size="-1">Tuesday, 13 June 2023</font></td>
+	 <td><font size="-1">Wednesday, 14 June 2023</font></td>
 	</tr>
 	<tr></tr>
 </tbody></table>
@@ -25,7 +25,7 @@ Learning through exploration—that was what teachers in Singapore did last week
 
 In a spin-off of the Community Explorations series last seen at the International Conference on Cohesive Societies (ICCS) in September 2022 as well as in the ensuing months, an Educators’ Edition brought groups of enthusiastic educators on learning journeys to twelve places of worship in Singapore, representing six different religions.
 
-This edition was organised by the Character and Citizenship Education Branch of the Ministry of Education (MOE), in partnership with OnePeople.sg and ICCS, as part of the Teachers’ Conference and ExCEL Fest 2023.&nbsp;
+This edition was organised by the Character and Citizenship Education Branch of the Ministry of Education (MOE), in partnership with OnePeople.sg and ICCS, as part of the Teachers’ Conference and ExCEL Fest 2023.
 
 ICCS joined the teachers at four of these sites, namely Central Sikh Temple, Khadijah Mosque and Religious Rehabilitation Group, Buddha Tooth Relic Temple and Museum, and St Joseph’s Church (Victoria Street).
 
@@ -35,7 +35,7 @@ ICCS joined the teachers at four of these sites, namely Central Sikh Temple, Kha
 ![](/images/microsoftteams-image.png)
 <font color="grey"><font size="-1">Facade of the Central Sikh Temple.</font></font>
 
-Donning headscarves and bandannas, a group of teachers went on their learning journey at Central Sikh Temple. They learned about the five virtues of the Sikhism belief: Sat (Truth), Santokh (Contentment), Daya (Compassion), Nimrata (Humility) and Pyare (Love). On a tour around the temple, the teachers also witnessed how Sikhs in Singapore practise these virtues in their everyday lives and actions.
+Donning headscarves and bandannas, a group of teachers went on their learning journey at Central Sikh Temple. They learnt about the five virtues of the Sikhism belief: Sat (Truth), Santokh (Contentment), Daya (Compassion), Nimrata (Humility) and Pyare (Love). On a tour around the temple, the teachers also witnessed how Sikhs in Singapore practise these virtues in their everyday lives and actions.
 
 ![](https://lh6.googleusercontent.com/nyue7ziZSuYx-v6FDBR2OErxWNXS1kdTAYWrbxnf8V-EENn4vsjAbH9WfkPV0Rr2QjKJyD0v3l8CJXyRflwmeDWrW_UFGBpqE5EpCOGEYLhofbwxdgUmeVM2y-jrqh_vUxib-aQn52Kk2Xrf2bWPW9U)<font color="grey"><font size="-1">The kitchen of Central Sikh Temple. Sikhs believe in the spirit of “sewa” (“volunteering” in Punjabi), and the Central Sikh Temple operates a community kitchen that feeds 1,000 to 2,000 people daily, regardless of nationality or religion.</font></font>
 
@@ -58,24 +58,24 @@ Exhibits in the gallery emphasised the peace-seeking nature of Islamic teachings
 
 “If we are not able to connect deeply, understand and dialogue meaningfully, the dialogues that shape our students' identity, relationships and choices would get pushed underground and online,” said Faith Yeo, a Principles of Accounts teacher from Serangoon Secondary School.
 
-“As educators, it is important to provide a safe space for our students to share, learn and discuss racial and religious issues… as well as to take appropriate action when they see threats.”
+“As educators, it is important to provide a safe space for our students to share, learn and discuss racial and religious issues…as well as to take appropriate action when they see threats.”
 
 ![](https://lh4.googleusercontent.com/NsziXLvpXspTk4kjW782B6f5le9xjJzCCCKFy98UKoXxgfRU6MClVm8HHHqA0-AeRaNaS5Vd-dc4QK7HEapGwtuMHbbRyAR6HMdzwZVqdekVXiSpg7U0lQ362IWedbDwm9E9yeeONFJs9yINKeT4E0s)<font color="grey"><font size="-1">Religious extremism did not start with 9/11, and it can never end without the concerted effort of our educators to nurture discerning minds and responsible beings.</font></font>
 
 **Day 2 (31 May 2023): Buddha Tooth Relic Temple and Museum**
 
-![](https://lh4.googleusercontent.com/p2liwBKB8opjBd4rumA_fx_xy7K_b9QsL4Y-9GFyKwrAyvIVaDd1wg7_J6gBWofm2KJH15TbwjFRF7MCXTAMYXwq7VhvLHRCJ-WFZbWCSKIgOqzzb1KYSVz6BeabmGSdJMJ7ZItItlL38dp7qIYIQoA)<font color="grey"><font size="-1">Participants&nbsp; at the Buddha Tooth Relic Temple and Museum on 31 May 2023.</font></font>
+![](https://lh4.googleusercontent.com/p2liwBKB8opjBd4rumA_fx_xy7K_b9QsL4Y-9GFyKwrAyvIVaDd1wg7_J6gBWofm2KJH15TbwjFRF7MCXTAMYXwq7VhvLHRCJ-WFZbWCSKIgOqzzb1KYSVz6BeabmGSdJMJ7ZItItlL38dp7qIYIQoA)<font color="grey"><font size="-1">Participants at the Buddha Tooth Relic Temple and Museum on 31 May 2023.</font></font>
 
-The reverberations of monks and devotees chanting mantras in the grand hall accompanied the envoy of teachers, as they admired the relics of Buddhism and witnessed the life story of the Shakyamuni Buddha at the famous Buddha Tooth Relic Temple and Museum.
+The reverberations of monks and devotees chanting mantras in the grand hall accompanied the envoy of teachers as they admired the relics of Buddhism and witnessed the life story of the Shakyamuni Buddha at the famous Buddha Tooth Relic Temple and Museum.
 
 ![](https://lh5.googleusercontent.com/ZL3fUL8KvlHn2B2bzLWfTdgeF44G9shsi1ZFm4trQMOnTMo11ZkGilmfTrTiSF9rUWruatftB-fj1AmBzegbMJENJDAg6audhVF62amd8FR7X5Q9qfko-avvuWpoTH1fwVrcZhDH7TMZ3i0ZYTmiKpc)
 
 ![](https://lh4.googleusercontent.com/Zr1ZB3OCzc5TKZLoxY26F44v3G-jS01odMxdx-PA1qrj2kMNCxE8_x0TYLZsz8xI-cbat4kBeVs1qLzd78H9UwsXJv0yar5wHoXcflJjmZSIw-d0JtrHGSmCK-kZEBoUJ0t9tuq313idAscHe1yrbks)
 <font color="grey"><font size="-1">Buddha statues sourced from around the world on display in the museum.</font></font>
 
-Fun fact: The Buddha Tooth Relic Temple and Museum is just one of the seven places of worship (alongside other sites like the Sri Mariamman Temple and Jamae Mosque) located within the bustling Chinatown area. A Buddhist temple sharing a space with Hindu temples, Muslim mosques and Christian churches—an apt image of interfaith harmony in multiracial Singapore, indeed.
+Fun fact: The Buddha Tooth Relic Temple and Museum is just one of the seven places of worship (alongside other sites like the Sri Mariamman Temple and Jamae Mosque) located within the bustling Chinatown area. A Buddhist temple sharing a space with Hindu temples, Muslim mosques and Christian churches - an apt image of interfaith harmony in multiracial Singapore, indeed.
 
-During the tour, the guide spoke about some of the challenges the temple faced over the years such as the falling number of Singaporeans entering monkhood. However, the efforts made by the temple to keep up with the times did not go unnoticed.&nbsp;
+During the tour, the guide spoke of some of the challenges the temple faced over the years such as the falling number of Singaporeans entering monkhood. However, the efforts made by the temple to keep up with the times did not go unnoticed.
 
 “The temple is keeping up with changing times by going digital with 360° virtual tours and augmented reality,” said Genevieve Lim, an eLearning Department staff member from Pathlight School, in reference to the virtual tours of the temple and museum that one can find on the temple’s website. “In schools, we can also use multiple platforms to engage our students.”
 
@@ -94,4 +94,4 @@ Participants then discussed topics such as the dwindling number of devotees comi
 Participants of this series of learning journeys walked away with deepened impressions of religion in Singapore, and gained a greater appreciation of the common ground between the religions. Through understanding the intricate tapestry of people, places and perspectives within the Singaporean community, teachers could then empower the youth to see strength in diversity and to build an open and inclusive Singapore.
 
 ## Read also:
-* <a href="https://www.iccs.sg/latest/experiencing-the-diversity-of-singapore/" target="_blank">ICCS 2022 Recap: Community Explorations</a>
+* [Community Explorations of ICCS 2022](/latest/experiencing-the-diversity-of-singapore/)
