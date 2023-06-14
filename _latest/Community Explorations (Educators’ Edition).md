@@ -93,4 +93,5 @@ Participants then discussed topics such as the dwindling number of devotees comi
 
 Participants of this series of learning journeys walked away with deepened impressions of religion in Singapore, and gained a greater appreciation of the common ground between the religions. Through understanding the intricate tapestry of people, places and perspectives within the Singaporean community, teachers could then empower the youth to see strength in diversity and to build an open and inclusive Singapore.
 
-* <a href="https://www.iccs.sg/latest/experiencing-the-diversity-of-singapore/" target="_blank">Read a recap of the Community Explorations of ICCS 2022 here</a>
+## Read also:
+* <a href="https://www.iccs.sg/latest/experiencing-the-diversity-of-singapore/" target="_blank">ICCS 2022 Recap: Community Explorations</a>
