@@ -73,7 +73,7 @@ The reverberations of monks and devotees chanting mantras in the grand hall acco
 ![](https://lh4.googleusercontent.com/Zr1ZB3OCzc5TKZLoxY26F44v3G-jS01odMxdx-PA1qrj2kMNCxE8_x0TYLZsz8xI-cbat4kBeVs1qLzd78H9UwsXJv0yar5wHoXcflJjmZSIw-d0JtrHGSmCK-kZEBoUJ0t9tuq313idAscHe1yrbks)
 <font color="grey"><font size="-1">Buddha statues sourced from around the world on display in the museum.</font></font>
 
-Fun fact: The Buddha Tooth Relic Temple and Museum is just one of the seven places of worship (alongside other sites like the Sri Mariamman Temple and Jamae Mosque) located within the bustling Chinatown area. A Buddhist temple sharing a space with Hindu temples, Muslim mosques and Christian churches - an apt image of interfaith harmony in multiracial Singapore, indeed.
+Fun fact: The Buddha Tooth Relic Temple and Museum is just one of the seven places of worship (alongside other sites like the Sri Mariamman Temple and Jamae Mosque) located within the bustling Chinatown area. A Buddhist temple sharing a space with Hindu temples, Muslim mosques and Christian churches—an apt image of interfaith harmony in multiracial Singapore, indeed.
 
 During the tour, the guide spoke of some of the challenges the temple faced over the years such as the falling number of Singaporeans entering monkhood. However, the efforts made by the temple to keep up with the times did not go unnoticed.&nbsp;
 
