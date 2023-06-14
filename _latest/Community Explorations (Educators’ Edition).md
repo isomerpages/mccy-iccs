@@ -75,7 +75,7 @@ The reverberations of monks and devotees chanting mantras in the grand hall acco
 
 Fun fact: The Buddha Tooth Relic Temple and Museum is just one of the seven places of worship (alongside other sites like the Sri Mariamman Temple and Jamae Mosque) located within the bustling Chinatown area. A Buddhist temple sharing a space with Hindu temples, Muslim mosques and Christian churches—an apt image of interfaith harmony in multiracial Singapore, indeed.
 
-During the tour, the guide spoke of some of the challenges the temple faced over the years such as the falling number of Singaporeans entering monkhood. However, the efforts made by the temple to keep up with the times did not go unnoticed.&nbsp;
+During the tour, the guide spoke about some of the challenges the temple faced over the years such as the falling number of Singaporeans entering monkhood. However, the efforts made by the temple to keep up with the times did not go unnoticed.&nbsp;
 
 “The temple is keeping up with changing times by going digital with 360° virtual tours and augmented reality,” said Genevieve Lim, an eLearning Department staff member from Pathlight School, in reference to the virtual tours of the temple and museum that one can find on the temple’s website. “In schools, we can also use multiple platforms to engage our students.”
 
