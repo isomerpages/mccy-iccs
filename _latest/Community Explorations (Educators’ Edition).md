@@ -66,7 +66,7 @@ Exhibits in the gallery emphasised the peace-seeking nature of Islamic teachings
 
 ![](https://lh4.googleusercontent.com/p2liwBKB8opjBd4rumA_fx_xy7K_b9QsL4Y-9GFyKwrAyvIVaDd1wg7_J6gBWofm2KJH15TbwjFRF7MCXTAMYXwq7VhvLHRCJ-WFZbWCSKIgOqzzb1KYSVz6BeabmGSdJMJ7ZItItlL38dp7qIYIQoA)<font color="grey"><font size="-1">Participants&nbsp; at the Buddha Tooth Relic Temple and Museum on 31 May 2023.</font></font>
 
-The reverberations&nbsp; of monks and devotees chanting mantras in the grand hall accompanied the envoy of teachers,&nbsp; as they admired the relics of Buddhism and witnessed the life story of the Shakyamuni Buddha at the famous Buddha Tooth Relic Temple and Museum.
+The reverberations of monks and devotees chanting mantras in the grand hall accompanied the envoy of teachers,&nbsp; as they admired the relics of Buddhism and witnessed the life story of the Shakyamuni Buddha at the famous Buddha Tooth Relic Temple and Museum.
 
 ![](https://lh5.googleusercontent.com/ZL3fUL8KvlHn2B2bzLWfTdgeF44G9shsi1ZFm4trQMOnTMo11ZkGilmfTrTiSF9rUWruatftB-fj1AmBzegbMJENJDAg6audhVF62amd8FR7X5Q9qfko-avvuWpoTH1fwVrcZhDH7TMZ3i0ZYTmiKpc)
 
