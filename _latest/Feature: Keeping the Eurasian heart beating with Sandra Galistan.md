@@ -50,7 +50,6 @@ Sandra Galistan is also the founder of the non-profit organisation Eurasians Int
 
 “Now, as most Eurasians in Singapore live in public housing or overseas, we hardly get to meet one another anymore. Having a platform like EI would allow Eurasians to reconnect with one another and keep our collective identity intact.”
 
-
 **Food for the soul**
 
 Besides the documenting of gravestones, the EI also has a food bank initiative to cater to Eurasians in need.
@@ -91,10 +90,6 @@ Indeed, keeping the Eurasian heritage alive is the mantra Galistan lives by, eve
 
 “Heritage is not only about our food, dance, culture and traditions—it is also about the responsibility to lay the foundation for future Eurasians to learn and appreciate their roots, and to provide them the opportunity to learn about their Eurasian identity and their community, past and present.”
 
-Read also:
-
-•	Dr. Ona: A Doctor For All Communities
-•	A Big Heart From the Big Apple
-
 ## Read also:
-* [Community Explorations of ICCS 2022](/latest/experiencing-the-divers
+* [Dr. Ona: A Doctor For All Communities](https://www.iccs.sg/latest/feature-ona-nabila/)Dr. Ona: A Doctor For All Communities
+* [A Big Heart From the Big Apple](https://www.iccs.sg/latest/feature-hanadi-doleh/)
