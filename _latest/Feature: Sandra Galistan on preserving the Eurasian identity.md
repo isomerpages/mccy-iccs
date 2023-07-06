@@ -13,7 +13,7 @@ description: "Feature: Sandra Galistan on Preserving the Eurasian Identity"
 	 <td></td>
 	 <td></td>
 	 <td></td>
-	 <td><font size="-1">Thursday, 8 July 2023</font></td>
+	 <td><font size="-1">Thursday, 6 July 2023</font></td>
 	</tr>
 	<tr></tr>
 </tbody></table>
@@ -36,9 +36,9 @@ Sandra Galistan has been doing this since 2018 as part of her ongoing project to
 
 **Motivated by family**
 
-“I started the gravestone documentation because of my late grand uncle, [Emile Galistan](https://www.ossea.org.sg/about/our-founders/). When he passed away, he was buried at the Bidadari Cemetery, which has been defunct since 2006 to make way for a new housing estate,” said Galistan.
+“I started the gravestone documentation because of my late granduncle, [Emile Galistan](https://www.ossea.org.sg/about/our-founders/). When he passed away, he was buried at the Bidadari Cemetery, which has been defunct since 2006 to make way for a new housing estate,” said Galistan.
 
-“It felt like a great loss to me—my grand uncle was one of the founders of The Orchid Society of South East Asia, and he was a master at cultivating orchids, the national flower of Singapore. I couldn’t let memories of him and so many other Eurasians in Singapore be lost with time.”
+“It felt like a great loss to me—my granduncle was one of the founders of The Orchid Society of South East Asia, and he was a master at cultivating orchids, the national flower of Singapore. I couldn’t let memories of him and so many other Eurasians in Singapore be lost with time.”
 
 <img src="/images/our-founders-img2.jpeg" style="width:50%">
 <font color="grey"><font size="-1"></font></font><center><font color="grey"><font size="-1"> Emile Galistan (Photo: OSSEA) </font></font></center>
