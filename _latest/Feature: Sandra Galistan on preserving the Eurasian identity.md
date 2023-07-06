@@ -33,7 +33,7 @@ Sandra Galistan has been doing this since 2018 as part of her ongoing project to
 “To date, I have photographed and documented over 2,100 Eurasian graves and niches. One day, I hope to increase this number to 5,000 and attach Global Positioning Tags (GPS) tags to them so that Eurasians from any part of the world could locate their loved ones’ graves and pay their respects.”
 
 ![](/images/sandra1.jpeg)
-<font color="grey"><font size="-1">Sandra Galistan at the Choa Chu Kang Cemetery in 2018. (Photo: Sandra Galistan)</font></font>
+<font color="grey"><font size="-1">Sandra Galistan at the Choa Chu Kang Cemetery in 2018. (Photo: ST Photos: TK Raju)</font></font>
 
 **Motivated by family**
 
