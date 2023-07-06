@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Latest News
           description: What's happening for ICCS
-          url: /latest/teachersce2023/
+          url: /latest/featuresandragalistan/
         - title: ICCS 2022 at a glance
           description: Speeches, plenary & breakout sessions
           url: /programme-and-speakers/specialpresentation/
