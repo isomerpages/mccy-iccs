@@ -64,7 +64,7 @@ Besides the documenting of gravestones, the EI also has a food bank initiative t
 
 “It all started when we were informed of this elderly Eurasian lady who was living alone. She had previously approached other Eurasian self-help groups, but she never managed to get the help she needed due to the cumbersome procedures. We didn’t know much about her or her medical conditions, so we just prepared a basic food package and appeared at her door.”
 
-“Before we knew it, word of our Food Bank spread, and people started to come forward with information on Eurasian individuals that needed our help.”
+“Before we knew it, word of our food bank spread, and people started to come forward with information on Eurasian individuals that needed our help.”
 
 ![](/images/sandra2.jpeg)
 <font color="grey"><font size="-1">&nbsp;Sandra Galistan on her way to distributing Food Bank packages to Eurasians in need in September 2021. (Photo: Sandra Galistan)</font></font>
