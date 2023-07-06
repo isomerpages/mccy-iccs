@@ -2,6 +2,7 @@ collections:
   latest:
     output: true
     order:
+      - "Feature: Sandra Galistan on preserving the Eurasian identity.md"
       - Community Explorations (Educators’ Edition).md
       - "Feature: Ona Nabila's experience serving unreached communities.md"
       - "Feature: Hanadi Doleh's Interfaith Journey.md"
