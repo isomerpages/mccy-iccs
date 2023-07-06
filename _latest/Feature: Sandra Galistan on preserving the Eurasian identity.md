@@ -23,7 +23,7 @@ description: "Feature: Sandra Galistan on Preserving the Eurasian Identity"
 
 How far would you go to keep your cultural identity and heritage alive?
 
-Try taking photos of thousands of graves in Singapore’s largest cemetery in half a decade!
+Try taking photos of thousands of graves in Singapore’s largest cemetery over half a decade!
 
 Sandra Galistan has been doing this since 2018 as part of her ongoing project to preserve a record of Eurasians who have lived in Singapore before their graves are exhumed to make way for future developments. 
 
