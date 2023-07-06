@@ -40,8 +40,8 @@ Sandra Galistan has been doing this since 2018 as part of her ongoing project to
 
 “It felt like a great loss to me—my grand uncle was one of the founders of The Orchid Society of South East Asia, and he was a master at cultivating orchids, the national flower of Singapore. I couldn’t let memories of him and so many other Eurasians in Singapore be lost with time.”
 
-![](/images/our-founders-img2.jpeg)
-<font color="grey"><font size="-1">Emile Galistan (Photo: OSSEA) </font></font>
+<img src="/images/our-founders-img2.jpeg" style="width:50%">
+<font color="grey"><font size="-1"><center> Emile Galistan (Photo: OSSEA) </center></font></font>
 
 ![](/images/61417466_2341805485883930_5787661520204726272_n%20(1).jpg)
 <font color="grey"><font size="-1">Niche of Emile Galistan and his wife Hilda. (Photo: Sandra Galistan)</font></font>
