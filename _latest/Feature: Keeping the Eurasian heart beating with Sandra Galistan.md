@@ -39,7 +39,12 @@ Sandra Galistan has been doing this since 2018 as part of her ongoing project to
 “I started the gravestone documentation because of my late grand uncle, [Emile Galistan](https://www.ossea.org.sg/about/our-founders/). When he passed away, he was buried at the Bidadari Cemetery, which has been defunct since 2006 to make way for a new housing estate,” said Galistan.
 
 “It felt like a great loss to me—my grand uncle was one of the founders of The Orchid Society of South East Asia, and he was a master at cultivating orchids, the national flower of Singapore. I couldn’t let memories of him and so many other Eurasians in Singapore be lost with time.”
-(pictures and caption)
+
+![](/images/our-founders-img2.jpeg)
+<font color="grey"><font size="-1">Emile Galistan (Photo: OSSEA) </font></font>
+
+![](/images/61417466_2341805485883930_5787661520204726272_n%20(1).jpg)
+<font color="grey"><font size="-1">Niche of Emile Galistan and his wife Hilda. (Photo: Sandra Galistan)</font></font>
 
 Sandra Galistan is also the founder of the non-profit organisation Eurasians International (EI), which has established an independent group on Facebook with a membership comprising 95 percent Eurasians and 5 percent from other races with strong connections to Eurasians, mostly through marriage.
 
@@ -62,6 +67,7 @@ Besides the documenting of gravestones, the EI also has a food bank initiative t
 “Before we knew it, word of our Food Bank spread, and people started to come forward with information on Eurasian individuals that needed our help.”
 
 ![](/images/sandra2.jpeg)
+<font color="grey"><font size="-1">&nbsp;Sandra Galistan on her way to distributing Food Bank packages to Eurasians in need in September 2021. (Photo: Sandra Galistan)</font></font>
 
 “It didn’t matter if they were Eurasians living alone, Eurasian couples or mixed families. As long as there’s a Eurasian in need, we helped them all.”
 
