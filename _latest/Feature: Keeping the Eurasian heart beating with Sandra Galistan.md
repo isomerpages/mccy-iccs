@@ -99,5 +99,5 @@ Indeed, keeping the Eurasian heritage alive is the mantra Galistan lives by, eve
 “Heritage is not only about our food, dance, culture and traditions—it is also about the responsibility to lay the foundation for future Eurasians to learn and appreciate their roots, and to provide them the opportunity to learn about their Eurasian identity and their community, past and present.”
 
 ## Read also:
-* [Dr. Ona: A Doctor For All Communities](https://www.iccs.sg/latest/feature-ona-nabila/)Dr. Ona: A Doctor For All Communities
+* [Dr. Ona: A Doctor For All Communities](https://www.iccs.sg/latest/feature-ona-nabila/)
 * [A Big Heart From the Big Apple](https://www.iccs.sg/latest/feature-hanadi-doleh/)
