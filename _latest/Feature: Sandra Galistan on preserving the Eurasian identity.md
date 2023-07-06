@@ -81,7 +81,7 @@ So what does it mean to be Eurasian?
 
 “Simply put, it is to be true to my heritage, and to ensure that my family and the greater Eurasian community could do our best to keep this heritage alive,” said Galistan. “As interracial marriages between Eurasians and other ethnic groups in Singapore become more commonplace, it raises the question of how future generations of Eurasians would formulate their cultural identities.”
 
-“ Eurasian culture is not just about the sugee cakes or languages—we have unique ways of living, thinking and carrying on with our traditions. The living, breathing Eurasian heritage in Singapore is much more vibrant that what could be represented in books and the occasional public event.”
+“Eurasian culture is not just about the sugee cakes or languages—we have unique ways of living, thinking and carrying on with our traditions. The living, breathing Eurasian heritage in Singapore is much more vibrant that what could be represented in books and the occasional public event.”
 
 “If we want to keep our heritage alive, we need to proudly take ownership of it and let Eurasians tell the Eurasian story.”
 
