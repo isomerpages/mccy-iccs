@@ -2,6 +2,7 @@
 title: "Feature: Sandra Galistan on preserving the Eurasian identity"
 permalink: /latest/featuresandragalistan/
 description: "Feature: Sandra Galistan on Preserving the Eurasian Identity"
+image: /images/img_5461 (1).jpg
 ---
 ## It's a grave matter!
 
