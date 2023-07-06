@@ -36,7 +36,7 @@ Sandra Galistan has been doing this since 2018 as part of her ongoing project to
 
 **Motivated by family**
 
-“I started the gravestone documentation because of my late granduncle, [Emile Galistan](https://www.ossea.org.sg/about/our-founders/). When he passed away, he was buried at the Bidadari Cemetery, which has been defunct since 2006 to make way for a new housing estate,” said Galistan.
+“I started the gravestone documentation because of my late granduncle, <a href="https://www.ossea.org.sg/about/our-founders/" target="_blank">Emile Galistan</a>. When he passed away, he was buried at the Bidadari Cemetery, which has been defunct since 2006 to make way for a new housing estate,” said Galistan.
 
 “It felt like a great loss to me—my granduncle was one of the founders of The Orchid Society of South East Asia, and he was a master at cultivating orchids, the national flower of Singapore. I couldn’t let memories of him and so many other Eurasians in Singapore be lost with time.”
 
