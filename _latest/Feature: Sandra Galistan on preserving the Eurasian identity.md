@@ -75,7 +75,7 @@ Besides the documenting of gravestones, the EI also has a food bank initiative t
 
 Eurasians typically refer to people who have mixed European and Asian lineage. The term is used to describe individuals who have a combination of genetic, cultural or historical connections to both continents.
 
-Most Eurasians in Singapore can trace the European part of their ancestry to the Portuguese, Dutch or British, while others are of Danish, French, German, Italian or Spanish descent. The Asian component of their ancestry is usually derived from the Chinese, Malays or Indians. 
+Most Eurasians in Singapore can trace the European part of their ancestry to the Portuguese, Dutch or British, while others are of Danish, French, German, Italian or Spanish descent. The Asian component of their ancestry is usually derived from the Chinese, Malays or Indians.<sup>1</sup>
 
 So what does it mean to be Eurasian?
 
