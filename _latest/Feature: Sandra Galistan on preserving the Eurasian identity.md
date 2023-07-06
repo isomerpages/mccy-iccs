@@ -50,7 +50,7 @@ Sandra Galistan is also the founder of the non-profit organisation Eurasians Int
 
 “It all started when my mother passed away around 2011. As I grieved, I realised that the essence of being Eurasian in Singapore is to carry on the heritage of our ancestors. Despite the many differences between individual Eurasians, there are plenty of things that unite us, which is what we need to focus on as a community. That was why I started EI in 2017.”
 
-* [Eurasians International Facebook Page](https://www.facebook.com/SandraMGalistan/)
+* <a href="https://www.facebook.com/SandraMGalistan/" target="_blank">Eurasians International Facebook Page</a>
 
 “As an Armenian Eurasian, generosity and hospitality were the values that defined our actions. Big house parties used to be a common occurrence in my household, where hundreds of people would show up and enjoy good food and company.”
 
