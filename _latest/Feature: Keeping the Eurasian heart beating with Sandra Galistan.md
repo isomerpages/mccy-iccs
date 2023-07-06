@@ -89,7 +89,8 @@ So what does it mean to be Eurasian?
 
 Indeed, keeping the Eurasian heritage alive is the mantra Galistan lives by, even if it means that she continues to document the deceased.
 
-(photo and caption)
+![](/images/sandra3.jpeg)
+<font color="grey"><font size="-1">&nbsp;Sandra Galistan with Christina Swan (right), co-administrator of EI. (Photo: Sandra Galistan)</font></font>
 
 “It does feel quite ironic to ‘keep the Eurasian heart beating’ by hunting down the final resting places of Eurasians that have already passed away,” Galistan mused.
 
