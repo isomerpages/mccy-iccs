@@ -41,7 +41,7 @@ Sandra Galistan has been doing this since 2018 as part of her ongoing project to
 “It felt like a great loss to me—my granduncle was one of the founders of The Orchid Society of South East Asia, and he was a master at cultivating orchids, the national flower of Singapore. I couldn’t let memories of him and so many other Eurasians in Singapore be lost with time.”
 
 <img src="/images/our-founders-img2.jpeg" style="width:50%">
-<font color="grey"><font size="-1"></font></font><center><font color="grey"><font size="-1"> Emile Galistan (Photo: OSSEA) </font></font></center>
+<font color="grey"><font size="-1"></font></font><center><font color="grey"><font size="-1">Emile Galistan (Photo: OSSEA) </font></font></center>
 
 ![](/images/61417466_2341805485883930_5787661520204726272_n%20(1).jpg)
 <font color="grey"><font size="-1">Niche of Emile Galistan and his wife Hilda. (Photo: Sandra Galistan)</font></font>
@@ -50,7 +50,7 @@ Sandra Galistan is also the founder of the non-profit organisation Eurasians Int
 
 “It all started when my mother passed away around 2011. As I grieved, I realised that the essence of being Eurasian in Singapore is to carry on the heritage of our ancestors. Despite the many differences between individual Eurasians, there are plenty of things that unite us, which is what we need to focus on as a community. That was why I started EI in 2017.”
 
-●	[Eurasians International Facebook Page](https://www.facebook.com/SandraMGalistan/)
+* [Eurasians International Facebook Page](https://www.facebook.com/SandraMGalistan/)
 
 “As an Armenian Eurasian, generosity and hospitality were the values that defined our actions. Big house parties used to be a common occurrence in my household, where hundreds of people would show up and enjoy good food and company.”
 
