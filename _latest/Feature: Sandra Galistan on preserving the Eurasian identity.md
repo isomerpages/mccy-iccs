@@ -92,7 +92,7 @@ Indeed, keeping the Eurasian heritage alive is the mantra Galistan lives by, eve
 ![](/images/sandra3.jpeg)
 <font color="grey"><font size="-1">&nbsp;Sandra Galistan with Christina Swan (right), co-administrator of EI. (Photo: Sandra Galistan)</font></font>
 
-“It does feel quite ironic to ‘keep the Eurasian heart beating’ by hunting down the final resting places of Eurasians that have already passed away,” Galistan mused.
+“It does feel quite ironic to ‘keep the Eurasian heart beating’ by hunting down the final resting places of Eurasians who have already passed away,” Galistan mused.
 
 “However, as I walked through the graves and niches and looked at the many Eurasian faces, I came to realise that it is because of them that EI exists.”
 
