@@ -3,6 +3,7 @@ title: "Feature: Ustazah Liyana Goes Abroad to Share on Interfaith Work"
 permalink: /latest/featureustazahliyanapowr/
 description: ""
 ---
+![](/images/liyana%202.jpeg)
 
 Interfaith work is more than just finding common ground – it is an intricate tapestry of connection woven through the diverse threads of belief.  From the heart of local interfaith engagements to the global stage of the Parliament of the World’s Religions (POWR), Ustazah Liyana Rosli Asmara's journey exemplifies the beauty of fostering unity amid this vibrant diversity.
 
@@ -24,5 +25,14 @@ Encountering the variety of religious expression outside traditional structures 
 
 **2. Refreshing: A Diverse and Inclusive Affair**
 
-
 The conference was not only for adults interested in interfaith dialogue, but offered a variety of activities and excursions for people of different interests and age groups. “They have POWR kids version and I find that creative,” Liyana shared. Furthermore, Liyana added that she had the chance to interact with participants from organisations and traditions she has not encountered before, including individuals like Wiccans and Native Americans.
+
+![](/images/liyana%20speaking.jpeg)
+
+**Most Memorable Experience**
+
+Amidst the profound interfaith exchanges, Liyana recalled the heartwarming generosity of the interfaith community at POWR. “A Jewish lady approached my colleague and I, asking us to pick a bracelet. The bracelets were made by her friend who wanted to share them as a gift to POWR participants. That was very thoughtful!” shared Liyana.
+
+  
+“I also recall that we were invited to attend a dinner event by local Muslims in Chicago. A Palestinian lady who had heard about us through a Christian friend offered to give us a ride to the function. To ensure we received the invitation, she also informed other Muslims at POWR who recognised us and passed the note along. Despite the thousands of people present, my colleague and I somehow stood out as Singaporeans, prompting people to approach us to learn more about Singapore.”
+
