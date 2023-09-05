@@ -54,7 +54,7 @@ Amidst the profound interfaith exchanges, Liyana recalled the heartwarming gener
 “I also recall that we were invited to attend a dinner event by local Muslims in Chicago. A Palestinian lady who had heard about us through a Christian friend offered to give us a ride to the function. To ensure we received the invitation, she also informed other Muslims at POWR who recognised us and passed the note along. Despite the thousands of people present, my colleague and I somehow stood out as Singaporeans, prompting people to approach us to learn more about Singapore.”
 
 ![](/images/liyana%20and%20friends.jpeg)
-<font color="grey"><font size="-1">Liyana R Asmara with Tessa Bielecki, Deepa Patel, Julia Walsh and Ustaza Amirah Lidiya (left to right).</font></font>
+<font color="grey"><font size="-1">Liyana R Asmara with Tessa Bielecki, Deepa Patel, Julia Walsh and Ustazah Amirah Lidiya (left to right).</font></font>
 
 **The Importance of Interfaith Engagement**
 
