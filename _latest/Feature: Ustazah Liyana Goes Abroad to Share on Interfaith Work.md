@@ -51,7 +51,6 @@ The conference was not only for adults interested in interfaith dialogue, but of
 
 Amidst the profound interfaith exchanges, Liyana recalled the heartwarming generosity of the interfaith community at POWR. “A Jewish lady approached my colleague and I, asking us to pick a bracelet. The bracelets were made by her friend who wanted to share them as a gift to POWR participants. That was very thoughtful!” shared Liyana.
 
-  
 “I also recall that we were invited to attend a dinner event by local Muslims in Chicago. A Palestinian lady who had heard about us through a Christian friend offered to give us a ride to the function. To ensure we received the invitation, she also informed other Muslims at POWR who recognised us and passed the note along. Despite the thousands of people present, my colleague and I somehow stood out as Singaporeans, prompting people to approach us to learn more about Singapore.”
 
 ![](/images/liyana%20and%20friends.jpeg)
