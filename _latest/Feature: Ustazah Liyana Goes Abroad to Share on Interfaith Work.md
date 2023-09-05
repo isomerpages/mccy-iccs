@@ -3,7 +3,7 @@ title: "Feature: Ustazah Liyana Goes Abroad to Share on Interfaith Work"
 permalink: /latest/featureustazahliyanapowr/
 description: ""
 ---
-![](/images/liyana%202.jpeg)
+![Liyana at POWR 2023.](/images/liyana%202.jpeg)
 
 Interfaith work is more than just finding common ground – it is an intricate tapestry of connection woven through the diverse threads of belief.  From the heart of local interfaith engagements to the global stage of the Parliament of the World’s Religions (POWR), Ustazah Liyana Rosli Asmara's journey exemplifies the beauty of fostering unity amid this vibrant diversity.
 
