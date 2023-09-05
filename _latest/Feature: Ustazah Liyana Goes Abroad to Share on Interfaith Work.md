@@ -28,6 +28,7 @@ Liyana has been leading interfaith engagements in the local scene since 2008. Wi
 POWR stands as the foremost global assembly of civic, spiritual, and grassroots leaders from diverse backgrounds. This historic gathering aims to promote unity among religious and spiritual groups worldwide. It also strives to encourage their active involvement with both global affairs and influential institutions, addressing pressing challenges of our time.
 
 ![](/images/powr%20image.jpeg)
+<font color="grey"><font size="-1">Audience at Liyana's session.</font></font>
 
 A representative from MCCY had the privilege of speaking with Liyana, at this year's POWR conference in Chicago. When asked about her presence at POWR, she explained, "I'm here to present the work of Harmony Centre, Majlis Ugama Islam Singapura (MUIS), and Singapore's broader approach to building inclusive sacred spaces for our multi-racial, multi-religious community."
 
@@ -44,6 +45,7 @@ Encountering the variety of religious expression outside traditional structures 
 The conference was not only for adults interested in interfaith dialogue, but offered a variety of activities and excursions for people of different interests and age groups. “They have POWR kids version and I find that creative,” Liyana shared. Furthermore, Liyana added that she had the chance to interact with participants from organisations and traditions she has not encountered before, including individuals like Wiccans and Native Americans.
 
 ![](/images/liyana%20speaking.jpeg)
+<font color="grey"><font size="-1">Audience at Liyana's session.</font></font>
 
 **Most Memorable Experience**
 
@@ -53,6 +55,7 @@ Amidst the profound interfaith exchanges, Liyana recalled the heartwarming gener
 “I also recall that we were invited to attend a dinner event by local Muslims in Chicago. A Palestinian lady who had heard about us through a Christian friend offered to give us a ride to the function. To ensure we received the invitation, she also informed other Muslims at POWR who recognised us and passed the note along. Despite the thousands of people present, my colleague and I somehow stood out as Singaporeans, prompting people to approach us to learn more about Singapore.”
 
 ![](/images/liyana%20and%20friends.jpeg)
+<font color="grey"><font size="-1">Liyana speaking at her session, "Creating Inclusive Spaces: Interfaith Dialogue, Contemplation, and Action".</font></font>
 
 **The Importance of Interfaith Engagement**
 
