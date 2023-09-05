@@ -3,9 +3,25 @@ title: "Feature: Ustazah Liyana Goes Abroad to Share on Interfaith Work"
 permalink: /latest/featureustazahliyanapowr/
 description: ""
 ---
-![Liyana at POWR 2023.](/images/liyana%202.jpeg)
+## idk
 
-Interfaith work is more than just finding common ground – it is an intricate tapestry of connection woven through the diverse threads of belief.  From the heart of local interfaith engagements to the global stage of the Parliament of the World’s Religions (POWR), Ustazah Liyana Rosli Asmara's journey exemplifies the beauty of fostering unity amid this vibrant diversity.
+<table>
+ <tbody><tr>
+	 <td><img src="/images/ICCS-parallelogram_narrow.png" style="width:23px"></td>
+	 <td><font size="-1">by ICCS Team</font></td>
+	 <td></td>
+	 <td></td>
+	 <td></td>
+	 <td></td>
+	 <td><font size="-1">Thursday, 6 July 2023</font></td>
+	</tr>
+	<tr></tr>
+</tbody></table>
+
+![](/images/liyana%202.jpeg)
+<font color="grey"><font size="-1">Liyana at POWR.</font></font>
+
+Interfaith work is more than just finding common ground – it is an intricate tapestry of connection woven through the diverse threads of belief.&nbsp; From the heart of local interfaith engagements to the global stage of the Parliament of the World’s Religions (POWR), Ustazah Liyana Rosli Asmara's journey exemplifies the beauty of fostering unity amid this vibrant diversity.
 
 Liyana has been leading interfaith engagements in the local scene since 2008. With a deep commitment to fostering interfaith understanding and cultural harmony, Liyana brings a wealth of experience and a passion for creating inclusive spaces where diverse communities can thrive together. As the first female head of Harmony Centre since 2021, she plays a pivotal role in shaping initiatives that bridge the gap between various faiths and cultures.
 
