@@ -4,7 +4,7 @@ permalink: /past-events/iccs-2019/openingaddress/
 description: ""
 third_nav_title: ICCS 2019
 ---
-**<font size="+2">Opening Address by Mdm Halimah Yacob, President of the Republic of Singapore, at the International Conference on Cohesive Societies 2019 </font>**  
+**<font size="+2">Opening Address by Mdm Halimah Yacob, Former President of the Republic of Singapore, at the International Conference on Cohesive Societies 2019 </font>**  
 <font size="-1">19 June 2019</font>
 
 Mr Teo Chee Hean, Senior Minister and Coordinating Minister for National Security    
