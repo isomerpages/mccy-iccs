@@ -7,7 +7,7 @@ third_nav_title: ICCS 2019
 **<font size="+2">Welcome Remarks by Mr Ong Keng Yong,  Ambassador of the Republic of Singapore, Executive Deputy Chairman of RSIS, at the Opening Dinner of the International Conference On Cohesive Societies 2019</font>**  
 <font size="-1">19 June 2019</font>
 
-Her Excellency, Madam Halimah Yacob, Former President of the Republic of Singapore                                                                                
+Her Excellency, Madam Halimah Yacob, President of the Republic of Singapore                                                                                
 Ministers                                          
 Distinguished Guests                                 
 Ladies and Gentlemen
