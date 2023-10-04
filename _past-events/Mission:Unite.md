@@ -11,7 +11,7 @@ During the launch of the hackathon on 27 November 2020, Minister of State Alvin 
 ![](/images/35419.jpg)
 <font color="grey"><font size="-1">Mission:Unite finalists presenting their pitches on 5 December 2020. (Photos: IRCC)</font></font>
 
-During the finale on 5 December 2020, Singapore’s President Halimah Yacob delivered the closing speech, observed the idea pitching, and interacted with the teams after the event.
+During the finale on 5 December 2020, Singapore’s Former President Halimah Yacob delivered the closing speech, observed the idea pitching, and interacted with the teams after the event.
 
 The ten finalist teams received funding support of between SGD10,000 and SGD50,000 to carry out their social cohesion projects.
 
