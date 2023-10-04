@@ -23,7 +23,7 @@ It is very heartening to see so many religious leaders and scholars gathered her
 
 Over the last two days, this conference has covered a wide range of issues on cohesive societies.  As the international community becomes more diverse, both within each society and across societies, it is critical to recognise our shared humanity and uphold harmony. 
 
-Both President Halimah and His Majesty, King Abdullah II highlighted that everyone has a role in upholding interreligious harmony. We saw the religious leaders of Singapore re-affirm their commitment to safeguard religious harmony in Singapore. As King Abdullah II reminded us, we all have a role to play in reclaiming the moderate voice on the internet, on social media, and in the public space.
+Both Former President Halimah and His Majesty, King Abdullah II highlighted that everyone has a role in upholding interreligious harmony. We saw the religious leaders of Singapore re-affirm their commitment to safeguard religious harmony in Singapore. As King Abdullah II reminded us, we all have a role to play in reclaiming the moderate voice on the internet, on social media, and in the public space.
 
 The conference also confronted difficult questions, like how we should balance the different identities that we all carry – whether religious, communal or national – and more importantly, how we can enable these identities to coexist in harmony.
 
