@@ -2,6 +2,7 @@ collections:
   latest:
     output: true
     order:
+      - "Documenting a Living Tradition: The 9 Emperor Gods Festival.md"
       - "Feature: Ustazah Liyana Goes Abroad to Share on Interfaith Work.md"
       - "Feature: Sandra Galistan on preserving the Eurasian identity.md"
       - Community Explorations (Educators’ Edition).md

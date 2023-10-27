@@ -5,7 +5,7 @@ description: About ICCS
 ---
 <div class="bp-youtube">
 	
-<iframe width="560" height="315" src="https://www.youtube.com/embed/snrH4UicNio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/snrH4UicNio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 	
 </div>
 # About ICCS 2022
@@ -19,13 +19,13 @@ Read more about the programme and event happenings [here](/programmeoverview/).
 # Background
 
 ![President on stage](/images/icciccsstage.jpg)
-<font color = "grey"><font size="-1">Venerable Seck Kwang Phing presenting a commemorative version of the Commitment to Safeguard Religious Harmony to President Halimah Yacob on behalf of Singapore's National Steering Committee at ICCS 2019 on 19 June 2019. (Photo: MCCY)</font></font>
+<font color="grey"><font size="-1">Venerable Seck Kwang Phing presenting a commemorative version of the Commitment to Safeguard Religious Harmony to Former President Halimah Yacob on behalf of Singapore's National Steering Committee at ICCS 2019 on 19 June 2019. (Photo: MCCY)</font></font>
 
-The ICCS is the preeminent event for interfaith and multicultural dialogue. Mooted by President of Singapore Halimah Yacob, the Conference was held in Singapore for the first time in 2019, showcasing the tropical island-state’s unique approach to managing communal ties within a diverse population. It is organised by the S. Rajaratnam School of International Studies (RSIS) and supported by the Ministry of Culture, Community and Youth (MCCY).
+The ICCS is the preeminent event for interfaith and multicultural dialogue. Mooted by Former President of Singapore Halimah Yacob, the Conference was held in Singapore for the first time in 2019, showcasing the tropical island-state’s unique approach to managing communal ties within a diverse population. It is organised by the S. Rajaratnam School of International Studies (RSIS) and supported by the Ministry of Culture, Community and Youth (MCCY).
 
 <div class="bp-youtube">
 	
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UNgvcEaJT4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UNgvcEaJT4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 	
 </div>
 

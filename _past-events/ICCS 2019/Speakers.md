@@ -4,14 +4,13 @@ permalink: /pastevents/iccs2019/speakers/
 description: ICCS 2019 Speakers
 third_nav_title: ICCS 2019
 ---
-
 The inaugural ICCS featured speakers from various backgrounds and experiences:   
 
 **Guest-of-Honour:**   
 •	His Majesty King Abdullah II Ibn Al Hussein of the Hashemite Kingdom of Jordan
 
 **Opening Address:**  
-•	Her Excellency Halimah Yacob, President of the Republic of Singapore
+•	Her Excellency Halimah Yacob, Former President of the Republic of Singapore
 
 **Keynote Speaker:**  
 •	Ms Karen Armstrong OBE; FRSL, Historian of World Religion  
