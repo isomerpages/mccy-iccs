@@ -3,7 +3,7 @@ title: "Documenting a Living Tradition: The 9 Emperor Gods Festival"
 permalink: /latest/documenting9emperorgodsfestival/
 description: ""
 ---
-## Liyana's Journey: Building Bridges at POWR
+## A Glimpse into Tradition: Uncovering The 9 Emperor Gods Festival 
 
 <table>
  <tbody><tr>
