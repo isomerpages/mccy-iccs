@@ -1,0 +1,34 @@
+logo: /images/ICCS-LOGO.png
+links:
+  - title: Latest
+    url: /latest/documenting9emperorgodsfestival/
+  - title: About
+    url: /iccs/
+    sublinks:
+      - title: ICCS
+        url: /ICCS
+      - title: Contact Us
+        url: /Contact
+      - title: Visit Singapore
+        url: /visitsingapore
+  - title: Research
+    collection: research
+  - title: ICCS 2022
+    url: /programmeoverview/
+    sublinks:
+      - title: Programme Overview
+        url: /programmeoverview/
+      - title: Speeches
+        url: /programme-and-speakers/speeches/openingaddress/
+      - title: Sessions & Speakers
+        url: /programme-and-speakers/specialpresentation/
+      - title: Young Leaders Programme
+        url: /ylp
+      - title: Community Experience
+        url: /community-experience/communityexplorations/
+      - title: Partners
+        url: /partners/faithinleadership/
+  - title: Other Past Events
+    collection: past-events
+  - title: Media
+    url: /media-room/

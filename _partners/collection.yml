@@ -1,0 +1,13 @@
+collections:
+  partners:
+    output: true
+    order:
+      - Faith in Leadership.md
+      - hashpeace.md
+      - Interfaith America.md
+      - Interfaith Center of New York.md
+      - IRO Singapore.md
+      - "Mosaic: Interfaith Youth Action.md"
+      - OPSG.md
+      - Roses of Peace.md
+      - The Faith & Belief Forum.md

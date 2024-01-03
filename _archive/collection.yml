@@ -1,0 +1,6 @@
+collections:
+  archive:
+    output: true
+    order:
+      - Media.md
+      - Frequently Asked Questions.md

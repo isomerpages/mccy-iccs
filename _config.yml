@@ -1,0 +1,61 @@
+title: The International Conference on Cohesive Societies
+url: https://www.iccs.sg
+favicon: /images/ICCS-parallelogram.png
+colors:
+  primary-color: "#00b0a6"
+  secondary-color: "#2b3062"
+  media-colors:
+    - title: media-color-one
+      color: "#008089"
+    - title: media-color-two
+      color: "#f0a723"
+    - title: media-color-three
+      color: "#00b0a6"
+    - title: media-color-four
+      color: "#00b0a6"
+    - title: media-color-five
+      color: "#00b0a6"
+resources_name: media-room
+description: An international platform to engage in dialogue and action on how
+  we can foster harmony in societies.
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging.d324p8ryoietf6.amplifyapp.com/
+prod: https://master.d324p8ryoietf6.amplifyapp.com/
+is_government: false
+shareicon: /images/WEBSITE-BANNER_1200x630px_30_Jun.png
+facebook-pixel: ""
+google_analytics: UA-256421843-1
+linkedin-insights: ""
+google_analytics_ga4: G-FK5LYJBVKV

@@ -1,0 +1,19 @@
+collections:
+  visit-singapore:
+    output: true
+    order:
+      - Visit Singapore.md
+      - Cultural Enclaves.md
+      - Places of Worship/.keep
+      - Places of Worship/Bahá'í Centre.md
+      - Places of Worship/Buddha Tooth Relic Temple.md
+      - Places of Worship/Central Sikh Gurdwara.md
+      - Places of Worship/Maghain Aboth Synagogue.md
+      - Places of Worship/Saint Andrew's Cathedral.md
+      - Places of Worship/Singapore Jain Religious Society.md
+      - Places of Worship/Sri Mariamman Temple.md
+      - Places of Worship/Sultan Mosque.md
+      - Places of Worship/Thian Hock Keng Temple.md
+      - Places of Worship/Zoroastrian House.md
+      - Local Dishes.md
+      - Attractions.md
