@@ -18,7 +18,7 @@ young leaders to network and connect with like-minded individuals, where
 they will get the chance to exchange ideas and beliefs related to social
 cohesion.</p>
 <blockquote>
-<p><em>We have many identities. Faith, ethnicity, culture, nationality – all intertwining and defining us as individuals. How can we unite despite our differences? How do we form bonds and bridge divides? </em>
+<p><em>We have many identities. Faith, ethnicity, culture, nationality – all intertwining and defining us as individuals. How can we unite despite our differences? How do we form bonds and bridge divides?</em>
 </p>
 </blockquote>
 <p>Participants will get to engage with these questions on a deeper level
@@ -37,27 +37,27 @@ on issues affecting Singapore’s social cohesion space.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ylc2.png">
 </div>
-<p><strong>From the 16th to 18th August 2024, YLCha<sup>3</sup> participants will get to:</strong>
+<p><strong>From 16th to 18th August 2024, YLCha<sup>3</sup> participants will get to:</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YLCha3_webpage___section_divider.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>Chat and connect with other participants &amp; YLP alumni and share their
-diverse views on topics regarding social cohesion.</p>
+<p><strong>Chat </strong>and connect with other participants &amp; YLP alumni
+and share their diverse views on topics regarding social cohesion.</p>
 </li>
 <li>
-<p>Channel their talents by participating in curated workshops &amp; learning
-journeys around Singapore to acquire new leadership skillsets and broaden
-perspectives on multiculturalism. Participants can continue developing
-newly acquired skills during YLP 2025 through cross-border collaborations
+<p><strong>Channel</strong> their talents by participating in curated workshops
+&amp; learning journeys around Singapore to acquire new leadership skillsets
+and broaden perspectives on multiculturalism. Participants can continue
+developing newly acquired skills during YLP 2025 through cross-border collaborations
 with local and international young leaders.</p>
 </li>
 <li>
-<p>Champion meaningful projects dedicated towards fostering social cohesion.
-Team up with like-minded participants to explore innovative approaches
-to strengthen racial &amp; religious harmony.</p>
+<p><strong>Champion </strong>meaningful projects dedicated towards fostering
+social cohesion. Team up with like-minded participants to explore innovative
+approaches to strengthen racial &amp; religious harmony.</p>
 </li>
 </ul>
 <p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/ylc3"><img style="width: 100%" height="auto" width="100%" alt="Register for YLC3 here: https://go.gov.sg/ylc3" src="/images/YLCha3_webpage___registration_requirements.png"></a>
