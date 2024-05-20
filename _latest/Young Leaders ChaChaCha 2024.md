@@ -24,11 +24,11 @@ cohesion.</p>
 <p>Participants will get to engage with these questions on a deeper level
 at YLCha<sup>3</sup>.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ylc1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/52708134948_45d9134c03_k.jpg">
 </div>
 <p>YLCha<sup>3</sup> serves as a prelude to the Young Leaders Programme (YLP),
 a key segment of ICCS – a preeminent event for interfaith and multicultural
-dialogue that brings together international though leaders across academic,
+dialogue that brings together international thought leaders across academic,
 government, religious groups and the civic sector. [Read more about YLP
 <a href="https://www.iccs.sg/ylp/" rel="noopener noreferrer nofollow" target="_blank">here</a>] YLCha<sup>3</sup> participants will subsequently take part in
 YLP 2025 where they will have the chance to speak and lead with confidence
