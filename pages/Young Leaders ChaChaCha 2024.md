@@ -59,9 +59,9 @@ with local and international young leaders.</p>
 social cohesion. Team up with like-minded participants to explore innovative
 approaches to strengthen racial &amp; religious harmony.</p>
 </li>
-</ul>
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/ylc3"><img style="width: 100%" height="auto" width="100%" alt="Register for YLC3 here: https://go.gov.sg/ylc3" src="/images/YLCha3_webpage___registration_requirements.png"></a>
-<p>(Register for YLC3 here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ylc3</a>)</p>
+</ul><a class="isomer-image-wrapper" href="https://go.gov.sg/ylc3"><img style="width: 100%" height="auto" width="100%" alt="Register for YLC3 here: https://go.gov.sg/ylc3" src="/images/YLCha3_webpage___registration_requirements.png"></a>
+<p><strong>👉Register for YLCha<sup>3</sup> here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ylc3👈</a></strong>
+</p>
 <h1>Programme Overview</h1>
 <p>[Stay tuned for more details!]</p>
 <p></p>
