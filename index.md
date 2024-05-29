@@ -29,6 +29,7 @@ sections:
       url: https://www.iccs.sg/young-leaders-chachacha-2024/
       image: /images/ylc2.png
       alt: Image alt text
+      subtitle: Open for public registration
   - infopic:
       title: "ICCS 2022 Recap: A Conference to Remember"
       description: ICCS 2022 presented a stellar line-up of leaders coming together to
