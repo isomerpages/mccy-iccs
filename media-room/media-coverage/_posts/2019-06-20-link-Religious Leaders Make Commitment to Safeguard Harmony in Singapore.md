@@ -5,4 +5,5 @@ layout: link
 description: ""
 image: ""
 external: https://sg.news.yahoo.com/religious-leaders-make-commitment-to-safeguard-harmony-in-singapore-031321565.html
+variant: tiptap
 ---
