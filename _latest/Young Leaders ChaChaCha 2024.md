@@ -62,4 +62,7 @@ approaches to strengthen racial &amp; religious harmony.</p>
 </ul>
 <h1>Programme Overview</h1>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YLCha3_Programme_and_Speakers_1.png">
+</div>
 <p>[Stay tuned for more details!]</p>
