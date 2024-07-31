@@ -69,10 +69,6 @@ approaches to strengthen racial &amp; religious harmony.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide2.png">
 </div>
-<h4><strong>Special Guests</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide3.png">
-</div>
 <h4><strong>Speakers (Day 1)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide4.png">
