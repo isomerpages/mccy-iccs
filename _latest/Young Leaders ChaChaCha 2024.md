@@ -61,7 +61,20 @@ approaches to strengthen racial &amp; religious harmony.</p>
 </li>
 </ul>
 <h3>Programme Overview</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YLCha3_Programme_and_Speakers_2507.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide1.png">
 </div>
-<p>[Stay tuned for more details!]</p>
+<h4><strong>Synopses of Sessions</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide2.png">
+</div>
+<h4><strong>Speakers (Day 1)</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide4.png">
+</div>
+<h4><strong>Speakers (Day 2)</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide5.png">
+</div>
+<p></p>
