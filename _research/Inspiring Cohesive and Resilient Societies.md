@@ -64,12 +64,20 @@ will have a broad overview of the major trends emerging in plural societies
 today.</p>
 <p><strong>Speaker</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Dr Richard Wike&nbsp;</strong>
 <br>Director, Global Attitudes Research, Pew Research Center</p>
+</li>
+</ul>
 <p><strong>Moderator</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Mr Sujadi Siswo</strong>
 <br>Chief Editor, Malay News Head, Malay Community Engagement, Mediacorp</p>
+</li>
+</ul>
 <h3>Speakers (Day 2)</h3>
 <h4><strong>In Conversation with Guest Speaker</strong></h4>
 <p><strong>"Inclusive Unity - Addressing Challenges to Social Cohesion in Plural Societies"&nbsp;</strong>
@@ -152,9 +160,13 @@ by youths.​</p>
 </ul>
 <p><strong>Moderator</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Prof Paul Hedges</strong>
 <br>Professor of Inter-religious Studies, S. Rajaratnam School of International
 Studies, Nanyang Technological University</p>
+</li>
+</ul>
 <h3>Speakers (Day 3)</h3>
 <h4><strong>Panel Discussion</strong></h4>
 <p><strong>"Building Bridges - Best Practices of Social Cohesion"&nbsp;</strong>
@@ -204,8 +216,12 @@ will be equipped with conflict resolution skills that they can use for
 the future.​</p>
 <p><strong>Facilitators</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Ms Wu Ye-Min, MsTheerada (Jan) Suphaphong, Mr Ian Alexander Rigden</strong>
 </p>
+</li>
+</ul>
 <p>____________________________________________________________________________</p>
 <p></p>
 <p>For more details on the event: please visit this link: <a href="https://www.rsis.edu.sg/event/iccs-inter-sessional-event/" rel="noopener noreferrer nofollow" target="_blank">ICCS Inter-sessional Event - RSIS</a>
