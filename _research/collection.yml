@@ -2,5 +2,6 @@ collections:
   research:
     output: true
     order:
+      - Inspiring Cohesive and Resilient Societies.md
       - Southeast Asian Social Cohesion Radar.md
       - Commentaries.md
