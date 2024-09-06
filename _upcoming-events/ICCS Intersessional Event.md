@@ -224,7 +224,7 @@ the future.​</p>
 </ul>
 <p>____________________________________________________________________________</p>
 <p></p>
-<p>For more details on the event: please visit this link: <a href="https://www.rsis.edu.sg/event/iccs-inter-sessional-event/" rel="noopener noreferrer nofollow" target="_blank">ICCS Inter-sessional Event - RSIS</a>
+<p>For more details on the event, please visit this link: <a href="https://www.rsis.edu.sg/event/iccs-inter-sessional-event/" rel="noopener noreferrer nofollow" target="_blank">ICCS Inter-sessional Event - RSIS</a>
 </p>
 <p>To learn more about the Social Cohesion Research Programme at RSIS, please
 refer to this link: <a href="https://www.rsis.edu.sg/research/social-cohesion-research-programme/about-scrp/#:~:text=The%20Social%20Cohesion" rel="noopener noreferrer nofollow" target="_blank">About SCRP - RSIS</a>
