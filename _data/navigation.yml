@@ -11,6 +11,8 @@ links:
         url: /Contact
       - title: Visit Singapore
         url: /visitsingapore
+  - title: Upcoming events
+    collection: upcoming-events
   - title: Research
     collection: research
   - title: ICCS 2022
