@@ -20,16 +20,6 @@ sections:
           description: A signature component of ICCS
           url: research/socialcohesionradar/
   - infopic:
-      title: Young Leaders Cha-Cha-Cha 2024
-      id: infopic
-      description: YLCha3 is a day camp for emerging local and international young
-        leaders to connect with one another and exchange ideas related to social
-        cohesion.
-      button: Read More
-      url: https://www.iccs.sg/young-leaders-chachacha-2024/
-      image: /images/ylc2.png
-      alt: Image alt text
-  - infopic:
       title: "ICCS 2022 Recap: A Conference to Remember"
       description: ICCS 2022 presented a stellar line-up of leaders coming together to
         discuss new trends and approaches to fostering social cohesion.
