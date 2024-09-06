@@ -50,8 +50,7 @@ to the larger group. The Inter-Sessional Event will conclude with a reflective
 session, inviting delegates to contribute ideas for future editions of
 the ICCS.</p>
 <h3>Speakers (Day 1)</h3>
-<p><strong>In Conversation with Guest Speaker</strong>
-</p>
+<h4><strong>In Conversation with Guest Speaker</strong></h4>
 <p><strong>"Harmony Across Cultures - Unveiling Global Social Cohesion Trends"&nbsp;</strong>
 </p>
 <p>This keynote speech explores emerging global trends impacting plural societies.
@@ -72,8 +71,7 @@ today.</p>
 <p><strong>Mr Sujadi Siswo</strong>
 <br>Chief Editor, Malay News Head, Malay Community Engagement, Mediacorp</p>
 <h3>Speakers (Day 2)</h3>
-<p><strong>In Conversation with Guest Speaker</strong>
-</p>
+<h4><strong>In Conversation with Guest Speaker</strong></h4>
 <p><strong>"Inclusive Unity - Addressing Challenges to Social Cohesion in Plural Societies"&nbsp;</strong>
 </p>
 <p>This address by Prof Mona Siddiqui explores the key challenges of fostering
@@ -86,8 +84,6 @@ to cause fissures and divides in multicultural contexts. The conversation
 after the session considers possible means to alleviate such divisions.
 After this session, it is hoped that delegates will&nbsp;have&nbsp;a nuanced
 comprehension of the ways divides evolve in multicultural societies.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Speaker</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -97,8 +93,6 @@ comprehension of the ways divides evolve in multicultural societies.</p>
 for Religion and Society, University of Edinburgh</p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Moderator</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -108,10 +102,7 @@ for Religion and Society, University of Edinburgh</p>
 School of International Studies, Nanyang Technological University</p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Skills Workshop</strong>
-</p>
+<h4><strong>Skills Workshop</strong></h4>
 <p><strong>"Futures Planning - Understanding Community Dynamics"</strong>
 </p>
 <p>In the first skills workshop, delegates will be introduced to the concept
@@ -123,8 +114,6 @@ social cohesion. These activities will help delegates contextualise the
 discussions from previous lectures and panel sessions. It is hoped that
 delegates will be able to apply the concept of futures planning in the
 work they are engaged in within their respective communities.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Facilitators</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -133,10 +122,7 @@ work they are engaged in within their respective communities.</p>
 </p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Panel Discussion</strong>
-</p>
+<h4><strong>Panel Discussion</strong></h4>
 <p><strong>"Identifying Causes of Social Division and Exclusion"&nbsp;</strong>
 </p>
 <p>This panel delves further into the potential causes for societal division,
@@ -152,7 +138,6 @@ divides might evolve with time.&nbsp;Through this panel, delegates will
 have a comprehensive understanding of the fissures and tensions present
 both at the global and local level, along with specific challenges experienced
 by youths.​</p>
-<p></p>
 <p><strong>Speakers</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -165,16 +150,13 @@ by youths.​</p>
 <br>Chief Coordinator of Youth Wing, Inter-religious Organisation (IRO) Singapore​​</p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Moderator</strong>
 </p>
 <p><strong>Prof Paul Hedges</strong>
 <br>Professor of Inter-religious Studies, S. Rajaratnam School of International
 Studies, Nanyang Technological University</p>
 <h3>Speakers (Day 3)</h3>
-<p><strong>Panel Discussion</strong>
-</p>
+<h4><strong>Panel Discussion</strong></h4>
 <p><strong>"Building Bridges - Best Practices of Social Cohesion"&nbsp;</strong>
 </p>
 <p>This panel examines the best practices for building mutual understanding
@@ -187,8 +169,6 @@ panelists reflect on the means for bridges across divides to be built in
 contemporary plural societies. By the end of this session,&nbsp;it is hoped
 that delegates&nbsp;will&nbsp;be inspired by the best practices that were
 shared. ​​</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Speakers</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -203,8 +183,6 @@ University</p>
 Macquarie University​​</p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Moderator</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -213,10 +191,7 @@ Macquarie University​​</p>
 <br>Foreign Editor, The Straits Times</p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Skills Workshop</strong>
-</p>
+<h4><strong>Skills Workshop</strong></h4>
 <p><strong>"Conflict Negotiation – Mediating Divides"</strong>
 </p>
 <p>In the second skills workshop, delegates will be introduced to conflict
@@ -231,6 +206,7 @@ the future.​</p>
 </p>
 <p><strong>Ms Wu Ye-Min, MsTheerada (Jan) Suphaphong, Mr Ian Alexander Rigden</strong>
 </p>
+<p>____________________________________________________________________________</p>
 <p></p>
 <p>For more details on the event: please visit this link: <a href="https://www.rsis.edu.sg/event/iccs-inter-sessional-event/" rel="noopener noreferrer nofollow" target="_blank">ICCS Inter-sessional Event - RSIS</a>
 </p>
