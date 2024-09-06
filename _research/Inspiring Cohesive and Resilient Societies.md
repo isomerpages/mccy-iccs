@@ -14,9 +14,8 @@ of social cohesion challenges, share best practices, and develop potential
 solutions. Participants can look forward to a series of lectures, panel
 discussions, skills workshops, breakout sessions, and opportunities for
 networking and community engagement.</p>
-<p>Programme Synopsis</p>
-<p><strong>Day 1</strong>
-</p>
+<h3>Programme Synopsis</h3>
+<h4><strong>Day 1</strong></h4>
 <p>Day 1 is designed to welcome delegates as well as foster networking and
 socialising to create a casual, collaborative atmosphere. Dr Richard Wike
 will provide a keynote on emerging global trends impacting plural societies.
@@ -24,9 +23,7 @@ As part of community engagement, delegates will enjoy a showcase presentation
 by a big technology firm where they will learn about the firm's role in
 moderating divisive content online. The day will conclude with dinner at
 Lau Pa Sat, offering an immersive experience of Singaporean food culture.</p>
-<p>&nbsp;</p>
-<p><strong>Day 2</strong>
-</p>
+<h4><strong>Day 2</strong></h4>
 <p>Day 2 aims to help delegates understand the social cohesion landscape
 from various perspectives by exploring the different causes of societal
 division. Prof Mona Siddiqui will share insights from her research in interreligious
@@ -40,9 +37,7 @@ dynamics. In the evening, delegates will be brought to a heritage district
 which showcases Singapore’s cultural spaces. The Religious Rehabilitation
 Group will host delegates to a dinner where they will talk about their
 work and role in fostering social cohesion in Singapore.​</p>
-<p>&nbsp;</p>
-<p><strong>Day 3</strong>
-</p>
+<h4><strong>Day 3</strong></h4>
 <p>While Day 2 focused on the concept of 'divide,' Day 3 will emphasize 'unity.'
 This day is dedicated to generating actionable solutions for social cohesion
 issues. Dr Leong Chan-Hoong will moderate a panel discussion featuring
@@ -54,7 +49,7 @@ social cohesion challenges. Following this, they will present their work
 to the larger group. The Inter-Sessional Event will conclude with a reflective
 session, inviting delegates to contribute ideas for future editions of
 the ICCS.</p>
-<p>Speakers (Day 1)</p>
+<h3>Speakers (Day 1)</h3>
 <p><strong>In Conversation with Guest Speaker</strong>
 </p>
 <p><strong>"Harmony Across Cultures - Unveiling Global Social Cohesion Trends"&nbsp;</strong>
@@ -68,23 +63,15 @@ of these trends. The session concludes with an interactive conversation
 to delve deeper into these themes. By the end of this session, delegates
 will have a broad overview of the major trends emerging in plural societies
 today.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Speaker</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>Dr Richard Wike&nbsp;</strong>
 <br>Director, Global Attitudes Research, Pew Research Center</p>
-</li>
-</ul>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Moderator</strong>
 </p>
 <p><strong>Mr Sujadi Siswo</strong>
 <br>Chief Editor, Malay News Head, Malay Community Engagement, Mediacorp</p>
-<p>Speakers (Day 2)</p>
+<h3>Speakers (Day 2)</h3>
 <p><strong>In Conversation with Guest Speaker</strong>
 </p>
 <p><strong>"Inclusive Unity - Addressing Challenges to Social Cohesion in Plural Societies"&nbsp;</strong>
@@ -185,7 +172,7 @@ by youths.​</p>
 <p><strong>Prof Paul Hedges</strong>
 <br>Professor of Inter-religious Studies, S. Rajaratnam School of International
 Studies, Nanyang Technological University</p>
-<p>Speakers (Day 3)</p>
+<h3>Speakers (Day 3)</h3>
 <p><strong>Panel Discussion</strong>
 </p>
 <p><strong>"Building Bridges - Best Practices of Social Cohesion"&nbsp;</strong>
