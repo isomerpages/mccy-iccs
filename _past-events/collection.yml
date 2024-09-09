@@ -2,6 +2,7 @@ collections:
   past-events:
     output: true
     order:
+      - Young Leaders ChaChaCha 2024.md
       - ICCS 2019/.keep
       - ICCS 2019/Overview.md
       - ICCS 2019/Speakers.md

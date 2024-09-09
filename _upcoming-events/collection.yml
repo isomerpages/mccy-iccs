@@ -1,0 +1,5 @@
+collections:
+  upcoming-events:
+    output: true
+    order:
+      - ICCS Intersessional Event.md
