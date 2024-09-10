@@ -155,7 +155,7 @@ by youths.​</p>
 </li>
 <li>
 <p><strong>Mr Shukul Raaj Kumar</strong>
-<br>Chief Coordinator of Youth Wing, Inter-religious Organisation (IRO) Singapore​​</p>
+<br>Chief Coordinator of the Inter-Religious Organisation (IRO) Youth Wing</p>
 </li>
 </ul>
 <p><strong>Moderator</strong>
