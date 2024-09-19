@@ -138,8 +138,8 @@ such as race and religion, migration, rising polarisation etcetera. As
 a former diplomat who has represented Singapore at various non-governmental
 organisations and a specialist in negotiation and conflict resolution,
 Ms Wu Ye-Min will speak about the sources of divisions societies and regions
-are faced with. With the experience he has gathered as the coordinator
-of the Inter-religious Organisation (IRO) youth wing, Mr Shukul Raaj Kumar
+are faced with. With the experience he has gathered as the Chief Coordinator
+of the Inter-religious Organisation (IRO) Youth Wing, Mr Shukul Raaj Kumar
 then explores the fissures affecting youth communities along with the challenges
 experienced by them today. The panel concludes by discussing how these
 divides might evolve with time.&nbsp;Through this panel, delegates will
