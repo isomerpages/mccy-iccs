@@ -2,6 +2,8 @@ collections:
   past-events:
     output: true
     order:
+      - ICCS Intersessional Event 2024.md
+      - Young Leaders ChaChaCha 2024.md
       - ICCS 2022/.keep
       - ICCS 2022/ICCS 2022.md
       - ICCS 2022/Opening Address by President Halimah Yacob.md
@@ -30,8 +32,8 @@ collections:
         Connectedness.md"
       - "ICCS 2022/Breakout Session – Cohesion 3: Youth Work Initiatives.md"
       - ICCS YLP 2022.md
-      - ICCS Intersessional Event 2024.md
-      - Young Leaders ChaChaCha 2024.md
+      - Social Cohesion Conversations 2022.md
+      - Mission:Unite 2020.md
       - ICCS 2019/.keep
       - ICCS 2019/Overview.md
       - ICCS 2019/Speakers.md
@@ -43,5 +45,3 @@ collections:
       - ICCS 2019/Closing Remarks by Deputy Prime Minister Heng Swee Keat.md
       - ICCS 2019/Gallery.md
       - ICCS 2019/ICCS Book.md
-      - Mission:Unite 2020.md
-      - Social Cohesion Conversations 2022.md
