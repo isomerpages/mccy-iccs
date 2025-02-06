@@ -10,15 +10,15 @@ sections:
   - hero:
       background: /images/WEBSITE-BANNER_6_JAN_1200x630px_OK.png
       key_highlights:
-        - title: Latest News
-          description: What's happening for ICCS
-          url: /latest/featureustazahliyanapowr/
-        - title: ICCS 2022 at a glance
-          description: Speeches, plenary & breakout sessions
-          url: /iccs2022
-        - title: Research
+        - title: About ICCS
+          description: What it's all about
+          url: /iccs
+        - title: ICCS 2025
+          description: Overview and latest updates
+          url: /iccs2025
+        - title: Young leaders programme
           description: A signature component of ICCS
-          url: research/socialcohesionradar/
+          url: ylp
   - infopic:
       title: "ICCS 2022 Recap: A Conference to Remember"
       description: ICCS 2022 presented a stellar line-up of leaders coming together to
