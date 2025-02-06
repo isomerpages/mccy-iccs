@@ -2,6 +2,8 @@ collections:
   past-events:
     output: true
     order:
+      - "ICCS 2022/Plenary 3: How Technology Can Be Leveraged to Foster Mutual
+        Trust.md"
       - "ICCS 2022/Plenary 2: How Diversity Can Be Harnessed for the Common
         Good.md"
       - "ICCS 2022/Plenary 1: How Faith Can Bridge Divides.md"
