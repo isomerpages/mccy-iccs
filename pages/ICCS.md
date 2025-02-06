@@ -14,11 +14,10 @@ on interfaith and multicultural dialogue, proving that unity can flourish
 even in a divided world.</p>
 <p>Now in its third edition, ICCS 2025 adopts the theme <strong>“Cohesive Societies, Resilient Futures,”</strong> sparking
 fresh conversations on multiculturalism and the ingredients of harmony
-in diversity amid an increasingly divided world.</p>
-<p>ICCS 2025 brings together global thought leaders, policymakers, community
-practitioners and young leaders to exchange ideas, share best practices,
-and develop innovative solutions to inspire cohesive and resilient multicultural
-societies worldwide.</p>
+in diversity amid an increasingly divided world. ICCS 2025 brings together
+global thought leaders, policymakers, community practitioners and young
+leaders to exchange ideas, share best practices, and develop innovative
+solutions to inspire cohesive and resilient multicultural societies worldwide.</p>
 <p>Join us at ICCS 2025 as we pave the way for a more cohesive, resilient
 future—both in Singapore and around the globe. Follow ICCS socials for
 updates: <a href="https://www.facebook.com/ICCSSG/" rel="noopener noreferrer nofollow" target="_blank">Facebook |</a>
