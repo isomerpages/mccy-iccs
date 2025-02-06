@@ -24,6 +24,8 @@ updates: <a href="https://www.facebook.com/ICCSSG/" rel="noopener noreferrer nof
 <a href="https://www.instagram.com/iccssg/" rel="noopener noreferrer nofollow" target="_blank">Instagram |</a><a href="https://www.linkedin.com/showcase/iccssg/" rel="noopener noreferrer nofollow" target="_blank">LinkedIn | </a>
 <a href="https://www.youtube.com/internationalconferenceoncohesivesocieties" rel="noopener noreferrer nofollow" target="_blank">Youtube |</a><a href="https://twitter.com/iccssg/" rel="noopener noreferrer nofollow" target="_blank">X</a>
 </p>
+<p>For any enquiries, do reach out to us at: <a href="mailto:iccs-mail@ntu.edu.sg" rel="noopener noreferrer nofollow" target="_blank">iccs-mail@ntu.edu.sg</a>
+</p>
 <h3>Background</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="President on stage" src="/images/icciccsstage.jpg">
