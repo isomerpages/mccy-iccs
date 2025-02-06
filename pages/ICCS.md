@@ -20,8 +20,8 @@ leaders to exchange ideas, share best practices, and develop innovative
 solutions to inspire cohesive and resilient multicultural societies worldwide.</p>
 <p>Join us at ICCS 2025 as we pave the way for a more cohesive, resilient
 future—both in Singapore and around the globe. Follow ICCS socials for
-updates: <a href="https://www.facebook.com/ICCSSG/" rel="noopener noreferrer nofollow" target="_blank">Facebook |</a>
-<a href="https://www.instagram.com/iccssg/" rel="noopener noreferrer nofollow" target="_blank">Instagram |</a><a href="https://www.linkedin.com/showcase/iccssg/" rel="noopener noreferrer nofollow" target="_blank">LinkedIn |</a>
+updates: <a href="https://www.facebook.com/ICCSSG/" rel="noopener noreferrer nofollow" target="_blank">Facebook | </a>
+<a href="https://www.instagram.com/iccssg/" rel="noopener noreferrer nofollow" target="_blank">Instagram |</a><a href="https://www.linkedin.com/showcase/iccssg/" rel="noopener noreferrer nofollow" target="_blank">LinkedIn | </a>
 <a href="https://www.youtube.com/internationalconferenceoncohesivesocieties" rel="noopener noreferrer nofollow" target="_blank">Youtube |</a><a href="https://twitter.com/iccssg/" rel="noopener noreferrer nofollow" target="_blank">X</a>
 </p>
 <h3>Background</h3>
