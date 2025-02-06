@@ -1,8 +1,9 @@
 ---
 layout: homepage
 title: The International Conference on Cohesive Societies
-description: An international platform to engage in dialogue and action on how
-  we can foster harmony in societies.
+description: A leading international platform for interfaith and multicultural
+  dialogue and solutioning to inspire cohesive and resilient multicultural
+  societies worldwide.
 image: /images/WEBSITE-BANNER_1200x630px_30_Jun.png
 permalink: /
 notification: ""
