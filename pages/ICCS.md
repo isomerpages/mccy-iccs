@@ -4,14 +4,26 @@ permalink: /iccs/
 description: About ICCS
 variant: tiptap
 ---
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/snrH4UicNio"></iframe>
-</div>
-<p># About ICCS 2022 We have many identities. Faith, ethnicity, culture,
-nationality – all intertwining and defining us as individuals. How can
-we unite despite our differences? How do we form bonds and bridge divides?</p>
-<p></p>
-<h1>Background</h1>
+<h2>About ICCS 2025</h2>
+<p>We have many identities. Faith, ethnicity, culture, nationality – all
+intertwining and defining us as individuals. How can we unite despite our
+differences? How do we form bonds and bridge divides?</p>
+<p>The International Conference on Cohesive Societies (ICCS) is the leading
+global event for interfaith and multicultural dialogue that brings together
+thought leaders, policymakers, and community practitioners to inspire cohesive
+and resilient multicultural societies worldwide.</p>
+<p>Mooted by Former President Halimah Yacob and inaugurated in 2019, ICCS
+highlights how a small, diverse nation can forge unity across its many
+communities. Now in its third edition, ICCS 2025 is themed “Cohesive Societies,
+Resilient Futures”, sparking conversations on multiculturalism and the
+ingredients of harmony in diversity in an increasingly divided world.</p>
+<p>Join us at ICCS 2025 as we pave the way for a more cohesive, resilient
+future—both in Singapore and beyond. Follow ICCS socials for updates:
+<a href="https://www.facebook.com/ICCSSG/" rel="noopener noreferrer nofollow" target="_blank">Facebook |</a><a href="https://www.instagram.com/iccssg/" rel="noopener noreferrer nofollow" target="_blank">Instagram | </a>
+<a href="https://www.linkedin.com/showcase/iccssg/" rel="noopener noreferrer nofollow" target="_blank">LinkedIn |</a><a href="https://www.youtube.com/internationalconferenceoncohesivesocieties" rel="noopener noreferrer nofollow" target="_blank">Youtube | </a>
+<a href="https://twitter.com/iccssg/" rel="noopener noreferrer nofollow" target="_blank">X</a>
+</p>
+<h3>Background</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="President on stage" src="/images/icciccsstage.jpg">
 </div>
@@ -28,7 +40,7 @@ and supported by the Ministry of Culture, Community and Youth (MCCY).</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UNgvcEaJT4k"></iframe>
 </div>
-<h1>ICCS Secretariat</h1>
+<h3>ICCS Secretariat</h3>
 <p><strong>The S. Rajaratnam School of International Studies (RSIS)</strong> is
 a global think tank and professional graduate school of international affairs
 at the Nanyang Technological University, Singapore. An autonomous school,
