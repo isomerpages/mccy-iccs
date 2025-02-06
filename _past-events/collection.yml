@@ -3,20 +3,20 @@ collections:
     output: true
     order:
       - ICCS YLP 2022.md
-      - "ICCS 2022/Breakout Session – Faith 1: Religion, Resilience & Cohesion
-        (International Perspective).md"
-      - "ICCS 2022/Plenary 3: How Technology Can Be Leveraged to Foster Mutual
-        Trust.md"
+      - ICCS 2022/.keep
+      - ICCS 2022/ICCS 2022.md
+      - ICCS 2022/Opening Address by President Halimah Yacob.md
+      - ICCS 2022/Special Address by Cardinal Pietro Parolin.md
+      - ICCS 2022/Speech by Deputy Prime Minister Lawrence Wong.md
+      - ICCS 2022/Closing Address by Minister Edwin Tong.md
+      - "ICCS 2022/Special Presentation: Perspectives on Social Cohesion.md"
+      - "ICCS 2022/Plenary 1: How Faith Can Bridge Divides.md"
       - "ICCS 2022/Plenary 2: How Diversity Can Be Harnessed for the Common
         Good.md"
-      - "ICCS 2022/Plenary 1: How Faith Can Bridge Divides.md"
-      - "ICCS 2022/Special Presentation: Perspectives on Social Cohesion.md"
-      - ICCS 2022/Closing Address by Minister Edwin Tong.md
-      - ICCS 2022/Speech by Deputy Prime Minister Lawrence Wong.md
-      - ICCS 2022/Special Address by Cardinal Pietro Parolin.md
-      - ICCS 2022/Opening Address by President Halimah Yacob.md
-      - ICCS 2022/ICCS 2022.md
-      - ICCS 2022/.keep
+      - "ICCS 2022/Plenary 3: How Technology Can Be Leveraged to Foster Mutual
+        Trust.md"
+      - "ICCS 2022/Breakout Session – Faith 1: Religion, Resilience & Cohesion
+        (International Perspective).md"
       - ICCS Intersessional Event.md
       - Young Leaders ChaChaCha 2024.md
       - ICCS 2019/.keep
