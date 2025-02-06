@@ -19,7 +19,7 @@ sections:
           url: /iccs
         - title: Young leaders programme
           description: ""
-          url: ylp
+          url: ylp2022
   - infopic:
       title: "ICCS 2022 Recap: A Conference to Remember"
       description: ICCS 2022 presented a stellar line-up of leaders coming together to
@@ -34,7 +34,7 @@ sections:
         network and collaborate on initiatives around social cohesion and
         community building.
       button: Read more
-      url: /ylp
+      url: /ylp2022
       alt: YLP
       image: /images/XP3A8000.jpg
   - infopic:
