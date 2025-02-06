@@ -11,12 +11,10 @@ links:
         url: /Contact
       - title: Visit Singapore
         url: /visitsingapore
-  - title: Upcoming events
-    collection: upcoming-events
   - title: Research
     collection: research
   - title: ICCS 2022
-    url: /programmeoverview/
+    url: /iccs2022/
     sublinks:
       - title: Programme Overview
         url: /programmeoverview/
@@ -25,7 +23,7 @@ links:
       - title: Sessions & Speakers
         url: /programme-and-speakers/specialpresentation/
       - title: Young Leaders Programme
-        url: /ylp
+        url: /ylp2022
       - title: Community Experience
         url: /community-experience/communityexplorations/
       - title: Partners
