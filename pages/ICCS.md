@@ -5,23 +5,25 @@ description: About ICCS
 variant: tiptap
 ---
 <h2>About ICCS 2025</h2>
-<p>We have many identities. Faith, ethnicity, culture, nationality – all
-intertwining and defining us as individuals. How can we unite despite our
-differences? How do we form bonds and bridge divides?</p>
-<p>The International Conference on Cohesive Societies (ICCS) is the leading
-global event for interfaith and multicultural dialogue that brings together
-thought leaders, policymakers, and community practitioners to inspire cohesive
-and resilient multicultural societies worldwide.</p>
-<p>Mooted by Former President Halimah Yacob and inaugurated in 2019, ICCS
-highlights how a small, diverse nation can forge unity across its many
-communities. Now in its third edition, ICCS 2025 is themed “Cohesive Societies,
-Resilient Futures”, sparking conversations on multiculturalism and the
-ingredients of harmony in diversity in an increasingly divided world.</p>
+<p>In an era marked by growing interconnectedness yet increasing division,
+what unites us? How can diverse communities build bonds that endure the
+challenges of our time?</p>
+<p>Mooted by Former President Halimah Yacob and inaugurated in 2019, the
+International Conference on Cohesive Societies (ICCS) has led the conversation
+on interfaith and multicultural dialogue, proving that unity can flourish
+even in a divided world.</p>
+<p>Now in its third edition, ICCS 2025 adopts the theme <strong>“Cohesive Societies, Resilient Futures,”</strong> sparking
+fresh conversations on multiculturalism and the ingredients of harmony
+in diversity amid an increasingly divided world.</p>
+<p>ICCS 2025 brings together global thought leaders, policymakers, community
+practitioners and young leaders to exchange ideas, share best practices,
+and develop innovative solutions to inspire cohesive and resilient multicultural
+societies worldwide.</p>
 <p>Join us at ICCS 2025 as we pave the way for a more cohesive, resilient
-future—both in Singapore and beyond. Follow ICCS socials for updates:
-<a href="https://www.facebook.com/ICCSSG/" rel="noopener noreferrer nofollow" target="_blank">Facebook |</a><a href="https://www.instagram.com/iccssg/" rel="noopener noreferrer nofollow" target="_blank">Instagram | </a>
-<a href="https://www.linkedin.com/showcase/iccssg/" rel="noopener noreferrer nofollow" target="_blank">LinkedIn |</a><a href="https://www.youtube.com/internationalconferenceoncohesivesocieties" rel="noopener noreferrer nofollow" target="_blank">Youtube | </a>
-<a href="https://twitter.com/iccssg/" rel="noopener noreferrer nofollow" target="_blank">X</a>
+future—both in Singapore and around the globe. Follow ICCS socials for
+updates: <a href="https://www.facebook.com/ICCSSG/" rel="noopener noreferrer nofollow" target="_blank">Facebook |</a>
+<a href="https://www.instagram.com/iccssg/" rel="noopener noreferrer nofollow" target="_blank">Instagram |</a><a href="https://www.linkedin.com/showcase/iccssg/" rel="noopener noreferrer nofollow" target="_blank">LinkedIn |</a>
+<a href="https://www.youtube.com/internationalconferenceoncohesivesocieties" rel="noopener noreferrer nofollow" target="_blank">Youtube |</a><a href="https://twitter.com/iccssg/" rel="noopener noreferrer nofollow" target="_blank">X</a>
 </p>
 <h3>Background</h3>
 <div class="isomer-image-wrapper">
