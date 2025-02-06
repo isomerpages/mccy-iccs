@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: The International Conference on Cohesive Societies
+title: The International Conference on Cohesive Societies (ICCS)
 description: A leading international platform for interfaith and multicultural
   dialogue and solutioning to inspire cohesive and resilient multicultural
   societies worldwide.
