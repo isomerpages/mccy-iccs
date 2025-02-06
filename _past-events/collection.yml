@@ -2,6 +2,7 @@ collections:
   past-events:
     output: true
     order:
+      - ICCS YLP 2022.md
       - "ICCS 2022/Breakout Session – Faith 1: Religion, Resilience & Cohesion
         (International Perspective).md"
       - "ICCS 2022/Plenary 3: How Technology Can Be Leveraged to Foster Mutual
