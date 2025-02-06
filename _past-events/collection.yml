@@ -2,7 +2,6 @@ collections:
   past-events:
     output: true
     order:
-      - ICCS YLP 2022.md
       - ICCS 2022/.keep
       - ICCS 2022/ICCS 2022.md
       - ICCS 2022/Opening Address by President Halimah Yacob.md
@@ -30,6 +29,7 @@ collections:
       - "ICCS 2022/Breakout Session – Cohesion 2: Connectivity &
         Connectedness.md"
       - "ICCS 2022/Breakout Session – Cohesion 3: Youth Work Initiatives.md"
+      - ICCS YLP 2022.md
       - ICCS Intersessional Event.md
       - Young Leaders ChaChaCha 2024.md
       - ICCS 2019/.keep
