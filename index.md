@@ -9,16 +9,16 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/WEBSITE-BANNER_6_JAN_1200x630px_OK.png
+      background: /images/Cohesive_Societies__Resilient_Futures.png
       key_highlights:
-        - title: About ICCS
-          description: What it's all about
+        - title: ICCS 2022 Recap
+          description: ""
+          url: /latest/a-conference-to-remember/
+        - title: About ICCS 2025
+          description: ""
           url: /iccs
-        - title: ICCS 2025
-          description: Overview and latest updates
-          url: /iccs2025
         - title: Young leaders programme
-          description: A signature component of ICCS
+          description: ""
           url: ylp
   - infopic:
       title: "ICCS 2022 Recap: A Conference to Remember"
