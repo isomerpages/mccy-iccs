@@ -2,6 +2,7 @@ collections:
   past-events:
     output: true
     order:
+      - "ICCS 2022/Special Presentation: Perspectives on Social Cohesion.md"
       - ICCS 2022/Closing Address by Minister Edwin Tong.md
       - ICCS 2022/Speech by Deputy Prime Minister Lawrence Wong.md
       - ICCS 2022/Special Address by Cardinal Pietro Parolin.md
