@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Speeches/.keep
-      - Speeches/Closing Address by Minister Edwin Tong.md
       - Sessions & Speakers/.keep
       - "Sessions & Speakers/Special Presentation: Perspectives on Social
         Cohesion.md"
