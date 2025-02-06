@@ -2,6 +2,7 @@ collections:
   past-events:
     output: true
     order:
+      - ICCS 2022/Young Leaders Programme 2022.md
       - ICCS 2022/ICCS 2022.md
       - ICCS 2022/.keep
       - ICCS Intersessional Event.md
