@@ -15,7 +15,7 @@ sections:
           url: /latest/featureustazahliyanapowr/
         - title: ICCS 2022 at a glance
           description: Speeches, plenary & breakout sessions
-          url: /programme-and-speakers/specialpresentation/
+          url: /iccs2022
         - title: Research
           description: A signature component of ICCS
           url: research/socialcohesionradar/
