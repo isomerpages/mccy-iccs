@@ -1,5 +1,5 @@
 collections:
-  programme-and-speakers:
+  iccs-2022:
     output: true
     order:
       - Programme Overview.md
