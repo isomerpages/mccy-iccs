@@ -13,21 +13,6 @@ links:
         url: /visitsingapore
   - title: Research
     collection: research
-  - title: ICCS 2022
-    url: /iccs2022/
-    sublinks:
-      - title: Programme Overview
-        url: /iccs2022/
-      - title: Speeches
-        url: /iccs2022/speeches/openingaddress/
-      - title: Sessions & Speakers
-        url: /iccs2022/specialpresentation/
-      - title: Young Leaders Programme
-        url: /ylp2022
-      - title: Community Experience
-        url: /community-experience/communityexplorations/
-      - title: Partners
-        url: /partners/faithinleadership/
   - title: Past Events
     collection: past-events
   - title: Media
