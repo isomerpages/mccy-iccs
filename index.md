@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Cohesive_Societies__Resilient_Futures.png
+      background: /images/Cohesive_Societies__Resilient_Futures_edited.png
       key_highlights:
         - title: ICCS 2022 Recap
           description: ""
