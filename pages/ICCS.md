@@ -43,6 +43,8 @@ held in Singapore for the first time in 2019, showcasing the tropical island-sta
 unique approach to managing communal ties within a diverse population.
 It is organised by the S. Rajaratnam School of International Studies (RSIS)
 and supported by the Ministry of Culture, Community and Youth (MCCY).</p>
+<p>Click here for a recap of <a href="https://www.iccs.sg/pastevents/iccs2019/overview/" rel="noopener nofollow" target="_blank">ICCS 2019</a> and
+<a href="https://www.iccs.sg/iccs2022" rel="noopener nofollow" target="_blank">ICCS 2022</a>.</p>
 <h3>ICCS Secretariat</h3>
 <p><strong>The S. Rajaratnam School of International Studies (RSIS)</strong> is
 a global think tank and professional graduate school of international affairs
