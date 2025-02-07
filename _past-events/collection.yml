@@ -2,7 +2,7 @@ collections:
   past-events:
     output: true
     order:
-      - Community Dialogue.md
+      - ICCS Community Dialogue 2022.md
       - ICCS Community Explorations 2022.md
       - ICCS Intersessional Event 2024.md
       - Young Leaders ChaChaCha 2024.md
