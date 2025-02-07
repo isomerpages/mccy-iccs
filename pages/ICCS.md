@@ -35,12 +35,8 @@ future—both in Singapore and around the globe.</p>
 </p>
 <h3>Background</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="President on stage" src="/images/icciccsstage.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Venerable Seck Kwang Phing presenting a commemorative version of the Commitment to Safeguard Religious Harmony to Former President Halimah Yacob on behalf of Singapore's National Steering Committee at ICCS 2019 on 19 June 2019. (Photo: MCCY)" src="/images/icciccsstage.jpg">
 </div>
-<p>Venerable Seck Kwang Phing presenting a commemorative version of the Commitment
-to Safeguard Religious Harmony to Former President Halimah Yacob on behalf
-of Singapore's National Steering Committee at ICCS 2019 on 19 June 2019.
-(Photo: MCCY)</p>
 <p>The ICCS is the preeminent event for interfaith and multicultural dialogue.
 Mooted by Former President of Singapore Halimah Yacob, the Conference was
 held in Singapore for the first time in 2019, showcasing the tropical island-state’s
