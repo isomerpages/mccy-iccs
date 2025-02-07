@@ -1,5 +1,4 @@
 collections:
   community-experience:
     output: true
-    order:
-      - Community Dialogue.md
+    order: []
