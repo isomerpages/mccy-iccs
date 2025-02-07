@@ -2,9 +2,6 @@ collections:
   past-events:
     output: true
     order:
-      - ICCS Community Experience 2022/ICCS Community Dialogue 2022.md
-      - ICCS Community Experience 2022/ICCS Community Explorations 2022.md
-      - ICCS Community Experience 2022/.keep
       - ICCS Intersessional Event 2024.md
       - Young Leaders ChaChaCha 2024.md
       - ICCS 2022/.keep
@@ -35,6 +32,9 @@ collections:
         Connectedness.md"
       - "ICCS 2022/Breakout Session – Cohesion 3: Youth Work Initiatives.md"
       - ICCS YLP 2022.md
+      - ICCS Community Experience 2022/.keep
+      - ICCS Community Experience 2022/ICCS Community Dialogue 2022.md
+      - ICCS Community Experience 2022/ICCS Community Explorations 2022.md
       - Social Cohesion Conversations 2022.md
       - Mission:Unite 2020.md
       - ICCS 2019/.keep
