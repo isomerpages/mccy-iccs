@@ -55,7 +55,7 @@ plugins:
 staging: https://staging.d324p8ryoietf6.amplifyapp.com/
 prod: https://master.d324p8ryoietf6.amplifyapp.com/
 is_government: false
-shareicon: /images/WEBSITE-BANNER_1200x630px_30_Jun.png
+shareicon: /images/Cohesive_Societies__Resilient_Futures.png
 facebook-pixel: ""
 google_analytics: UA-256421843-1
 linkedin-insights: ""
