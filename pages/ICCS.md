@@ -6,19 +6,19 @@ variant: tiptap
 ---
 <h2>About ICCS 2025</h2>
 <p>In an era marked by growing interconnectedness yet increasing division,
-what unites us and gives us hope and confidence for the future? How can
-diverse communities build bonds that endure the challenges of our time?</p>
+what unites and gives us confidence for the future? How can diverse communities
+build bonds that endure the challenges of our time?</p>
 <p>Mooted by former President of Singapore Halimah Yacob and inaugurated
 in 2019, the International Conference on Cohesive Societies (ICCS) has
-led the conversation on interfaith and multicultural dialogue, demonstrating
+led conversations on interfaith and multicultural dialogue, demonstrating
 that unity can flourish even in a divided world. More than 2200 participants
 from over 40 countries have attended ICCS and its programmes since its
 inception.</p>
 <p>Now in its third edition, ICCS 2025 adopts the theme <strong>“Cohesive Societies, Resilient Futures,”</strong> sparking
 fresh conversations on multiculturalism and the foundations of harmony
 in diversity. This edition will delve into three thematic pillars—<strong>Unpacking Multiculturalism, Navigating Uncertainty,</strong> and <strong>Forging Societal Resilience</strong>—through
-inspiring plenaries, breakout sessions, and skills workshops that equip
-delegates with actionable insights.</p>
+plenaries, breakout sessions, and skills workshops that equip delegates
+with actionable insights.</p>
 <p>Held in Singapore, one of the world’s most religiously diverse countries,
 ICCS brings together global thought leaders, policymakers, community practitioners
 and young leaders to exchange ideas, share best practices, and develop
