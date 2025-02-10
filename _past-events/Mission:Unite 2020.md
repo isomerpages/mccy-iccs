@@ -1,7 +1,8 @@
 ---
-title: Mission:Unite
+title: Mission:Unite 2020
 permalink: /past-events/missionunite/
 description: Mission:Unite
+variant: tiptap
 ---
 The inaugural **Mission:Unite** hackathon was held in 2020 to challenge youths to ideate solutions that promote racial and religious harmony. Mission:Unite was a follow-up to the International Conference on Cohesive Societies (ICCS) and Young Leaders Programme (YLP) held in June 2019, to build on conversations around social cohesion and turn ideas into reality.
 

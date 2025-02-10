@@ -2,6 +2,7 @@
 title: "ICCS 2022 Recap: Main Conference"
 permalink: /latest/a-conference-to-remember/
 description: "ICCS 2022 Recap: Main Conference"
+variant: markdown
 ---
 ## A Conference to Remember
 
@@ -30,7 +31,7 @@ The three-day Conference also highlighted three plenary discussions, focused on 
 ![](/images/ICCS__2022-09-07__09-15-15.jpg)
 <font color="grey"><font size="-1">Mr André Azoulay sharing his views on the plenary theme “How Diversity Can Be Harnessed for the Common Good on 7 September 2022.</font></font>  
 
-* [Click here for all ICCS 2022 speeches, and plenary and breakout session summaries.](/programme-and-speakers/speeches/openingaddress/)
+* [Click here for all ICCS 2022 speeches, and plenary and breakout session summaries.](/iccs2022/)
 
 On the final day, the audience tuned into the Singapore experience in managing interfaith matters with two sessions featuring Deputy Prime Minister Mr Lawrence Wong and Minister for Culture, Community and Youth Mr Edwin Tong.
 

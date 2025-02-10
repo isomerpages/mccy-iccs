@@ -1,15 +1,13 @@
 ---
 title: Special Address by Cardinal Pietro Parolin
-permalink: /programme-and-speakers/speeches/specialaddress/
+permalink: /iccs2022/speeches/specialaddress/
 description: Special Address by Cardinal Pietro Parolin
-third_nav_title: Speeches
+third_nav_title: ICCS 2022
+variant: tiptap
 ---
-
-
-
 <div class="bp-youtube">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u56z_H_UG2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u56z_H_UG2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 </div>
 

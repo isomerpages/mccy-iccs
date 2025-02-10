@@ -1,12 +1,13 @@
 ---
 title: "Plenary 2: How Diversity Can Be Harnessed for the Common Good"
-permalink: /programme-and-speakers/sessions/plenary2/
+permalink: /iccs2022/sessions/plenary2/
 description: Plenary 2
-third_nav_title: Sessions & Speakers
+third_nav_title: ICCS 2022
+variant: tiptap
 ---
 <div class="bp-youtube">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5s3fxOvlZbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5s3fxOvlZbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 </div>
 
@@ -17,8 +18,7 @@ Only by understanding complex interconnections and interdependencies between ind
 # Visual Summary
 ![](/images/Plenary%202-%20How%20diversity%20can%20be%20harnessed%20for%20the%20common%20good_HiRes.jpg)
 # Speakers
-<img src="/images/André%20Azoulay.jpg"
-     style="width:50%" />
+<img src="/images/André%20Azoulay.jpg" style="width:50%">
 
 **Mr André Azoulay  
 Adviser to H.M. King Mohammed VI of Morocco  
@@ -28,8 +28,7 @@ President of the Moroccan National Foundation for Sciences Engineering**
 
 Mr André Azoulay is an ardent ambassador of Morocco throughout the world. He is a strong advocate for peace and dialogue between the Arab Muslim World and Jewish Communities in Europe, USA, Morocco as well as the global Arab and Jewish diasporas. He is also well-known for contributions to the peace process in the Middle East and for the many interfaith cross-cultural initiatives he spearheaded.
 
-<img src="/images/Yoshiko%20Ashiwa.jpg"
-     style="width:50%" />
+<img src="/images/Yoshiko%20Ashiwa.jpg" style="width:50%">
 
 **Professor Yoshiko Ashiwa  
 Professor of Anthropology and Global Studies  
@@ -38,16 +37,14 @@ Hitotsubashi University**
 
 Professor Yoshiko Ashiwa’s research interests include religion, arts, culture and values, modernity, globalisation, and social movements mainly in Asia, especially Sri Lanka, China and Japan. She is co-editor of Making Religion, Making the State: The Politics of Religion in Modern China (2009, with David Wank).
 
-<img src="/images/Iyad%20Abumoghli.jpg"
-     style="width:50%" />
+<img src="/images/Iyad%20Abumoghli.jpg" style="width:50%">
 		 
 **Dr Iyad Abumoghli  
-Founder and Director of the United Nations Environment Programme’s (UNEP) Faith for Earth Initiative**
+Founder and Director of the United Nations Environment Programme’s (UNEP)&nbsp;Faith for Earth Initiative**
 
 With more than 35 years of experience with international organisations, the private sector and scientific institutions, Dr Abumoghli’s expertise focus on strategic planning, sustainable development, natural resources management, interfaith collaboration and knowledge and innovation. He is also the Lead Principal Advisor on Engaging with Faith-Based Organisations at UNEP.
 
-<img src="/images/Jack%20Chia.png"
-     style="width:50%" />
+<img src="/images/Jack%20Chia.png" style="width:50%">
 
 <p style="color:#2B3062"><b>Moderator:</b></p>**Assistant Professor Jack Meng-Tat Chia  
 Assistant Professor of History and Religious Studies, Faculty of Arts and Social Sciences  

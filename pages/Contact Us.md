@@ -2,10 +2,10 @@
 title: Contact Us
 permalink: /contact/
 description: Contact
+variant: markdown
 ---
-
-# General enquiries & feedback
-Email us at: <a href="mailto:iccs2022-secretariat@ntu.edu.sg">iccs2022-secretariat@ntu.edu.sg</a>
+# General enquiries &amp; feedback
+Email us at: <a href="mailto:iccs-mail@ntu.edu.sg">iccs-mail@ntu.edu.sg</a>
 # ICCS Secretariat
 **S. Rajaratnam School of International Studies (RSIS)**  
 Nanyang Technological University  

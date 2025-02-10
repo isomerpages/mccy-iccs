@@ -1,5 +1,5 @@
 ---
-title: ICCS Intersessional Event
+title: ICCS Intersessional Event 2024
 permalink: /iccs-intersessional-event/
 variant: tiptap
 description: Inspiring Cohesive and Resilient Societies

@@ -1,12 +1,13 @@
 ---
 title: "Breakout Session – Identity 3: Religion & Social Justice"
-permalink: /programme-and-speakers/sessions/breakout-identity-3/
+permalink: /iccs2022/sessions/breakout-identity-3/
 description: Breakout Session – Identity 3
-third_nav_title: Sessions & Speakers
+variant: tiptap
+third_nav_title: ICCS 2022
 ---
 <div class="bp-youtube">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oSEmti8idSw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oSEmti8idSw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 </div>
 
@@ -17,24 +18,21 @@ Areas explored include overcoming racial and ethnic prejudice, protecting vulner
 # Visual Summary
 ![](/images/identity%203-%20religion%20and%20social%20justice_HiRes.jpg)
 # Speakers
-<img src="/images/Somboon%20Chungprampree.jpg"
-     style="width:50%" />
+<img src="/images/Somboon%20Chungprampree.jpg" style="width:50%">
 
 **Mr Somboon Chungprampree  
 Executive Secretary, International Network of Engaged Buddhists (INEB)**
 
 Somboon Chungprampree (Moo), is a Thai social activist working for Peace and Justice in Asia. He is a civic leader and serves on the Board of a number of international and national foundations.
 
-<img src="/images/Julia%20Walsh.png"
-     style="width:50%" />
+<img src="/images/Julia%20Walsh.png" style="width:50%">
 
 **Sister Julia Walsh  
 Franciscan Sisters of Perpetual Adoration**
 
 Sister Julia Walsh is a Franciscan Sister of Perpetual Adoration and part of her congregation’s formation team, serving women who are discerning their vocation. Along with another Franciscan Sister, she co-founded The Fireplace, an intentional community and house of hospitality on Chicago’s southside that offers spiritual support to artists and activists.
 
-<img src="/images/Paul%20Hedges.jpg"
-     style="width:50%" />
+<img src="/images/Paul%20Hedges.jpg" style="width:50%">
 
 <p style="color:#2B3062"><b>Moderator:</b></p>**Associate Professor Paul Hedges  
 Associate Professor, Studies in Inter-Religious Relations in Plural Societies Programme  

@@ -1,13 +1,14 @@
 ---
 title: "Breakout Session – Faith 2: Religion, Resilience & Cohesion (Regional
   Perspective)"
-permalink: /programme-and-speakers/sessions/breakout-faith-2/
+permalink: /iccs2022/sessions/breakout-faith-2/
 description: Breakout Session – Faith 2
-third_nav_title: Sessions & Speakers
+third_nav_title: ICCS 2022
+variant: tiptap
 ---
 <div class="bp-youtube">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIozL-X69J8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIozL-X69J8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 </div>
 
@@ -16,16 +17,14 @@ This breakout session has an interest in different faith-based strategies in bui
 # Visual Summary
 ![](/images/Faith%202%20-%20Religion,%20Resilience%20and%20Cohesion_HiRes.jpg)
 # Speakers
-<img src="/images/Benjamin%20Tan.jpg"
-     style="width:50%" />
+<img src="/images/Benjamin%20Tan.jpg" style="width:50%">
 
 **Master Benjamin Tan Xianda  
 Singapore Taoist Federation**
 
 Master Benjamin Tan was initiated into Taoism ZhengYi Sect in 2013, ordained as a Luo generation ZhengYi Taoist priest in TianShi Mansion Mount Longhu (Jiangxi China) in 2018. He has represented the Taoist Federation (Singapore) at prayers, engagements, conferences, seminars and interfaith work. In addition, he is a leader of the Taoist Federation (Singapore) Prayer and Blessing Group, Council Member of Inter Religious Organisation representing Taoism, mentor to 3rd batch of Ambassador of Roses of Peace and Eunos IRCC Chairman. 
 
-<img src="/images/Dicky%20Sofjan.jpg"
-     style="width:50%" />
+<img src="/images/Dicky%20Sofjan.jpg" style="width:50%">
 
 **Mr Dicky Sofjan  
 Indonesian Consortium for Religious Studies (ICRS)  
@@ -33,8 +32,7 @@ Graduate School of Universitas Gadjah Mada (UGM), Indonesia**
 
 Dicky Sofjan is a Core Doctoral Faculty in the Indonesian Consortium for Religious Studies (ICRS) based in the Graduate School of Universitas Gadjah Mada (UGM) in Yogyakarta. His main research interest mostly covers the nexus between religion and politics in Indonesia, Southeast Asia and the Middle East. He has been involved in many interfaith initiatives and programmes with the Indonesian Ministries of Religious and Foreign Affairs as well as with the White House, European Union and others. 
 
-<img src="/images/Tan%20See%20Seng.jpg"
-     style="width:50%" />
+<img src="/images/Tan%20See%20Seng.jpg" style="width:50%">
 
 <p style="color:#2B3062"><b>Moderator:</b></p>**Dr Tan See Seng  
 President and CEO of International Students Inc.  

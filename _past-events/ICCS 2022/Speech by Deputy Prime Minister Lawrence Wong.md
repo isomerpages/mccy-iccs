@@ -1,15 +1,13 @@
 ---
 title: Speech by Deputy Prime Minister Lawrence Wong
-permalink: /programme-and-speakers/speeches/dpm-speech/
+permalink: /iccs2022/speeches/dpm-speech/
 description: Speech by Deputy Prime Minister Lawrence Wong
-third_nav_title: Speeches
+third_nav_title: ICCS 2022
+variant: tiptap
 ---
-
-
-
 <div class="bp-youtube">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SMU_PwMFNvs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SMU_PwMFNvs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 </div>
 

@@ -1,19 +1,17 @@
 ---
 title: Closing Address by Minister Edwin Tong
-permalink: /programme-and-speakers/speeches/closingaddress/
+permalink: /iccs2022/speeches/closingaddress/
 description: Closing Address by Minister Edwin Tong
-third_nav_title: Speeches
+third_nav_title: ICCS 2022
+variant: tiptap
 ---
-
-
-
 <div class="bp-youtube">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vhid5CpZ28A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vhid5CpZ28A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 </div>
 
-**<font size="+2">Closing Address by Mr Edwin Tong, Minister for Culture, Community and Youth & Second Minister for Law, Republic of Singapore, at the International Conference on Cohesive Societies 2022</font>**  
+**<font size="+2">Closing Address by Mr Edwin Tong, Minister for Culture, Community and Youth &amp; Second Minister for Law, Republic of Singapore, at the International Conference on Cohesive Societies 2022</font>**  
 <font size="-1">8 September 2022</font>
 
 Distinguished guests,  

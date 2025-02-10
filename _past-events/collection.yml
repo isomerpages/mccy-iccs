@@ -2,7 +2,41 @@ collections:
   past-events:
     output: true
     order:
+      - ICCS Intersessional Event 2024.md
       - Young Leaders ChaChaCha 2024.md
+      - ICCS 2022/.keep
+      - ICCS 2022/ICCS 2022.md
+      - ICCS 2022/Opening Address by President Halimah Yacob.md
+      - ICCS 2022/Special Address by Cardinal Pietro Parolin.md
+      - ICCS 2022/Speech by Deputy Prime Minister Lawrence Wong.md
+      - ICCS 2022/Closing Address by Minister Edwin Tong.md
+      - "ICCS 2022/Special Presentation: Perspectives on Social Cohesion.md"
+      - "ICCS 2022/Plenary 1: How Faith Can Bridge Divides.md"
+      - "ICCS 2022/Plenary 2: How Diversity Can Be Harnessed for the Common
+        Good.md"
+      - "ICCS 2022/Plenary 3: How Technology Can Be Leveraged to Foster Mutual
+        Trust.md"
+      - "ICCS 2022/Breakout Session – Faith 1: Religion, Resilience & Cohesion
+        (International Perspective).md"
+      - "ICCS 2022/Breakout Session – Faith 2: Religion, Resilience & Cohesion
+        (Regional Perspective).md"
+      - "ICCS 2022/Breakout Session – Faith 3: Faith Overcoming COVID–19
+        Pandemic.md"
+      - "ICCS 2022/Breakout Session – Identity 1: Languages, Identity &
+        Belonging.md"
+      - "ICCS 2022/Breakout Session – Identity 2: Diversity & Intersections
+        (Public Policy & Common Space).md"
+      - "ICCS 2022/Breakout Session – Identity 3: Religion & Social Justice.md"
+      - "ICCS 2022/Breakout Session – Cohesion 1: Hate & Conspiracy Online.md"
+      - "ICCS 2022/Breakout Session – Cohesion 2: Connectivity &
+        Connectedness.md"
+      - "ICCS 2022/Breakout Session – Cohesion 3: Youth Work Initiatives.md"
+      - ICCS YLP 2022.md
+      - ICCS Community Experience 2022/.keep
+      - ICCS Community Experience 2022/ICCS Community Dialogue 2022.md
+      - ICCS Community Experience 2022/ICCS Community Explorations 2022.md
+      - Social Cohesion Conversations 2022.md
+      - Mission:Unite 2020.md
       - ICCS 2019/.keep
       - ICCS 2019/Overview.md
       - ICCS 2019/Speakers.md
@@ -14,5 +48,3 @@ collections:
       - ICCS 2019/Closing Remarks by Deputy Prime Minister Heng Swee Keat.md
       - ICCS 2019/Gallery.md
       - ICCS 2019/ICCS Book.md
-      - Mission:Unite.md
-      - Social Cohesion Conversations.md

@@ -1,24 +1,25 @@
 ---
 layout: homepage
-title: The International Conference on Cohesive Societies
-description: An international platform to engage in dialogue and action on how
-  we can foster harmony in societies.
+title: The International Conference on Cohesive Societies (ICCS)
+description: A leading international platform based in Singapore for interfaith
+  and multicultural dialogue, and fostering collaboration to inspire cohesive
+  and resilient multicultural societies worldwide.
 image: /images/WEBSITE-BANNER_1200x630px_30_Jun.png
 permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/WEBSITE-BANNER_6_JAN_1200x630px_OK.png
+      background: /images/Cohesive_Societies__Resilient_Futures_edited.png
       key_highlights:
-        - title: Latest News
-          description: What's happening for ICCS
-          url: /latest/featureustazahliyanapowr/
-        - title: ICCS 2022 at a glance
-          description: Speeches, plenary & breakout sessions
-          url: /programme-and-speakers/specialpresentation/
-        - title: Research
-          description: A signature component of ICCS
-          url: research/socialcohesionradar/
+        - title: ICCS 2022 Recap
+          description: ""
+          url: /latest/a-conference-to-remember/
+        - title: About ICCS 2025
+          description: ""
+          url: /iccs
+        - title: Young leaders programme
+          description: ""
+          url: ylp
   - infopic:
       title: "ICCS 2022 Recap: A Conference to Remember"
       description: ICCS 2022 presented a stellar line-up of leaders coming together to
@@ -42,7 +43,7 @@ sections:
         opportunities to learn about Singapore's diverse communities.
       button: READ MORE
       alt: Community
-      url: /community-experience/communityexplorations/
+      url: /community-experience/
       image: /images/RT_CE 1 -77.jpg
   - resources:
       title: Media
