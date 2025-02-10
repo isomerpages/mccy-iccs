@@ -28,8 +28,8 @@ ICCS stands as a powerful reminder that our shared humanity can overcome
 division.&nbsp;</p>
 <p>Join us at ICCS 2025 as we pave the way for a more cohesive and resilient
 future—both in Singapore and around the globe.</p>
-<p>Follow ICCS socials for updates: <a href="https://www.facebook.com/ICCSSG/" rel="noopener noreferrer nofollow" target="_blank">Facebook|</a><a href="https://www.instagram.com/iccssg/" rel="noopener noreferrer nofollow" target="_blank">Instagram|</a>
-<a href="https://www.linkedin.com/showcase/iccssg/" rel="noopener noreferrer nofollow" target="_blank">LinkedIn|</a><a href="https://twitter.com/iccssg/" rel="noopener noreferrer nofollow" target="_blank">Youtube |X. </a>For
+<p>Follow ICCS socials for updates: <a href="https://www.facebook.com/ICCSSG/" rel="noopener noreferrer nofollow" target="_blank">Facebook |</a><a href="https://www.instagram.com/iccssg/" rel="noopener noreferrer nofollow" target="_blank">Instagram |</a>
+<a href="https://www.linkedin.com/showcase/iccssg/" rel="noopener noreferrer nofollow" target="_blank">LinkedIn |</a><a href="https://twitter.com/iccssg/" rel="noopener noreferrer nofollow" target="_blank">Youtube |X. </a>For
 any enquiries, do reach out to us at: <a href="mailto:iccs-mail@ntu.edu.sg" rel="noopener noreferrer nofollow" target="_blank">iccs-mail@ntu.edu.sg</a>
 </p>
 <h3>Background</h3>
