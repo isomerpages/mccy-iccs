@@ -12,8 +12,8 @@ build bonds that endure the challenges of our time?</p>
 in 2019, the International Conference on Cohesive Societies (ICCS) has
 led conversations on interfaith and multicultural dialogue, demonstrating
 that unity can flourish even in a divided world. More than 2200 participants
-from over 40 countries have attended ICCS and its programmes since its
-inception.</p>
+from over 52 countries have attended ICCS and its programmes since its
+inception in 2019.</p>
 <p>Now in its third edition, ICCS 2025 adopts the theme <strong>“Cohesive Societies, Resilient Futures,”</strong> sparking
 fresh conversations on multiculturalism and the foundations of harmony
 in diversity. This edition will delve into three thematic pillars—<strong>Unpacking Multiculturalism, Navigating Uncertainty,</strong> and <strong>Forging Societal Resilience</strong>—through
