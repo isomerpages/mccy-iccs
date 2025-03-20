@@ -2,6 +2,7 @@
 title: Media
 permalink: /media/
 description: Media
+variant: markdown
 ---
 # Media coverage     
 **17 September 2022**  
@@ -255,7 +256,7 @@ description: Media
 * <a href="https://berita.mediacorp.sg/singapura/100-pemimpin-muda-antarabangsa-bincang-isu-isu-perpaduan-170236" target="_blank">100 Pemimpin Muda Antarabangsa Bincang Isu-Isu Perpaduan, Keagamaan, Berita Mediacorp</a>  
 * <a href="http://www.jordantimes.com/news/local/king-address-singapore-intl-conference-cohesive-societies" target="_blank">King to Address Singapore Int’l Conference on Cohesive Societies, The Jordan Times</a>  
 * <a href="https://menafn.com/1098661196/King-visits-Singapore-Armed-Forces-Commandos" target="_blank">King Visits Singapore Armed Forces Commandos, MENAFN</a>
-* <a href="https://en.royanews.tv/news/17842/King-departs-on-Singapore-visit" target="_blank">King Departs on Singapore Visit, Roya News</a> 
+* <a href="https://en.royanews.tv/news/17842" target="_blank">King Departs on Singapore Visit, Roya News</a> 
 * Jordanian King Abdullah II in Singapore for His Third State Visit, World Times News   
 
 **18 June 2019**   
