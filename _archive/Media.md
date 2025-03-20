@@ -2,6 +2,7 @@
 title: Media
 permalink: /media/
 description: Media
+variant: markdown
 ---
 # Media coverage     
 **17 September 2022**  
@@ -155,7 +156,7 @@ description: Media
 * <a href="https://www.straitstimes.com/singapore/singapore-to-organise-second-edition-of-high-level-forum-on-social-cohesion-in-two-years" target="_blank">Singapore to organise second edition of high-level forum on social cohesion in two years' time, The Straits Times</a>
 
 **30 June 2019**  
-* <a href="https://www.channelnewsasia.com/singapore/religion-karen-armstrong-unwinding-biggest-enemies-1328931" target="_blank">Unwinding the Biggest Enemies of Religion: A Conversation with Karen Armstrong, Channel NewsAsia</a>
+* Unwinding the Biggest Enemies of Religion: A Conversation with Karen Armstrong, Channel NewsAsia
 
 **25 June 2019**  
 * <a href="https://www.straitstimes.com/opinion/st-editorial/working-to-expand-space-for-cohesion?xtor=CS3-17&amp;utm_source=STSmartphone&amp;utm_medium=share&amp;utm_term=2019-06-26+08%3A21%3A30" target="_blank">Working to Expand Space for Cohesion, The Straits Times</a>
@@ -203,7 +204,7 @@ description: Media
 * <a href="https://www.zaobao.com.sg/realtime/singapore/story20190621-966343" target="_blank">王瑞杰：建立和谐社会 寻共性更为重要, Lianhe Zaobao</a>  
 * <a href="https://www.zaobao.com.sg/news/singapore/story20190621-966112" target="_blank">认同约旦国王观点 哈莉玛总统吁国人 团结抗衡网络极端言论, Lianhe Zaobao</a>  
 * <a href="https://www.todayonline.com/singapore/cohesive-society-calls-everyone-build-democracy-deeds-heng-swee-keat" target="_blank">Cohesive Society Calls for Everyone to Build a “Democracy of Deeds”: Heng Swee Keat, TODAY</a>  
-* <a href="https://www.channelnewsasia.com/singapore/religious-racial-diversity-common-spaces-nurtured-heng-swee-keat-875501" target="_blank">Growing Diversity Means Common Spaces Must be Deliberately Nurtured: Heng Swee Keat, Channel NewsAsia</a>   
+* Growing Diversity Means Common Spaces Must be Deliberately Nurtured: Heng Swee Keat, Channel NewsAsia   
 * Building Cohesiveness is a Work in Progress and Everyone has a Part to Play, carried on News Tonight (Channel 8)   
 * <a href="https://sg.news.yahoo.com/antifake-news-laws-needed-to-help-preserve-social-cohesion-heng-swee-keat-081357862.html" target="_blank">Anti-fake News Law Needed to Help Preserve Social Cohesion: Heng Swee Keat, Yahoo News</a>    
 * <a href="https://mothership.sg/2019/06/heng-swee-keat-iccs-dialogue-religious-leaders-prayed-stroke-recovery/" target="_blank">Religious Leaders in S’pore Prayed for Heng Swee Keat’s Recovery After His May 2016 Stroke, Mothership</a>  
@@ -223,7 +224,7 @@ description: Media
 * <a href="https://www.beritaharian.sg/setempat/nilai-saling-percaya-perkukuh-perpaduan-presiden-halimah" target="_blank">Nilai Saling Percaya Perkukuh Perpaduan: Presiden Halimah, Berita Harian</a>    
 * <a href="https://www.todayonline.com/singapore/british-religious-thinker-singapore-forum-challenges-people-embrace-discomfort-of-religion" target="_blank">British Religious Thinker at Singapore Forum Challenges People to Embrace the “Discomfort of Religion”, TODAY</a> 
   
-* <a href="https://www.channelnewsasia.com/singapore/jordan-king-abdullah-singapore-keynote-religion-conference-875226" target="_blank">Risk to Inter-Faith Harmony “Single Most Important Threat” to the World Now: Jordan King, Channel NewsAsia</a>    
+* Risk to Inter-Faith Harmony “Single Most Important Threat” to the World Now: Jordan King, Channel NewsAsia    
 * <a href="https://tnp.straitstimes.com/news/singapore/draw-diversity-source-strength-president-halimah" target="_blank">Draw from Diversity as Source of Strength: President Halimah, The New Paper</a>    
 * <a href="https://mothership.sg/2019/06/palestine-state-israel-peace-crucial-jordan-king-abdullah-ii/" target="_blank">Palestinian State Living in Peace with Israel Crucial to Addressing Radicalism: King Abdullah II of Jordan, Mothership</a>     
 * <a href="https://www.malaysia-today.net/2019/06/20/attack-on-inter-faith-harmony-is-greatest-threat-in-the-world-today-king-abdullah-of-jordan/" target="_blank">Attack on Inter-Faith Harmony is Greatest Threat in the World Today: King Abdullah of Jordan, Malaysia Today</a>     
@@ -237,7 +238,7 @@ description: Media
 * <a href="https://english.alaraby.co.uk/news/palestinian-israeli-conflict-inflames-global-extremism-jordans-king-abdullah" target="_blank">“Palestinian-Israeli Conflict Inflames Global Extremism”: Jordan’s King Abdullah, The New Arab</a>    
 * Attack on Interfaith Harmony, Mutual Respect, and Trust Single Biggest Threat, Says Jordan’s King Abdullah II, The World News   
 * <a href="https://www.arabnews.com/node/1513791/middle-east" target="_blank">King Abdullah of Jordan Slams “Hate-filled Outlaws of Islam”, Arab News</a>     
-* <a href="https://en.royanews.tv/news/17851/2019-06-20" target="_blank">King Delivers Keynote Address at International Conference on Cohesive Societies in Singapore, Roya News</a>     
+* <a href="https://en.royanews.tv/news/17851" target="_blank">King Delivers Keynote Address at International Conference on Cohesive Societies in Singapore, Roya News</a>     
 * <a href="http://www.jordantimes.com/news/local/palestinian-israeli-conflict-has-fuelled-global-discord-and-radicalism%E2%80%94-king" target="_blank">“The Palestinian-Israeli Conflict Has Fuelled Global Discord and Radicalism”— King, The Jordan Times</a>    
 * <a href="https://www.albawaba.com/news/jordan-king-palestinians-must-have-their-state-1292517" target="_blank">Jordan King: Palestinians Must Have Their State, Al-Bawaba</a>     
 * <a href="https://menafn.com/1098662026/King-delivers-keynote-address-at-International-Conference-on-Cohesive-Societies-in-Singapore" target="_blank">King Delivers Keynote Address at International Conference on Cohesive Societies in Singapore, MENAFN</a>     
@@ -251,11 +252,11 @@ description: Media
 * <a href="https://www.straitstimes.com/singapore/free-art-exhibition-showcases-singapores-religious-harmony" target="_blank">Free Art Exhibition Showcases Singapore’s Religious Harmony, The Straits Times</a>  
 * <a href="https://www.straitstimes.com/singapore/jordanian-king-abdullah-ii-in-singapore-for-his-third-state-visit" target="_blank">Jordanian King Abdullah II in Singapore for His Third State Visit, The Straits Times</a>  
 * <a href="https://www.zaobao.com.sg/realtime/singapore/story20190619-965810" target="_blank">约旦国王到我国进行两天国事访问, Lianhe Zaobao</a>  
-* <a href="https://www.channelnewsasia.com/singapore/singapore-religious-organisations-commitment-harmony-halimah-874911" target="_blank">Singapore’s Key Religious Organisations Affirm Commitment to Religious Harmony, Channel NewsAsia</a>   
+* Singapore’s Key Religious Organisations Affirm Commitment to Religious Harmony, Channel NewsAsia   
 * <a href="https://berita.mediacorp.sg/singapura/100-pemimpin-muda-antarabangsa-bincang-isu-isu-perpaduan-170236" target="_blank">100 Pemimpin Muda Antarabangsa Bincang Isu-Isu Perpaduan, Keagamaan, Berita Mediacorp</a>  
 * <a href="http://www.jordantimes.com/news/local/king-address-singapore-intl-conference-cohesive-societies" target="_blank">King to Address Singapore Int’l Conference on Cohesive Societies, The Jordan Times</a>  
 * <a href="https://menafn.com/1098661196/King-visits-Singapore-Armed-Forces-Commandos" target="_blank">King Visits Singapore Armed Forces Commandos, MENAFN</a>
-* <a href="https://en.royanews.tv/news/17842/King-departs-on-Singapore-visit" target="_blank">King Departs on Singapore Visit, Roya News</a> 
+* <a href="https://en.royanews.tv/news/17842" target="_blank">King Departs on Singapore Visit, Roya News</a> 
 * Jordanian King Abdullah II in Singapore for His Third State Visit, World Times News   
 
 **18 June 2019**   
@@ -269,10 +270,10 @@ description: Media
 * Minister Grace Fu on the Reason Singapore is Hosting the ICCS, carried on Hello Singapore (Channel 8)
 
 # Speeches and News Releases   
-* [Opening Address by Mdm Halimah Yacob, President of the Republic of Singapore, at ICCS, 6 September 2022](/programme-and-speakers/speeches/openingaddress/)
-* [Special Address by Cardinal Pietro Parolin, Secretary of State, Holy See, at ICCS, 6 September 2022](/programme-and-speakers/speeches/specialaddress/)
-* [Speech by Mr Lawrence Wong, Deputy Prime Minister and Minister for Finance, Republic of Singapore, during an In Conversation session with DPM Wong at ICCS, 8 September 2022](/programme-and-speakers/speeches/dpm-speech/)
-* [Closing Address by Mr Edwin Tong, Minister for Culture, Community and Youth &amp; Second Minister for Law, Republic of Singapore, at ICCS, 8 September 2022](/programme-and-speakers/speeches/closingaddress/)
+* [Opening Address by Mdm Halimah Yacob, President of the Republic of Singapore, at ICCS, 6 September 2022](/iccs2022/speeches/openingaddress/)
+* [Special Address by Cardinal Pietro Parolin, Secretary of State, Holy See, at ICCS, 6 September 2022](/iccs2022/speeches/specialaddress/)
+* [Speech by Mr Lawrence Wong, Deputy Prime Minister and Minister for Finance, Republic of Singapore, during an In Conversation session with DPM Wong at ICCS, 8 September 2022](/iccs2022/speeches/dpm-speech/)
+* [Closing Address by Mr Edwin Tong, Minister for Culture, Community and Youth &amp; Second Minister for Law, Republic of Singapore, at ICCS, 8 September 2022](/iccs2022/speeches/closingaddress/)
 * [Media Release on Day 1: The International Conference on Cohesive Societies Kicks Off Today, 6 September 2022](/files/ICCS%20Day%201%20Media%20Release.pdf)
 * [Media Note on Day 2: The ICCS Young Leaders Programme Brings Together Like-minded Youths to Collaborate on Community-building Initiatives, 7 September 2022](/files/ICCS%20Day%202%20Media%20Note.pdf)
 * [Media Note on Day 3: The International Conference On Cohesive Societies (ICCS) Draws to a Close, 8 September 2022](/files/ICCS%20Day%203%20Media%20Note.pdf)
