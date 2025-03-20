@@ -49,7 +49,7 @@ bringing the evening’s proceedings to a fulfilling end.</p>
 such as durians.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/community-experience/communityexplorations2022/" rel="noopener noreferrer nofollow" target="_blank">Click here to view all ICCS 2022 Community Explorations.</a>
+<p><a href="https://www.iccs.sg/community-experience/communityexplorations2022/" rel="noopener noreferrer nofollow" target="_blank">Click here to view all ICCS 2022 Community Explorations.</a>
 </p>
 </li>
 </ul>
