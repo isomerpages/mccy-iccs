@@ -238,7 +238,7 @@ variant: markdown
 * <a href="https://english.alaraby.co.uk/news/palestinian-israeli-conflict-inflames-global-extremism-jordans-king-abdullah" target="_blank">“Palestinian-Israeli Conflict Inflames Global Extremism”: Jordan’s King Abdullah, The New Arab</a>    
 * Attack on Interfaith Harmony, Mutual Respect, and Trust Single Biggest Threat, Says Jordan’s King Abdullah II, The World News   
 * <a href="https://www.arabnews.com/node/1513791/middle-east" target="_blank">King Abdullah of Jordan Slams “Hate-filled Outlaws of Islam”, Arab News</a>     
-* <a href="https://en.royanews.tv/news/17851/2019-06-20" target="_blank">King Delivers Keynote Address at International Conference on Cohesive Societies in Singapore, Roya News</a>     
+* <a href="https://en.royanews.tv/news/17851" target="_blank">King Delivers Keynote Address at International Conference on Cohesive Societies in Singapore, Roya News</a>     
 * <a href="http://www.jordantimes.com/news/local/palestinian-israeli-conflict-has-fuelled-global-discord-and-radicalism%E2%80%94-king" target="_blank">“The Palestinian-Israeli Conflict Has Fuelled Global Discord and Radicalism”— King, The Jordan Times</a>    
 * <a href="https://www.albawaba.com/news/jordan-king-palestinians-must-have-their-state-1292517" target="_blank">Jordan King: Palestinians Must Have Their State, Al-Bawaba</a>     
 * <a href="https://menafn.com/1098662026/King-delivers-keynote-address-at-International-Conference-on-Cohesive-Societies-in-Singapore" target="_blank">King Delivers Keynote Address at International Conference on Cohesive Societies in Singapore, MENAFN</a>     
