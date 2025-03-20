@@ -8,8 +8,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/RT_CE%201%20-79.jpg">
 </div>
-<p>ICCS 2022 speakers and delegates visiting the Lorong Koo Chye Sheng Hong
-Temple on 6 September 2022.</p>
+<p>[Photo caption: ICCS 2022 speakers and delegates visiting the Lorong Koo
+Chye Sheng Hong Temple on 6 September 2022.]</p>
 <p>A unique element to the ICCS 2022 experience is the Community Exploration
 tours. Held each evening during the three-day Conference, the tours took
 place following each day’s plenaries and breakout sessions.&nbsp;</p>
@@ -34,8 +34,8 @@ houses of worship.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CE2_060922-109.jpg">
 </div>
-<p>ICCS 2022 speakers and delegates visiting the Sri Srinivasa Perumal Temple
-on 6 September 2022.</p>
+<p>[Photo caption: ICCS 2022 speakers and delegates visiting the Sri Srinivasa
+Perumal Temple on 6 September 2022.]</p>
 <p>The tours concluded with brief Q&amp;A sessions between the hosts and
 visiting delegates. These brief discussions allowed for deeper understanding
 of the spotlighted faith. Delegates were then treated with Singapore’s
