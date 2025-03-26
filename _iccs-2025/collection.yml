@@ -1,4 +1,5 @@
 collections:
   iccs-2025:
     output: true
-    order: []
+    order:
+      - ICCS 2025.md
