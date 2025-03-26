@@ -2,6 +2,6 @@ collections:
   iccs-2025:
     output: true
     order:
-      - Plenaries.md
-      - Keynote Addresses and Speeches.md
       - ICCS 2025.md
+      - Keynote Addresses and Speeches.md
+      - Plenaries.md
