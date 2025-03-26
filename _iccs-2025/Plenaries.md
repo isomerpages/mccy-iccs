@@ -4,7 +4,7 @@ permalink: /plenaries/
 variant: tiptap
 description: plenaries
 ---
-<p>ICCS 2025 is pleased to present the following plenary sessions.</p>
+<p>ICCS 2025 is pleased to present the following plenary sessions:</p>
 <h3><strong>1. Special Presentation: Perspectives on Social Cohesion</strong></h3>
 <p>How should we define social cohesion in today’s world? Are there universal
 principles of social cohesion? This segment examines the ever-evolving
