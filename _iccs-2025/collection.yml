@@ -2,6 +2,7 @@ collections:
   iccs-2025:
     output: true
     order:
+      - Young Leaders Programme (YLP) 2025.md
       - ICCS 2025.md
       - Keynote Addresses and Speeches.md
       - Plenaries.md
