@@ -2,6 +2,7 @@ collections:
   iccs-2025:
     output: true
     order:
+      - Cohesion Forward.md
       - "Igniting Change: Showcase.md"
       - Sharing Sessions.md
       - Skills Workshop.md
