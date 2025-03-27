@@ -29,10 +29,6 @@ we also support youth leadership and their development.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ylp.png">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/line_blue.png">
-</div>
 <h4><strong>Experiential Learning &amp; Applied Learning</strong></h4>
 <p>YLP’s experiential learning programmes like interactive theatre and YLP
 Working Comm-led breakout activities immerse delegates in real-world scenarios,
@@ -50,11 +46,12 @@ Southern California, United States of America</p>
 <li>
 <p><strong>Dialogue Centre</strong>, Singapore</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/line_blue.png">
+</div>
+<p></p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/line_green.png">
-</div>
 <h4><strong>Cultural Exchange and Ideation Opportunities</strong></h4>
 <p>Join us for a vibrant evening where cultures converge and connect! This
 unique networking event brings together international delegates for an
@@ -64,9 +61,8 @@ brainstorming session where delegates will get to collaborate in teams,
 share diverse perspectives on fostering harmony and develop practical,
 innovative ideas for community engagement and create actionable plans for
 cultural bridge-building.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/line_orange.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/line_green.png">
 </div>
 <h4><strong>Inclusive and Participatory Model</strong></h4>
 <p>Leadership is best cultivated when as many voices as possible are heard.&nbsp;
@@ -79,3 +75,7 @@ your participation.</p>
 <p>Feel free to volunteer as facilitators or interactive theatre performers
 at YLP!&nbsp; You can reach out to the YLP Secretariat for more details
 at <strong><a rel="noopener noreferrer nofollow" target="_blank">ICCS-YLP@mccy.gov.sg</a> </strong>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/line_orange.png">
+</div>
+<p></p>
