@@ -12,13 +12,13 @@ sections:
       background: /images/Cohesive_Societies__Resilient_Futures_edited.png
       key_highlights:
         - title: About ICCS
-          description: ""
+          description: Background
           url: /iccs
         - title: ICCS 2025
-          description: ""
+          description: Programme and Speakers
           url: /iccs-2025
-        - title: Young leaders programme
-          description: ""
+        - title: Young leaders programme 2025
+          description: Overview
           url: ylp2025
   - infopic:
       title: About ICCS 2025
