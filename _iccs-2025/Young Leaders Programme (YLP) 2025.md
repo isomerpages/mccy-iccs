@@ -46,6 +46,7 @@ Southern California, United States of America</p>
 <li>
 <p><strong>Dialogue Centre</strong>, Singapore</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/line_blue.png">
 </div>
@@ -61,6 +62,7 @@ brainstorming session where delegates will get to collaborate in teams,
 share diverse perspectives on fostering harmony and develop practical,
 innovative ideas for community engagement and create actionable plans for
 cultural bridge-building.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/line_green.png">
 </div>
@@ -75,6 +77,7 @@ your participation.</p>
 <p>Feel free to volunteer as facilitators or interactive theatre performers
 at YLP!&nbsp; You can reach out to the YLP Secretariat for more details
 at <strong><a rel="noopener noreferrer nofollow" target="_blank">ICCS-YLP@mccy.gov.sg</a> </strong>.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/line_orange.png">
 </div>
