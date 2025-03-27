@@ -14,8 +14,7 @@ inspire future leaders to build cohesive and inclusive communities.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Mr Alex Low</strong>, a Heart of God Church Youth Member and Founder
-of <a rel="noopener noreferrer nofollow" target="_blank">interfaith.sg</a>,
-an online playbook for interfaith projects (Singapore)</p>
+of interfaith.sg, an online playbook for interfaith projects (Singapore)</p>
 </li>
 <li>
 <p><strong>Ms Wendy Maryzeline</strong>, a producer and host of content platform
