@@ -15,6 +15,5 @@ into how social cohesion is fostered and how diverse faith and cultural
 practices enrich life in a vibrant, multicultural society. Typically held
 each evening after each day’s conference proceedings, these sessions showcase
 how shared experiences foster harmony in diversity.</p>
-<p>More details on ICCS Community Experience 2025 coming soon!</p>
-<p><a href="https://www.iccs.sg/latest/experiencing-the-diversity-of-singapore/" rel="noopener noreferrer nofollow" target="_blank">Click here for a recap of ICCS 2022 Community Experience.</a>
+<p><a href="https://www.iccs.sg/communityexploration2025/" rel="noopener noreferrer nofollow" target="_blank">Click here for a programme overview of ICCS 2025 Community Experience.</a>
 </p>
