@@ -11,10 +11,10 @@ sections:
   - hero:
       background: /images/Cohesive_Societies__Resilient_Futures_edited.png
       key_highlights:
-        - title: ICCS 2022 Recap
+        - title: ICCS 2025
           description: ""
-          url: /latest/a-conference-to-remember/
-        - title: About ICCS 2025
+          url: /iccs-2025
+        - title: About ICCS
           description: ""
           url: /iccs
         - title: Young leaders programme
