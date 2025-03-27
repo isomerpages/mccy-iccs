@@ -29,6 +29,7 @@ we also support youth leadership and their development.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ylp.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/line_blue.png">
 </div>
@@ -40,20 +41,21 @@ gain practical insights and develop critical problem-solving skills. The
 closing workshop will help bridge the gap between knowledge &amp; skillsets
 gleaned across the whole conference and actual practices, helping YLP delegates
 connect classroom concepts with real-world applications.</p>
-<p>&nbsp;</p>
 <p>Participating partners include:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Center for Religion and Civic Culture</strong>,
-University of Southern California, United States of America</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Dialogue Centre</strong>,
-Singapore</p>
-<p><strong>&nbsp;</strong>
-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Center for Religion and Civic Culture</strong>, University of
+Southern California, United States of America</p>
+</li>
+<li>
+<p><strong>Dialogue Centre</strong>, Singapore</p>
+<p></p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/line_green.png">
 </div>
-<p></p>
-<p><strong>Cultural Exchange and Ideation Opportunities</strong>
-</p>
+<h4><strong>Cultural Exchange and Ideation Opportunities</strong></h4>
 <p>Join us for a vibrant evening where cultures converge and connect! This
 unique networking event brings together international delegates for an
 enriching experience of cultural exchange and showcase. We have also carved
@@ -62,14 +64,11 @@ brainstorming session where delegates will get to collaborate in teams,
 share diverse perspectives on fostering harmony and develop practical,
 innovative ideas for community engagement and create actionable plans for
 cultural bridge-building.</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/line_orange.png">
 </div>
-<p></p>
-<p><strong>Inclusive and Participatory Model</strong>
-</p>
+<h4><strong>Inclusive and Participatory Model</strong></h4>
 <p>Leadership is best cultivated when as many voices as possible are heard.&nbsp;
 YLP strives to include youth delegates not just as participants, but as
 co-creators of the experience. This inclusive approach ensures that the
@@ -77,7 +76,6 @@ delegates can contribute, learn, and grow as part of a diverse and vibrant
 community. You will find friendly YLP 2025 Working Committee members as
 your fellow youth delegates who have curated fun breakout activities for
 your participation.</p>
-<p>&nbsp;</p>
 <p>Feel free to volunteer as facilitators or interactive theatre performers
 at YLP!&nbsp; You can reach out to the YLP Secretariat for more details
 at <strong><a rel="noopener noreferrer nofollow" target="_blank">ICCS-YLP@mccy.gov.sg</a> </strong>.</p>
