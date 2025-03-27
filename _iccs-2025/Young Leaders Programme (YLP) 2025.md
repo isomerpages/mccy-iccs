@@ -30,7 +30,6 @@ we also support youth leadership and their development.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ylp.png">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/line_blue.png">
 </div>
