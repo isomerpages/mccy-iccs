@@ -26,7 +26,7 @@ sections:
         2025 in Singapore, with the theme “Cohesive Societies, Resilient
         Futures”.
       button: Read more
-      url: /iccs2025
+      url: /iccs-2025
       image: /images/RO_prayers.jpg
       alt: ICCS 2025
   - infopic:
