@@ -46,8 +46,4 @@ sections:
       alt: Community
       url: /communityexploration2025/
       image: /images/RT_CE 1 -77.jpg
-  - resources:
-      title: Media
-      subtitle: Learn More
-      button: View More
 ---
