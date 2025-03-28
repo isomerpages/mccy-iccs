@@ -20,7 +20,7 @@ rush or a day of relaxing in the sun, Sentosa is bound to enchant and delight.</
 </p>
 <h1>Mandai Wildlife Reserve</h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Zoo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mandai_Header_TIH_1560x878.jpg">
 </div>
 <p>Mandai Wildlife Reserve is home to a remarkable collection of world-class
 wildlife parks, including the Singapore Zoo, Bird Paradise, Night Safari,
@@ -65,3 +65,4 @@ two national monuments were being upheld even as they were being remodelled
 into a state-of-the-art museum for the public.</p>
 <p><a href="https://www.visitsingapore.com/see-do-singapore/arts/museums-galleries/national-gallery-singapore/" rel="noopener noreferrer nofollow" target="_blank">[Read more about National Gallery Singapore on Visit Singapore's website]</a>
 </p>
+<p></p>
