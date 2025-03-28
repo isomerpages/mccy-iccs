@@ -82,8 +82,7 @@ future possibilities for all.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Mr Benjamin Lee</strong>, Creative Instigator and Brand Storyteller,
-<a rel="noopener noreferrer nofollow" target="_blank">miyagi.sg</a>
-</p>
+miyagi.sg</p>
 </li>
 </ul>
 <p><strong>Moderator</strong>: <strong>Mr Benjamin Ang</strong>, Senior Fellow
