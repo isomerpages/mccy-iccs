@@ -37,7 +37,7 @@ sections:
       button: Read more
       url: /ylp2025
       alt: YLP
-      image: /images/XP3A8000.jpg
+      image: /images/YLP_22.jpg
   - infopic:
       title: Community Exploration
       description: The Community Exploration series provide opportunities to learn
