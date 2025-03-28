@@ -27,7 +27,7 @@ sections:
         Futures”.
       button: Read more
       url: /iccs-2025
-      image: /images/RO_prayers.jpg
+      image: /images/ICCS__2022-09-07__10-01-18.jpg
       alt: ICCS 2025
   - infopic:
       title: Young Leaders Programme
