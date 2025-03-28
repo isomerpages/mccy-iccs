@@ -82,8 +82,7 @@ future possibilities for all.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Mr Benjamin Lee</strong>, Creative Instigator and Brand Storyteller,
-<a href="http://miyagi.sg" rel="noopener noreferrer nofollow" target="_blank">miyagi.sg</a>
-</p>
+miyagi.sg</p>
 </li>
 <li>
 <p><strong>Mr Norman Ng</strong>, Head of Trust and Safety, APAC, Google</p>
