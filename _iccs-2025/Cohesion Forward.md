@@ -27,12 +27,12 @@ Malaysia (Malaysia)</p>
 </li>
 <li>
 <p><strong>Ms Tarina Ahuja</strong>, who co-founded Young Khalsa Girls among
-other initiatives, she seeks to empower youths to take part in selfless
-service</p>
+other initiatives and seeks to empower youths to take part in selfless
+service (USA)</p>
 </li>
 <li>
 <p><strong>Ms Amna Ben Amara</strong>, a researcher and intercultural trainer
-from Diversity Atlas</p>
+from Diversity Atlas (Tunisia)</p>
 </li>
 </ul>
 <p>This chat will be moderated by <strong>Dr Aaron Maniam</strong>, Fellow
