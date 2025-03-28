@@ -82,7 +82,11 @@ future possibilities for all.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Mr Benjamin Lee</strong>, Creative Instigator and Brand Storyteller,
-miyagi.sg</p>
+<a href="http://miyagi.sg" rel="noopener noreferrer nofollow" target="_blank">miyagi.sg</a>
+</p>
+</li>
+<li>
+<p><strong>Mr Norman Ng</strong>, Head of Trust and Safety, APAC, Google</p>
 </li>
 </ul>
 <p><strong>Moderator</strong>: <strong>Mr Benjamin Ang</strong>, Senior Fellow
@@ -118,11 +122,12 @@ these forces.</p>
 <p><strong>Speakers</strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Professor Mike Hardy, Founding Director, Centre for Trust, Peace and Social
-Relations, Coventry University</p>
+<p><strong>Professor Mike Hardy</strong>, Chair of Intercultural Relations,
+Coventry University</p>
 </li>
 <li>
-<p>Rabbi Silvina Chemen, Senior Rabbi, Beth El Congregation</p>
+<p><strong>Rabbi Silvina Chemen</strong>, Vice-Rector for International Cooperation,
+University Isaac Abarbanel</p>
 </li>
 </ul>
 <p><strong>Moderator</strong>: Professor Paul Hedges, Professor in Interreligious
@@ -142,7 +147,8 @@ be forged with simple gestures and day to day activities.&nbsp;</p>
 University of Leicester</p>
 </li>
 <li>
-<p>[To be announced]</p>
+<p><strong>Professor Susanne Wessendorf</strong>, Professor of Social Anthropology,
+Centre for Trust, Peace and Social Relations, Coventry University</p>
 </li>
 </ul>
 <p><strong>Moderator</strong>: <strong>Dr Selvaraj Velayutham</strong>, Associate
@@ -158,13 +164,13 @@ to rebuilding trust after crisis recovery.</p>
 <p><strong>Speakers</strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Mr Rakesh Sharanun Naidoo</strong>, Superintendent National Partnerships
-Manager, New Zealand</p>
+<p><strong>Mr Rakesh Sharanun Naidoo</strong>, Superintendent &amp; National
+Partnerships Manager, New Zealand Police</p>
 </li>
 <li>
 <p>[To be announced]</p>
 </li>
 </ul>
 <p><strong>Moderator</strong>: <strong>Dr Alistair Cook</strong>, Senior Fellow
-and Coordination of the Humanitarian Assistance and Disaster Relief, Programme,
+and Coordinator of the Humanitarian Assistance and Disaster Relief, Programme,
 S. Rajaratnam School of International Studies</p>
