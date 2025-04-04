@@ -16,6 +16,5 @@ a vibrant community where ideas are shared, skills are honed, and confidence
 is built to address social cohesion challenges. YLP harnesses the energy
 and creativity of youth to drive practical solutions and contribute meaningfully
 to building a more cohesive and resilient society.</p>
-<p>More details on ICCS-YLP 2025 coming soon!</p>
-<p><a href="https://www.iccs.sg/latest/putting-our-faith-in-youth/" rel="noopener noreferrer nofollow" target="_blank">Click here for a recap of the ICCS 2022 Young Leaders Programme.</a>
+<p><a href="https://www.iccs.sg/ylp2025/" rel="noopener noreferrer nofollow" target="_blank">Click here for a programme overview of ICCS 2025 Young Leaders Programme.</a>
 </p>

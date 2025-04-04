@@ -2,21 +2,24 @@
 title: Southeast Asian Social Cohesion Radar
 permalink: /research/socialcohesionradar/
 description: Southeast Asian Social Cohesion Radar
+variant: tiptap
 ---
-<div class="bp-youtube">
-	
-<iframe width="560" height="315" src="https://www.youtube.com/embed/b8VzlxbFqNU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<p>The Southeast Asia Social Cohesion Radar was first launched in 2022. The
+maiden edition was a modest attempt at understanding the nature of social
+cohesion across ASEAN against a changing and varying cultural and physical
+regional landscape. Conducted under pandemic conditions, the study tapped
+into the perspectives of 1,000 thought leaders across Southeast Asia (i.e.,
+100 from each country) to explore their views on social cohesion in their
+country and the region. The key findings are featured in this video:</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/b8VzlxbFqNU"></iframe>
 </div>
-
-This inaugural research study is a modest attempt to understand the nature of social cohesion within ASEAN against the changing and varying cultural and physical landscape in the region. Conducted under pandemic conditions, this study adapts the Social Cohesion Framework developed by the Bertelsmann Stiftung Foundation, which seeks to understand the level of cohesion in countries using quantitative methods.
-
-It also taps into the perspectives of 1,000 thought leaders in Southeast Asia (100 from each country) to explore their views on social cohesion in their country and the region. The findings provide insights that could hopefully allow the various stakeholders to develop strategies and solutions to continue their efforts to strengthen social cohesion in their respective communities.
-
-Perspectives from the Southeast Asian region based on the study were as follows:
-
-1. The overall level of social cohesion in Southeast Asia was at 69%. This reflected the percentage of those who saw social cohesion overall as “strong”, with 13% seeing it as “weak”. However, within both the region and in each country, there was considerable variation across the three domains of social relations, connectedness and focus on the common good. This established a current benchmark figure, although it was not in itself an absolute indicator.
-2. Of the three domains, social relations had the strongest influence on social cohesion in Southeast Asia, while the domain of focus on the common good had the least impact on social cohesion in the region.
-3. Of the nine dimensions, there was a strong respect for social rules within the region. The dimensions of social networks, trust in people, acceptance of diversity, and identification, fared relatively equally. The dimension of solidarity and helpfulness seemed relatively less influential in determining social cohesion among the regional countries.
-
-For more on the Southeast Asian Social Cohesion Radar, click <a href="https://www.rsis.edu.sg/rsis-publication/rsis/southeast-asian-social-cohesion-radar-report/#.Yy0KXEIRXb0" target="_blank">here</a>.
+<p>The second edition, to be launched in 2025, is an enhanced version with
+significant changes made to the methodology and overall research design
+to strengthen the rigor of the study. The 2025 edition surveys 10,000 members
+of the general population across ASEAN (i.e. 1,000 per country), ensuring
+a more comprehensive and citizen-centred understanding of social cohesion.
+Beyond survey responses, the 2025 study will incorporate complementary
+data sources such as interviews with subject matter and country experts,
+macro indicators as well as social listening data.</p>
+<p>For more on the Southeast Asian Social Cohesion Radar, click <a href="https://rsis.edu.sg/rsis-publication/rsis/southeast-asian-social-cohesion-radar-report/#.Yy0KXEIRXb0" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>

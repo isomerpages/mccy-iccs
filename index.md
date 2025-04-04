@@ -11,42 +11,39 @@ sections:
   - hero:
       background: /images/Cohesive_Societies__Resilient_Futures_edited.png
       key_highlights:
-        - title: ICCS 2022 Recap
-          description: ""
-          url: /latest/a-conference-to-remember/
-        - title: About ICCS 2025
-          description: ""
+        - title: About ICCS
+          description: Background
           url: /iccs
-        - title: Young leaders programme
-          description: ""
-          url: ylp
+        - title: ICCS 2025
+          description: Programme and Speakers
+          url: /iccs-2025
+        - title: Young leaders programme 2025
+          description: Overview
+          url: ylp2025
   - infopic:
-      title: "ICCS 2022 Recap: A Conference to Remember"
-      description: ICCS 2022 presented a stellar line-up of leaders coming together to
-        discuss new trends and approaches to fostering social cohesion.
+      title: About ICCS 2025
+      description: In its third edition, ICCS 2025 will be held from 24th to 26th June
+        2025 in Singapore, with the theme “Cohesive Societies, Resilient
+        Futures”.
       button: Read more
-      url: /latest/a-conference-to-remember/
+      url: /iccs-2025
       image: /images/ICCS__2022-09-07__10-01-18.jpg
-      alt: Plenary 2
+      alt: ICCS 2025
   - infopic:
       title: Young Leaders Programme
       description: The YLP is a platform for young local and international leaders to
         network and collaborate on initiatives around social cohesion and
         community building.
       button: Read more
-      url: /ylp
+      url: /ylp2025
       alt: YLP
-      image: /images/XP3A8000.jpg
+      image: /images/YLP_22.jpg
   - infopic:
-      title: Community Experience
-      description: The Community Dialogue and Community Exploration series provide
-        opportunities to learn about Singapore's diverse communities.
+      title: Community Exploration
+      description: The Community Exploration series provide opportunities to learn
+        about Singapore's diverse communities.
       button: READ MORE
       alt: Community
-      url: /community-experience/
+      url: /communityexploration2025/
       image: /images/RT_CE 1 -77.jpg
-  - resources:
-      title: Media
-      subtitle: Learn More
-      button: View More
 ---

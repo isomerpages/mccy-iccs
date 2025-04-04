@@ -1,19 +1,21 @@
 logo: /images/ICCS-LOGO.png
 links:
-  - title: Latest
-    url: /latest/documenting9emperorgodsfestival/
   - title: About
     url: /iccs/
     sublinks:
       - title: ICCS
         url: /iccs
       - title: Contact Us
-        url: /Contact
+        url: /contact
       - title: Visit Singapore
         url: /visitsingapore
+  - title: ICCS 2025
+    collection: iccs-2025
   - title: Research
     collection: research
   - title: Past Events
     collection: past-events
   - title: Media
     url: /media-room/
+  - title: Feature
+    url: /latest/documenting9emperorgodsfestival/
