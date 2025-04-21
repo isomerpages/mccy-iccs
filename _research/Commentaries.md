@@ -48,7 +48,7 @@ by digitalisation and the craving for social disconnection.</p>
 Paul Hedges</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>09 April 2025</p>
+<p>9 April 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Globally, there has been some opposition to DEI, including from religious
