@@ -36,8 +36,8 @@ that have enabled diverse communities to flourish.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Prof Dr Nasaruddin Umar</strong>, Grand Imam of Istiqlal State
-Mosque</p>
+<p><strong>Prof Dr Nasaruddin Umar</strong>, Minister for Religious Affairs,
+Indonesia and Grand Imam of Istiqlal State Mosque</p>
 </li>
 <li>
 <p><strong>Mr Ed Williams</strong>, President, International, Edelman</p>
@@ -48,8 +48,8 @@ of the Centre for Applied Cross-Cultural Research, Victoria University
 of Wellington</p>
 </li>
 </ul>
-<p><strong>Moderator</strong>: <strong>Mr Warren Fernandez</strong>, Senior
-Fellow, S. Rajaratnam School of International Studies</p>
+<p><strong>Moderator</strong>: <strong>Professor Farish Noor,</strong> Professor
+of Politics and Political Science, Universitas Islamic Internasional Indonesia</p>
 <h3><strong>3. Plenary 2: Navigating Uncertainty</strong></h3>
 <p>In an era of rapid change and increasing complexity, what emerging forces
 challenge our confidence in multiculturalism today? In this plenary, we
@@ -59,7 +59,9 @@ within societies.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Mr Peter Ho</strong>, Senior Advisor, Centre for Strategic Futures</p>
+<p><strong>Mr Peter Ho</strong>, Senior Advisor, Centre for Strategic Futures,
+Prime Minister’s Office Strategy Group and Former Head of Civil Service,
+Singapore</p>
 </li>
 <li>
 <p><strong>Mr Ahmed Aboutaleb</strong>, former Mayor of Rotterdam City</p>
@@ -83,6 +85,10 @@ can champion multicultural values and strengthen societal resilience</p>
 <li>
 <p><strong>Ms Sun Xueling</strong>, Minister of State, Ministry of Home Affairs,
 Singapore</p>
+</li>
+<li>
+<p><strong>Mr Ho Kwon Ping</strong>, Founder and Executive Chairman of Banyan
+Group</p>
 </li>
 <li>
 <p><strong>Venerable Napan Thawornbanjob</strong>, Chair, Institute of Buddhist
@@ -112,6 +118,10 @@ Cohesion Research Programme, S. Rajaratnam School of International Studies</p>
 Studies in Inter-Religious Relations in Plural Societies Programme, S.
 Rajaratnam School of International Studies</p>
 </li>
+<li>
+<p><strong>Professor Farish Noor</strong>, Professor of Politics and Political
+Science, Universitas Islamic Internasional Indonesia</p>
+</li>
 </ul>
-<p><strong>Discussant</strong>: <strong>Professor Farish Noor</strong>, Professor
-of Politics and Political Science, Universitas Islamic Internasional Indonesia</p>
+<p><strong>Moderator</strong>: <strong>Mr Warren Fernandez</strong>, Senior
+Fellow, S. Rajaratnam School of International Studies</p>
