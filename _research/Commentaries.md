@@ -28,6 +28,37 @@ of views and expertise.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://rsis.edu.sg/rsis-publication/rsis/fostering-social-cohesion-in-todays-privatised-societies/" rel="noopener noreferrer nofollow" target="_blank">Fostering Social Cohesion in Today’s “Privatised” Societies</a> by
+Leong Chan-Hoong</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15 April 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>While we are familiar with the sectarian instincts that pull communities
+apart, a parallel primordial force is quietly changing our sense of togetherness
+– the tendency to retreat from socialisation and shared rituals, reinforced
+by digitalisation and the craving for social disconnection.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://rsis.edu.sg/rsis-publication/rsis/diversity-equity-inclusion-and-social-cohesion/" rel="noopener noreferrer nofollow" target="_blank">“Diversity, Equity, Inclusion” and Social Cohesion</a> by
+Paul Hedges</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09 April 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Globally, there has been some opposition to DEI, including from religious
+groups, arguing it is divisive. However, support for DEI strengthens social
+cohesion, while its foundations in social justice are taught in many ways
+in various religions.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://rsis.edu.sg/rsis-publication/rsis/beyond-tolerance-trust-building-for-a-meaningful-social-cohesion-in-singapore/" rel="noopener noreferrer nofollow" target="_blank">Beyond Tolerance: Trust-Building for a Meaningful Social Cohesion in Singapore</a> by
 Mohamed bin Ali and Shukul Raaj Kumar</p>
 </td>
