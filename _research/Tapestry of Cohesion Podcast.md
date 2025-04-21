@@ -91,7 +91,7 @@ different stages of life.&nbsp;</p>
 between diverse groups, Lord John Alderdice shares his insights on the
 role of leadership in multicultural societies. He explores the intricate
 balance between democracy, human nature, and societal differences — shedding
-light on the challenges and opportunities in fostering social cohesion.&nbsp;</p>
+light on the challenges and opportunities in fostering social cohesion.</p>
 </td>
 </tr>
 </tbody>
