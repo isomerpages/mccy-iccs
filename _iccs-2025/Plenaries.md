@@ -10,6 +10,24 @@ description: plenaries
 principles of social cohesion? This segment examines the ever-evolving
 concept of social cohesion as it may apply to our diverse, multicultural
 societies of today.</p>
+<p><strong>Speakers</strong>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Professor Mike Hardy</strong>, Chair of Intercultural Relations,
+Coventry University</p>
+</li>
+<li>
+<p><strong>Dr Catherine Fieschi,</strong> Fellow, Robert Schuman Centre for
+Advanced Studies, European University Institute, Florence</p>
+</li>
+<li>
+<p><strong>Dr Aaron Maniam,</strong> Fellow of Practice and Director, Digital
+Transformation Education, Blavatnik School of Government, University of
+Oxford</p>
+</li>
+</ul>
+<p><strong>Moderator</strong>: <strong>Professor Katherine Marshall,</strong> Senior
+Fellow, Berkley Center for Religion, Peace &amp; World Affairs</p>
 <h3><strong>2. Plenary 1: Unpacking Multiculturalism</strong></h3>
 <p>What do we mean by terms like multiculturalism, inclusion, and social
 cohesion? In this plenary, we explore the significant events and conditions
