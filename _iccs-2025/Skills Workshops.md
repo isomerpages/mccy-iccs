@@ -13,25 +13,30 @@ diversity.</p>
 <p>Participants will explore critical topics such as:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Navigating Polarities</strong>: Introduction to ‘polarity thinking’,
-an approach to divisive issues that crafts “yes-and”, mutually collaborative
-responses, celebrating societal range and diversity</p>
+<p><strong>Polarities, Not Polarisation</strong>: Introduction to “polarity
+thinking”, an approach to divisive issues that crafts “yes-and”, mutually
+collaborative responses, celebrating societal range and diversity instead
+of assuming that divisions between communities are inevitable and negative</p>
 </li>
 <li>
-<p><strong>Futures Thinking</strong>: Harness foresight techniques to anticipate
-and address emerging societal fault lines</p>
+<p><strong>Futures Skills:</strong> Learn how to apply foresight tools – especially
+the Futures Triangle – to systematically explore the drivers, constraints,
+and possible futures of social cohesion in their communities</p>
 </li>
 <li>
-<p><strong>Civic Conversational Skills</strong>: Develop the ability to lead
-open, empathetic, and impactful conversations in multicultural communities</p>
+<p><strong>Developing Civic Conversational Skills:</strong> Develop the ability
+to facilitate impactful conversations between individuals who may have
+diverse opinions or who may come from different backgrounds</p>
 </li>
 <li>
-<p><strong>Conflict Mediation and Negotiation</strong>: Build skills to facilitate
-meaningful resolutions in a polarised world</p>
+<p><strong>Conflict Resolution Fundamental Skills:</strong> Learn the fundamentals
+of conflict resolution including identifying interests and bargaining positions
+and facilitating win-win outcomes</p>
 </li>
 <li>
-<p><strong>Principles of Humanitarian Action</strong>: Understand how to
-act with compassion and solidarity in response to crises</p>
+<p><strong>Humanitarian Compass: Values and Actions in a Turbulent World: </strong>Introduction
+to the global humanitarian ecosystem, and understand how to act with compassion
+and solidarity in crises</p>
 </li>
 </ol>
 <p></p>
