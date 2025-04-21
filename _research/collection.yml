@@ -2,5 +2,6 @@ collections:
   research:
     output: true
     order:
+      - Tapestry of Cohesion Podcast.md
       - Southeast Asian Social Cohesion Radar.md
       - Commentaries.md
