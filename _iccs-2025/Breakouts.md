@@ -44,7 +44,8 @@ environments that promote inclusion, trust, and collective well-being.</p>
 for Interreligious Dialogue, Vatican</p>
 </li>
 <li>
-<p>[To be announced]</p>
+<p><strong>Professor John W. Berry</strong>, Professor Emeritus, Queen’s
+University, Canada</p>
 </li>
 </ul>
 <p><strong>Moderator</strong>: <strong>Ms Michelle Tay</strong>, Executive
@@ -129,7 +130,7 @@ Coventry University</p>
 University Isaac Abarbanel</p>
 </li>
 </ul>
-<p><strong>Moderator</strong>: Professor Paul Hedges, Professor in Interreligious
+<p><strong>Moderator: Professor Paul Hedges</strong>, Professor in Interreligious
 Relations, Studies in Inter-Religious Relations in Plural Societies Programme,
 S. Rajaratnam School of International Studies</p>
 <h4><strong>Breakout 7: Expanding our common space through everyday multiculturalism</strong></h4>
@@ -167,7 +168,8 @@ to rebuilding trust after crisis recovery.</p>
 Partnerships Manager, New Zealand Police</p>
 </li>
 <li>
-<p>[To be announced]</p>
+<p><strong>Datu Mussolini Sinsuat Lidasan</strong>, Executive Director, Al
+Qalam Institute</p>
 </li>
 </ul>
 <p><strong>Moderator</strong>: <strong>Dr Alistair Cook</strong>, Senior Fellow

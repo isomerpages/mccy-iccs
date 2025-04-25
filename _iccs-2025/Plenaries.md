@@ -10,6 +10,24 @@ description: plenaries
 principles of social cohesion? This segment examines the ever-evolving
 concept of social cohesion as it may apply to our diverse, multicultural
 societies of today.</p>
+<p><strong>Speakers</strong>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Professor Mike Hardy</strong>, Chair of Intercultural Relations,
+Coventry University</p>
+</li>
+<li>
+<p><strong>Dr Catherine Fieschi,</strong> Fellow, Robert Schuman Centre for
+Advanced Studies, European University Institute, Florence</p>
+</li>
+<li>
+<p><strong>Dr Aaron Maniam,</strong> Fellow of Practice and Director, Digital
+Transformation Education, Blavatnik School of Government, University of
+Oxford</p>
+</li>
+</ul>
+<p><strong>Moderator</strong>: <strong>Professor Katherine Marshall,</strong> Senior
+Fellow, Berkley Center for Religion, Peace &amp; World Affairs</p>
 <h3><strong>2. Plenary 1: Unpacking Multiculturalism</strong></h3>
 <p>What do we mean by terms like multiculturalism, inclusion, and social
 cohesion? In this plenary, we explore the significant events and conditions
@@ -18,8 +36,8 @@ that have enabled diverse communities to flourish.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Prof Dr Nasaruddin Umar</strong>, Grand Imam of Istiqlal State
-Mosque</p>
+<p><strong>Prof Dr Nasaruddin Umar</strong>, Minister for Religious Affairs,
+Indonesia and Grand Imam of Istiqlal State Mosque</p>
 </li>
 <li>
 <p><strong>Mr Ed Williams</strong>, President, International, Edelman</p>
@@ -30,8 +48,8 @@ of the Centre for Applied Cross-Cultural Research, Victoria University
 of Wellington</p>
 </li>
 </ul>
-<p><strong>Moderator</strong>: <strong>Mr Warren Fernandez</strong>, Senior
-Fellow, S. Rajaratnam School of International Studies</p>
+<p><strong>Moderator</strong>: <strong>Professor Farish Noor,</strong> Professor
+of Politics and Political Science, Universitas Islamic Internasional Indonesia</p>
 <h3><strong>3. Plenary 2: Navigating Uncertainty</strong></h3>
 <p>In an era of rapid change and increasing complexity, what emerging forces
 challenge our confidence in multiculturalism today? In this plenary, we
@@ -41,7 +59,9 @@ within societies.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Mr Peter Ho</strong>, Senior Advisor, Centre for Strategic Futures</p>
+<p><strong>Mr Peter Ho</strong>, Senior Advisor, Centre for Strategic Futures,
+Prime Minister’s Office Strategy Group and Former Head of Civil Service,
+Singapore</p>
 </li>
 <li>
 <p><strong>Mr Ahmed Aboutaleb</strong>, former Mayor of Rotterdam City</p>
@@ -65,6 +85,10 @@ can champion multicultural values and strengthen societal resilience</p>
 <li>
 <p><strong>Ms Sun Xueling</strong>, Minister of State, Ministry of Home Affairs,
 Singapore</p>
+</li>
+<li>
+<p><strong>Mr Ho Kwon Ping</strong>, Founder and Executive Chairman of Banyan
+Group</p>
 </li>
 <li>
 <p><strong>Venerable Napan Thawornbanjob</strong>, Chair, Institute of Buddhist
@@ -94,6 +118,10 @@ Cohesion Research Programme, S. Rajaratnam School of International Studies</p>
 Studies in Inter-Religious Relations in Plural Societies Programme, S.
 Rajaratnam School of International Studies</p>
 </li>
+<li>
+<p><strong>Professor Farish Noor</strong>, Professor of Politics and Political
+Science, Universitas Islamic Internasional Indonesia</p>
+</li>
 </ul>
-<p><strong>Discussant</strong>: <strong>Professor Farish Noor</strong>, Professor
-of Politics and Political Science, Universitas Islamic Internasional Indonesia</p>
+<p><strong>Moderator</strong>: <strong>Mr Warren Fernandez</strong>, Senior
+Fellow, S. Rajaratnam School of International Studies</p>

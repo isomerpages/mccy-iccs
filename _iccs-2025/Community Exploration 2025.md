@@ -5,7 +5,7 @@ variant: tiptap
 description: Community Exploration 2025
 ---
 <h2><strong>About Community Exploration 2025</strong></h2>
-<p>The Community Experience is an immersive programme that gives local and
+<p>The Community Exploration is an immersive programme that gives local and
 international delegates a firsthand look at Singapore’s approach to multicultural
 and interreligious harmony. By engaging with local communities and exploring
 Singapore’s diverse neighborhoods, delegates will gain invaluable insights
