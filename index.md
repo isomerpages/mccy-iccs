@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Untitled_design__1_.png
+      background: /images/Cohesive_Societies__Resilient_Futures_edited.png
       key_highlights:
         - title: About ICCS
           description: Background
