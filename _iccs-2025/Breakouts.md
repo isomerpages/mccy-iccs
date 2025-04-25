@@ -130,7 +130,7 @@ Coventry University</p>
 University Isaac Abarbanel</p>
 </li>
 </ul>
-<p><strong>Moderator</strong>: Professor Paul Hedges, Professor in Interreligious
+<p><strong>Moderator: Professor Paul Hedges</strong>, Professor in Interreligious
 Relations, Studies in Inter-Religious Relations in Plural Societies Programme,
 S. Rajaratnam School of International Studies</p>
 <h4><strong>Breakout 7: Expanding our common space through everyday multiculturalism</strong></h4>
