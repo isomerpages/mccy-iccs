@@ -54,10 +54,7 @@ actionable plans for cultural bridge-building.</p>
 <p></p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/line_green.png">
-</div>
-<h4><strong>YLP Day 2.5: Heartlands Experience</strong></h4>
+<h4><strong>YLP Heartlands Experience</strong></h4>
 <p>Experience Singapore's multicultural tapestry through curated heritage
 trails and learning journeys, where delegates navigate through vibrant
 heartlands to witness how shared spaces foster community bonds and celebrate
@@ -66,7 +63,7 @@ evening of 27 June 2025 after the day’s proceedings, with 5 concurrent
 sessions.</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Wok and Walk: Uncovering Chinatown’s Hidden Tales </strong>
+<p><strong>Wok and Walk: Uncovering Chinatown’s Hidden Tales</strong>
 </p>
 </li>
 </ol>
@@ -78,7 +75,7 @@ settlers while immersing yourself in Chinatown’s vibrancy that makes it
 so unique.</p>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p><strong>HELL-O: To hell and beyond! </strong>
+<p><strong>HELL-O: To hell and beyond!</strong>
 </p>
 </li>
 </ol>
@@ -126,7 +123,7 @@ while you're there!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/line_orange.png">
 </div>
-<h4><strong>YLP Day 3: Applied Learning </strong></h4>
+<h4><strong>YLP Day 3: Applied Learning</strong></h4>
 <p>The closing workshop will help bridge the gap between knowledge &amp;
 skillsets gleaned across the whole conference and actual practices, helping
 YLP delegates connect classroom concepts with real-world applications.</p>
@@ -137,18 +134,4 @@ YLP delegates connect classroom concepts with real-world applications.</p>
 Southern California, United States of America</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/line_blue.png">
-</div>
-<h4><strong>Volunteer with us!</strong></h4>
-<p>Leadership is best cultivated when as many voices as possible are heard.&nbsp;
-YLP strives to include youth delegates not just as participants, but as
-co-creators of the experience. This inclusive approach ensures that the
-delegates can contribute, learn, and grow as part of a diverse and vibrant
-community. You will find friendly YLP 2025 Working Committee members as
-your fellow youth delegates who have curated fun breakout activities for
-your participation.</p>
-<p>Feel free to volunteer as facilitators or interactive theatre performers
-at YLP!&nbsp; You can reach out to the YLP Secretariat for more details
-at <strong><a rel="noopener noreferrer nofollow" target="_blank">ICCS-YLP@mccy.gov.sg</a> </strong>.</p>
 <p></p>
