@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Website_Desktop.png
+      background: /images/Website_Desktop_V2.png
       key_highlights:
         - title: About ICCS
           description: Background
