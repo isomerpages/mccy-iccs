@@ -42,18 +42,81 @@ enriching experience of cultural exchange and showcase.</p>
 Working Comm-led breakout activities immerse delegates in real-world scenarios,
 turning theory into practice. Through hands-on activities, delegates will
 gain practical insights and develop critical problem-solving skills.</p>
-<p>We have also carved out a slot for delegates to transform inspiration
-into action through our brainstorming session where delegates will get
-to collaborate in teams, share diverse perspectives on fostering harmony
-and develop practical, innovative ideas for community engagement and create
-actionable plans for cultural bridge-building.</p>
+<h4><strong>YLP Forum Theatre Experience</strong></h4>
+<p>To encourage insightful participation and reflections, YLP delegates will
+go through a forum theatre experience, an interactive theatre that allows
+audience to participate in the performance by suggesting changes in the
+action or even stepping in as actors to alter the course of the story.
+Delegates will be engages in post-forum theatre reflections facilitated
+via a civic conversation toolkit.</p>
+<h4><strong>YLP Breakout Sessions</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Volunteer Quest: Expedition of Harmony </strong>
+</p>
+</li>
+</ol>
+<p>Be transported into an immersive, narrative-driven environment where you
+will explore the intersectionality of volunteerism, race, and religion
+through real-world challenges. In this breakout room activity, you will
+solve puzzles, decode clues, and brainstorm solutions while deepening your
+understanding of these complex themes. This experience will challenge you
+to think critically, act empathetically, and collaborate effectively to
+create meaningful change.</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>"Act" Against Disunity </strong>
+</p>
+</li>
+</ol>
+<p>In a diverse society like Singapore, maintaining peace and harmony requires
+active effort and understanding. This dynamic engagement will immerse participants
+in evolving scenarios where social harmony is disrupted by racial, religious,
+or community-based tensions. Participants will be assigned roles as key
+stakeholders—community leaders, government officials, affected individuals,
+bystanders, and media representatives. As the scenarios unfold with new
+developments and escalating challenges, you must take strategic actions
+to de-escalate conflicts, mediate disputes, and implement long-term solutions.</p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p><strong>Grand Challenges: faith in action scenarios for a more resilient tomorrow </strong>
+</p>
+</li>
+</ol>
+<p>In an increasingly diverse yet divided world, interfaith engagement is
+crucial for building cohesive and resilient multicultural societies. This
+participant-led scenario-based breakout session empowers you to take ownership
+of interfaith dialogue and action. Through interactive discussions, real-world
+case studies, and scenario-based problem-solving, you will explore current
+and future interfaith challenges—from misinformation and religious discrimination
+to the ethics of AI and faith. You will collaborate to design solutions
+and commit to tangible actions that foster inclusion, mutual understanding,
+and social cohesion.</p>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p><strong><em>Soundscapes of Religions in Singapore </em>Experiential Exhibition </strong>
+</p>
+</li>
+</ol>
+<p>Soundscapes of Religions in Singapore is an experiential exhibition that
+takes participants through an immersive experience of sounds associated
+with faith communities in Singapore. The exhibition features guided tours
+that will incorporate mediation practices, hands-on activity with religious
+musical instruments, panel explanations on sacred sounds in different religious
+traditions, and an interactive performance featuring a cultural performance
+group where participants are welcomed to join in the fun!</p>
 <p>Participating partners include:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Dialogue Centre</strong>, Singapore</p>
-<p></p>
+<p><strong>Dialogue Centre,</strong> Singapore</p>
 </li>
 </ul>
+<h4><strong>YLP Ideation Pitch</strong></h4>
+<p>A slot is already carved out for delegates to transform inspiration into
+action through our brainstorming session where delegates will get to collaborate
+in teams, share diverse perspectives on fostering harmony and develop practical,
+innovative ideas for community engagement and create actionable plans for
+cultural bridge-building.</p>
 <h4><strong>YLP Heartlands Experience</strong></h4>
 <p>Experience Singapore's multicultural tapestry through curated heritage
 trails and learning journeys, where delegates navigate through vibrant
