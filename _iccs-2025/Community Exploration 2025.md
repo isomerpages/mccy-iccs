@@ -64,6 +64,10 @@ community spaces in fostering social harmony and inclusivity.</p>
 <li>
 <p><strong>Kampong Gelam Heritage District</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KPG_Walking_Trails.jpg">
+</div>
+<p>(Photo credit: Malay Heritage Centre)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Kampong Gelam Heritage District is a historical gem that stands as a testament
@@ -85,6 +89,10 @@ of Singapore.</p>
 <li>
 <p><strong>National Gallery Singapore</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NGS.jpg">
+</div>
+<p>(Photo credit: National Gallery Singapore)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>National Gallery Singapore is a treasure trove of Southeast Asian art,
@@ -99,6 +107,10 @@ it has evolved over time.</p>
 <li>
 <p><strong>Indian Heritage Centre</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="(Photo credit: Indian Heritage Centre)" src="/images/Copy_of_Copy_of_IHC_banner_facade__1920x1200_.jpg">
+</div>
+<p>(Photo credit: Indian Heritage Centre)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The Indian Heritage Centre offers a deep dive into the rich history and
