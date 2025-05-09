@@ -52,7 +52,7 @@ via a civic conversation toolkit.</p>
 <h4><strong>YLP Breakout Sessions</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Volunteer Quest: Expedition of Harmony </strong>
+<p><strong>Volunteer Quest: Expedition of Harmony</strong>
 </p>
 </li>
 </ol>
@@ -65,7 +65,7 @@ to think critically, act empathetically, and collaborate effectively to
 create meaningful change.</p>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p><strong>"Act" Against Disunity </strong>
+<p><strong>"Act" Against Disunity</strong>
 </p>
 </li>
 </ol>
@@ -79,7 +79,7 @@ developments and escalating challenges, you must take strategic actions
 to de-escalate conflicts, mediate disputes, and implement long-term solutions.</p>
 <ol start="3" data-tight="true" class="tight">
 <li>
-<p><strong>Grand Challenges: faith in action scenarios for a more resilient tomorrow </strong>
+<p><strong>Grand Challenges: faith in action scenarios for a more resilient tomorrow</strong>
 </p>
 </li>
 </ol>
@@ -94,7 +94,7 @@ and commit to tangible actions that foster inclusion, mutual understanding,
 and social cohesion.</p>
 <ol start="4" data-tight="true" class="tight">
 <li>
-<p><strong><em>Soundscapes of Religions in Singapore </em>Experiential Exhibition </strong>
+<p><strong><em>Soundscapes of Religions in Singapore </em>Experiential Exhibition</strong>
 </p>
 </li>
 </ol>
@@ -187,9 +187,11 @@ while you're there!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/line_orange.png">
 </div>
 <h4><strong>YLP Day 3: Applied Learning</strong></h4>
-<p>The closing workshop will help bridge the gap between knowledge &amp;
-skillsets gleaned across the whole conference and actual practices, helping
-YLP delegates connect classroom concepts with real-world applications.</p>
+<p>This interactive session synthesises insights from ICCS main conference
+and YLP sessions. Facilitated by USC-CRCC, this closing workshop will help
+bridge the gap between knowledge &amp; skillsets gleaned across the whole
+conference and actual practices, helping YLP delegates connect classroom
+concepts with real-world applications.</p>
 <p>Participating partners include:</p>
 <ul data-tight="true" class="tight">
 <li>
