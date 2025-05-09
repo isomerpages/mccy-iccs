@@ -51,6 +51,10 @@ nation's multicultural tapestry.</p>
 <li>
 <p><strong>Our Tampines Hub</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OTH.png">
+</div>
+<p>(Photo credit: Our Tampines Hub)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Our Tampines Hub is a vibrant community and lifestyle destination that
@@ -125,6 +129,10 @@ into traditional Indian arts, such as dance and music.</p>
 <li>
 <p><strong>One Punggol</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/One_Punggol.jpg">
+</div>
+<p>(Photo credit: One Punggol)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>One Punggol is set to be a landmark for community engagement and integration.
