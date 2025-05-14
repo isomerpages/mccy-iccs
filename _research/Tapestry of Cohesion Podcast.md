@@ -41,6 +41,37 @@ it as the premier forum for advancing discussions on cohesion.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Episode 5: <a href="https://open.spotify.com/episode/4YBliHBec50jcK6FArkeLX?si=d871cf4ea98e4cc5" rel="noopener noreferrer nofollow" target="_blank">Retreat into Privatised World: What It Means for Social Cohesion</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9 May 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Leong Chan-Hoong, Head of the Social Cohesion Research Programme at
+RSIS, discusses an emerging trend—our quiet retreat into "privatised worlds."
+As organic, in-person interactions diminish in daily life, what are the
+consequences for our shared experiences, communal understanding, and national
+identity?</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Episode 4: <a href="https://open.spotify.com/episode/19ZLovDztvJfXPTi0E4v94?si=4de9495fa6f04cfe" rel="noopener noreferrer nofollow" target="_blank">Misinformation, Moderation, and the Future of the Internet</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 April 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Benjamin Ang, Head of the Centre of Excellence for National Security at
+RSIS, talks about how the internet has transformed over the past decade.
+From the constant stream of misinformation and disinformation to the challenges
+posed by AI-generated content, Benjamin unpacks the evolving digital landscape.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Episode 3: <a href="https://open.spotify.com/episode/3DxPmgxdcMNI4HMAdwWLn8?si=a3f9a207fdd84bcd" rel="noopener noreferrer nofollow" target="_blank">How Rituals Shape our World: From Faith to Football with Professor Harvey Whitehouse</a>
 </p>
 </td>
