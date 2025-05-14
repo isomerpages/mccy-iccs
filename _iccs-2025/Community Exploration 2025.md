@@ -151,6 +151,10 @@ setting.</p>
 <li>
 <p><strong>Community Law Centre @ Tian De Temple</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CLC.jpg">
+</div>
+<p>(Photo credit: Community Law Centre)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The Community Law Centre at Tian De Temple represents a unique blend of
