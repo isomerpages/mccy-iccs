@@ -29,9 +29,9 @@ to facilitate impactful conversations between individuals who may have
 diverse opinions or who may come from different backgrounds</p>
 </li>
 <li>
-<p><strong>Conflict Resolution Fundamental Skills:</strong> Learn the fundamentals
-of conflict resolution including identifying interests and bargaining positions
-and facilitating win-win outcomes</p>
+<p><strong>Conflict Resolution and Mediation Fundamental Skills:</strong> Learn
+the fundamentals of conflict resolution and mediation including identifying
+interests and positions and facilitating win-win outcomes</p>
 </li>
 <li>
 <p><strong>Humanitarian Compass: Values and Actions in a Turbulent World: </strong>Introduction
