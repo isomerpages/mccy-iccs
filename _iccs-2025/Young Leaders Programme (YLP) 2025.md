@@ -42,14 +42,14 @@ enriching experience of cultural exchange and showcase.</p>
 Working Comm-led breakout activities immerse delegates in real-world scenarios,
 turning theory into practice. Through hands-on activities, delegates will
 gain practical insights and develop critical problem-solving skills.</p>
-<h4><strong>YLP Forum Theatre Experience</strong></h4>
+<h4><strong>YLP Day 2: Forum Theatre Experience</strong></h4>
 <p>To encourage insightful participation and reflections, YLP delegates will
 go through a forum theatre experience, an interactive theatre that allows
 audience to participate in the performance by suggesting changes in the
 action or even stepping in as actors to alter the course of the story.
 Delegates will be engages in post-forum theatre reflections facilitated
 via a civic conversation toolkit.</p>
-<h4><strong>YLP Breakout Sessions</strong></h4>
+<h4><strong>YLP Day 2: Breakout Sessions</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Volunteer Quest: Expedition of Harmony</strong>
@@ -111,13 +111,13 @@ group where participants are welcomed to join in the fun!</p>
 <p><strong>Dialogue Centre,</strong> Singapore</p>
 </li>
 </ul>
-<h4><strong>YLP Ideation Pitch</strong></h4>
+<h4><strong>YLP Day 2: Ideation Pitch</strong></h4>
 <p>A slot is already carved out for delegates to transform inspiration into
 action through our brainstorming session where delegates will get to collaborate
 in teams, share diverse perspectives on fostering harmony and develop practical,
 innovative ideas for community engagement and create actionable plans for
 cultural bridge-building.</p>
-<h4><strong>YLP Heartlands Experience</strong></h4>
+<h4><strong>YLP Day 2: Heartlands Experience</strong></h4>
 <p>Experience Singapore's multicultural tapestry through curated heritage
 trails and learning journeys, where delegates navigate through vibrant
 heartlands to witness how shared spaces foster community bonds and celebrate
