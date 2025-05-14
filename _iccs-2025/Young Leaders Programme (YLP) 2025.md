@@ -112,8 +112,8 @@ group where participants are welcomed to join in the fun!</p>
 </li>
 </ul>
 <h4><strong>YLP Day 2: Ideation Pitch</strong></h4>
-<p>A slot is already carved out for delegates to transform inspiration into
-action through our brainstorming session where delegates will get to collaborate
+<p>A slot is carved out for delegates to transform inspiration into action
+through our brainstorming session where delegates will get to collaborate
 in teams, share diverse perspectives on fostering harmony and develop practical,
 innovative ideas for community engagement and create actionable plans for
 cultural bridge-building.</p>
