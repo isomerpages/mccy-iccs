@@ -37,6 +37,10 @@ community in Singapore.</p>
 <li>
 <p><strong>Singapore Chinese Cultural Centre</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCCC.jpg">
+</div>
+<p>(Photo credit: Singapore Chinese Cultural Centre)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>At the Singapore Chinese Cultural Centre, the learning journey will uncover
