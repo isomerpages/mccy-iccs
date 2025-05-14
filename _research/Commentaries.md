@@ -28,6 +28,54 @@ of views and expertise.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://rsis.edu.sg/rsis-publication/rsis/where-next-for-singapore/" rel="noopener nofollow" target="_blank">Where Next for Singapore?</a> By
+Harvey Whitehouse</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 May 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Harvey Whitehouse explores Singapore’s future, emphasising the importance
+of social cohesion and sustainable growth in an era of global instability.
+He argues that rituals, education, and inclusive leadership can reinforce
+national identity and trust. He also argues that Singapore, at a crossroads,
+must focus on equitable and sustainable development to remain a global
+success story.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://rsis.edu.sg/rsis-publication/rsis/religious-ecology-transforming-crises-into-opportunities-for-dialogue-and-cooperatio/" rel="noopener nofollow" target="_blank">Religious Ecology: Transforming Crises Into Opportunities for Dialogue and Cooperation</a> by
+Amanda Huan and Claribel Low</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7 May 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>As the climate crisis intensifies, various religious environmental groups
+have emerged in a bid to encourage more people to become ecologically conscious.
+Such efforts have increasingly become interfaith in nature, providing an
+alternative space for those of different faiths to gather in dialogue and
+collaboration. These approaches can contribute to fostering more cohesive,
+resilient and compassionate societies.&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://rsis.edu.sg/rsis-publication/rsis/is-interfaith-dialogue-in-southeast-asia-losing-its-relevance-a-call-for-renewal/" rel="noopener nofollow" target="_blank">Is Interfaith Dialogue in Southeast Asia Losing Its Relevance? A Call for Renewal</a> by
+Nazhath Faheema</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23 April 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>As society changes digitally, generationally, and demographically, older
+interreligious dialogue models struggle to be effective, and a renewal
+is arguably needed.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://rsis.edu.sg/rsis-publication/rsis/fostering-social-cohesion-in-todays-privatised-societies/" rel="noopener noreferrer nofollow" target="_blank">Fostering Social Cohesion in Today’s “Privatised” Societies</a> by
 Leong Chan-Hoong</p>
 <p>&nbsp;</p>
