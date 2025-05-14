@@ -23,12 +23,15 @@ practices enrich life in a vibrant, multicultural society.</p>
 <p><strong>Sri Mariamman Temple and Masjid Jamae Chulia</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Masjid_Jamae.jpg">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMT.jpg">
 </div>
-<p>(Photo credit: Masjid Jamae Chulia &amp; Sri Mariamman Temple)</p>
+<p><em>(Photo credit: Sri Mariamman Temple)</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Masjid_Jamae.jpg">
+</div>
+<p><em>(Photo credit: Masjid Jamae Chulia)</em>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>This segment of the journey will explore two of Singapore's oldest religious
@@ -47,7 +50,8 @@ community in Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCCC.jpg">
 </div>
-<p>(Photo credit: Singapore Chinese Cultural Centre)</p>
+<p><em>(Photo credit: Singapore Chinese Cultural Centre)</em>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>At the Singapore Chinese Cultural Centre, the learning journey will uncover
@@ -65,7 +69,8 @@ nation's multicultural tapestry.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OTH.png">
 </div>
-<p>(Photo credit: Our Tampines Hub)</p>
+<p><em>(Photo credit: Our Tampines Hub)</em>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Our Tampines Hub is a vibrant community and lifestyle destination that
@@ -82,7 +87,8 @@ community spaces in fostering social harmony and inclusivity.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KPG_Walking_Trails.jpg">
 </div>
-<p>(Photo credit: Malay Heritage Centre)</p>
+<p><em>(Photo credit: Malay Heritage Centre)</em>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Kampong Gelam Heritage District is a historical gem that stands as a testament
@@ -107,7 +113,8 @@ of Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NGS.jpg">
 </div>
-<p>(Photo credit: National Gallery Singapore)</p>
+<p><em>(Photo credit: National Gallery Singapore)</em>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>National Gallery Singapore is a treasure trove of Southeast Asian art,
@@ -125,7 +132,8 @@ it has evolved over time.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="(Photo credit: Indian Heritage Centre)" src="/images/Copy_of_Copy_of_IHC_banner_facade__1920x1200_.jpg">
 </div>
-<p>(Photo credit: Indian Heritage Centre)</p>
+<p><em>(Photo credit: Indian Heritage Centre)</em>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The Indian Heritage Centre offers a deep dive into the rich history and
@@ -143,7 +151,8 @@ into traditional Indian arts, such as dance and music.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/One_Punggol.jpg">
 </div>
-<p>(Photo credit: One Punggol)</p>
+<p><em>(Photo credit: One Punggol)</em>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>One Punggol is set to be a landmark for community engagement and integration.
@@ -161,7 +170,8 @@ setting.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CLC.jpg">
 </div>
-<p>(Photo credit: Community Law Centre)</p>
+<p><em>(Photo credit: Community Law Centre)</em>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The Community Law Centre at Tian De Temple represents a unique blend of
