@@ -22,6 +22,13 @@ practices enrich life in a vibrant, multicultural society.</p>
 <li>
 <p><strong>Sri Mariamman Temple and Masjid Jamae Chulia</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Masjid_Jamae.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMT.jpg">
+</div>
+<p>(Photo credit: Masjid Jamae Chulia &amp; Sri Mariamman Temple)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>This segment of the journey will explore two of Singapore's oldest religious
