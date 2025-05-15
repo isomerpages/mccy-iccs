@@ -86,7 +86,8 @@ future possibilities for all.</p>
 miyagi.sg</p>
 </li>
 <li>
-<p><strong>Mr Norman Ng</strong>, Head of Trust and Safety, APAC, Google</p>
+<p><strong>Mr Andri Kusumo</strong>, Engagement Lead, Trust and Safety, APAC,
+Google</p>
 </li>
 </ul>
 <p><strong>Moderator</strong>: <strong>Mr Benjamin Ang</strong>, Senior Fellow
