@@ -114,7 +114,7 @@ do ASEAN states share?</p>
 Cohesion Research Programme, S. Rajaratnam School of International Studies</p>
 </li>
 <li>
-<p><strong>Professor Paul Hedges</strong>, Professor in Interreligious Relations,
+<p><strong>Professor Paul Hedges</strong>, Professor of Interreligious Studies,
 Studies in Inter-Religious Relations in Plural Societies Programme, S.
 Rajaratnam School of International Studies</p>
 </li>
