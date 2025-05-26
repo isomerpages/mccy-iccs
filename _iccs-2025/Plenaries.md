@@ -13,12 +13,12 @@ societies of today.</p>
 <p><strong>Speakers</strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Professor Mike Hardy</strong>, Chair of Intercultural Relations,
+<p><strong>Professor Mike Hardy</strong>, Professor of Intercultural Relations,
 Coventry University</p>
 </li>
 <li>
-<p><strong>Dr Catherine Fieschi,</strong> Fellow, Robert Schuman Centre for
-Advanced Studies, European University Institute, Florence</p>
+<p><strong>Dr Catherine Fieschi,</strong> Fellow, Robert Schuman Centre, European
+University Institute</p>
 </li>
 <li>
 <p><strong>Dr Aaron Maniam,</strong> Fellow of Practice and Director, Digital
@@ -43,13 +43,12 @@ Indonesia and Grand Imam of Istiqlal State Mosque</p>
 <p><strong>Mr Ed Williams</strong>, President, International, Edelman</p>
 </li>
 <li>
-<p><strong>Prof Colleen Ward</strong>, Professor of Psychology and Founder
-of the Centre for Applied Cross-Cultural Research, Victoria University
-of Wellington</p>
+<p><strong>Prof Colleen Ward</strong>, Professor of Cross-Cultural Psychology,
+Victoria University of Wellington</p>
 </li>
 </ul>
-<p><strong>Moderator</strong>: <strong>Professor Farish Noor,</strong> Professor
-of Politics and Political Science, Universitas Islamic Internasional Indonesia</p>
+<p><strong>Moderator</strong>: <strong>Professor Farish Noor,</strong> Professor,
+Universitas Islam Internasional Indonesia</p>
 <h3><strong>3. Plenary 2: Navigating Uncertainty</strong></h3>
 <p>In an era of rapid change and increasing complexity, what emerging forces
 challenge our confidence in multiculturalism today? In this plenary, we
@@ -64,11 +63,10 @@ Prime Minister’s Office Strategy Group and Former Head of Civil Service,
 Singapore</p>
 </li>
 <li>
-<p><strong>Mr Ahmed Aboutaleb</strong>, former Mayor of Rotterdam City</p>
+<p><strong>Mr Ahmed Aboutaleb</strong>, former Mayor of Rotterdam</p>
 </li>
 <li>
-<p><strong>Mr Fadi Chehade</strong>, Founder of Ethos Capital and former
-CEO of the Internet Corporation for Assigned Names and Numbers (ICANN)</p>
+<p><strong>Mr Fadi Chehade</strong>, Managing Partner, Ethos Capital</p>
 </li>
 </ul>
 <p><strong>Moderator</strong>: <strong>Professor Kumar Ramakrishna</strong>,
@@ -88,7 +86,7 @@ National Development and Ministry of Transport (Immediate past Minister
 of State for Home Affairs, and Social &amp; Family Development), Singapore</p>
 </li>
 <li>
-<p><strong>Mr Ho Kwon Ping</strong>, Founder and Executive Chairman of Banyan
+<p><strong>Mr Ho KwonPing</strong>, Founder and Executive Chairman of Banyan
 Group</p>
 </li>
 <li>
@@ -98,8 +96,8 @@ Peace Thailand</p>
 </li>
 </ul>
 <p><strong>Moderator</strong>: <strong>Professor Mona Siddiqui</strong>, Professor
-of Islamic and Interreligious Studies, Assistant Principal Religion and
-Society, University of Edinburgh</p>
+of Islamic and Interreligious Studies and Assistant Principal for Religion
+and Society, University of Edinburgh</p>
 <h3><strong>5. Southeast Asia Social Cohesion Radar</strong></h3>
 <p>This session showcases the findings from the 2<sup>nd</sup> edition of
 the Southeast Asian Social Cohesion Radar. This is a follow-up to the first
@@ -120,8 +118,8 @@ Studies in Inter-Religious Relations in Plural Societies Programme, S.
 Rajaratnam School of International Studies</p>
 </li>
 <li>
-<p><strong>Professor Farish Noor</strong>, Professor of Politics and Political
-Science, Universitas Islamic Internasional Indonesia</p>
+<p><strong>Professor Farish Noor</strong>, Professor, Universitas Islam Internasional
+Indonesia</p>
 </li>
 </ul>
 <p><strong>Moderator</strong>: <strong>Mr Warren Fernandez</strong>, Senior
