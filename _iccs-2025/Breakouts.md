@@ -20,8 +20,8 @@ optimistic and cohesive.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Professor Noorhaidi Hassan</strong>, Rector, Universitas Islam
-Negeri Sunan Kalijaga Yogyakarta</p>
+<p><strong>Professor Noorhaidi Hassan</strong>, Rector, Sunan Kalijaga State
+Islamic University, Yogyakarta</p>
 </li>
 <li>
 <p><strong>Ms Lee Huay Leng</strong>, Editor-in-Chief, SPH Chinese Media
@@ -44,8 +44,8 @@ environments that promote inclusion, trust, and collective well-being.</p>
 for Interreligious Dialogue, Vatican</p>
 </li>
 <li>
-<p><strong>Professor John W. Berry</strong>, Professor Emeritus, Queen’s
-University, Canada</p>
+<p><strong>Professor John W. Berry</strong>, Professor Emeritus of Psychology,
+Queen’s University</p>
 </li>
 </ul>
 <p><strong>Moderator</strong>: <strong>Ms Michelle Tay</strong>, Executive
@@ -64,8 +64,8 @@ uplifting and empowering vulnerable minority groups.</p>
 Study of Social Cohesion, University of Oxford</p>
 </li>
 <li>
-<p><strong>Imam Dr. Khalil Abdur-Rashid</strong>, Muslim Chaplain, Harvard
-University</p>
+<p><strong>Imam Dr. Khalil Abdur-Rashid</strong>, Chair of the Board of Religious,
+Spiritual &amp; Ethical Life and Muslim Chaplain, Harvard University</p>
 </li>
 </ul>
 <p><strong>Moderator</strong>: <strong>Mohamed Irshad</strong>, Founder of
@@ -82,12 +82,12 @@ future possibilities for all.</p>
 <p><strong>Speakers</strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Mr Benjamin Lee</strong>, Creative Instigator and Brand Storyteller,
-miyagi.sg</p>
+<p><strong>Mr Benjamin Lee</strong>, Head of Commercial &amp; Marketing,
+Beach House Labs</p>
 </li>
 <li>
-<p><strong>Mr Andri Kusumo</strong>, Engagement Lead, Trust and Safety, APAC,
-Google</p>
+<p><strong>Mr Andri Kusumo</strong>, APAC Engagement Lead, Trust and Safety
+Global Engagements, Google</p>
 </li>
 </ul>
 <p><strong>Moderator</strong>: <strong>Mr Benjamin Ang</strong>, Senior Fellow
@@ -103,12 +103,12 @@ do we engage the new groups and navigate the cultural sensitivities.</p>
 <p><strong>Speakers</strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Dr Caroline Ng Tseung-Wong</strong>, Senior Lecturer, Psychology,
-University of Canberra</p>
+<p><strong>Dr Caroline Ng Tseung-Wong</strong>, Senior Lecturer, University
+of Canberra</p>
 </li>
 <li>
-<p><strong>Professor Farish Noor</strong>, Professor of Politics and Political
-Science, Universitas Islamic Internasional Indonesia</p>
+<p><strong>Professor Farish Noor</strong>, Professor, Universitas Islam Internasional
+Indonesia</p>
 </li>
 </ul>
 <p><strong>Moderator</strong>: <strong>Dr Leong Chan-Hoong</strong>, Senior
@@ -123,12 +123,12 @@ these forces.</p>
 <p><strong>Speakers</strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Professor Mike Hardy</strong>, Chair of Intercultural Relations,
+<p><strong>Professor Mike Hardy</strong>, Professor of Intercultural Relations,
 Coventry University</p>
 </li>
 <li>
-<p><strong>Rabbi Silvina Chemen</strong>, Vice-Rector for International Cooperation,
-University Isaac Abarbanel</p>
+<p><strong>Rabbi Silvina Chemen</strong>, Vice-Rector, Abarbanel University
+Institute</p>
 </li>
 </ul>
 <p><strong>Moderator: Professor Paul Hedges</strong>, Professor of Interreligious
@@ -149,11 +149,12 @@ University of Leicester</p>
 </li>
 <li>
 <p><strong>Professor Susanne Wessendorf</strong>, Professor of Social Anthropology,
-Centre for Trust, Peace and Social Relations, Coventry University</p>
+Institute for Peace and Security, Coventry University</p>
 </li>
 </ul>
 <p><strong>Moderator</strong>: <strong>Dr Selvaraj Velayutham</strong>, Associate
-Professor of Sociology, Macquarie University</p>
+Professor of Sociology, School of Communication, Society and Culture, Macquarie
+University</p>
 <h4><strong>Breakout 8: Rebuilding trust and cohesion after social tragedies</strong></h4>
 <p>Natural and man-made disasters have a long and deep impact on the psychological
 and communal fabric of a society. This challenge is more acute in a diverse
@@ -165,14 +166,14 @@ to rebuilding trust after crisis recovery.</p>
 <p><strong>Speakers</strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Mr Rakesh Sharanun Naidoo</strong>, Superintendent &amp; National
-Partnerships Manager, New Zealand Police</p>
+<p><strong>Mr Rakesh Naidoo MNZM</strong>, Manager, National Ethnic Partnerships,
+New Zealand Police</p>
 </li>
 <li>
-<p><strong>Datu Mussolini Sinsuat Lidasan</strong>, Executive Director, Al
-Qalam Institute</p>
+<p><strong>Datu Mussolini Lidasan</strong>, Director, Al Qalam Institute,
+Ateneo de Davao University</p>
 </li>
 </ul>
 <p><strong>Moderator</strong>: <strong>Dr Alistair Cook</strong>, Senior Fellow
-and Coordinator of the Humanitarian Assistance and Disaster Relief, Programme,
+and Coordinator of the Humanitarian Assistance and Disaster Relief Programme,
 S. Rajaratnam School of International Studies</p>
