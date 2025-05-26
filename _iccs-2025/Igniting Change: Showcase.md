@@ -33,9 +33,9 @@ communal bonds among children and local communities.</p>
 </li>
 <li>
 <p><strong><em>Cross-Cultural Religious Literacy (</em>Indonesia<em>) </em></strong>–
-Leimena Institute Executive Director Matius Ho will share about this program
-which strengthens individual competencies to improve collaboration among
-people from different religions.</p>
+Leimena Institute Director Matius Ho will share about this program which
+strengthens individual competencies to improve collaboration among people
+from different religions.</p>
 </li>
 </ul>
 <p></p>
