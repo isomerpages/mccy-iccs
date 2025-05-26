@@ -13,8 +13,9 @@ inspire future leaders to build cohesive and inclusive communities.</p>
 <p>Featuring the following young leaders:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Mr Alex Low</strong>, a Heart of God Church Youth Member and Founder
-of interfaith.sg, an online playbook for interfaith projects (Singapore)</p>
+<p><strong>Mr Alex Low</strong>, a Heart of God Church Youth Member and Co-Founder
+and Director of interfaith.sg, an online playbook for interfaith projects
+(Singapore)</p>
 </li>
 <li>
 <p><strong>Ms Wendy Maryzeline</strong>, a producer and host of content platform
@@ -26,13 +27,14 @@ nonprofit addressing inequality from racial and religious divisions in
 Malaysia (Malaysia)</p>
 </li>
 <li>
-<p><strong>Ms Tarina Ahuja</strong>, who co-founded Young Khalsa Girls among
-other initiatives and seeks to empower youths to take part in selfless
-service (USA)</p>
+<p><strong>Ms Tarina Ahuja</strong>, who is a youth advocate and organiser
+whose work spans organisations such as the Sikh American National Youth
+Council, Young Khalsa Girls, Greater Good Initiative, and the Parliament
+of World's Religions (USA)</p>
 </li>
 <li>
-<p><strong>Ms Amna Ben Amara</strong>, a researcher and intercultural trainer
-from Diversity Atlas (Tunisia)</p>
+<p><strong>Ms Amna Ben Amara</strong>, a researcher and consultant from Intercultural
+Management (Tunisia)</p>
 </li>
 </ul>
 <p>This chat will be moderated by <strong>Dr Aaron Maniam</strong>, Fellow

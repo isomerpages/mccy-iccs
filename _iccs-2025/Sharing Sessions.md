@@ -16,8 +16,8 @@ seeks to explore ways in which dialogue can be made more inclusive. Specifically
 delegates are encouraged to discuss how we might engage more communities,
 such as the non-religious. Delegates can also reflect upon and discuss
 norms that can facilitate healthy and open&nbsp;dialogue.</p>
-<p><strong>Facilitator</strong>: <strong>Mr Mohamed Imran Mohamed Taib</strong>,
-Director, Dialogue Centre</p>
+<p><strong>Facilitator</strong>: <strong>Mr Imran Taib</strong>, Director,
+Dialogue Centre</p>
 <h4><strong>2. Enhancing Outreach: Educating and Rallying For Good</strong></h4>
 <p>Good causes can go further and achieve more when it is amplified and awareness
 is effectively raised. Educating and rallying others can encourage more&nbsp;to
