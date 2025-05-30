@@ -36,7 +36,7 @@ that have enabled diverse communities to flourish.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Prof Dr Nasaruddin Umar</strong>, Minister for Religious Affairs,
+<p><strong>Prof Dr Nasaruddin Umar</strong>, Minister of Religious Affairs,
 Indonesia and Grand Imam of Istiqlal State Mosque</p>
 </li>
 <li>
