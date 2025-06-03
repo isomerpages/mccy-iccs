@@ -20,7 +20,7 @@ optimistic and cohesive.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Professor Noorhaidi Hassan</strong>, Rector, Sunan Kalijaga State
+<p><strong>Professor Noorhaidi Hasan</strong>, Rector, Sunan Kalijaga State
 Islamic University, Yogyakarta</p>
 </li>
 <li>
