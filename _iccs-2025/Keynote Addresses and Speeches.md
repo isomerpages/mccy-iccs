@@ -11,11 +11,11 @@ description: Keynote Addresses and Speeches
 </p>
 </li>
 <li>
-<p><strong>Keynote Address by His Royal Highness Sultan Nazrin Muizzuddin Shah, Sultan of Perak and Deputy Yang di-Pertuan Agong, Malaysia</strong>
+<p><strong>Keynote Address by the Sultan of Perak and Deputy Yang di-Pertuan Agong, His Royal Highness Sultan Nazrin Muizzuddin Shah</strong>
 </p>
 </li>
 <li>
-<p><strong>Closing Address by Minister for Culture, Community and Youth</strong>
+<p><strong>Closing Address by Minister of Culture, Community and Youth</strong>
 </p>
 </li>
 </ul>
