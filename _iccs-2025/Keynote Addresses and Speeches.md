@@ -15,7 +15,7 @@ description: Keynote Addresses and Speeches
 </p>
 </li>
 <li>
-<p><strong>Closing Address by Minister of Culture, Community and Youth</strong>
+<p><strong>Closing Address by Minister for Culture, Community and Youth</strong>
 </p>
 </li>
 </ul>
