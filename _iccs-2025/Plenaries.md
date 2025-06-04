@@ -97,7 +97,7 @@ Peace Thailand</p>
 <p><strong>Moderator</strong>: <strong>Professor Mona Siddiqui</strong>, Professor
 of Islamic and Interreligious Studies and Assistant Principal for Religion
 and Society, University of Edinburgh</p>
-<h3><strong>5. Southeast Asia Social Cohesion Radar</strong></h3>
+<h3><strong>5. Southeast Asian Social Cohesion Radar</strong></h3>
 <p>This session showcases the findings from the 2<sup>nd</sup> edition of
 the Southeast Asian Social Cohesion Radar. This is a follow-up to the first
 edition that was presented at ICCS 2022. The Southeast Asian Social Cohesion
