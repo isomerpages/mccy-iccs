@@ -11,7 +11,7 @@ description: Keynote Addresses and Speeches
 </p>
 </li>
 <li>
-<p><strong>Keynote Address by His Royal Highness Sultan Nazrin Muizzuddin Shah, Malaysia's Sultan of Perak and Deputy Yang di-Pertuan Agong</strong>
+<p><strong>Keynote Address by His Royal Highness Sultan Nazrin Muizzuddin Shah, Sultan of Perak and Deputy Yang di-Pertuan Agong, Malaysia</strong>
 </p>
 </li>
 <li>
