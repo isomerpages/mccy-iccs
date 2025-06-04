@@ -63,7 +63,7 @@ Prime Minister’s Office Strategy Group and Former Head of Civil Service,
 Singapore</p>
 </li>
 <li>
-<p><strong>Mr Ahmed Aboutaleb</strong>, former Mayor of Rotterdam</p>
+<p><strong>Mr Ahmed Aboutaleb</strong>, former Mayor of Rotterdam, Netherlands</p>
 </li>
 <li>
 <p><strong>Mr Fadi Chehade</strong>, Managing Partner, Ethos Capital</p>
@@ -82,8 +82,7 @@ can champion multicultural values and strengthen societal resilience</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Ms Sun Xueling</strong>, Senior Minister of State, Ministry of
-National Development and Ministry of Transport (Immediate past Minister
-of State for Home Affairs, and Social &amp; Family Development), Singapore</p>
+National Development and Ministry of Transport, Singapore</p>
 </li>
 <li>
 <p><strong>Mr Ho KwonPing</strong>, Founder and Executive Chairman of Banyan
