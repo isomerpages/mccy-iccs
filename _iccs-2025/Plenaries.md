@@ -36,8 +36,8 @@ that have enabled diverse communities to flourish.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Prof Dr Nasaruddin Umar</strong>, Minister of Religious Affairs,
-Indonesia and Grand Imam of Istiqlal State Mosque</p>
+<p><strong>Prof Dr Nasaruddin Umar</strong>, Minister of Religious Affairs
+and Grand Imam of Istiqlal State Mosque, Indonesia</p>
 </li>
 <li>
 <p><strong>Mr Ed Williams</strong>, President, International, Edelman</p>
