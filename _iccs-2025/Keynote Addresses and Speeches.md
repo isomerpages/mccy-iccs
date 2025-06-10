@@ -15,7 +15,7 @@ description: Keynote Addresses and Speeches
 </p>
 </li>
 <li>
-<p><strong>Closing Address by Minister of Culture, Community and Youth</strong>
+<p><strong>Closing Address by Singapore's Minister for Law and Second Minister for Home Affairs, Mr Edwin Tong</strong>
 </p>
 </li>
 </ul>
