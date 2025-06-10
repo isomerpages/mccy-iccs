@@ -7,7 +7,7 @@ description: Keynote Addresses and Speeches
 <p>ICCS 2025 is honoured to present the following keynote addresses and speeches:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Keynote Address by President of the Republic of Singapore, Tharman Shanmugaratnam</strong>
+<p><strong>Keynote Address by President of the Republic of Singapore, Mr Tharman Shanmugaratnam</strong>
 </p>
 </li>
 <li>
@@ -15,7 +15,7 @@ description: Keynote Addresses and Speeches
 </p>
 </li>
 <li>
-<p><strong>Closing Address by Minister of Culture, Community and Youth</strong>
+<p><strong>Closing Address by Singapore's Minister for Law and Second Minister for Home Affairs, Mr Edwin Tong</strong>
 </p>
 </li>
 </ul>
