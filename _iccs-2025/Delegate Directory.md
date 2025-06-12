@@ -867,7 +867,7 @@ Mada</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Initiative to Promote Tolerance and Prevent Violence (<a rel="noopener noreferrer nofollow" target="_blank">INITIATE.MY</a>)</p>
+<p>Initiative to Promote Tolerance and Prevent Violence (INITIATE.MY)</p>
 </td>
 </tr>
 <tr>
@@ -1278,8 +1278,7 @@ Central Visayas</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Philstar.com</a>
-</p>
+<p>Philstar.com</p>
 </td>
 </tr>
 <tr>
@@ -1412,8 +1411,7 @@ Task Force</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Archdiocesan Catholic Council for Ecumenical Dialogue</a>
-</p>
+<p>Archdiocesan Catholic Council for Ecumenical Dialogue</p>
 </td>
 </tr>
 <tr>
@@ -1980,8 +1978,7 @@ Singapore</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">OnePeople.sg</a>
-</p>
+<p>OnePeople.sg</p>
 </td>
 </tr>
 <tr>
