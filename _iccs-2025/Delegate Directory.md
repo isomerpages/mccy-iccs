@@ -4,8 +4,7 @@ permalink: /iccs-2025/delegate-directory/
 variant: tiptap
 description: ""
 ---
-<p><strong>ICCS 2025 Participant Directory</strong>
-</p>
+<h3><strong>ICCS 2025 Participant Directory</strong></h3>
 <p>We are pleased to welcome over 1,000 delegates and guests to ICCS 2025.
 The list below highlights a selection of organisations represented by our
 attendees. Please note that it includes only those who provided their organisational
