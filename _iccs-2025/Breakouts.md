@@ -24,8 +24,8 @@ optimistic and cohesive.</p>
 Islamic University, Yogyakarta</p>
 </li>
 <li>
-<p><strong>Ms Lee Huay Leng</strong>, Editor-in-Chief, SPH Chinese Media
-Group</p>
+<p><strong>Ms Lee Huay Leng</strong>, Editor-in-Chief, SPH Media Chinese
+Media Group</p>
 </li>
 </ul>
 <p><strong>Moderator</strong>: <strong>Venerable Chuan Sheng</strong>, Vice-Rector,
