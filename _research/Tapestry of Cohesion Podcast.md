@@ -41,6 +41,40 @@ it as the premier forum for advancing discussions on cohesion.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Episode 7: <a href="https://open.spotify.com/episode/3sM3dUsr9cuAjTxmNuWolG?si=59135e1649134496" rel="noopener noreferrer nofollow" target="_blank">Stories, Service and Society</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9 May 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Martin Tan, Chief Executive Officer of The Majurity Trust shares how storytelling
+became a catalyst for youth transformation, and how that journey evolved
+into broader work in creating systemic social impact. He explores the often-overlooked
+yet critical topic of migrant workers in Singapore, diving into questions
+of public perception, policy reform, and why this issue should matter to
+all Singaporeans.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Episode 6: <a href="https://open.spotify.com/episode/4UOsc2lN3RiSvXlcC1ezTW?si=54d1f5c48157409e" rel="noopener noreferrer nofollow" target="_blank">Multiculturalism Under Pressure</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 April 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Professor John Berry, Professor Emeritus at Queen’s University and a pioneering
+scholar on multiculturalism and acculturation breaks down the key dimensions
+of multiculturalism—demography, policies, and attitudes—and reflects on
+Canada’s experience as the first country to adopt a Multiculturalism Act.
+He also discusses the backlash against multiculturalism, how xenophobia
+is fuelled, and the proposed decline of DEI.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Episode 5: <a href="https://open.spotify.com/episode/4YBliHBec50jcK6FArkeLX?si=d871cf4ea98e4cc5" rel="noopener noreferrer nofollow" target="_blank">Retreat into Privatised World: What It Means for Social Cohesion</a>
 </p>
 </td>

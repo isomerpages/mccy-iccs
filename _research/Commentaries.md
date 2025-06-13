@@ -28,6 +28,20 @@ of views and expertise.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://rsis.edu.sg/rsis-publication/rsis/building-social-cohesion-and-resilience-interfaith-dialogue-in-a-divided-society/" rel="noopener nofollow" target="_blank">Building Social Cohesion and Resilience: Interfaith Dialogue in a Divided Society</a> by
+Matt Anderson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>29 May 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>There are rising social tensions and growing polarisation globally. Youth
+dialogue may be one way to bring communities together to promote cohesion
+and understanding.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://rsis.edu.sg/rsis-publication/rsis/where-next-for-singapore/" rel="noopener nofollow" target="_blank">Where Next for Singapore?</a> By
 Harvey Whitehouse</p>
 </td>
