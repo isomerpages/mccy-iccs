@@ -48,4 +48,5 @@ This can include honouring the memory of those who have suffered or uplifting
 those affected through arts and sports. This session offers delegates a
 platform to discuss how uplifting spirits, remembrance, and positive storytelling
 play vital roles in recovery and social cohesion in difficult times.</p>
-<p><strong>Facilitator</strong>: To be announced</p>
+<p><strong>Facilitator</strong>: <strong>Mr Hassan Ahmad</strong>, Senior
+Advisor, Humanity Matters</p>
