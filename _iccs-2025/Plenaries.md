@@ -81,9 +81,8 @@ can champion multicultural values and strengthen societal resilience</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Ms Sun Xueling</strong>, Senior Minister of State, Ministry of
-National Development and Ministry of Transport (Immediate past Minister
-of State for Home Affairs, and Social &amp; Family Development), Singapore</p>
+<p><strong>Mr Dinesh Vasu Dash</strong>, Minister of State, Ministry of Culture,
+Community and Youth and the Ministry of Manpower</p>
 </li>
 <li>
 <p><strong>Mr Ho KwonPing</strong>, Founder and Executive Chairman of Banyan
