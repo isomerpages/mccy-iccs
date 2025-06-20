@@ -85,13 +85,13 @@ can champion multicultural values and strengthen societal resilience</p>
 Community and Youth and the Ministry of Manpower</p>
 </li>
 <li>
-<p><strong>Mr Ho Kwon Ping</strong>, Founder and Executive Chairman of Banyan
+<p><strong>Mr Ho KwonPing</strong>, Founder and Executive Chairman of Banyan
 Group</p>
 </li>
 <li>
-<p><strong>Venerable Napan Thawornbanjob</strong>, Chair, Institute of Buddhist
-Management for Happiness and Peace and Secretary-General, Religions for
-Peace Thailand</p>
+<p><strong>Venerable Napan Thawornbanjob</strong>, Founding Chair, Institute
+of Buddhist Management for Happiness and Peace (IBHAP) Foundation and Secretary-General,
+Religions for Peace Thailand</p>
 </li>
 </ul>
 <p><strong>Moderator</strong>: <strong>Professor Mona Siddiqui</strong>, Professor
