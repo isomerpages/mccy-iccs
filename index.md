@@ -4,7 +4,7 @@ title: The International Conference on Cohesive Societies (ICCS)
 description: A leading international platform based in Singapore for interfaith
   and multicultural dialogue, and fostering collaboration to inspire cohesive
   and resilient multicultural societies worldwide.
-image: /images/Cohesive_Societies__Resilient_Futures.png
+image: /images/csrf.png
 permalink: /
 notification: ""
 sections:
