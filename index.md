@@ -24,7 +24,7 @@ sections:
           url: ylp2025
   - infopic:
       title: About ICCS 2025
-      description: In its third edition, ICCS 2025 will be held from 24th to 26th June
+      description: In its third edition, ICCS 2025 was held from 24th to 26th June
         2025 in Singapore, with the theme “Cohesive Societies, Resilient
         Futures”.
       button: Read more
