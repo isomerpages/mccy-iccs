@@ -5,7 +5,7 @@ variant: tiptap
 description: Cohesion Forward
 ---
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/d0IZhQ4Q9fY?si=NskFG8GIhbP7Opgs"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/d0IZhQ4Q9fY?si=NskFG8GIhbP7Opgs"></iframe>
 </div>
 <p>This session celebrates the resilience of five young leaders shaping the
 future of their societies. These changemakers will share their journeys
