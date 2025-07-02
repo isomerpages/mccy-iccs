@@ -4,6 +4,9 @@ permalink: /iccs-2025/igniting-change-showcase/
 variant: tiptap
 description: "Igniting Change: Showcase"
 ---
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aTwtKMrCtT4?si=DaotD9Ccs-9M1F2L"></iframe>
+</div>
 <p>This session showcases inspiring community leaders who strengthen social
 cohesion through education and arts. Speakers will share their initiatives
 that bridge cultural divides, foster interfaith understanding, and empower
