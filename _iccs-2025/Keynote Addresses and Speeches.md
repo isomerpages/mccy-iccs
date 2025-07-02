@@ -9,14 +9,35 @@ description: Keynote Addresses and Speeches
 <li>
 <p><strong>Keynote Address by President of the Republic of Singapore, Mr Tharman Shanmugaratnam</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Read full transcript <a href="https://www.istana.gov.sg/Newsroom/Speeches/2025/06/24/TRANSCRIPT-OF-SPEECH-BY-PRESIDENT-AT-THE-INTERNATIONAL-CONFERENCE-ON-COHESIVE-SOCIETIES-2025" rel="noopener nofollow" target="_blank">here</a>.</p>
+</li>
+<li>
+<p>Watch livestream <a href="https://youtu.be/q1qRCWIaPAI?si=aq6YUKdzoCB6rC1c" rel="noopener nofollow" target="_blank">here</a>.</p>
+</li>
+</ul>
 </li>
 <li>
 <p><strong>Keynote Address by the Sultan of Perak and Deputy Yang di-Pertuan Agong, His Royal Highness Sultan Nazrin Muizzuddin Shah</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Watch livestream <a href="https://youtu.be/EyntfXbSeB8?si=-hq7GMN4rPP44LvC" rel="noopener nofollow" target="_blank">here</a>.</p>
+</li>
+</ul>
 </li>
 <li>
 <p><strong>Keynote Address by Mr Edwin Tong, Singapore's Minister for Law and Second Minister for Home Affairs</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Read full transcript <a href="https://www.mlaw.gov.sg/closing-remarks-by-minister-for-law-edwin-tong-at-iccs-2025/" rel="noopener nofollow" target="_blank">here</a>.</p>
+</li>
+<li>
+<p>Watch livestream <a href="https://youtu.be/tDqGrqsC1WA?si=raUfMLMvjvGxd3Q3" rel="noopener nofollow" target="_blank">here</a>.</p>
+</li>
+</ul>
 </li>
 </ul>
 <p></p>
