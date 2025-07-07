@@ -31,6 +31,10 @@ Oxford</p>
 </ul>
 <p><strong>Moderator</strong>: <strong>Professor Katherine Marshall,</strong> Senior
 Fellow, Berkley Center for Religion, Peace &amp; World Affairs</p>
+<h4>Visual Summary</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Keynote_Address_by_President___Special_Presentation.png">
+</div>
 <h3><strong>2. Plenary 1: Unpacking Multiculturalism</strong></h3>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BNKWIV79nw8?si=1r3Bc41roXuPVnrC"></iframe>
