@@ -43,3 +43,8 @@ Management (Tunisia)</p>
 <p>This chat will be moderated by <strong>Dr Aaron Maniam</strong>, Fellow
 of Practice and Director, Digital Transformation Education, Blavatnik School
 of Government, University of Oxford.</p>
+<h4>Visual Summary</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cohesion_Forward_updated.png">
+</div>
+<p></p>
