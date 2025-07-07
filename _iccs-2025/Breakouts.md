@@ -30,6 +30,10 @@ Media Group</p>
 </ul>
 <p><strong>Moderator</strong>: <strong>Venerable Chuan Sheng</strong>, Vice-Rector,
 Buddhist College of Singapore</p>
+<h4>Visual Summary</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Breakout__1.png">
+</div>
 <h4><strong>Breakout 2: What conditions promote respect, togetherness and success?</strong></h4>
 <p>How can we foster a growing sense of togetherness in an increasingly diverse
 and connected world? What kind of social compact is needed to bring state,
@@ -50,6 +54,10 @@ Queen’s University</p>
 </ul>
 <p><strong>Moderator</strong>: <strong>Ms Michelle Tay</strong>, Executive
 Director, Singapore Kindness Movement</p>
+<h4>Visual Summary</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Breakout__2.png">
+</div>
 <h4><strong>Breakout 3: Stories that inspire multicultural inclusion and shared purpose</strong></h4>
 <p>Case studies offer powerful lessons on how cohesion can be forged even
 if the environment is less than conducive. This session highlights practical
@@ -70,6 +78,10 @@ Spiritual &amp; Ethical Life and Muslim Chaplain, Harvard University</p>
 </ul>
 <p><strong>Moderator</strong>: <strong>Mohamed Irshad</strong>, Founder of
 Roses of Peace</p>
+<h4>Visual Summary</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Breakout__3.png">
+</div>
 <h4><strong>Breakout 4: Fostering a Resilient Digital Eco-System in a Multicultural Society</strong></h4>
 <p>Rapid technological advancements have given rise to unique challenges
 and opportunities to strengthening our multi-ethnic and multi-religious
@@ -93,6 +105,10 @@ Global Engagements, Google</p>
 <p><strong>Moderator</strong>: <strong>Mr Benjamin Ang</strong>, Senior Fellow
 and Head of the Centre of Excellence for National Security, S. Rajaratnam
 School of International Studies</p>
+<h4>Visual Summary</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Breakout__4.png">
+</div>
 <h4><strong>Breakout 5: Revamping cultural and social institutions to engage new cultural identities</strong></h4>
 <p>As globalisation and digital connectivity redefine our way of life, new
 cultural clusters are emerging, and their distinct identities have challenged
@@ -114,6 +130,10 @@ Indonesia</p>
 <p><strong>Moderator</strong>: <strong>Dr Leong Chan-Hoong</strong>, Senior
 Fellow and Head of Social Cohesion Research Programme, S. Rajaratnam School
 of International Studies</p>
+<h4>Visual Summary</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Breakout__5.png">
+</div>
 <h4><strong>Breakout 6: Fighting extremism and polarisation together as one people</strong></h4>
 <p>Extremism and polarisation pose significant threats to social cohesion,
 eroding trust and dividing communities. This session explores what are
@@ -134,6 +154,10 @@ Institute</p>
 <p><strong>Moderator: Professor Paul Hedges</strong>, Professor of Interreligious
 Studies, Studies in Inter-Religious Relations in Plural Societies Programme,
 S. Rajaratnam School of International Studies</p>
+<h4>Visual Summary</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Breakout__6.png">
+</div>
 <h4><strong>Breakout 7: Expanding our common space through everyday multiculturalism</strong></h4>
 <p>Multiculturalism is not just about having different communities coexist
 together. It is also about appreciating and embracing the ambivalence of
@@ -155,6 +179,10 @@ Institute for Peace and Security, Coventry University</p>
 <p><strong>Moderator</strong>: <strong>Dr Selvaraj Velayutham</strong>, Associate
 Professor of Sociology, School of Communication, Society and Culture, Macquarie
 University</p>
+<h4>Visual Summary</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Breakout__7.png">
+</div>
 <h4><strong>Breakout 8: Rebuilding trust and cohesion after social tragedies</strong></h4>
 <p>Natural and man-made disasters have a long and deep impact on the psychological
 and communal fabric of a society. This challenge is more acute in a diverse
@@ -177,3 +205,8 @@ Ateneo de Davao University</p>
 <p><strong>Moderator</strong>: <strong>Dr Alistair Cook</strong>, Senior Fellow
 and Coordinator of the Humanitarian Assistance and Disaster Relief Programme,
 S. Rajaratnam School of International Studies</p>
+<h4>Visual Summary</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Breakout__8.png">
+</div>
+<p></p>
