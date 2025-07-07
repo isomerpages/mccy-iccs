@@ -59,6 +59,10 @@ Victoria University of Wellington</p>
 </ul>
 <p><strong>Moderator</strong>: <strong>Professor Farish Noor,</strong> Professor,
 Universitas Islam Internasional Indonesia</p>
+<h4>Visual Summary</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Plenary_1_updated.png">
+</div>
 <h3><strong>3. Plenary 2: Navigating Uncertainty</strong></h3>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4GtkcXrA_BI?si=Skgieq4vj1f9PL2S"></iframe>
@@ -84,6 +88,10 @@ Singapore</p>
 </ul>
 <p><strong>Moderator</strong>: <strong>Professor Kumar Ramakrishna</strong>,
 Dean, S. Rajaratnam School of International Studies</p>
+<h4>Visual Summary</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Plenary_2_updated.png">
+</div>
 <h3><strong>4. Plenary 3: Forging Societal Resilience</strong></h3>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/u4p771SR3Pc?si=E0D3CbVi0-wiYW8X"></iframe>
@@ -113,6 +121,10 @@ Religions for Peace Thailand</p>
 <p><strong>Moderator</strong>: <strong>Professor Mona Siddiqui</strong>, Professor
 of Islamic and Interreligious Studies and Assistant Principal for Religion
 and Society, University of Edinburgh</p>
+<h4>Visual Summary</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Plenary_3_updated.png">
+</div>
 <h3><strong>5. Southeast Asian Social Cohesion Radar</strong></h3>
 <p>This session showcases the findings from the 2<sup>nd</sup> edition of
 the Southeast Asian Social Cohesion Radar. This is a follow-up to the first
@@ -139,3 +151,8 @@ Indonesia</p>
 </ul>
 <p><strong>Moderator</strong>: <strong>Mr Warren Fernandez</strong>, Senior
 Fellow, S. Rajaratnam School of International Studies</p>
+<h4>Visual Summary</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEA_Social_Cohesion_Radar.png">
+</div>
+<p></p>
