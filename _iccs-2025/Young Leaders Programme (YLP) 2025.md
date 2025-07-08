@@ -49,6 +49,10 @@ audience to participate in the performance by suggesting changes in the
 action or even stepping in as actors to alter the course of the story.
 Delegates will be engages in post-forum theatre reflections facilitated
 via a civic conversation toolkit.</p>
+<h4>Visual Summary</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Opening_Remarks_HiRes.jpg">
+</div>
 <h4><strong>YLP Day 2: Breakout Sessions</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
@@ -63,6 +67,10 @@ solve puzzles, decode clues, and brainstorm solutions while deepening your
 understanding of these complex themes. This experience will challenge you
 to think critically, act empathetically, and collaborate effectively to
 create meaningful change.</p>
+<h4>Visual Summary</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Youth_Breakout_1_HiRes.jpg">
+</div>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p><strong>"Act" Against Disunity</strong>
@@ -77,6 +85,10 @@ stakeholders—community leaders, government officials, affected individuals,
 bystanders, and media representatives. As the scenarios unfold with new
 developments and escalating challenges, you must take strategic actions
 to de-escalate conflicts, mediate disputes, and implement long-term solutions.</p>
+<h4>Visual Summary</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Youth_Breakout_2_HiRes.jpg">
+</div>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p><strong>Grand Challenges: faith in action scenarios for a more resilient tomorrow</strong>
@@ -92,6 +104,10 @@ and future interfaith challenges—from misinformation and religious discriminat
 to the ethics of AI and faith. You will collaborate to design solutions
 and commit to tangible actions that foster inclusion, mutual understanding,
 and social cohesion.</p>
+<h4>Visual Summary</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Youth_Breakout_3_HiRes.jpg">
+</div>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p><strong><em>Soundscapes of Religions in Singapore </em>Experiential Exhibition</strong>
