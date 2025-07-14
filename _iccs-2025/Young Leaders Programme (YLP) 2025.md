@@ -133,6 +133,10 @@ through our brainstorming session where delegates will get to collaborate
 in teams, share diverse perspectives on fostering harmony and develop practical,
 innovative ideas for community engagement and create actionable plans for
 cultural bridge-building.</p>
+<h4>Visual Summary</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YLP_Ideation_Pitch.png">
+</div>
 <h4><strong>YLP Day 2: Heartlands Experience</strong></h4>
 <p>Experience Singapore's multicultural tapestry through curated heritage
 trails and learning journeys, where delegates navigate through vibrant
