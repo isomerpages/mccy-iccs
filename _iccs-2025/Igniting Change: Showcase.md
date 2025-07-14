@@ -41,4 +41,8 @@ strengthens individual competencies to improve collaboration among people
 from different religions.</p>
 </li>
 </ul>
+<h4>Visual Summary</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Showcase___Igniting_Change.png">
+</div>
 <p></p>

@@ -18,6 +18,8 @@ full transcript <a href="https://www.istana.gov.sg/Newsroom/Speeches/2025/06/24/
 </li>
 </ul>
 </li>
+</ul>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>Keynote Address by the Sultan of Perak and Deputy Yang di-Pertuan Agong, His Royal Highness Sultan Nazrin Muizzuddin Shah</strong>
 </p>
@@ -30,6 +32,8 @@ full transcript <a href="https://www.istana.gov.sg/Newsroom/Speeches/2025/06/24/
 </li>
 </ul>
 </li>
+</ul>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>Keynote Address by Mr Edwin Tong, Singapore's Minister for Law and Second Minister for Home Affairs </strong>[Read
 full transcript <a href="https://www.mlaw.gov.sg/closing-remarks-by-minister-for-law-edwin-tong-at-iccs-2025/" rel="noopener nofollow" target="_blank">here</a>.]</p>
